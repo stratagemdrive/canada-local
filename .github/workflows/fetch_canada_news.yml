@@ -33,6 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/Canada_news.json
-          git diff --cached --quiet || git commit -m "chore: update Canada_news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git add docs/
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: update Canada_news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
