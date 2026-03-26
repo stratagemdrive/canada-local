@@ -2,7 +2,7 @@
 fetch_news.py
 Fetches Canadian news headlines from RSS feeds, categorizes each story,
 and maintains a rolling 7-day window of up to 20 stories per category.
-Output: docs/Canada_news.json
+Output: docs/canada_news.json
 """
 
 import json
@@ -17,7 +17,7 @@ from dateutil import parser as dateparser
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
-OUTPUT_PATH = Path("docs/Canada_news.json")
+OUTPUT_PATH = Path("docs/canada_news.json")
 MAX_STORIES_PER_CATEGORY = 20
 MAX_AGE_DAYS = 7
 
