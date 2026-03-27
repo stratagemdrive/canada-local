@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-26T16:26:59Z",
+  "generated_at": "2026-03-27T00:02:07Z",
   "country": "Canada",
-  "total_stories": 26,
+  "total_stories": 35,
   "categories": [
     "Diplomacy",
     "Military",
@@ -18,10 +18,31 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Windsor police seeking suspect after woman assaulted with bear spray",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seeking-suspect-after-woman-assaulted-with-bear-spray",
+      "published_date": "2026-03-26T17:33:26Z",
+      "category": "Military"
+    },
+    {
+      "title": "Paraplegic gang-rape victim dies by euthanasia after legal battle to 'stop suffering'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/paraplegic-gang-rape-victim-euthanasia",
+      "published_date": "2026-03-26T16:18:19Z",
+      "category": "Military"
+    },
+    {
       "title": "Upstart B.C. mining company makes play in critical minerals sector. Can it compete with China?",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/business/upstart-bc-mining-company-makes-play-in-critical-minerals-sector-can-it-compete-with-china",
       "published_date": "2026-03-26T13:00:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Trump again extends Strait of Hormuz deadline; Canada might help if there's a ceasefire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-march-26",
+      "published_date": "2026-03-26T11:51:55Z",
       "category": "Military"
     },
     {
@@ -30,6 +51,13 @@
       "url": "https://windsorstar.com/opinion/columnists/opinion-worlds-nations-need-to-speak-up-as-more-wars-claim-children",
       "published_date": "2026-03-26T11:30:39Z",
       "category": "Military"
+    },
+    {
+      "title": "LNG Canada filings point to Phase 2 groundwork as global pressures mount",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/26/lng-canada-filings-point-to-phase-2-groundwork-as-global-pressures-mount/",
+      "published_date": "2026-03-26T22:30:00Z",
+      "category": "Energy"
     },
     {
       "title": "Glacier retreat visible, says B.C. scientist on research expedition to Antarctica",
@@ -46,6 +74,41 @@
       "category": "Energy"
     },
     {
+      "title": "United Airlines introducing 'Relax Row' seats that convert into a bed",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/united-airlines-introducing-relax-row-seats-convert-into-bed",
+      "published_date": "2026-03-26T23:18:46Z",
+      "category": "Economy"
+    },
+    {
+      "title": "TransLink votes to tax hike property taxes even as fares set to increase on July 1",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/translink-approve-property-tax-increase-fare-hikes-july-1-2026",
+      "published_date": "2026-03-26T22:37:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Sask. budget with projected $819-million deficit passes in legislature amid NDP pushback",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/sask-budget-with-projected-819-million-deficit-passes-in-legislature-amid-ndp-pushback",
+      "published_date": "2026-03-26T21:59:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: Latest budget shows how much Doug Ford's priorities have changed",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/budget-shows-change-doug-ford-priorities",
+      "published_date": "2026-03-26T20:35:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ontario budget focuses on economy, vital industries in face of uncertainty",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/doug-ford-ontario-government-2026-budget",
+      "published_date": "2026-03-26T14:00:43Z",
+      "category": "Economy"
+    },
+    {
       "title": "Ontario plans full HST break on new homes",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/ontario-plans-full-hst-break-on-new-homes",
@@ -53,143 +116,143 @@
       "category": "Economy"
     },
     {
-      "title": "Paraplegic gang-rape victim to die by euthanasia after dad’s appeals failed: 'I WANT TO STOP SUFFERING'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/paraplegic-gang-rape-victim-euthanasia",
-      "published_date": "2026-03-26T16:18:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Canada built its forest industry for one customer. B.C. is now paying the price",
+      "title": "Vaughn Palmer: B.C. NDP misses own target for processing mineral claims",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-canada-built-its-forest-industry-for-one-customer-b-c-is-now-paying-the-price",
-      "published_date": "2026-03-26T16:00:09Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-ndp-misses-own-target-for-processing-mineral-claims",
+      "published_date": "2026-03-26T23:47:28Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: TTC being used as hotel beds makes transit unsafe for everybody",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/ttc-used-hotel-unsafe-transit",
-      "published_date": "2026-03-26T15:57:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HUNTER: Canada also flunks keeping villains from fleeing country",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-also-flunks-keeping-villains-from-fleeing-country",
-      "published_date": "2026-03-26T15:44:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transgender athletes banned from competing in women’s sports at Olympics",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/olympics/transgender-athletes-womens-sports-olympics-ban",
-      "published_date": "2026-03-26T15:27:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke Observer and News weekly community calendar listings",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-observer-and-news-weekly-community-calendar-listings-43",
-      "published_date": "2026-03-26T15:26:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landmark Mount Pleasant building damaged by overnight fire",
+      "title": "&#039;Going backward&#039;: B.C. seniors languish on wait-lists as over-65 population increases, says advocate",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/firefighters-battle-fire-heritage-building-mount-pleasant",
-      "published_date": "2026-03-26T15:24:20Z",
+      "url": "https://vancouversun.com/news/going-backward-b-c-seniors-languish-on-wait-lists-as-over-65-population-increases-says-advocate",
+      "published_date": "2026-03-26T23:45:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: OpenAI’s safety pledges after Tumbler Ridge aren’t AI regulation — they’re surveillance",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/opinion-openais-safety-pledges-in-the-wake-of-tumbler-ridge-arent-ai-regulation-theyre-surveillance",
-      "published_date": "2026-03-26T15:00:45Z",
+      "title": "B.C. seniors advocate continues to warn of spiralling wait times for long-term care",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/26/b-c-seniors-advocate-continues-to-warn-of-spiralling-wait-times-for-long-term-care/",
+      "published_date": "2026-03-26T23:35:00Z",
       "category": "Local Events"
     },
     {
-      "title": "These B.C. restaurants have been honoured for their excellent wine lists",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/these-bc-restaurants-wine-list-awards-2026",
-      "published_date": "2026-03-26T15:00:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "American shot and killed outside Bahamas bar by off-duty cop",
+      "title": "Boat club to Toronto city council: 'LET THE FIGHT BEGIN'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/american-shot-dead-bahamas",
-      "published_date": "2026-03-26T14:50:41Z",
+      "url": "https://torontosun.com/news/local-news/humber-yacht-club-council-fight",
+      "published_date": "2026-03-26T23:23:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Leamington council rejects proposed 14-storey waterfront condominium building",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/leamington-council-rejects-proposed-14-storey-waterfront-condominium-building",
-      "published_date": "2026-03-26T14:43:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario 'not going to reverse' decision to defund drug consumption sites: Minister",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/ontario-not-going-to-reverse-decision-to-defund-drug-consumption-sites-minister",
-      "published_date": "2026-03-26T14:40:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA cancelling hotel rooms in host cities including Toronto ahead of World Cup",
+      "title": "Man faces fraud charges in Toronto; Newmarket resident gets house arrest for hate-motivated crime",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/fifa-world-cup-host-cities-cancelling-hotel-rooms",
-      "published_date": "2026-03-26T14:13:14Z",
+      "url": "https://torontosun.com/news/local-news/man-faces-fraud-charges-newmarket-man-gets-1-year-house-arrest-hate-motivated-crimes",
+      "published_date": "2026-03-26T23:06:57Z",
       "category": "Local Events"
     },
     {
-      "title": "‘I was just seeing red’ – Windsor killer testifies at murder trial",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/i-was-just-seeing-red-windsor-killer-testifies-at-murder-trial",
-      "published_date": "2026-03-26T13:21:33Z",
+      "title": "Province adds $1M in support for B.C. Lions games, festivities in Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/26/province-adds-1m-in-support-for-b-c-lions-games-festivities-in-kelowna/",
+      "published_date": "2026-03-26T23:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Print delivery delayed by storm",
+      "title": "Tickets issued for three Saskatoon overpass collisions",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/print-delivery-delayed-by-storm",
-      "published_date": "2026-03-26T13:00:22Z",
+      "url": "https://thestarphoenix.com/news/local-news/tickets-issued-for-three-saskatoon-overpass-collisions",
+      "published_date": "2026-03-26T22:56:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Douglas Todd: Unsolved murder of Chinese spiritual group worker justifies &#039;passionate&#039; scrutiny, B.C. judge rules",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-unsolved-murder-of-chinese-spiritual-group-worker-justifies-passionate-scrutiny-b-c-judge-rules",
-      "published_date": "2026-03-26T13:00:14Z",
+      "title": "Professional Employees Association ratifies deal with B.C. government",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/26/professional-employees-association-ratifies-deal-with-b-c-government/",
+      "published_date": "2026-03-26T22:56:00Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;It&#039;s a big, black hole&#039;: Potential buyers explore options for former Hudson&#039;s Bay flagship store in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/developers-explore-options-former-hudsons-bay-flagship-store-vancouver",
-      "published_date": "2026-03-26T13:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romanian man sought for fraud in Pickering; Driver flees crash that injured pedestrian",
+      "title": "Trans illegal migrant gets time served for raping boy in NYC",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/driver-flees-crash-that-injured-pedestrian-gunshots-fired-at-toronto-business",
-      "published_date": "2026-03-26T12:45:31Z",
+      "url": "https://torontosun.com/news/world/trans-illegal-migrant-gets-time-served-for-raping-boy-in-nyc",
+      "published_date": "2026-03-26T22:48:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Clicker training: Clear communication that builds confidence",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/26/clicker-training-clear-communication-that-builds-confidence/",
-      "published_date": "2026-03-26T12:30:00Z",
+      "title": "B.C. realtor fined $5,000 for flying drone during 2023 Okanagan wildfire",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/realtor-flying-drone-2023-okanagan-wildfire",
+      "published_date": "2026-03-26T22:46:47Z",
       "category": "Local Events"
     },
     {
-      "title": "‘Budget over safety’: Vernon nurses call for top-down changes following tragic death",
+      "title": "Algonquin Nation, Senators Sports & Entertainment eye LeBreton partnership",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/algonquin-nation-senators-sports-entertainment-eye-lebreton-partnership",
+      "published_date": "2026-03-26T22:44:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pamela Anderson and Aerie take a stand against AI models",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/pamela-anderson-and-aerie-take-a-stand-against-ai-models",
+      "published_date": "2026-03-26T22:37:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weezer in Vancouver: What to know about the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/weezer-in-vancouver-what-to-know-about-the-concert",
+      "published_date": "2026-03-26T22:33:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: If they craved attention for shooting at Vaughan home, it has been achieved",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/warmington-if-they-craved-attention-for-shooting-at-vaughan-home-it-has-been-achieved",
+      "published_date": "2026-03-26T21:43:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fatal Prince Rupert carnival accident due to operator distraction, poor communication",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/prince-rupert-carnival-death-zipper-ride-technical-safety-bc-report",
+      "published_date": "2026-03-26T21:36:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. Justice Department blames ICE for error in immigration lawsuit",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/justice-department-blames-ice-for-error",
+      "published_date": "2026-03-26T21:33:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "String of Windsor vehicle break-ins over after victim confronts suspect",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/national/string-of-windsor-vehicle-break-ins-over-after-victim-confronts-suspect",
+      "published_date": "2026-03-26T20:58:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dermot Kennedy in Vancouver: What to know about the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/dermot-kennedy-in-vancouver-what-to-know-about-the-concert",
+      "published_date": "2026-03-26T20:33:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "13 miniature Dachshund rescued from irresponsible breeder in South Cariboo",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/26/budget-over-safety-vernon-nurses-call-for-top-down-changes-following-tragic-death/",
-      "published_date": "2026-03-26T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/26/13-miniature-dachshund-rescued-from-irresponsible-breeder-in-south-cariboo/",
+      "published_date": "2026-03-26T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nick Jonas dines at Vancouver Indian restaurant",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/nick-jonas-dines-at-vancouver-indian-restaurant",
+      "published_date": "2026-03-26T19:46:50Z",
       "category": "Local Events"
     }
   ]
