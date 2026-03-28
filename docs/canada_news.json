@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-28T11:53:45Z",
+  "generated_at": "2026-03-28T23:58:48Z",
   "country": "Canada",
-  "total_stories": 45,
+  "total_stories": 53,
   "categories": [
     "Diplomacy",
     "Military",
@@ -16,6 +16,34 @@
       "url": "https://torontosun.com/news/national/canada-2-percent-nato-defence-spending-benchmark",
       "published_date": "2026-03-26T15:08:52Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "GOLDBERG: Team Trump had to start a war to learn how global economy works",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/trump-start-war-iran-learn-global-economy",
+      "published_date": "2026-03-28T21:33:19Z",
+      "category": "Military"
+    },
+    {
+      "title": "Canada’s oldest Black WWII veteran dies at 104",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/28/canadas-oldest-black-wwii-veteran-dies-at-104/",
+      "published_date": "2026-03-28T20:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Houthi rebels claim responsibility for missile attacks on Israel",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-houthi-rebels-missile-attack-israel",
+      "published_date": "2026-03-28T19:34:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "French cops defuse suspected bombing attempt outside Bank of America in Paris",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/french-cops-diffuse-suspected-bombing-bank-of-america-paris",
+      "published_date": "2026-03-28T19:07:10Z",
+      "category": "Military"
     },
     {
       "title": "Windsor police search for four suspects following pepper spray attack",
@@ -67,6 +95,20 @@
       "category": "Military"
     },
     {
+      "title": "B.C. climate news: Future heat danger differs starkly for rich and poor countries &#124; Canadian scientists studying climate impacts return from Antarctic &#124; Heat pumps now required in all new builds in U.K.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-march-29-26",
+      "published_date": "2026-03-28T18:05:44Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Letters: Federal political compensation in Ottawa is out of hand",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/letters/letters-federal-political-compensation-in-ottawa-is-out-of-hand",
+      "published_date": "2026-03-28T13:00:41Z",
+      "category": "Energy"
+    },
+    {
       "title": "Supply losses in Middle East put LNG Canada Phase 2 in spotlight",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/supply-losses-in-middle-east-conflict-put-lng-canada-phase-2-in-spotlight",
@@ -100,6 +142,20 @@
       "url": "https://thestarphoenix.com/sports/blades-oil-kings-clash-in-whl-playoffs-for-the-first-time-since-1971",
       "published_date": "2026-03-25T22:05:58Z",
       "category": "Energy"
+    },
+    {
+      "title": "LOMBARDI: Premier Doug Ford's eighth budget another step in Ontario's decline",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/premier-doug-ford-budget-ontario-decline",
+      "published_date": "2026-03-28T20:56:55Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: Saskatchewan should abandon ‘home renovation’ handouts",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-saskatchewan-should-abandon-home-renovation-handouts",
+      "published_date": "2026-03-28T13:30:16Z",
+      "category": "Economy"
     },
     {
       "title": "Vaughn Palmer: An MLA cannot function while fighting criminal charges",
@@ -186,6 +242,111 @@
       "category": "Economy"
     },
     {
+      "title": "Suspect arrested for murder of auto mechanic in East York",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspect-arrested-murder-auto-mechanic-east-york",
+      "published_date": "2026-03-28T23:41:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Pattison executive Darrell Jones drops out of B.C. Conservative leadership race",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/former-pattison-executive-darrell-jones-drops-out-bc-conservative-leadership-race",
+      "published_date": "2026-03-28T21:43:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "GOLDSTEIN: Liberals' kid gloves treatment of China is nothing new",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/liberals-kid-gloves-treatment-china",
+      "published_date": "2026-03-28T20:09:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nestle says 413,793 KitKat candy bars stolen during shipment in Europe",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/nestle-kitkat-candy-bars-stolen-shipment",
+      "published_date": "2026-03-28T19:20:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "GUNTER: Feds' attack on notwithstanding clause an attack on Canadian federation",
+      "source": "Toronto Sun",
+      "url": "http://torontosun.com/opinion/columnists/lorne-gunter-feds-attack-on-notwithstanding-clause-an-attack-on-canadian-federation/wcm/796b8b01-3d09-42a1-afd6-60b2b95bf258",
+      "published_date": "2026-03-28T18:16:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Westham Island Bridge in Delta to reopen Saturday night",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/westham-island-bridge-delta-reopens-saturday-night",
+      "published_date": "2026-03-28T16:50:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: A wild and windy Similkameen wine experience awaits",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/anthony-gismondi-similkameen-wine-experience-awaits",
+      "published_date": "2026-03-28T15:00:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carson Binda: B.C. information rights are at risk",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/carson-binda-b-c-information-rights-are-at-risk",
+      "published_date": "2026-03-28T15:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "District of Squamish and Squamish Nation create &#039;land back&#039; task force",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/district-of-squamish-and-squamish-nation-create-land-back-task-force",
+      "published_date": "2026-03-28T15:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1914: Hector Quagliotti-Romano takes over the Colonial Theatre",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1914-hector-quagliotti-romano-takes-over-the-colonial-theatre",
+      "published_date": "2026-03-28T15:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "British Columbians turned to crowdfunding in the wake of two major tragedies; here&#039;s why",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/gofundme-has-changed-the-way-many-british-columbians-donate-to-causes",
+      "published_date": "2026-03-28T15:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Vampire Clan's bizarre bloodlust was no joke",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-vampire-clan-bizarre-bloodlust-no-joke",
+      "published_date": "2026-03-28T14:57:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lewis: Health system good at addition, but time to master subtraction",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/columnists/lewis-health-system-good-at-addition-but-time-to-master-subtraction",
+      "published_date": "2026-03-28T14:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paulson: Chinks in the armour or gentle correction?",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/columnists/paulson-chinks-in-the-armour-or-gentle-correction",
+      "published_date": "2026-03-28T13:00:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hard drive-detecting golden retriever Taffy brings both search-skills and affection to SPS",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/hard-drive-detecting-golden-retriever-taffy-brings-both-search-skills-and-affection-to-sps",
+      "published_date": "2026-03-28T12:00:59Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Big dig: Infrastructure for Sandwich South lands will cost Windsor $280M",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/big-dig-infrastructure-for-sandwich-south-lands-will-cost-windsor-280m",
@@ -218,111 +379,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/moms-tortured-starved-child-death-crown-alleges-closing-argument",
       "published_date": "2026-03-27T23:53:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GTA trio face 26 charges in human trafficking probe; Man sought in Toronto break-in",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/gta-trio-26-charges-human-trafficking",
-      "published_date": "2026-03-27T22:51:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;A true cowboy&#039; stopped to help after a traffic accident; it cost him his life",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/a-true-cowboy-stopped-to-help-after-a-traffic-accident-it-cost-him-his-life",
-      "published_date": "2026-03-27T22:45:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Good Samaritan killed at crash scene west of Williams Lake",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/27/good-samaritan-killed-at-crash-scene-west-of-williams-lake/",
-      "published_date": "2026-03-27T22:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Kitimat mayor Joanne Monaghan dies after decades of public service",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/27/former-kitimat-mayor-joanne-monaghan-dies-after-decades-of-public-service/",
-      "published_date": "2026-03-27T22:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Founder of Anna Mae's Bakery and Restaurant dies of cancer",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/founder-anna-maes-bakery-restaurant-dies-cancer",
-      "published_date": "2026-03-27T22:38:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Michael Ma's clarification on China questions doesn't add up",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/michael-ma-clarification-china-questions-doesnt-add-up",
-      "published_date": "2026-03-27T22:04:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metrolinx to equip employees with body-worn cameras",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/metrolinx-to-equip-employees-with-body-worn-cameras",
-      "published_date": "2026-03-27T21:34:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latest proposed changes to B.C.’s Heritage act would reduce ambiguity, First Nations’ role",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/27/latest-changes-to-b-c-s-heritage-act-reduce-ambiguity-first-nations-role/",
-      "published_date": "2026-03-27T21:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man accused of trying to kill RCMP officer with SUV near Meadow Lake",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/man-accused-of-trying-to-kill-rcmp-officer-with-suv-near-meadow-lake",
-      "published_date": "2026-03-27T21:08:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP seize suspected drugs, cash and guns during search in Merritt",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/27/rcmp-seize-suspected-drugs-cash-and-guns-during-search-in-merritt/",
-      "published_date": "2026-03-27T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Defamation suit filed against former Kelowna pastor, B.C. Christian podcaster",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/27/defamation-suit-filed-against-former-kelowna-pastor-b-c-christian-podcaster/",
-      "published_date": "2026-03-27T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulls and Bears: Baseball and basketball surging to be the NFL&#039;s No. 2",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/sports/tom-mayenknecht-baseball-basketball-surging",
-      "published_date": "2026-03-27T20:38:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiger Woods charged with DUI after rollover crash: 'He crawled out of the passenger's door'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/golf/tiger-woods-rollover-crash-florida",
-      "published_date": "2026-03-27T20:31:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Okanagan Butcher Hub helping small-scale meat producers get to market",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/27/north-okanagan-butcher-hub-helping-small-scale-meat-producers-get-to-market/",
-      "published_date": "2026-03-27T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major TTC and GO train closures expected this weekend",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/major-ttc-go-train-closures-weekend",
-      "published_date": "2026-03-27T19:27:43Z",
       "category": "Local Events"
     }
   ]
