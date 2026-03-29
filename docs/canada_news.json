@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T23:58:48Z",
+  "generated_at": "2026-03-29T11:54:36Z",
   "country": "Canada",
   "total_stories": 53,
   "categories": [
@@ -242,6 +242,13 @@
       "category": "Economy"
     },
     {
+      "title": "Spitfires giving Storm no space to play in taking 2-0 series lead",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-giving-storm-no-space-to-play-in-taking-2-0-series-lead",
+      "published_date": "2026-03-29T04:53:32Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Suspect arrested for murder of auto mechanic in East York",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/suspect-arrested-murder-auto-mechanic-east-york",
@@ -372,13 +379,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/we-didnt-get-the-help-lapu-lapu-day-attack-survivor-joins-calls-to-account-for-relief-funds",
       "published_date": "2026-03-27T23:58:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Moms tortured and starved child to death, Crown alleges in closing argument",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/moms-tortured-starved-child-death-crown-alleges-closing-argument",
-      "published_date": "2026-03-27T23:53:37Z",
       "category": "Local Events"
     }
   ]
