@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-29T11:54:36Z",
+  "generated_at": "2026-03-30T00:05:04Z",
   "country": "Canada",
-  "total_stories": 53,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,11 +11,25 @@
   ],
   "stories": [
     {
+      "title": "Air Canada flight attendant suffered 'horrifying' wounds in LaGuardia crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/air-canada-flight-attendant-horrifying-wounds",
+      "published_date": "2026-03-29T21:05:43Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Canada meets 2% NATO defence spending benchmark",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/canada-2-percent-nato-defence-spending-benchmark",
       "published_date": "2026-03-26T15:08:52Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR LATEST: Iranian official warns against U.S. ground invasion; Pakistan to host talks",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-official-warns-against-invasion",
+      "published_date": "2026-03-29T19:09:44Z",
+      "category": "Military"
     },
     {
       "title": "GOLDBERG: Team Trump had to start a war to learn how global economy works",
@@ -95,6 +109,20 @@
       "category": "Military"
     },
     {
+      "title": "B.C. Hydro to break down Site C camp and reuse for transmission line project",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-hydro-break-down-site-c-camp-reuse-transmission-line-project",
+      "published_date": "2026-03-29T23:29:53Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Avi Lewis's 'unrealistic' energy policies slammed by Prairie NDP leaders",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/avi-lewis-slammed-prairie-ndp-leaders",
+      "published_date": "2026-03-29T18:48:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "B.C. climate news: Future heat danger differs starkly for rich and poor countries &#124; Canadian scientists studying climate impacts return from Antarctic &#124; Heat pumps now required in all new builds in U.K.",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/climate-change-news-to-march-29-26",
@@ -142,6 +170,27 @@
       "url": "https://thestarphoenix.com/sports/blades-oil-kings-clash-in-whl-playoffs-for-the-first-time-since-1971",
       "published_date": "2026-03-25T22:05:58Z",
       "category": "Energy"
+    },
+    {
+      "title": "Avi Lewis calls for party unity after being elected NDP leader on 1st ballot",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/federal-ndp-leader-being-announced-sunday",
+      "published_date": "2026-03-29T15:08:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Big White condo scam &#039;stuff of nightmares,&#039; says B.C. judge who dismissed victims&#039; lawsuit",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/big-white-condo-scam-stuff-of-nightmares-says-b-c-judge-who-dismissed-victims-lawsuit",
+      "published_date": "2026-03-29T15:08:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "QUIZ: A time for taxes",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/29/quiz-a-time-for-taxes/",
+      "published_date": "2026-03-29T12:20:00Z",
+      "category": "Economy"
     },
     {
       "title": "LOMBARDI: Premier Doug Ford's eighth budget another step in Ontario's decline",
@@ -242,6 +291,104 @@
       "category": "Economy"
     },
     {
+      "title": "LILLEY: Avi Lewis already sowing division within NDP over radical left-wing policies",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/avi-lewis-already-dividing-his-party",
+      "published_date": "2026-03-29T23:11:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Public transportation use in Metro Vancouver dropped in 2025",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/public-transportation-use-metro-vancouver-dropped-2025",
+      "published_date": "2026-03-29T23:06:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Looming crisis&#039;: Vancouver council asked to help save free festivals",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-council-asked-to-help-save-free-festivals",
+      "published_date": "2026-03-29T21:47:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FOREVER FRIEND: Mature but 'very sweet' Noor ready for her new home",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/mature-but-sweet-kitty-ready-for-adoption",
+      "published_date": "2026-03-29T20:15:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Looking for love? Financial compatibility is where it’s at",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/life/relationships/looking-for-love-financial-compatibility-matters",
+      "published_date": "2026-03-29T20:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kingston led research takes new look at healthy shoulder motion",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/03/29/kingston-led-research-takes-new-look-at-healthy-shoulder-motion/",
+      "published_date": "2026-03-29T19:46:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deterrence 'first step' when it comes to home invasions, MMA instructors say",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/home-invasion-seminar-preaches-home-safety",
+      "published_date": "2026-03-29T19:42:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops seeking wrong-way driver in Brantford; woman abducted on Hamilton Mountain",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/cops-seeking-wrong-way-driver-in-brantford-charges-laid-in-cambridge-stabbing",
+      "published_date": "2026-03-29T17:14:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man shot to death in Surrey Saturday evening",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-shot-to-death-in-surrey-saturday-evening",
+      "published_date": "2026-03-29T16:19:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makeover: A subtle hair and makeup upgrade for a first-time pro cut",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/makeover-subtle-hair-makeup-upgrade-for-first-pro-cut",
+      "published_date": "2026-03-29T15:00:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arson suspected after Windsor garage fire causes $150K in damages",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/arson-suspected-after-windsor-garage-fire-causes-150k-in-damages",
+      "published_date": "2026-03-29T14:29:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sunshine list — 7,500 public sector employees in Windsor-Essex make $100,000 or more",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/sunshine-list-7500-public-sector-employees-in-windsor-essex-make-100000-or-more",
+      "published_date": "2026-03-29T14:11:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: What&#039;s your shoe evolution?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/the-bookless-club-whats-your-shoe-evolution",
+      "published_date": "2026-03-29T13:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Off-grid Francois Lake couple featured in TV commercial",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/29/off-grid-francois-lake-couple-featured-in-tv-commercial/",
+      "published_date": "2026-03-29T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Spitfires giving Storm no space to play in taking 2-0 series lead",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/sports/spitfires-giving-storm-no-space-to-play-in-taking-2-0-series-lead",
@@ -281,104 +428,6 @@
       "source": "Toronto Sun",
       "url": "http://torontosun.com/opinion/columnists/lorne-gunter-feds-attack-on-notwithstanding-clause-an-attack-on-canadian-federation/wcm/796b8b01-3d09-42a1-afd6-60b2b95bf258",
       "published_date": "2026-03-28T18:16:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Westham Island Bridge in Delta to reopen Saturday night",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/westham-island-bridge-delta-reopens-saturday-night",
-      "published_date": "2026-03-28T16:50:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: A wild and windy Similkameen wine experience awaits",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/anthony-gismondi-similkameen-wine-experience-awaits",
-      "published_date": "2026-03-28T15:00:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carson Binda: B.C. information rights are at risk",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/carson-binda-b-c-information-rights-are-at-risk",
-      "published_date": "2026-03-28T15:00:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "District of Squamish and Squamish Nation create &#039;land back&#039; task force",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/district-of-squamish-and-squamish-nation-create-land-back-task-force",
-      "published_date": "2026-03-28T15:00:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1914: Hector Quagliotti-Romano takes over the Colonial Theatre",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1914-hector-quagliotti-romano-takes-over-the-colonial-theatre",
-      "published_date": "2026-03-28T15:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "British Columbians turned to crowdfunding in the wake of two major tragedies; here&#039;s why",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/gofundme-has-changed-the-way-many-british-columbians-donate-to-causes",
-      "published_date": "2026-03-28T15:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Vampire Clan's bizarre bloodlust was no joke",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-vampire-clan-bizarre-bloodlust-no-joke",
-      "published_date": "2026-03-28T14:57:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lewis: Health system good at addition, but time to master subtraction",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/columnists/lewis-health-system-good-at-addition-but-time-to-master-subtraction",
-      "published_date": "2026-03-28T14:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paulson: Chinks in the armour or gentle correction?",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/columnists/paulson-chinks-in-the-armour-or-gentle-correction",
-      "published_date": "2026-03-28T13:00:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hard drive-detecting golden retriever Taffy brings both search-skills and affection to SPS",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/hard-drive-detecting-golden-retriever-taffy-brings-both-search-skills-and-affection-to-sps",
-      "published_date": "2026-03-28T12:00:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Big dig: Infrastructure for Sandwich South lands will cost Windsor $280M",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/big-dig-infrastructure-for-sandwich-south-lands-will-cost-windsor-280m",
-      "published_date": "2026-03-28T11:00:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Not just big bats but big guns as well at Blue Jays opener",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/big-bats-guns-blue-jays-opener-athletics",
-      "published_date": "2026-03-28T01:25:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New youth centre to break ground this month",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/27/new-youth-centre-to-break-ground-this-month/",
-      "published_date": "2026-03-28T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;We didn’t get the help&#039;: Lapu Lapu Day attack survivor joins calls to account for relief funds",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/we-didnt-get-the-help-lapu-lapu-day-attack-survivor-joins-calls-to-account-for-relief-funds",
-      "published_date": "2026-03-27T23:58:31Z",
       "category": "Local Events"
     }
   ]
