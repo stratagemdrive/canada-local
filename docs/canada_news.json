@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-30T00:05:04Z",
+  "generated_at": "2026-03-30T14:53:40Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,10 +11,24 @@
   ],
   "stories": [
     {
+      "title": "'Equity cards' arguments take over NDP Leadership Convention: 'CANADA IS COOKED'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/ndp-leadership-convention-equity-cards",
+      "published_date": "2026-03-30T14:16:26Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Air Canada flight attendant suffered 'horrifying' wounds in LaGuardia crash",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/air-canada-flight-attendant-horrifying-wounds",
       "published_date": "2026-03-29T21:05:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "North Korea conducts engine test for missile capable of targeting U.S. mainland",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/north-korea-conducts-engine-test-for-missile-capable-of-targeting-u-s-mainland",
+      "published_date": "2026-03-29T15:24:28Z",
       "category": "Diplomacy"
     },
     {
@@ -25,10 +39,31 @@
       "category": "Diplomacy"
     },
     {
+      "title": "LILLEY: Air Canada cancels CEO Michael Rousseau over language politics",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/air-canada-cancels-ceo-michael-rousseau-over-language-politics",
+      "published_date": "2026-03-30T13:42:28Z",
+      "category": "Military"
+    },
+    {
+      "title": "Finland warns drone activity to continue after airspace breaches",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/finland-warns-drone-activity-to-continue-after-airspace-breaches",
+      "published_date": "2026-03-29T22:40:28Z",
+      "category": "Military"
+    },
+    {
       "title": "IRAN WAR LATEST: Iranian official warns against U.S. ground invasion; Pakistan to host talks",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-official-warns-against-invasion",
       "published_date": "2026-03-29T19:09:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/pope-leo-xiv-rejects-claims-that-god-justifies-war-in-palm-sunday-mass-message",
+      "published_date": "2026-03-29T15:16:37Z",
       "category": "Military"
     },
     {
@@ -109,6 +144,20 @@
       "category": "Military"
     },
     {
+      "title": "Saskatoon Blades, Edmonton Oil Kings series tied 1-1 in WHL playoffs",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/saskatoon-blades-edmonton-oil-kings-series-tied-1-1-in-whl-playoffs",
+      "published_date": "2026-03-30T13:37:40Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Russian tanker heads to Cuba despite U.S. oil blockade",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/russian-tanker-heads-to-cuba-despite-u-s-oil-blockade",
+      "published_date": "2026-03-30T13:03:40Z",
+      "category": "Energy"
+    },
+    {
       "title": "B.C. Hydro to break down Site C camp and reuse for transmission line project",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-hydro-break-down-site-c-camp-reuse-transmission-line-project",
@@ -120,6 +169,13 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/avi-lewis-slammed-prairie-ndp-leaders",
       "published_date": "2026-03-29T18:48:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "In wrangling dark matter, scientists find inspiration in Torah, Krishna and Christ",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/in-wrangling-dark-matter-scientists-find-inspiration-in-torah-krishna-and-christ",
+      "published_date": "2026-03-29T14:56:20Z",
       "category": "Energy"
     },
     {
@@ -291,143 +347,143 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: Avi Lewis already sowing division within NDP over radical left-wing policies",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/avi-lewis-already-dividing-his-party",
-      "published_date": "2026-03-29T23:11:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Public transportation use in Metro Vancouver dropped in 2025",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/public-transportation-use-metro-vancouver-dropped-2025",
-      "published_date": "2026-03-29T23:06:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Looming crisis&#039;: Vancouver council asked to help save free festivals",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-council-asked-to-help-save-free-festivals",
-      "published_date": "2026-03-29T21:47:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FOREVER FRIEND: Mature but 'very sweet' Noor ready for her new home",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mature-but-sweet-kitty-ready-for-adoption",
-      "published_date": "2026-03-29T20:15:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Looking for love? Financial compatibility is where it’s at",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/life/relationships/looking-for-love-financial-compatibility-matters",
-      "published_date": "2026-03-29T20:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kingston led research takes new look at healthy shoulder motion",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/03/29/kingston-led-research-takes-new-look-at-healthy-shoulder-motion/",
-      "published_date": "2026-03-29T19:46:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deterrence 'first step' when it comes to home invasions, MMA instructors say",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/home-invasion-seminar-preaches-home-safety",
-      "published_date": "2026-03-29T19:42:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops seeking wrong-way driver in Brantford; woman abducted on Hamilton Mountain",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/cops-seeking-wrong-way-driver-in-brantford-charges-laid-in-cambridge-stabbing",
-      "published_date": "2026-03-29T17:14:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man shot to death in Surrey Saturday evening",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-shot-to-death-in-surrey-saturday-evening",
-      "published_date": "2026-03-29T16:19:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makeover: A subtle hair and makeup upgrade for a first-time pro cut",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/makeover-subtle-hair-makeup-upgrade-for-first-pro-cut",
-      "published_date": "2026-03-29T15:00:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arson suspected after Windsor garage fire causes $150K in damages",
+      "title": "City police make latest 'Wanted in Windsor' arrest",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/arson-suspected-after-windsor-garage-fire-causes-150k-in-damages",
-      "published_date": "2026-03-29T14:29:08Z",
+      "url": "https://windsorstar.com/news/local-news/city-police-make-latest-wanted-in-windsor-arrest",
+      "published_date": "2026-03-30T14:25:27Z",
       "category": "Local Events"
     },
     {
-      "title": "Sunshine list — 7,500 public sector employees in Windsor-Essex make $100,000 or more",
+      "title": "Four Essex County drivers face impaired charges",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/sunshine-list-7500-public-sector-employees-in-windsor-essex-make-100000-or-more",
-      "published_date": "2026-03-29T14:11:24Z",
+      "url": "https://windsorstar.com/news/local-news/four-essex-county-drivers-face-impaired-charges",
+      "published_date": "2026-03-30T14:12:37Z",
       "category": "Local Events"
     },
     {
-      "title": "The Bookless Club: What&#039;s your shoe evolution?",
+      "title": "Windsor weekend opens with a bang as icy roads trigger multiple crashes",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/icy-start-saturday-morning-leads-to-multiple-collisions",
+      "published_date": "2026-03-30T13:57:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sask. RCMP investigating two fatalities after highway collision near Weyburn",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/sask-rcmp-investigating-two-fatalities-after-highway-collision-near-weyburn",
+      "published_date": "2026-03-30T13:57:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Air Canada announces CEO Michael Rousseau to retire in wake of French controversy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/business/money-news/air-canada-ceo-michael-rousseau-retiring",
+      "published_date": "2026-03-30T13:54:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man charged with human trafficking; Man sought for alleged assault",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-charged-with-human-trafficking-man-sought-for-alleged-assault",
+      "published_date": "2026-03-30T13:24:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Words matter' — Windsor man sentenced for threat to kill mayor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/words-matter-windsor-man-sentenced-for-threat-to-kill-mayor",
+      "published_date": "2026-03-30T13:08:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Widow fails to win $160 million lawsuit against Vancouver man convicted of ordering her husband killed",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/the-bookless-club-whats-your-shoe-evolution",
-      "published_date": "2026-03-29T13:00:40Z",
+      "url": "https://vancouversun.com/news/local-news/widow-fails-160-million-lawsuit-against-vancouver-man-convicted-murder-order",
+      "published_date": "2026-03-30T13:00:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Off-grid Francois Lake couple featured in TV commercial",
+      "title": "Hot pot’s new wave: How B.C. restaurants like Big Way are changing the tradition",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/metro-vancouver-hot-pot-restaurants-big-way",
+      "published_date": "2026-03-30T13:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Not like anything else&#039;: FIFA World Cup visitors warned of Vancouver’s toxic drug supply for users",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/world-cup-fans-warning-vancouver-toxic-drug-supply",
+      "published_date": "2026-03-30T13:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunmen open fire on Nigeria bar, mob retaliates with deadly force",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/gunmen-open-fire-on-nigeria-bar-mob-retaliates-with-deadly-force",
+      "published_date": "2026-03-30T12:51:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Great first day’ – Windsor farmers' market abuzz on opening day",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/great-first-day-windsor-farmers-market-abuzz-on-opening-day",
+      "published_date": "2026-03-30T12:41:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australian police shoot dead man wanted for killing officers after seven-month manhunt",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/australian-police-shoot-dead-man-wanted-for-killing-officers-after-seven-month-manhunt",
+      "published_date": "2026-03-30T12:40:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Preventing people from doing 'stupid things': Councillors, Sask. trucking on overpass collisions",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/preventing-people-from-doing-stupid-things-councillors-sask-trucking-on-overpass-collisions",
+      "published_date": "2026-03-30T12:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Home Front: Interior designer Taylor Reiko is one to watch",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/the-home-front-interior-designer-taylor-reiko-is-one-to-watch",
+      "published_date": "2026-03-30T12:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From births to deaths, a Shuswap interpreter has signed it all",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/29/off-grid-francois-lake-couple-featured-in-tv-commercial/",
-      "published_date": "2026-03-29T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/from-births-to-deaths-a-shuswap-interpreter-has-signed-it-all/",
+      "published_date": "2026-03-30T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Spitfires giving Storm no space to play in taking 2-0 series lead",
+      "title": "Guest column: 'Duty to report' – when your therapist is ChatGPT",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/spitfires-giving-storm-no-space-to-play-in-taking-2-0-series-lead",
-      "published_date": "2026-03-29T04:53:32Z",
+      "url": "https://windsorstar.com/opinion/columnists/guest-column-duty-to-report-when-your-therapist-is-chatgpt",
+      "published_date": "2026-03-30T11:15:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Suspect arrested for murder of auto mechanic in East York",
+      "title": "Holy Cross wins dramatic 5A Hoopla final, LeBoldus girls three-peat",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/local-sports/high-school/holy-cross-wins-dramatic-5a-hoopla-final-leboldus-girls-three-peat",
+      "published_date": "2026-03-30T06:21:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rush and tributes to Nelly Furtado and Joni Mitchell among the best of the Juno Awards",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-arrested-murder-auto-mechanic-east-york",
-      "published_date": "2026-03-28T23:41:26Z",
+      "url": "https://torontosun.com/entertainment/music/rush-tributes-nelly-furtado-joni-mitchell-among-best-the-juno-awards",
+      "published_date": "2026-03-30T02:48:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Former Pattison executive Darrell Jones drops out of B.C. Conservative leadership race",
+      "title": "Investigation underway after man shot by RCMP in Fort St. John",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/former-pattison-executive-darrell-jones-drops-out-bc-conservative-leadership-race",
-      "published_date": "2026-03-28T21:43:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GOLDSTEIN: Liberals' kid gloves treatment of China is nothing new",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/liberals-kid-gloves-treatment-china",
-      "published_date": "2026-03-28T20:09:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nestle says 413,793 KitKat candy bars stolen during shipment in Europe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/nestle-kitkat-candy-bars-stolen-shipment",
-      "published_date": "2026-03-28T19:20:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GUNTER: Feds' attack on notwithstanding clause an attack on Canadian federation",
-      "source": "Toronto Sun",
-      "url": "http://torontosun.com/opinion/columnists/lorne-gunter-feds-attack-on-notwithstanding-clause-an-attack-on-canadian-federation/wcm/796b8b01-3d09-42a1-afd6-60b2b95bf258",
-      "published_date": "2026-03-28T18:16:11Z",
+      "url": "https://vancouversun.com/news/local-news/investigation-underway-man-shot-rcmp-fort-st-john",
+      "published_date": "2026-03-30T02:20:06Z",
       "category": "Local Events"
     }
   ]
