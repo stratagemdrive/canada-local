@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-30T14:53:40Z",
+  "generated_at": "2026-03-31T00:05:11Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 75,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "B.C. Conservative Leadership Race: Yuri Fulmer makes deal with Dallas Brodie to &#039;unite the right&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-conservative-leadership-race-yuri-fulmer-dallas-brodie-deal",
+      "published_date": "2026-03-30T22:03:02Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Equity cards' arguments take over NDP Leadership Convention: 'CANADA IS COOKED'",
       "source": "Toronto Sun",
@@ -37,6 +44,27 @@
       "url": "https://torontosun.com/news/national/canada-2-percent-nato-defence-spending-benchmark",
       "published_date": "2026-03-26T15:08:52Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "VIDEO: Victoria councillor calls for AI regulation using AI rendering",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/video-victoria-councillor-calls-for-ai-regulation-using-ai-rendering/",
+      "published_date": "2026-03-31T00:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "B.C. firms that rely on helium not fretting about shortages — yet",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/iran-war-global-helium-shortage-bc",
+      "published_date": "2026-03-30T15:44:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Trump considers seizing Iran's Kharg Island oil terminal",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-march-30",
+      "published_date": "2026-03-30T14:51:51Z",
+      "category": "Military"
     },
     {
       "title": "LILLEY: Air Canada cancels CEO Michael Rousseau over language politics",
@@ -144,6 +172,20 @@
       "category": "Military"
     },
     {
+      "title": "Renfrew County to cut back on fuel use to save money",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/renfrew-county-to-cut-back-on-fuel-use-to-save-money",
+      "published_date": "2026-03-30T20:18:03Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Avi Lewis's 'unrealistic' energy policies slammed by NDP leaders Beck, Nenshi",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/saskatchewan/avi-lewiss-unrealistic-energy-policies-slammed-by-ndp-leaders-beck-nenshi",
+      "published_date": "2026-03-30T18:13:39Z",
+      "category": "Energy"
+    },
+    {
       "title": "Saskatoon Blades, Edmonton Oil Kings series tied 1-1 in WHL playoffs",
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/sports/saskatoon-blades-edmonton-oil-kings-series-tied-1-1-in-whl-playoffs",
@@ -226,6 +268,13 @@
       "url": "https://thestarphoenix.com/sports/blades-oil-kings-clash-in-whl-playoffs-for-the-first-time-since-1971",
       "published_date": "2026-03-25T22:05:58Z",
       "category": "Energy"
+    },
+    {
+      "title": "Priority-based budgeting model not a priority for Saskatoon city council",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/priority-based-budgeting-model-not-a-priority-for-saskatoon-city-council",
+      "published_date": "2026-03-30T18:46:16Z",
+      "category": "Economy"
     },
     {
       "title": "Avi Lewis calls for party unity after being elected NDP leader on 1st ballot",
@@ -347,143 +396,143 @@
       "category": "Economy"
     },
     {
-      "title": "City police make latest 'Wanted in Windsor' arrest",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/city-police-make-latest-wanted-in-windsor-arrest",
-      "published_date": "2026-03-30T14:25:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four Essex County drivers face impaired charges",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/four-essex-county-drivers-face-impaired-charges",
-      "published_date": "2026-03-30T14:12:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor weekend opens with a bang as icy roads trigger multiple crashes",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/icy-start-saturday-morning-leads-to-multiple-collisions",
-      "published_date": "2026-03-30T13:57:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sask. RCMP investigating two fatalities after highway collision near Weyburn",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/sask-rcmp-investigating-two-fatalities-after-highway-collision-near-weyburn",
-      "published_date": "2026-03-30T13:57:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air Canada announces CEO Michael Rousseau to retire in wake of French controversy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/money-news/air-canada-ceo-michael-rousseau-retiring",
-      "published_date": "2026-03-30T13:54:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto man charged with human trafficking; Man sought for alleged assault",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-charged-with-human-trafficking-man-sought-for-alleged-assault",
-      "published_date": "2026-03-30T13:24:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Words matter' — Windsor man sentenced for threat to kill mayor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/words-matter-windsor-man-sentenced-for-threat-to-kill-mayor",
-      "published_date": "2026-03-30T13:08:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Widow fails to win $160 million lawsuit against Vancouver man convicted of ordering her husband killed",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/widow-fails-160-million-lawsuit-against-vancouver-man-convicted-murder-order",
-      "published_date": "2026-03-30T13:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hot pot’s new wave: How B.C. restaurants like Big Way are changing the tradition",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/metro-vancouver-hot-pot-restaurants-big-way",
-      "published_date": "2026-03-30T13:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Not like anything else&#039;: FIFA World Cup visitors warned of Vancouver’s toxic drug supply for users",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/world-cup-fans-warning-vancouver-toxic-drug-supply",
-      "published_date": "2026-03-30T13:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunmen open fire on Nigeria bar, mob retaliates with deadly force",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/gunmen-open-fire-on-nigeria-bar-mob-retaliates-with-deadly-force",
-      "published_date": "2026-03-30T12:51:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Great first day’ – Windsor farmers' market abuzz on opening day",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/great-first-day-windsor-farmers-market-abuzz-on-opening-day",
-      "published_date": "2026-03-30T12:41:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australian police shoot dead man wanted for killing officers after seven-month manhunt",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/australian-police-shoot-dead-man-wanted-for-killing-officers-after-seven-month-manhunt",
-      "published_date": "2026-03-30T12:40:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Preventing people from doing 'stupid things': Councillors, Sask. trucking on overpass collisions",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/preventing-people-from-doing-stupid-things-councillors-sask-trucking-on-overpass-collisions",
-      "published_date": "2026-03-30T12:00:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Home Front: Interior designer Taylor Reiko is one to watch",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/the-home-front-interior-designer-taylor-reiko-is-one-to-watch",
-      "published_date": "2026-03-30T12:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From births to deaths, a Shuswap interpreter has signed it all",
+      "title": "Attacker who set woman on fire in Langley sentenced to jail",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/from-births-to-deaths-a-shuswap-interpreter-has-signed-it-all/",
-      "published_date": "2026-03-30T12:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/attacker-who-set-woman-on-fire-in-langley-sentenced-to-jail/",
+      "published_date": "2026-03-30T23:57:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Guest column: 'Duty to report' – when your therapist is ChatGPT",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/guest-column-duty-to-report-when-your-therapist-is-chatgpt",
-      "published_date": "2026-03-30T11:15:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holy Cross wins dramatic 5A Hoopla final, LeBoldus girls three-peat",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/local-sports/high-school/holy-cross-wins-dramatic-5a-hoopla-final-leboldus-girls-three-peat",
-      "published_date": "2026-03-30T06:21:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rush and tributes to Nelly Furtado and Joni Mitchell among the best of the Juno Awards",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/music/rush-tributes-nelly-furtado-joni-mitchell-among-best-the-juno-awards",
-      "published_date": "2026-03-30T02:48:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigation underway after man shot by RCMP in Fort St. John",
+      "title": "Vaughn Palmer: Western NDP leaders put up a wall between them and new national leader",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/investigation-underway-man-shot-rcmp-fort-st-john",
-      "published_date": "2026-03-30T02:20:06Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-western-ndp-leaders-put-up-wall-between-them-and-new-national-leader-avi-lewis",
+      "published_date": "2026-03-30T23:41:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kirkin’ of the Tartan piped in",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/kirkin-of-the-tartan-piped-in/",
+      "published_date": "2026-03-30T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Nations say NDP&#039;s proposed changes gut DRIPA legislation, predict a jump in lawsuits",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-first-nations-ndp-changes-gut-dripa-legislation-predict-lawsuits",
+      "published_date": "2026-03-30T23:27:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal New Democrats pass resolution to protect coastal tanker ban",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/federal-new-democrats-pass-resolution-to-protect-coastal-tanker-ban/",
+      "published_date": "2026-03-30T23:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police seek 8 suspects in 2025 assault; man sought for break-and-enter",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/police-seek-8-suspects-in-2025-assault-man-sought-for-break-and-enter",
+      "published_date": "2026-03-30T22:49:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Acquittal heartbreaking for family of B.C. man killed in crosswalk",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/acquittal-heartbreaking-for-family-of-b-c-man-killed-in-crosswalk/",
+      "published_date": "2026-03-30T22:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "STC calls for transparency within FSIN as Feds seek to recoup $28.7 million flagged in audit",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/stc-calls-for-transparency-within-fsin-as-feds-seek-to-recoup-28-7-million-flagged-in-audit",
+      "published_date": "2026-03-30T22:16:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "TransLink rolls out plan to handle FIFA",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/translink-rolls-out-plan-to-handle-fifa/",
+      "published_date": "2026-03-30T22:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadians applying for passports will soon see higher fees, processing deadline",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/higher-fees-processing-deadline-canadian-passports",
+      "published_date": "2026-03-30T22:04:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative leadership candidate Fulmer inks deal with One B.C.’s Brodie",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/b-c-conservative-leadership-candidate-fulmer-inks-deal-with-one-b-c-s-brodie/",
+      "published_date": "2026-03-30T21:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY UNLEASHED: Air Canada CEO Michael Rousseau retiring? I don’t think so",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/lilley-unleashed-air-canada-ceo-michael-rousseau-retiring-i-dont-think-so",
+      "published_date": "2026-03-30T21:36:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine-year sentence for man involved in 'accidental' Saskatoon home invasion shooting",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/crime/nine-year-sentence-for-man-involved-in-accidental-saskatoon-home-invasion-shooting",
+      "published_date": "2026-03-30T21:32:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump pushes through paycheques for TSA employees",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trump-pushes-through-paycheques-for-tsa-employees",
+      "published_date": "2026-03-30T21:16:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deep Purple in Abbotsford: What you need to know about the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/deep-purple-abbotsford-concert-what-to-know",
+      "published_date": "2026-03-30T20:57:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garrison Petawawa to strengthen base security measures, access changes coming",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/garrison-petawawa-base-security-changes",
+      "published_date": "2026-03-30T20:42:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roundup: Saskatchewan Rush drop to second place in NLL",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/local-sports/roundup-saskatchewan-rush-drop-to-second-place-in-nll",
+      "published_date": "2026-03-30T20:34:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "No crime or criminals here, say B.C. Hells Angels fighting court forfeiture of clubhouses",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/no-crime-or-criminals-bc-hells-angels-fighting-court-forfeiture-clubhouses",
+      "published_date": "2026-03-30T19:47:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "$300K in contraband seized at Agassiz correctional institution",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/300k-in-contraband-seized-at-agassiz-correctional-institution/",
+      "published_date": "2026-03-30T19:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Long arm of Lilli: devastating armlock propels B.C. martial artist to international victory",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/long-arm-of-lilli-devastating-armlock-propels-b-c-martial-artist-to-international-victory/",
+      "published_date": "2026-03-30T19:30:00Z",
       "category": "Local Events"
     }
   ]
