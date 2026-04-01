@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-31T14:49:48Z",
+  "generated_at": "2026-04-01T00:04:22Z",
   "country": "Canada",
-  "total_stories": 78,
+  "total_stories": 82,
   "categories": [
     "Diplomacy",
     "Military",
@@ -51,6 +51,13 @@
       "url": "https://torontosun.com/news/national/canada-2-percent-nato-defence-spending-benchmark",
       "published_date": "2026-03-26T15:08:52Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR LATEST: Trump tells allies to ‘go get your own oil’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-march-31",
+      "published_date": "2026-03-31T15:38:12Z",
+      "category": "Military"
     },
     {
       "title": "Samidoun dissolved for 'non-compliance' months after being listed as terrorist entity",
@@ -186,11 +193,18 @@
       "category": "Military"
     },
     {
-      "title": "Opinion: World's nations need to speak up as more wars claim children",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/opinion-worlds-nations-need-to-speak-up-as-more-wars-claim-children",
-      "published_date": "2026-03-26T11:30:39Z",
-      "category": "Military"
+      "title": "LILLEY: TC Energy CEO Francois Poirier calls for an ambitious Canada",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/tc-energy-ceo-francois-poirier-calls-for-an-ambitious-canada",
+      "published_date": "2026-03-31T23:42:50Z",
+      "category": "Energy"
+    },
+    {
+      "title": "'Monumental achievement': Groundbreaking computer positions U of S as key player in quantum research",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/monumental-achievement-groundbreaking-computer-positions-u-of-s-as-key-player-in-quantum-research",
+      "published_date": "2026-03-31T19:03:26Z",
+      "category": "Energy"
     },
     {
       "title": "Renfrew County to cut back on fuel use to save money",
@@ -289,6 +303,20 @@
       "url": "https://thestarphoenix.com/sports/blades-oil-kings-clash-in-whl-playoffs-for-the-first-time-since-1971",
       "published_date": "2026-03-25T22:05:58Z",
       "category": "Energy"
+    },
+    {
+      "title": "Library director fired for refusing to take LGBT books out of kids section",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/library-director-fired-for-refusing-to-take-lgbt-books-out-of-kids-section",
+      "published_date": "2026-03-31T20:48:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "'A saint' — Memorial for labour giant Gary Parent planned for Windsor park",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/a-saint-memorial-for-labour-giant-gary-parent-planned-for-windsor-park",
+      "published_date": "2026-03-31T17:06:57Z",
+      "category": "Economy"
     },
     {
       "title": "Priority-based budgeting model not a priority for Saskatoon city council",
@@ -417,143 +445,143 @@
       "category": "Economy"
     },
     {
-      "title": "New law makes death penalty default sentence for Palestinians convicted of killing Israelis",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/palestinians-convicted-killing-israelis-execution-law",
-      "published_date": "2026-03-31T14:29:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trucker charged for attending Teams video conference while driving",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/trucker-charged-teams-meeting-opp",
-      "published_date": "2026-03-31T14:19:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Upper Ottawa Valley OPP investigating fatal collision on Paul Martin Dr. by Highway 17",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/upper-ottawa-valley-opp-fatal-collision-paul-martive-drive",
-      "published_date": "2026-03-31T13:57:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms, possibly severe, to hit Greater Toronto Area, Southern Ontario",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/thunderstorms-possibly-severe-gta-southern-ontario",
-      "published_date": "2026-03-31T13:47:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Douglas Todd: Western Canadians aim to avoid upzoning through ‘private governments’",
+      "title": "Former Vancouver mayor hopes avoiding service overlaps can help Downtown Eastside",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-western-canadians-avoid-upzoning-private-governments",
-      "published_date": "2026-03-31T13:00:30Z",
+      "url": "https://vancouversun.com/news/politics/former-vancouver-mayor-larry-campbell-hopes-avoiding-service-overlaps-can-help-downtown-eastside",
+      "published_date": "2026-03-31T23:47:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Federal Court rebukes lawyer for AI &#039;hallucinations&#039;",
+      "title": "Teens&#039; life sentences for murder overturned by B.C. Appeal Court because of age",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/federal-court-rebukes-lawyer-for-ai-hallucinations",
-      "published_date": "2026-03-31T13:00:12Z",
+      "url": "https://vancouversun.com/news/teens-life-sentences-murder-overturned-bc-appeal-court-because-of-age",
+      "published_date": "2026-03-31T23:41:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Canada Post ending door-to-door mail delivery",
+      "title": "ICE arrests one of Canada's most wanted",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-post-ending-home-mail-delivery",
-      "published_date": "2026-03-31T12:54:12Z",
+      "url": "https://torontosun.com/news/crime/ice-arrests-one-of-canadas-most-wanted",
+      "published_date": "2026-03-31T23:29:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Two elderly people dead after North York house fire",
+      "title": "WARMINGTON: Peel cops investigating after handgun pointed at student in Mississauga",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/two-dead-north-york-house-fire",
-      "published_date": "2026-03-31T12:48:20Z",
+      "url": "https://torontosun.com/news/local-news/peel-cops-investigating-handgun-pointed-student-mississauga",
+      "published_date": "2026-03-31T23:27:51Z",
       "category": "Local Events"
     },
     {
-      "title": "VIDEO: Raccoon gaze released from B.C. wildlife rehab after winter of recovery",
+      "title": "Canada Post to convert remaining door-to-door delivery to community mailboxes",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/video-raccoon-gaze-released-from-b-c-wildlife-rehab-after-winter-of-recovery/",
-      "published_date": "2026-03-31T12:45:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/canada-post-to-convert-remaining-door-to-door-delivery-to-community-mailboxes/",
+      "published_date": "2026-03-31T23:14:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Soap for Hope cleans up on social, environmental scenes in B.C. and Alberta",
+      "title": "Letters to The Sun: Past flood data underestimates the risks of future flooding events",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/letters/letters-to-the-sun-past-flood-data-underestimates-the-risks-of-future-flooding-events",
+      "published_date": "2026-03-31T23:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "TBIs and Homelessness: An open letter by Brain Trust",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/soap-for-hope-cleans-up-on-social-environmental-scenes-in-b-c-and-alberta/",
-      "published_date": "2026-03-31T12:45:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/tbis-and-homelessness-an-open-letter-by-brain-trust/",
+      "published_date": "2026-03-31T23:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "A very fond farewell to our long-time publisher",
+      "title": "Vaughn Palmer: B.C. Conservative bill seeks public notice of Indigenous land title cases",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-conservative-bill-seeks-public-notice-indigenous-land-title-cases",
+      "published_date": "2026-03-31T22:54:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. moving to alter environment assessments, codify how to involve U.S. tribes",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/a-very-fond-farewell-to-our-long-time-publisher/",
-      "published_date": "2026-03-31T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/b-c-moving-to-alter-environment-assessments-codify-how-to-involve-u-s-tribes/",
+      "published_date": "2026-03-31T22:52:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Losing Leamington race date will hurt, horse association warns",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/losing-leamington-race-date-will-hurt-horse-association-warns",
-      "published_date": "2026-03-31T12:12:18Z",
+      "title": "Hero’s welcome home to ‘village’ for B.C. gold medalist",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/heros-welcome-home-to-village-for-b-c-gold-medalist/",
+      "published_date": "2026-03-31T22:33:00Z",
       "category": "Local Events"
     },
     {
-      "title": "'Look up instead of down': Church in the Hood founder discusses broken buses, cancer and hope",
+      "title": "LILLEY: Of course Mark Carney should prorogue Parliament and here's why ...",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-should-prorogue-parliament-and-heres-why",
+      "published_date": "2026-03-31T22:31:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kristi Noem 'blindsided' by report alleging her husband is living a double life, cross-dressing as a woman",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/kristi-noem-blindsided-by-report-alleging-her-husband-is-living-a-double-life-cross-dressing-as-a-woman",
+      "published_date": "2026-03-31T22:29:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Alarming pattern of violence&#039;: Killer sentenced to eight years for stabbing of Burnaby teen",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/killer-sentenced-to-eight-years-for-2023-stabbing-of-burnaby-teen",
+      "published_date": "2026-03-31T22:19:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police seek man who allegedly tried to walk off with child at Scarborough park",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/police-seek-man-who-allegedly-tried-to-walk-off-with-child-at-scarborough-park",
+      "published_date": "2026-03-31T22:18:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "8 teams leave Kootenay Junior Hockey League to form independent league",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/8-teams-leave-kootenay-junior-hockey-league-to-form-independent-league/",
+      "published_date": "2026-03-31T21:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MLA McInnis introduces Aboriginal Title Transparency Act",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/mla-mcinnis-introduces-aboriginal-title-transparency-act/",
+      "published_date": "2026-03-31T21:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IIO seeking witnesses to incident in Burns Lake",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/iio-seeking-witnesses-to-incident-in-burns-lake/",
+      "published_date": "2026-03-31T20:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. mother and daughter detained in Texas immigration lockup granted bond",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/canadian-mother-daughter-detained-texas-granted-bond",
+      "published_date": "2026-03-31T20:11:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saskatchewan transferring mineral rights to three First Nations",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/look-up-instead-of-down-church-in-the-hood-founder-discusses-broken-buses-cancer-and-hope",
-      "published_date": "2026-03-31T12:00:18Z",
+      "url": "https://thestarphoenix.com/news/local-news/saskatchewan-transferring-mineral-rights-to-three-first-nations",
+      "published_date": "2026-03-31T20:00:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Twig and Squirrel's new location offers unique place for beads, art projects and so much more",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/local-business/twig-and-squirrels-new-location-offers-unique-place-for-beads-art-projects-and-so-much-more",
-      "published_date": "2026-03-31T12:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Anti-Israel protesters were banned from a neighbourhood and came anyway",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/anti-israel-protesters-challenge-buzzle-zone",
-      "published_date": "2026-03-31T11:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire started in grocery store in troubled downtown Woodward&#039;s building",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/arrest-made-after-man-sets-fire-dtes-vancouver-nesters-grocery-store",
-      "published_date": "2026-03-31T05:24:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Island youth accused of school shooting threats",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-island-youth-accused-of-school-shooting-threats",
-      "published_date": "2026-03-31T00:41:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doctors say regulatory decisions could be politicized under B.C. health reforms",
+      "title": "B.C. ‘should be treated the same’ after $8.8B Ontario-fed deal: Housing minister",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/doctors-say-regulatory-decisions-could-be-politicized-under-b-c-health-reforms/",
-      "published_date": "2026-03-31T00:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attacker who set woman on fire in Langley sentenced to jail",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/attacker-who-set-woman-on-fire-in-langley-sentenced-to-jail/",
-      "published_date": "2026-03-30T23:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Western NDP leaders put up a wall between them and new national leader",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-western-ndp-leaders-put-up-wall-between-them-and-new-national-leader-avi-lewis",
-      "published_date": "2026-03-30T23:41:13Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/b-c-should-be-treated-the-same-after-8-8b-ontario-fed-deal-housing-minister/",
+      "published_date": "2026-03-31T19:58:00Z",
       "category": "Local Events"
     }
   ]
