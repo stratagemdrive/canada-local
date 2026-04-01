@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-01T00:04:22Z",
+  "generated_at": "2026-04-01T14:55:33Z",
   "country": "Canada",
-  "total_stories": 82,
+  "total_stories": 83,
   "categories": [
     "Diplomacy",
     "Military",
@@ -51,6 +51,34 @@
       "url": "https://torontosun.com/news/national/canada-2-percent-nato-defence-spending-benchmark",
       "published_date": "2026-03-26T15:08:52Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR LATEST: Trump says Iran has asked for ceasefire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-april-1",
+      "published_date": "2026-04-01T13:35:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "'Ball of fire' — Explosive Windsor Assembly Plant criminal trial underway",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/ball-of-fire-explosive-windsor-assembly-plant-criminal-trial-underway",
+      "published_date": "2026-04-01T13:21:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Tough defence along with rookie McLaughlin's scoring and veteran Costanzo's goaltending has Spitfires on brink of series sweep",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/tough-defence-along-with-rookie-mclaughlins-scoring-and-veteran-costanzos-goaltending-has-spitfires-on-brink-of-series-sweep",
+      "published_date": "2026-04-01T03:12:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "MANDEL: Did #MeToo movement lead to unjust prosecution of Frank Stronach?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/did-metoo-movement-lead-to-unjust-prosecution-of-frank-stronach",
+      "published_date": "2026-04-01T00:34:58Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR LATEST: Trump tells allies to ‘go get your own oil’",
@@ -165,32 +193,11 @@
       "category": "Military"
     },
     {
-      "title": "Windsor police seeking suspect after woman assaulted with bear spray",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seeking-suspect-after-woman-assaulted-with-bear-spray",
-      "published_date": "2026-03-26T17:33:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "Paraplegic gang-rape victim dies by euthanasia after legal battle to 'stop suffering'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/paraplegic-gang-rape-victim-euthanasia",
-      "published_date": "2026-03-26T16:18:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "Upstart B.C. mining company makes play in critical minerals sector. Can it compete with China?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/upstart-bc-mining-company-makes-play-in-critical-minerals-sector-can-it-compete-with-china",
-      "published_date": "2026-03-26T13:00:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR UPDATES: Trump again extends Strait of Hormuz deadline; Canada might help if there's a ceasefire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-march-26",
-      "published_date": "2026-03-26T11:51:55Z",
-      "category": "Military"
+      "title": "Blades 'just kept believing' in 4-3 playoff win over Oil Kings",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/blades-just-kept-believing-in-4-3-comeback-win-over-oil-kings-in-whl-playoffs",
+      "published_date": "2026-04-01T06:48:08Z",
+      "category": "Energy"
     },
     {
       "title": "LILLEY: TC Energy CEO Francois Poirier calls for an ambitious Canada",
@@ -303,6 +310,13 @@
       "url": "https://thestarphoenix.com/sports/blades-oil-kings-clash-in-whl-playoffs-for-the-first-time-since-1971",
       "published_date": "2026-03-25T22:05:58Z",
       "category": "Energy"
+    },
+    {
+      "title": "B.C. developers pushing for expanded tax rebate to jumpstart housing market",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-developers-pushing-expanded-tax-rebate-jumpstart-housing-market",
+      "published_date": "2026-04-01T14:27:55Z",
+      "category": "Economy"
     },
     {
       "title": "Library director fired for refusing to take LGBT books out of kids section",
@@ -438,11 +452,102 @@
       "category": "Economy"
     },
     {
-      "title": "Ontario plans full HST break on new homes",
+      "title": "Vancouver police identify victim in Downtown Eastside homicide",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-police-identify-victim-littlebird-downtown-east-side-homicide",
+      "published_date": "2026-04-01T14:50:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delta pilots contact wrong tower while attempting landing at LaGuardia: ‘I’M SORRY, WHERE ARE YOU?’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/delta-pilots-wrong-tower-laguardia",
+      "published_date": "2026-04-01T14:47:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Lose our voice' — Essex County municipalities question paying into Ontario’s updated conservation authority system",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/ontario-plans-full-hst-break-on-new-homes",
-      "published_date": "2026-03-25T20:09:48Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/essex-county-municipalities-question-paying-into-ontarios-updated-conservation-authority-system-while-losing-voice",
+      "published_date": "2026-04-01T14:06:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A B.C. crash victim&#039;s message to frustrated drivers: &#039;There&#039;s a very human factor behind a traffic jam&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-crash-victim-frustrated-driver-human-face-traffic-jam",
+      "published_date": "2026-04-01T13:00:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "These are the 10 Vancouver concerts in April you won&#039;t want to miss",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-concerts-april-2026",
+      "published_date": "2026-04-01T13:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here&#039;s a glimpse into Vancouver&#039;s West End, circa 1940",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-history-west-end-circa-1940",
+      "published_date": "2026-04-01T13:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a Sask. man's first Star Wars toy sparked a lifetime of collecting",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/how-a-sask-mans-first-star-wars-toy-sparked-a-lifetime-of-collecting",
+      "published_date": "2026-04-01T13:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after arson at University of Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/male-sought-in-arson-at-university-of-toronto",
+      "published_date": "2026-04-01T12:53:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Very exciting' — Windsor elementary students to make Skills Ontario debut in robotics",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/very-exciting-windsor-elementary-students-to-make-skills-ontario-debut-in-robotics",
+      "published_date": "2026-04-01T12:29:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Saskatoon concerts to see in April",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/five-saskatoon-concerts-to-see-in-april",
+      "published_date": "2026-04-01T12:00:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explainer: Why is Essex County's social housing issue so hard to resolve?",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/explainer-why-is-essex-countys-social-housing-issue-so-hard-to-resolve",
+      "published_date": "2026-04-01T11:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Big day&#039; for Tumbler Ridge shooting survivor Maya Gebala",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/tumbler-ridge-survivor-maya-gebala-update-rehabilitation-hug",
+      "published_date": "2026-04-01T00:37:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tiger Woods to enter treatment program, no Masters comeback: 'I am stepping away'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/golf/tiger-woods-to-enter-treatment-program-no-masters-comeback-i-am-stepping-away",
+      "published_date": "2026-04-01T00:26:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fans snap up tickets as B.C. Lions sell out Langford return in hours",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/fans-snap-up-tickets-as-b-c-lions-sell-out-langford-return-in-hours/",
+      "published_date": "2026-04-01T00:10:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Former Vancouver mayor hopes avoiding service overlaps can help Downtown Eastside",
@@ -484,104 +589,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/letters/letters-to-the-sun-past-flood-data-underestimates-the-risks-of-future-flooding-events",
       "published_date": "2026-03-31T23:00:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TBIs and Homelessness: An open letter by Brain Trust",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/tbis-and-homelessness-an-open-letter-by-brain-trust/",
-      "published_date": "2026-03-31T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: B.C. Conservative bill seeks public notice of Indigenous land title cases",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-conservative-bill-seeks-public-notice-indigenous-land-title-cases",
-      "published_date": "2026-03-31T22:54:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. moving to alter environment assessments, codify how to involve U.S. tribes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/b-c-moving-to-alter-environment-assessments-codify-how-to-involve-u-s-tribes/",
-      "published_date": "2026-03-31T22:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hero’s welcome home to ‘village’ for B.C. gold medalist",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/heros-welcome-home-to-village-for-b-c-gold-medalist/",
-      "published_date": "2026-03-31T22:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Of course Mark Carney should prorogue Parliament and here's why ...",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-should-prorogue-parliament-and-heres-why",
-      "published_date": "2026-03-31T22:31:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kristi Noem 'blindsided' by report alleging her husband is living a double life, cross-dressing as a woman",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/kristi-noem-blindsided-by-report-alleging-her-husband-is-living-a-double-life-cross-dressing-as-a-woman",
-      "published_date": "2026-03-31T22:29:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Alarming pattern of violence&#039;: Killer sentenced to eight years for stabbing of Burnaby teen",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/killer-sentenced-to-eight-years-for-2023-stabbing-of-burnaby-teen",
-      "published_date": "2026-03-31T22:19:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police seek man who allegedly tried to walk off with child at Scarborough park",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/police-seek-man-who-allegedly-tried-to-walk-off-with-child-at-scarborough-park",
-      "published_date": "2026-03-31T22:18:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "8 teams leave Kootenay Junior Hockey League to form independent league",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/8-teams-leave-kootenay-junior-hockey-league-to-form-independent-league/",
-      "published_date": "2026-03-31T21:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MLA McInnis introduces Aboriginal Title Transparency Act",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/mla-mcinnis-introduces-aboriginal-title-transparency-act/",
-      "published_date": "2026-03-31T21:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IIO seeking witnesses to incident in Burns Lake",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/iio-seeking-witnesses-to-incident-in-burns-lake/",
-      "published_date": "2026-03-31T20:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. mother and daughter detained in Texas immigration lockup granted bond",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/canadian-mother-daughter-detained-texas-granted-bond",
-      "published_date": "2026-03-31T20:11:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatchewan transferring mineral rights to three First Nations",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatchewan-transferring-mineral-rights-to-three-first-nations",
-      "published_date": "2026-03-31T20:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. ‘should be treated the same’ after $8.8B Ontario-fed deal: Housing minister",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/31/b-c-should-be-treated-the-same-after-8-8b-ontario-fed-deal-housing-minister/",
-      "published_date": "2026-03-31T19:58:00Z",
       "category": "Local Events"
     }
   ]
