@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-02T00:01:26Z",
+  "generated_at": "2026-04-02T14:41:23Z",
   "country": "Canada",
-  "total_stories": 83,
+  "total_stories": 84,
   "categories": [
     "Diplomacy",
     "Military",
@@ -58,6 +58,13 @@
       "url": "https://torontosun.com/news/national/canada-2-percent-nato-defence-spending-benchmark",
       "published_date": "2026-03-26T15:08:52Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump says Iran war 'nearing completion,' necessary to remove nuclear threat",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/donald-trump-says-iran-war-nearing-completion",
+      "published_date": "2026-04-02T02:11:23Z",
+      "category": "Military"
     },
     {
       "title": "'Ball of fire' — Explosive Windsor Assembly Plant criminal trial underway",
@@ -193,11 +200,18 @@
       "category": "Military"
     },
     {
-      "title": "GOLDBERG: Team Trump had to start a war to learn how global economy works",
+      "title": "B.C. government relaxes 2035 zero-emission vehicle sales mandate",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-relaxes-2035-zero-emission-vehicle-sales-mandate",
+      "published_date": "2026-04-02T13:50:51Z",
+      "category": "Energy"
+    },
+    {
+      "title": "As pump prices soar, Tories call on government to cut fuel taxes",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/trump-start-war-iran-learn-global-economy",
-      "published_date": "2026-03-28T21:33:19Z",
-      "category": "Military"
+      "url": "https://torontosun.com/news/national/as-pump-prices-soar-tories-call-on-government-to-cut-fuel-taxes",
+      "published_date": "2026-04-02T10:00:36Z",
+      "category": "Energy"
     },
     {
       "title": "Blades 'just kept believing' in 4-3 playoff win over Oil Kings",
@@ -305,11 +319,32 @@
       "category": "Energy"
     },
     {
-      "title": "Glacier retreat visible, says B.C. scientist on research expedition to Antarctica",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/glacier-retreat-visible-bc-scientist-research-expedition-antarctica",
-      "published_date": "2026-03-26T13:00:17Z",
-      "category": "Energy"
+      "title": "JARVIS: Doug Ford’s budget continues borrowing binge",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/doug-ford-ontario-budget-borrowing-binge",
+      "published_date": "2026-04-02T13:40:11Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: PM Carney should heed Poilievre's call for gas tax cuts",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-pierre-poilievre-gas-tax-cuts",
+      "published_date": "2026-04-02T13:16:12Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Hundreds of youths hunt jobs at UWindsor career expo",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/hundreds-of-youths-hunt-jobs-at-uwindsor-career-expo",
+      "published_date": "2026-04-02T13:00:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Amherstburg secures $838K in provincial funding to ready industrial park for new jobs",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/amherstburg-secures-838k-in-provincial-funding-to-ready-industrial-park-for-new-jobs",
+      "published_date": "2026-04-02T11:00:59Z",
+      "category": "Economy"
     },
     {
       "title": "Court fines visitors for 2 dog incidents in B.C. national parks",
@@ -424,171 +459,143 @@
       "category": "Economy"
     },
     {
-      "title": "Ontario budget leans on existing supports, limited new aid for key sectors",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/ontario-budget-leans-on-existing-supports-limited-new-aid-for-key-sectors",
-      "published_date": "2026-03-27T14:00:19Z",
-      "category": "Economy"
+      "title": "What's open and closed in Pembroke and Petawawa over Easter weekend",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/whats-open-and-closed-in-pembroke-and-petawawa-over-easter-weekend",
+      "published_date": "2026-04-02T14:34:04Z",
+      "category": "Local Events"
     },
     {
-      "title": "Liberal MP Michael Ma downplays reports on China using forced labour",
+      "title": "Why Basement Flooding Is Rising in Ontario and How Homeowners Can Prevent It",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/04/02/why-basement-flooding-is-rising-in-ontario-and-how-homeowners-can-prevent-it/",
+      "published_date": "2026-04-02T14:26:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: This Passover sees Toronto Police carrying semi-automatic rifles outside synagogues",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/liberal-mp-michael-ma-china-forced-labour",
-      "published_date": "2026-03-27T01:45:01Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/toronto-police-carrying-semi-automatic-rifles-outside-synagogues",
+      "published_date": "2026-04-02T14:22:06Z",
+      "category": "Local Events"
     },
     {
-      "title": "Aquilinis distance themselves from labour contractor under U.S. federal indictment",
+      "title": "Surrey police appeal for witnesses in pedestrian hit-and-run collision",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/aquilinis-look-to-distance-themselves-from-labour-contractor-under-u-s-federal-indictment",
-      "published_date": "2026-03-27T01:43:54Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/surrey-police-appeal-for-witnesses-in-pedestrian-hit-and-run-collision",
+      "published_date": "2026-04-02T14:06:24Z",
+      "category": "Local Events"
     },
     {
-      "title": "United Airlines introducing 'Relax Row' seats that convert into a bed",
+      "title": "Hershey to return to classic recipe for all Reese’s products after criticism: 'IT WAS NOT EDIBLE'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/united-airlines-introducing-relax-row-seats-convert-into-bed",
-      "published_date": "2026-03-26T23:18:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C. fighter victorious in Texas Brazilian jiu jitsu debut",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/01/b-c-fighter-victorious-in-texas-brazilian-jiu-jitsu-debut/",
-      "published_date": "2026-04-02T00:00:00Z",
+      "url": "https://torontosun.com/life/food/hershey-classic-recipe-reeses-products-after-criticism",
+      "published_date": "2026-04-02T14:03:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Canadian activist's ship collides with krill trawler near Antarctica",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/canadian-activist-ship-collides-krill-trawler",
-      "published_date": "2026-04-01T23:28:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspects sought after alleged hotel-room shenanigans; cops probe indecent acts",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspects-sought-downtown-hotel-room-robbery",
-      "published_date": "2026-04-01T23:19:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tumbler Ridge RCMP say firearm disposal not linked with recent shooting",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/01/tumbler-ridge-rcmp-say-firearm-disposal-not-linked-with-recent-shooting/",
-      "published_date": "2026-04-01T22:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Skier dies in Rogers Pass after ‘sluff’ knocks them 600 metres down peak",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/01/skier-dies-in-rogers-pass-after-sluff-knocks-them-600-metres-down-peak/",
-      "published_date": "2026-04-01T22:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TTC mulls better streetcar service, earlier Sunday starts",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ttc-mulls-better-streetcar-service-earlier-sunday-starts",
-      "published_date": "2026-04-01T22:44:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHOTOS: Senior curlers bring skill, camaraderie to B.C. championship in Chilliwack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/01/photos-senior-curlers-bring-skill-camaraderie-to-b-c-championship-in-chilliwack/",
-      "published_date": "2026-04-01T22:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.: 15 bestselling books for the week of March 28",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/bc-bestselling-books-week-of-march-28",
-      "published_date": "2026-04-01T22:06:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fox News host Greg Gutfeld mocks 'equity card' arguments at NDP convention",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/fox-host-greg-gutfeld-mocks-ndp",
-      "published_date": "2026-04-01T22:04:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "British Columbians declare 15,600 assault-style firearms in buyback program",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/01/british-columbians-declare-15600-assault-style-firearms-in-buyback-program/",
-      "published_date": "2026-04-01T22:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-speaker disputes Sask Party MLA's claims over subletting constituency office",
+      "title": "Enjoy the Easter break with family: Five things to do this weekend in Saskatoon, April 3-5",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/ex-speaker-disputes-sask-party-mlas-claims-over-subletting-constituency-office",
-      "published_date": "2026-04-01T21:47:03Z",
+      "url": "https://thestarphoenix.com/entertainment/local-arts/enjoy-the-easter-break-with-family-five-things-to-do-this-weekend-in-saskatoon-april-3-5",
+      "published_date": "2026-04-02T14:00:53Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. man calling on feds to declare dementia a national health emergency",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/01/b-c-man-calling-on-feds-to-declare-dementia-a-national-health-emergency/",
-      "published_date": "2026-04-01T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LIVE: Watch NASA’s Artemis II launch",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/live-watch-nasas-artemis-ii-launch",
-      "published_date": "2026-04-01T21:21:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two more guilty pleas in fatal Saskatoon shooting of Jason Horse",
+      "title": "Health authority disputes NDP claims over Saskatoon ERs bypass status",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/two-more-guilty-pleas-in-fatal-saskatoon-shooting-of-jason-horse",
-      "published_date": "2026-04-01T21:19:45Z",
+      "url": "https://thestarphoenix.com/news/local-news/health-authority-disputes-ndp-claims-over-saskatoon-ers-bypass-status",
+      "published_date": "2026-04-02T14:00:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Dog lost in New Zealand wilderness reunited with owner after waterfall plunge",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/dog-lost-new-zealand-wilderness-found",
-      "published_date": "2026-04-01T21:18:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY UNLEASHED: Canada’s gun buyback program an epic failure",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/lilley-unleashed-canadas-gun-buyback-program-an-epic-failure",
-      "published_date": "2026-04-01T21:10:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quebec coroner orders public inquiry into deaths of unhoused Montrealers",
-      "source": "Toronto Sun",
-      "url": "http://torontosun.com/montreal-news/quebec-coroner-orders-public-inquiry-into-deaths-of-unhoused-montrealers/wcm/bccb58f1-cf2a-4735-bbb9-7eee7133af30",
-      "published_date": "2026-04-01T20:47:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Really tragic' — Windsor killer guilty of manslaughter, not murder",
+      "title": "Stellantis has 'strong start' on 2026 minivan sales as new Windsor-built Pacifica unveiled",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/really-tragic-case-windsor-killer-guilty-of-manslaughter-not-murder",
-      "published_date": "2026-04-01T20:46:01Z",
+      "url": "https://windsorstar.com/news/local-news/stellantis-has-strong-start-on-2026-minivan-sales-as-new-windsor-built-pacifica-unveiled",
+      "published_date": "2026-04-02T13:46:56Z",
       "category": "Local Events"
     },
     {
-      "title": "‘Happy little guy’: Bear cub rescued near Kamloops named Jelly",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/01/happy-little-guy-bear-cub-rescued-near-kamloops-named-jelly/",
-      "published_date": "2026-04-01T20:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bill 26: Alberta aims to assert greater control over immigration, create employer registry for foreign workers",
+      "title": "JAY GOLDBERG: Ontario and feds take steps on housing but more are needed",
       "source": "Toronto Sun",
-      "url": "http://torontosun.com/news/politics/alberta-immigration-foreign-workers/wcm/6004566b-2c05-4483-b008-22ee79c979cf",
-      "published_date": "2026-04-01T20:43:02Z",
+      "url": "https://torontosun.com/opinion/columnists/ontario-canada-housing-steps-more-needed",
+      "published_date": "2026-04-02T13:21:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ted Bundy's body count grows with DNA link to 1974 cold case murder of Utah teen",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/ted-bundy-dna-1974-cold-case-murder-laura-ann-aime",
+      "published_date": "2026-04-02T13:05:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three casual Japanese restaurants add vitality to one Vancouver block",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/local-food-reviews/three-casual-japanese-restaurants-vancouver",
+      "published_date": "2026-04-02T13:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brian Minter: Add these B.C. gardening sales and events to your spring calendar",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/brian-minter-bc-spring-gardening-sales",
+      "published_date": "2026-04-02T13:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. reduces supports for families with sick kids, a year after previous changes were reversed",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-reduces-supports-for-families-with-sick-kids-medical-travel",
+      "published_date": "2026-04-02T13:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. high court gives go-ahead to class-action suit filed to recoup damages from 2021 Abbotsford flooding",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/abbotsford-wins-partial-victory-in-appeal-over-class-action-suit-filed-to-recoup-flood-damages",
+      "published_date": "2026-04-02T13:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Easter recipes: From sweet to savoury, try these 5 creations by Vancouver chefs",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/easter-recipes-from-sweet-to-savoury-try-these-5-creations-by-vancouver-chefs",
+      "published_date": "2026-04-02T13:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Designer Jonathan Adler brings colourful home decor, DIYs to Canada",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/designer-jonathan-adler-brings-colourful-home-decor-diys-to-canada",
+      "published_date": "2026-04-02T13:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup Watch Parties: North Vancouver and Langford join the fun",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/world-cup-watch-parties-north-vancouver-langford",
+      "published_date": "2026-04-02T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Owner of Whistler Blackcomb ski resort sued in U.S. class action over ski pass prices",
+      "source": "Toronto Sun",
+      "url": "http://torontosun.com/news/local-news/owner-of-whistler-blackcomb-ski-resort-sued-in-u-s-class-action-over-ski-pass-prices/wcm/3fd8a705-6259-4954-b3fc-6bf2af8163bf",
+      "published_date": "2026-04-02T12:52:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Counterconditioning: A deeper look at emotional learning",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/02/counterconditioning-a-deeper-look-at-emotional-learning/",
+      "published_date": "2026-04-02T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nature Nut",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/02/nature-nut-3/",
+      "published_date": "2026-04-02T12:30:00Z",
       "category": "Local Events"
     }
   ]
