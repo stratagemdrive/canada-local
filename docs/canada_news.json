@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T11:54:49Z",
+  "generated_at": "2026-04-04T23:59:49Z",
   "country": "Canada",
   "total_stories": 82,
   "categories": [
@@ -200,6 +200,20 @@
       "category": "Military"
     },
     {
+      "title": "B.C. climate news: Mark Carney announces $3.8 billion to protect nature &#124; B.C. government relaxes 2035 zero-emission vehicle sales mandate",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-april-5-26",
+      "published_date": "2026-04-04T16:47:41Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Opinion: Saskatchewan does not collect from its oil and minerals",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-saskatchewan-does-not-collect-from-its-oil-and-minerals",
+      "published_date": "2026-04-04T13:00:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Oil Kings 'skilled players' take over in 5-2 playoff win over Blades",
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/sports/oil-kings-skilled-players-take-over-in-5-2-playoff-win-over-blades",
@@ -291,18 +305,11 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. climate news: Future heat danger differs starkly for rich and poor countries &#124; Canadian scientists studying climate impacts return from Antarctic &#124; Heat pumps now required in all new builds in U.K.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-march-29-26",
-      "published_date": "2026-03-28T18:05:44Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Letters: Federal political compensation in Ottawa is out of hand",
+      "title": "Opinion: Sask Polytechnic CEO outlines fixes for Canada’s labour crisis",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/letters/letters-federal-political-compensation-in-ottawa-is-out-of-hand",
-      "published_date": "2026-03-28T13:00:41Z",
-      "category": "Energy"
+      "url": "https://thestarphoenix.com/opinion/letters/opinion-sask-polytechnic-ceo-outlines-fixes-for-canadas-labour-crisis",
+      "published_date": "2026-04-04T13:30:04Z",
+      "category": "Economy"
     },
     {
       "title": "EDITORIAL: Strong medicine for what ails health care",
@@ -438,150 +445,143 @@
       "category": "Economy"
     },
     {
-      "title": "Avi Lewis calls for party unity after being elected NDP leader on 1st ballot",
+      "title": "Jewish-owned restaurant in North York shot up",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/federal-ndp-leader-being-announced-sunday",
-      "published_date": "2026-03-29T15:08:27Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Saskatoon house fire results in one fatality",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatoon-house-fire-results-in-one-fatality",
-      "published_date": "2026-04-03T23:13:01Z",
+      "url": "https://torontosun.com/news/local-news/jewish-owned-restaurant-north-york-shot-up",
+      "published_date": "2026-04-04T22:55:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Can $3-billion LRT bring waterfront’s big dreams to life?",
+      "title": "Young man and teen boy shot dead outside Brampton school",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/waterfront-east-lrt-queens-quay-transformation",
-      "published_date": "2026-04-03T22:01:34Z",
+      "url": "https://torontosun.com/news/local-news/man-teen-boy-shot-dead-outside-brampton-school",
+      "published_date": "2026-04-04T21:40:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Bulls and Bears: Canadian teams pique interest as NHL playoffs near",
+      "title": "Man, 28, charged in deadly 2025 shooting in Scarborough",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-charged-deadly-2025-shooting-scarborough",
+      "published_date": "2026-04-04T20:57:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several brands of meal kits, shredded cheese sold in B.C. recalled over possible listeria contamination",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/sports/hockey/nhl/bulls-and-bears-canadian-teams-pique-interest-as-nhl-playoffs-near",
-      "published_date": "2026-04-03T21:44:41Z",
+      "url": "https://vancouversun.com/news/meal-kits-shredded-cheese-sold-bc-recalled-possible-listeria-contamination",
+      "published_date": "2026-04-04T20:22:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Canada’s 7th Most Wanted Arrested in Surrey, B.C.",
+      "title": "ELDER: California think-alike Democrats cancel debate over 'lack of diversity'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/california-democrats-cancel-debate-over-lack-of-diversity",
+      "published_date": "2026-04-04T20:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Canada 2026 – wishes vs reality",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/editorial-canada-2026-wishes-reality",
+      "published_date": "2026-04-04T19:03:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Adam Sandler spotted in B.C. while filming movie",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/03/canadas-7th-most-wanted-arrested-in-surrey-b-c/",
-      "published_date": "2026-04-03T21:43:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/04/adam-sandler-spotted-in-b-c-while-filming-movie/",
+      "published_date": "2026-04-04T18:41:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Federal offender caught; Brampton boy accused of vandalizing Tamil memorial",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/federal-offender-caught-brampton-boy-charged-tamil-memorial-vandalism",
-      "published_date": "2026-04-03T20:38:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Hells Angel facing new Ontario murder charge",
+      "title": "Recipe: French Onion Chicken and Spinach Lasagna Rolls a cheesy treat",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/bc-hells-angel-ontario-murder-charge",
-      "published_date": "2026-04-03T20:28:50Z",
+      "url": "https://vancouversun.com/life/food/recipe-french-onion-chicken-and-spinach-lasagna-rolls-a-cheesy-treat",
+      "published_date": "2026-04-04T18:00:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Regional governance changes garner mixed reaction",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/regional-governance-changes-garner-mixed-reaction",
-      "published_date": "2026-04-03T20:22:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto's Top 5 historic movie theatres according to Sun readers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-top-5-historic-movie-theatres",
-      "published_date": "2026-04-03T20:13:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SNOBELEN: Ontario government fighting to make new homes more affordable",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/snobelen-ontario-government-new-homes-more-affordable",
-      "published_date": "2026-04-03T20:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ousted guitarist accused of hitting Turnstile frontman's dad with car",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/ousted-guitarist-accused-hitting-turnstile-frontmans-dad-car",
-      "published_date": "2026-04-03T19:30:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police investigate early-morning shooting at Delta residence",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/police-investigate-early-morning-shooting-at-delta-residence",
-      "published_date": "2026-04-03T19:04:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Good Friday procession winds through Amherstburg",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/good-friday-procession-winds-through-amherstburg",
-      "published_date": "2026-04-03T18:41:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Beyond baseball' — Sports and party lovers flood downtown Detroit for Tigers home opener",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/beyond-baseball-sports-and-party-lovers-flood-downtown-detroit-for-tigers-home-opener",
-      "published_date": "2026-04-03T18:33:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SHA releases spring COVID-19 vaccine eligibility for Sask.",
+      "title": "Saskatoon police investigating single vehicle fatal rollover",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/sha-releases-spring-covid-19-vaccine-eligibility-for-sask",
-      "published_date": "2026-04-03T18:26:59Z",
+      "url": "https://thestarphoenix.com/news/local-news/saskatoon-police-investigating-single-vehicle-fatal-rollover",
+      "published_date": "2026-04-04T16:23:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor police arrest two assault suspects, search for youth",
+      "title": "GOLDSTEIN: Mark Carney’s ‘carbon border adjustment mechanism’ will cost you",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carneys-carbon-border-adjustment-mechanism-will-cost-you",
+      "published_date": "2026-04-04T15:44:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: King crucified on social media even though he attended Easter mass",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/king-crucified-social-media-attended-easter-mass",
+      "published_date": "2026-04-04T15:27:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A tale of two Surreys: Can B.C.&#039;s second-largest city bridge its north-south divide?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/two-surreys-can-bc-second-largest-city-bridge-its-north-south-divide",
+      "published_date": "2026-04-04T15:00:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1947: Lost will allegedly found, worth $800 million",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1947-lost-will-allegedly-found-worth-800-million",
+      "published_date": "2026-04-04T15:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: The greatest wines are like Formula 1 — these picks win the race",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/anthony-gismondi-greatest-wines-like-formula-1-these-picks-win",
+      "published_date": "2026-04-04T15:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHARLEBOIS: Sticky Truth About Food Fraud",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/charlebois-sticky-truth-food-fraud",
+      "published_date": "2026-04-04T14:52:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Be patient' — Major road work scheduled throughout Windsor this year",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-two-assault-suspects-search-for-youth",
-      "published_date": "2026-04-03T18:25:53Z",
+      "url": "https://windsorstar.com/news/local-news/be-patient-major-road-work-scheduled-throughout-windsor-this-year",
+      "published_date": "2026-04-04T14:34:59Z",
       "category": "Local Events"
     },
     {
-      "title": "A lash lift can boost your bridal beauty look. Here&#039;s how",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/a-lash-lift-can-boost-your-bridal-beauty-look-heres-how",
-      "published_date": "2026-04-03T18:00:29Z",
+      "title": "Help control the pet population at new spay and neuter clinic",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/help-control-pet-population-new-spay-neuter-clinic",
+      "published_date": "2026-04-04T14:29:52Z",
       "category": "Local Events"
     },
     {
-      "title": "International: 30 bestselling books of the week for March 28",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/international-30-bestselling-books-of-the-week-for-march-28",
-      "published_date": "2026-04-03T18:00:15Z",
+      "title": "Opinion: Protecting Saskatchewan’s cultural life means investing in the arts",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-protecting-saskatchewans-cultural-life-means-investing-in-the-arts",
+      "published_date": "2026-04-04T14:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Disguised Winnipeg murder suspect arrested in Surrey",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/disguised-winnipeg-murder-suspect-arrested-in-surrey",
-      "published_date": "2026-04-03T17:27:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prince George RCMP investigate after object strikes paramedic inside ambulance",
+      "title": "Robert Barron column: I hope I get to see humans walk on Mars",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/03/prince-george-rcmp-investigate-after-object-strikes-paramedic-inside-ambulance/",
-      "published_date": "2026-04-03T16:05:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/04/robert-barron-column-i-hope-i-get-to-see-humans-walk-on-mars/",
+      "published_date": "2026-04-04T12:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "No April Fools — Windsor police lay 91 charges in single-day traffic blitz",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/no-april-fools-windsor-police-lay-91-charges-in-single-day-traffic-blitz",
-      "published_date": "2026-04-03T14:45:39Z",
+      "title": "Langford diver goes deep in the Saanich Inlet to reveal ancient species",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/04/langford-diver-goes-deep-in-the-saanich-inlet-to-reveal-ancient-species/",
+      "published_date": "2026-04-04T12:30:00Z",
       "category": "Local Events"
     }
   ]
