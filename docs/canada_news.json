@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T00:02:15Z",
+  "generated_at": "2026-04-04T11:54:49Z",
   "country": "Canada",
   "total_stories": 82,
   "categories": [
@@ -58,6 +58,13 @@
       "url": "https://torontosun.com/news/world/north-korea-conducts-engine-test-for-missile-capable-of-targeting-u-s-mainland",
       "published_date": "2026-03-29T15:24:28Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "One service member rescued, one missing after two U.S. fighter jets downed in Iran",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/u-s-launches-rescue-operation-after-iran-claims-fighter-jet-went-down",
+      "published_date": "2026-04-03T16:21:14Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: Oil surges after Trump's speech, Tehran remains defiant",
@@ -190,13 +197,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/air-canada-cancels-ceo-michael-rousseau-over-language-politics",
       "published_date": "2026-03-30T13:42:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Finland warns drone activity to continue after airspace breaches",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/finland-warns-drone-activity-to-continue-after-airspace-breaches",
-      "published_date": "2026-03-29T22:40:28Z",
       "category": "Military"
     },
     {
