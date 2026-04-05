@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-04T23:59:49Z",
+  "generated_at": "2026-04-05T11:56:46Z",
   "country": "Canada",
-  "total_stories": 82,
+  "total_stories": 84,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Could Donald Trump follow through on his threats to quit NATO?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/could-donald-trump-quit-nato",
+      "published_date": "2026-04-04T17:11:20Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Letters to The Sun: Puzzled that former mayor&#039;s six-month consulting contract on DTES did not deliver an interim report",
       "source": "Vancouver Sun",
@@ -58,6 +65,20 @@
       "url": "https://torontosun.com/news/world/north-korea-conducts-engine-test-for-missile-capable-of-targeting-u-s-mainland",
       "published_date": "2026-03-29T15:24:28Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Trump gives Iran 48 hours to open Strait of Hormuz",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trump-gives-iran-48-hours-open-strait-hormuz",
+      "published_date": "2026-04-04T23:38:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo XIV calls for harmony and peace in a world torn by war in his first Easter vigil",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/pope-leo-xiv-calls-for-harmony-and-peace-in-a-world-torn-by-war-in-his-first-easter-vigil",
+      "published_date": "2026-04-04T23:22:37Z",
+      "category": "Military"
     },
     {
       "title": "One service member rescued, one missing after two U.S. fighter jets downed in Iran",
@@ -186,18 +207,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: Trump considers seizing Iran's Kharg Island oil terminal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-march-30",
-      "published_date": "2026-03-30T14:51:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "LILLEY: Air Canada cancels CEO Michael Rousseau over language politics",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/air-canada-cancels-ceo-michael-rousseau-over-language-politics",
-      "published_date": "2026-03-30T13:42:28Z",
-      "category": "Military"
+      "title": "Blades one win from advancing after 4-2 playoff win over Oil Kings",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/blades-one-win-from-advancing-after-4-2-playoff-win-over-oil-kings",
+      "published_date": "2026-04-05T00:03:28Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. climate news: Mark Carney announces $3.8 billion to protect nature &#124; B.C. government relaxes 2035 zero-emission vehicle sales mandate",
@@ -445,6 +459,20 @@
       "category": "Economy"
     },
     {
+      "title": "Keller nets 3 as visiting Utah Mammoth take down Canucks 7-4",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/04/keller-nets-3-as-visiting-utah-mammoth-take-down-canucks-7-4/",
+      "published_date": "2026-04-05T02:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tumbler Ridge nets Kraft Hockeyville runner-up prize; Alberta town crowned winner",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/alberta-town-crowned-2026-kraft-hockeyville-tumbler-ridge-nets-runner-up",
+      "published_date": "2026-04-05T01:26:03Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Jewish-owned restaurant in North York shot up",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/jewish-owned-restaurant-north-york-shot-up",
@@ -473,10 +501,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Canadian Space Agency’s first space-to-Earth video call with Col. Jeremy Hansen",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-space-agencys-space-earth-video-call-jeremy-hansen",
+      "published_date": "2026-04-04T20:08:03Z",
+      "category": "Local Events"
+    },
+    {
       "title": "ELDER: California think-alike Democrats cancel debate over 'lack of diversity'",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/california-democrats-cancel-debate-over-lack-of-diversity",
       "published_date": "2026-04-04T20:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. revokes green cards and visas of several Iranian nationals connected to Tehran government",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/us-revokes-green-cards-visas-iranian-nationals-connected-tehran-government",
+      "published_date": "2026-04-04T19:49:57Z",
       "category": "Local Events"
     },
     {
@@ -554,34 +596,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/be-patient-major-road-work-scheduled-throughout-windsor-this-year",
       "published_date": "2026-04-04T14:34:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Help control the pet population at new spay and neuter clinic",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/help-control-pet-population-new-spay-neuter-clinic",
-      "published_date": "2026-04-04T14:29:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Protecting Saskatchewan’s cultural life means investing in the arts",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-protecting-saskatchewans-cultural-life-means-investing-in-the-arts",
-      "published_date": "2026-04-04T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Robert Barron column: I hope I get to see humans walk on Mars",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/04/robert-barron-column-i-hope-i-get-to-see-humans-walk-on-mars/",
-      "published_date": "2026-04-04T12:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Langford diver goes deep in the Saanich Inlet to reveal ancient species",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/04/langford-diver-goes-deep-in-the-saanich-inlet-to-reveal-ancient-species/",
-      "published_date": "2026-04-04T12:30:00Z",
       "category": "Local Events"
     }
   ]
