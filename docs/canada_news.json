@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-05T11:56:46Z",
+  "generated_at": "2026-04-06T00:02:57Z",
   "country": "Canada",
-  "total_stories": 84,
+  "total_stories": 79,
   "categories": [
     "Diplomacy",
     "Military",
@@ -53,18 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Air Canada flight attendant suffered 'horrifying' wounds in LaGuardia crash",
+      "title": "IRAN WAR UPDATES: Trump drops F-bomb in new threat to Iran, missing U.S. airman rescued",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/air-canada-flight-attendant-horrifying-wounds",
-      "published_date": "2026-03-29T21:05:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "North Korea conducts engine test for missile capable of targeting U.S. mainland",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/north-korea-conducts-engine-test-for-missile-capable-of-targeting-u-s-mainland",
-      "published_date": "2026-03-29T15:24:28Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-updates-trump-drops-f-bomb-in-new-threat-to-iran-missing-u-s-airman-rescued",
+      "published_date": "2026-04-05T17:04:02Z",
+      "category": "Military"
     },
     {
       "title": "Trump gives Iran 48 hours to open Strait of Hormuz",
@@ -200,13 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "B.C. firms that rely on helium not fretting about shortages — yet",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/iran-war-global-helium-shortage-bc",
-      "published_date": "2026-03-30T15:44:32Z",
-      "category": "Military"
-    },
-    {
       "title": "Blades one win from advancing after 4-2 playoff win over Oil Kings",
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/sports/blades-one-win-from-advancing-after-4-2-playoff-win-over-oil-kings",
@@ -295,27 +281,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/russian-tanker-heads-to-cuba-despite-u-s-oil-blockade",
       "published_date": "2026-03-30T13:03:40Z",
-      "category": "Energy"
-    },
-    {
-      "title": "B.C. Hydro to break down Site C camp and reuse for transmission line project",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-hydro-break-down-site-c-camp-reuse-transmission-line-project",
-      "published_date": "2026-03-29T23:29:53Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Avi Lewis's 'unrealistic' energy policies slammed by Prairie NDP leaders",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/avi-lewis-slammed-prairie-ndp-leaders",
-      "published_date": "2026-03-29T18:48:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "In wrangling dark matter, scientists find inspiration in Torah, Krishna and Christ",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/in-wrangling-dark-matter-scientists-find-inspiration-in-torah-krishna-and-christ",
-      "published_date": "2026-03-29T14:56:20Z",
       "category": "Energy"
     },
     {
@@ -459,6 +424,55 @@
       "category": "Economy"
     },
     {
+      "title": "&#039;15 years of neglect&#039;: Vancouver park board calls for $1.35 billion to tackle repair backlog",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-park-board-asking-historic-recreational-infrastructure",
+      "published_date": "2026-04-05T20:50:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro Vancouver weather: Winds gusting to 70 km/h coming on Monday",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-weather-winds-gusting-to-70-km-h-coming-on-monday",
+      "published_date": "2026-04-05T17:56:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "York Region unveils new tunnels for Jefferson salamanders",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/york-region-unveils-new-tunnels-for-jefferson-salamanders",
+      "published_date": "2026-04-05T16:18:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Motorcyclist, 21, dead following afternoon crash: Toronto cops",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/cops-seek-suspects-in-church-wellesley-assault",
+      "published_date": "2026-04-05T16:01:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "22-year-old woman charged in connection to February homicide in Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/22-year-old-woman-charged-in-connection-to-homicide",
+      "published_date": "2026-04-05T13:52:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: Do you have an example of how language failed?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-do-you-have-an-example-of-how-language-failed",
+      "published_date": "2026-04-05T13:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: A celebration of Easter",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/05/quiz-a-celebration-of-easter-2/",
+      "published_date": "2026-04-05T12:20:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Keller nets 3 as visiting Utah Mammoth take down Canucks 7-4",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/04/keller-nets-3-as-visiting-utah-mammoth-take-down-canucks-7-4/",
@@ -547,55 +561,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/local-news/saskatoon-police-investigating-single-vehicle-fatal-rollover",
       "published_date": "2026-04-04T16:23:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GOLDSTEIN: Mark Carney’s ‘carbon border adjustment mechanism’ will cost you",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carneys-carbon-border-adjustment-mechanism-will-cost-you",
-      "published_date": "2026-04-04T15:44:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: King crucified on social media even though he attended Easter mass",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/king-crucified-social-media-attended-easter-mass",
-      "published_date": "2026-04-04T15:27:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A tale of two Surreys: Can B.C.&#039;s second-largest city bridge its north-south divide?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/two-surreys-can-bc-second-largest-city-bridge-its-north-south-divide",
-      "published_date": "2026-04-04T15:00:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1947: Lost will allegedly found, worth $800 million",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1947-lost-will-allegedly-found-worth-800-million",
-      "published_date": "2026-04-04T15:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: The greatest wines are like Formula 1 — these picks win the race",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-greatest-wines-like-formula-1-these-picks-win",
-      "published_date": "2026-04-04T15:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHARLEBOIS: Sticky Truth About Food Fraud",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/charlebois-sticky-truth-food-fraud",
-      "published_date": "2026-04-04T14:52:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Be patient' — Major road work scheduled throughout Windsor this year",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/be-patient-major-road-work-scheduled-throughout-windsor-this-year",
-      "published_date": "2026-04-04T14:34:59Z",
       "category": "Local Events"
     }
   ]
