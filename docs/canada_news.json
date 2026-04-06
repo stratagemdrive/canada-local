@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T00:02:57Z",
+  "generated_at": "2026-04-06T14:16:23Z",
   "country": "Canada",
-  "total_stories": 79,
+  "total_stories": 78,
   "categories": [
     "Diplomacy",
     "Military",
@@ -51,6 +51,13 @@
       "url": "https://torontosun.com/news/national/ndp-leadership-convention-equity-cards",
       "published_date": "2026-03-30T14:16:26Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Israel says it attacked South Pars plant; Iran, U.S. receive ceasefire proposal",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-6",
+      "published_date": "2026-04-06T11:22:58Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: Trump drops F-bomb in new threat to Iran, missing U.S. airman rescued",
@@ -186,11 +193,11 @@
       "category": "Military"
     },
     {
-      "title": "VIDEO: Victoria councillor calls for AI regulation using AI rendering",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/03/30/video-victoria-councillor-calls-for-ai-regulation-using-ai-rendering/",
-      "published_date": "2026-03-31T00:00:00Z",
-      "category": "Military"
+      "title": "Oil Kings force Game 7 after 3-2 double-OT win over Blades",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/oil-kings-force-game-7-after-3-2-double-ot-win-over-blades",
+      "published_date": "2026-04-06T02:18:13Z",
+      "category": "Energy"
     },
     {
       "title": "Blades one win from advancing after 4-2 playoff win over Oil Kings",
@@ -270,18 +277,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saskatoon Blades, Edmonton Oil Kings series tied 1-1 in WHL playoffs",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/saskatoon-blades-edmonton-oil-kings-series-tied-1-1-in-whl-playoffs",
-      "published_date": "2026-03-30T13:37:40Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Russian tanker heads to Cuba despite U.S. oil blockade",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/russian-tanker-heads-to-cuba-despite-u-s-oil-blockade",
-      "published_date": "2026-03-30T13:03:40Z",
-      "category": "Energy"
+      "title": "Opinion: Doug Ford’s budget continues Ontario borrowing binge",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/opinion-doug-fords-budget-continues-ontario-borrowing-binge",
+      "published_date": "2026-04-06T11:30:05Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: Sask Polytechnic CEO outlines fixes for Canada’s labour crisis",
@@ -417,11 +417,67 @@
       "category": "Economy"
     },
     {
-      "title": "Priority-based budgeting model not a priority for Saskatoon city council",
+      "title": "Jeremy Hansen, Artemis II's lunar flyby: When and how to watch",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/jeremy-hansen-artemis-iis-lunar-flyby-when-and-how-to-watch",
+      "published_date": "2026-04-06T14:06:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Walpole man facing firearms charges frustrated in court",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/walpole-man-facing-firearms-charges-frustrated-in-court",
+      "published_date": "2026-04-06T14:02:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strong wind, ‘operating limits’ put Victoria/Vancouver ferry sailings at risk",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/06/strong-wind-operating-limits-put-victoria-vancouver-ferry-sailings-at-risk/",
+      "published_date": "2026-04-06T13:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comber's Linda McKinlay honoured as namesake square officially opens",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/combers-linda-mckinlay-honoured-as-namesake-square-officially-opens",
+      "published_date": "2026-04-06T13:39:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA World Cup: Given those expensive game tickets, will Vancouver avoid massive parking costs?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/world-cup-2026-vancouver-parking-ticket-prices",
+      "published_date": "2026-04-06T13:32:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Devastating crashes&#039;: A sense of urgency cited for increased median dividers along B.C.&#039;s Sea to Sky corridor",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/sea-to-sky-crashes-median-dividers",
+      "published_date": "2026-04-06T13:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sports roundup: Saskatoon Westleys take lead in PJHL final",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/priority-based-budgeting-model-not-a-priority-for-saskatoon-city-council",
-      "published_date": "2026-03-30T18:46:16Z",
-      "category": "Economy"
+      "url": "https://thestarphoenix.com/sports/local-sports/sports-roundup-saskatoon-westleys-take-lead-in-pjhl-final",
+      "published_date": "2026-04-06T02:28:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mechanical woes lead to several Easter long weekend B.C. Ferries cancellations",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/mechanical-woes-lead-to-several-easter-long-weekend-bc-ferries-cancellations",
+      "published_date": "2026-04-06T02:11:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chilliwack Chiefs win 6-hour game in 4th overtime",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/05/chilliwack-chiefs-win-6-hour-game-in-4th-overtime/",
+      "published_date": "2026-04-06T00:11:00Z",
+      "category": "Local Events"
     },
     {
       "title": "&#039;15 years of neglect&#039;: Vancouver park board calls for $1.35 billion to tackle repair backlog",
@@ -498,69 +554,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/man-teen-boy-shot-dead-outside-brampton-school",
       "published_date": "2026-04-04T21:40:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 28, charged in deadly 2025 shooting in Scarborough",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-charged-deadly-2025-shooting-scarborough",
-      "published_date": "2026-04-04T20:57:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several brands of meal kits, shredded cheese sold in B.C. recalled over possible listeria contamination",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/meal-kits-shredded-cheese-sold-bc-recalled-possible-listeria-contamination",
-      "published_date": "2026-04-04T20:22:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian Space Agency’s first space-to-Earth video call with Col. Jeremy Hansen",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-space-agencys-space-earth-video-call-jeremy-hansen",
-      "published_date": "2026-04-04T20:08:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ELDER: California think-alike Democrats cancel debate over 'lack of diversity'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/california-democrats-cancel-debate-over-lack-of-diversity",
-      "published_date": "2026-04-04T20:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. revokes green cards and visas of several Iranian nationals connected to Tehran government",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/us-revokes-green-cards-visas-iranian-nationals-connected-tehran-government",
-      "published_date": "2026-04-04T19:49:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Canada 2026 – wishes vs reality",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-canada-2026-wishes-reality",
-      "published_date": "2026-04-04T19:03:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Adam Sandler spotted in B.C. while filming movie",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/04/adam-sandler-spotted-in-b-c-while-filming-movie/",
-      "published_date": "2026-04-04T18:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Recipe: French Onion Chicken and Spinach Lasagna Rolls a cheesy treat",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/recipe-french-onion-chicken-and-spinach-lasagna-rolls-a-cheesy-treat",
-      "published_date": "2026-04-04T18:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatoon police investigating single vehicle fatal rollover",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatoon-police-investigating-single-vehicle-fatal-rollover",
-      "published_date": "2026-04-04T16:23:26Z",
       "category": "Local Events"
     }
   ]
