@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-07T05:30:04Z",
+  "generated_at": "2026-04-07T14:58:27Z",
   "country": "Canada",
-  "total_stories": 75,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -32,11 +32,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Canadian hockey star Sarah Nurse dishes on her favourite beauty finds",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/canadian-hockey-star-sarah-nurse-dishes-on-her-favourite-beauty-finds",
-      "published_date": "2026-03-31T13:00:01Z",
-      "category": "Diplomacy"
+      "title": "IRAN WAR UPDATES: Trump says 'whole civilization will die tonight' as deadline for attacks on Iran infrastructure nears",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-7",
+      "published_date": "2026-04-07T11:02:36Z",
+      "category": "Military"
     },
     {
       "title": "AGAR: Canadians facing taxing situation at the pumps as Iran war lumbers on",
@@ -172,11 +172,18 @@
       "category": "Military"
     },
     {
-      "title": "MANDEL: Did #MeToo movement lead to unjust prosecution of Frank Stronach?",
+      "title": "Saskatoon Blades win Game 7 OT thriller to eliminate Edmonton Oil Kings",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/hockey/saskatoon-blades/saskatoon-blades-win-game-7-ot-thriller-to-eliminate-edmonton-oil-kings",
+      "published_date": "2026-04-07T13:48:08Z",
+      "category": "Energy"
+    },
+    {
+      "title": "TTC shuts down stretch of Line 2 for hydraulic oil spill: ‘MAJOR SERVICE DISRUPTION’",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/did-metoo-movement-lead-to-unjust-prosecution-of-frank-stronach",
-      "published_date": "2026-04-01T00:34:58Z",
-      "category": "Military"
+      "url": "https://torontosun.com/news/local-news/ttc-shuts-down-stretch-of-line-2-hydraulic-oil-spill",
+      "published_date": "2026-04-07T13:11:07Z",
+      "category": "Energy"
     },
     {
       "title": "Nearly half of Sask. residents' donations in NDP race went to Avi Lewis",
@@ -254,6 +261,13 @@
       "url": "https://thestarphoenix.com/news/local-news/monumental-achievement-groundbreaking-computer-positions-u-of-s-as-key-player-in-quantum-research",
       "published_date": "2026-03-31T19:03:26Z",
       "category": "Energy"
+    },
+    {
+      "title": "Reader letters: Keep ERCA as ERCA; turn Peche into Boblo-type amusement park",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/reader-letters-keep-erca-as-erca-turn-peche-into-boblo-type-amusement-park",
+      "published_date": "2026-04-07T11:22:56Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: It is First Nations that suffer when elected leaders spread fear",
@@ -389,11 +403,67 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. developers pushing for expanded tax rebate to jumpstart housing market",
+      "title": "Hazmat scenario to unfold at Pembroke emergency exercise",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/hazmat-scenario-to-unfold-at-pembroke-emergency-exercise",
+      "published_date": "2026-04-07T14:43:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Upper Ottawa Valley OPP issues several charges in Easter seatbelt blitz",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/upper-ottawa-valley-opp-issue-several-charges-in-easter-seatbelt-blitz",
+      "published_date": "2026-04-07T13:52:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dexter 2.0: Teen allegedly collects dismembered victim's blood on slides",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/teen-allegedly-collects-victims-blood-on-slides",
+      "published_date": "2026-04-07T13:31:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramping up your home&#039;s curb appeal",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-developers-pushing-expanded-tax-rebate-jumpstart-housing-market",
-      "published_date": "2026-04-01T14:27:55Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/homes/updating-your-homes-curb-appeal",
+      "published_date": "2026-04-07T13:22:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor builders, politicians praise $8.8B housing initiative",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-builders-politicians-praise-8-8b-housing-initiative",
+      "published_date": "2026-04-07T13:11:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OneCity&#039;s William Azaroff&#039;s mayoral campaign poster finds folk art in Vancouver cityscapes",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/onecity-william-azaroff-mayoral-campaign-poster-folk-art-vancouver-cityscapes",
+      "published_date": "2026-04-07T13:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Litter of puppies, 2 with bullet wounds, found abandoned near Grand Forks",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/07/litter-of-puppies-2-with-bullet-wounds-found-abandoned-near-grand-forks/",
+      "published_date": "2026-04-07T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aryana Afghan Bakery offers fresh baked naan and other groceries",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/local-business/aryana-afghan-bakery-offers-fresh-baked-naan-and-other-groceries",
+      "published_date": "2026-04-07T12:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Call for bids to rename Duck Lake expires with no takers",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/call-for-bids-to-rename-duck-lake-expires-with-no-takers",
+      "published_date": "2026-04-07T12:00:14Z",
+      "category": "Local Events"
     },
     {
       "title": "10 hectare wildfire sparks near Lytton off Highway 1",
@@ -470,69 +540,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/medical-tourism-to-mexico-grows-as-b-c-residents-languish-on-local-specialist-wait-lists",
       "published_date": "2026-04-06T19:28:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Truck safety blitz on Hwy. 17 nets charges, vehicles sidelined",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/truck-safety-blitz-on-hwy-17-nets-charges-vehicles-sidelined",
-      "published_date": "2026-04-06T19:15:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Richmond Night Market returns this month with a World Cup &#039;one world&#039; theme",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/richmond-night-market-2026-world-cup-theme",
-      "published_date": "2026-04-06T18:46:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke fire chief warns of fire risk from discarded cigarettes",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-fire-chief-warns-of-fire-risk-from-discarded-cigarettes",
-      "published_date": "2026-04-06T18:03:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lotto Max jackpot surges to $75 million for Tuesday's draw",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/kitchener-pairs-anniversary-350k-lotto-win",
-      "published_date": "2026-04-06T18:02:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Body Shop Canada celebrates 50 years",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/the-body-shop-canada-celebrates-50-years",
-      "published_date": "2026-04-06T18:00:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "These are the 3 best beauty products we tried this week",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/these-are-the-3-best-beauty-products-we-tried-this-week-21",
-      "published_date": "2026-04-06T18:00:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chef Hector Laguna makes Pacific Northwest cuisine for Vancouver&#039;s diverse community",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/chef-hector-laguna-makes-pacific-northwest-cuisine-for-vancouvers-diverse-community",
-      "published_date": "2026-04-06T18:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Astronaut Children of Dunbar Street is an intimate recounting of family separated by distance",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/astronaut-children-of-dunbar",
-      "published_date": "2026-04-06T17:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here are the must-see classical music events happening in Vancouver this April",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/must-see-classical-music-events-vancouver-april",
-      "published_date": "2026-04-06T17:00:14Z",
       "category": "Local Events"
     }
   ]
