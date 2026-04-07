@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-06T14:16:23Z",
+  "generated_at": "2026-04-07T05:30:04Z",
   "country": "Canada",
-  "total_stories": 78,
+  "total_stories": 75,
   "categories": [
     "Diplomacy",
     "Military",
@@ -39,18 +39,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "B.C. Conservative Leadership Race: Yuri Fulmer makes deal with Dallas Brodie to &#039;unite the right&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservative-leadership-race-yuri-fulmer-dallas-brodie-deal",
-      "published_date": "2026-03-30T22:03:02Z",
-      "category": "Diplomacy"
+      "title": "AGAR: Canadians facing taxing situation at the pumps as Iran war lumbers on",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/agar-canadians-facing-taxing-situation-at-the-pumps-as-iran-war-lumbers-on",
+      "published_date": "2026-04-07T00:40:08Z",
+      "category": "Military"
     },
     {
-      "title": "'Equity cards' arguments take over NDP Leadership Convention: 'CANADA IS COOKED'",
+      "title": "As airlines raise prices, Canadians choosing different destinations",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/ndp-leadership-convention-equity-cards",
-      "published_date": "2026-03-30T14:16:26Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/national/airlines-raise-prices-canadians-choose-different-destinations",
+      "published_date": "2026-04-06T23:08:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Software glitch prompts recall of 8,000 Volkswagens",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/software-glitch-prompts-recall-of-8000-volkswagens",
+      "published_date": "2026-04-06T22:55:48Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: Israel says it attacked South Pars plant; Iran, U.S. receive ceasefire proposal",
@@ -172,25 +179,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR LATEST: Trump tells allies to ‘go get your own oil’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-march-31",
-      "published_date": "2026-03-31T15:38:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Samidoun dissolved for 'non-compliance' months after being listed as terrorist entity",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/terror-entity-samidoun-dissolved-for-noncompliance",
-      "published_date": "2026-03-31T01:24:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Video of Apache choppers at Kid Rock's house triggers Army investigation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/video-of-apache-choppers-at-kid-rocks-house-triggers-army-investigation",
-      "published_date": "2026-03-31T00:35:34Z",
-      "category": "Military"
+      "title": "Nearly half of Sask. residents' donations in NDP race went to Avi Lewis",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/nearly-half-of-sask-residents-donations-in-ndp-race-went-to-avi-lewis",
+      "published_date": "2026-04-06T19:49:55Z",
+      "category": "Energy"
     },
     {
       "title": "Oil Kings force Game 7 after 3-2 double-OT win over Blades",
@@ -263,18 +256,25 @@
       "category": "Energy"
     },
     {
-      "title": "Renfrew County to cut back on fuel use to save money",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/renfrew-county-to-cut-back-on-fuel-use-to-save-money",
-      "published_date": "2026-03-30T20:18:03Z",
-      "category": "Energy"
+      "title": "Opinion: It is First Nations that suffer when elected leaders spread fear",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-it-is-first-nations-that-suffer-when-elected-leaders-spread-fear",
+      "published_date": "2026-04-06T23:00:31Z",
+      "category": "Economy"
     },
     {
-      "title": "Avi Lewis's 'unrealistic' energy policies slammed by NDP leaders Beck, Nenshi",
+      "title": "HST relief on new homes may take unintended toll on resale prices: Expert",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/hst-relief-on-new-homes-may-take-unintended-toll-on-resale-prices-expert",
+      "published_date": "2026-04-06T22:48:05Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Nearly 800 potholes reported in Saskatoon since late March",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/saskatchewan/avi-lewiss-unrealistic-energy-policies-slammed-by-ndp-leaders-beck-nenshi",
-      "published_date": "2026-03-30T18:13:39Z",
-      "category": "Energy"
+      "url": "https://thestarphoenix.com/news/local-news/nearly-800-potholes-reported-in-saskatoon-since-late-march",
+      "published_date": "2026-04-06T18:18:46Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: Doug Ford’s budget continues Ontario borrowing binge",
@@ -396,164 +396,143 @@
       "category": "Economy"
     },
     {
-      "title": "Robotaxis stall in traffic in apparent 'malfunction' in China’s Wuhan",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/robotaxis-stall-in-traffic-in-apparent-malfunction-in-chinas-wuhan",
-      "published_date": "2026-04-01T13:51:55Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Library director fired for refusing to take LGBT books out of kids section",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/library-director-fired-for-refusing-to-take-lgbt-books-out-of-kids-section",
-      "published_date": "2026-03-31T20:48:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "'A saint' — Memorial for labour giant Gary Parent planned for Windsor park",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/a-saint-memorial-for-labour-giant-gary-parent-planned-for-windsor-park",
-      "published_date": "2026-03-31T17:06:57Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Jeremy Hansen, Artemis II's lunar flyby: When and how to watch",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/jeremy-hansen-artemis-iis-lunar-flyby-when-and-how-to-watch",
-      "published_date": "2026-04-06T14:06:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Walpole man facing firearms charges frustrated in court",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/walpole-man-facing-firearms-charges-frustrated-in-court",
-      "published_date": "2026-04-06T14:02:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strong wind, ‘operating limits’ put Victoria/Vancouver ferry sailings at risk",
+      "title": "10 hectare wildfire sparks near Lytton off Highway 1",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/06/strong-wind-operating-limits-put-victoria-vancouver-ferry-sailings-at-risk/",
-      "published_date": "2026-04-06T13:50:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/06/10-hectare-wildfire-sparks-near-lytton-off-highway-1/",
+      "published_date": "2026-04-07T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Comber's Linda McKinlay honoured as namesake square officially opens",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/combers-linda-mckinlay-honoured-as-namesake-square-officially-opens",
-      "published_date": "2026-04-06T13:39:17Z",
+      "title": "Melissa Gilbert backs hubby Timothy Busfield in child sex abuse case",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/melissa-gilbert-backs-hubby-timothy-busfield",
+      "published_date": "2026-04-06T23:45:02Z",
       "category": "Local Events"
     },
     {
-      "title": "FIFA World Cup: Given those expensive game tickets, will Vancouver avoid massive parking costs?",
+      "title": "Vaughn Palmer: Conspicuous no-shows for B.C. Conservative leadership debate",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/world-cup-2026-vancouver-parking-ticket-prices",
-      "published_date": "2026-04-06T13:32:39Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-conspicuous-no-shows-bc-conservative-leadership-debate",
+      "published_date": "2026-04-06T23:25:36Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;Devastating crashes&#039;: A sense of urgency cited for increased median dividers along B.C.&#039;s Sea to Sky corridor",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/sea-to-sky-crashes-median-dividers",
-      "published_date": "2026-04-06T13:00:57Z",
+      "title": "Discovery of illegal Las Vegas biolab with Chinese links leads to concerns of more in U.S.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/discovery-of-illegal-las-vegas-biolab-chinese-links-leads-concerns-more-u-s",
+      "published_date": "2026-04-06T23:05:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Sports roundup: Saskatoon Westleys take lead in PJHL final",
+      "title": "British Airways criticized for aftermath of Houston bound plane being diverted to St. John's",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/british-airways-criticized-aftermath-of-houston-bound-plane-being-diverted-st-johns",
+      "published_date": "2026-04-06T22:51:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vernon rink captures provincial club curling title",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/06/vernon-rink-captures-provincial-club-curling-title/",
+      "published_date": "2026-04-06T22:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Altitunes debuts at Sun Peaks with sun-soaked après-ski beats",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/06/altitunes-debuts-at-sun-peaks-with-sun-soaked-aprs-ski-beats/",
+      "published_date": "2026-04-06T22:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 men seriously hurt after noon-hour shooting near Brampton townhouse complex",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/two-men-seriously-hurt-brampton-shooting",
+      "published_date": "2026-04-06T22:14:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian astronaut Jeremy Hansen, Artemis II crew make space travel history",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/jeremy-hansen-artemis-crew-make-history",
+      "published_date": "2026-04-06T20:38:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight years after tragedy, memorial projects ongoing to honour Humboldt Broncos",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/local-sports/sports-roundup-saskatoon-westleys-take-lead-in-pjhl-final",
-      "published_date": "2026-04-06T02:28:01Z",
+      "url": "https://thestarphoenix.com/news/local-news/eight-years-after-tragedy-memorial-projects-ongoing-to-honour-humboldt-broncos",
+      "published_date": "2026-04-06T19:46:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Mechanical woes lead to several Easter long weekend B.C. Ferries cancellations",
+      "title": "Medical tourism to Mexico grows as B.C. residents languish on local specialist wait lists",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/mechanical-woes-lead-to-several-easter-long-weekend-bc-ferries-cancellations",
-      "published_date": "2026-04-06T02:11:18Z",
+      "url": "https://vancouversun.com/news/medical-tourism-to-mexico-grows-as-b-c-residents-languish-on-local-specialist-wait-lists",
+      "published_date": "2026-04-06T19:28:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Chilliwack Chiefs win 6-hour game in 4th overtime",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/05/chilliwack-chiefs-win-6-hour-game-in-4th-overtime/",
-      "published_date": "2026-04-06T00:11:00Z",
+      "title": "Truck safety blitz on Hwy. 17 nets charges, vehicles sidelined",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/truck-safety-blitz-on-hwy-17-nets-charges-vehicles-sidelined",
+      "published_date": "2026-04-06T19:15:11Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;15 years of neglect&#039;: Vancouver park board calls for $1.35 billion to tackle repair backlog",
+      "title": "Richmond Night Market returns this month with a World Cup &#039;one world&#039; theme",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-park-board-asking-historic-recreational-infrastructure",
-      "published_date": "2026-04-05T20:50:36Z",
+      "url": "https://vancouversun.com/life/food/richmond-night-market-2026-world-cup-theme",
+      "published_date": "2026-04-06T18:46:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Metro Vancouver weather: Winds gusting to 70 km/h coming on Monday",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-weather-winds-gusting-to-70-km-h-coming-on-monday",
-      "published_date": "2026-04-05T17:56:58Z",
+      "title": "Pembroke fire chief warns of fire risk from discarded cigarettes",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-fire-chief-warns-of-fire-risk-from-discarded-cigarettes",
+      "published_date": "2026-04-06T18:03:48Z",
       "category": "Local Events"
     },
     {
-      "title": "York Region unveils new tunnels for Jefferson salamanders",
+      "title": "Lotto Max jackpot surges to $75 million for Tuesday's draw",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/york-region-unveils-new-tunnels-for-jefferson-salamanders",
-      "published_date": "2026-04-05T16:18:48Z",
+      "url": "https://torontosun.com/news/provincial/kitchener-pairs-anniversary-350k-lotto-win",
+      "published_date": "2026-04-06T18:02:09Z",
       "category": "Local Events"
     },
     {
-      "title": "Motorcyclist, 21, dead following afternoon crash: Toronto cops",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/cops-seek-suspects-in-church-wellesley-assault",
-      "published_date": "2026-04-05T16:01:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "22-year-old woman charged in connection to February homicide in Windsor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/22-year-old-woman-charged-in-connection-to-homicide",
-      "published_date": "2026-04-05T13:52:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Do you have an example of how language failed?",
+      "title": "The Body Shop Canada celebrates 50 years",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-do-you-have-an-example-of-how-language-failed",
-      "published_date": "2026-04-05T13:00:47Z",
+      "url": "https://vancouversun.com/life/the-body-shop-canada-celebrates-50-years",
+      "published_date": "2026-04-06T18:00:51Z",
       "category": "Local Events"
     },
     {
-      "title": "QUIZ: A celebration of Easter",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/05/quiz-a-celebration-of-easter-2/",
-      "published_date": "2026-04-05T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keller nets 3 as visiting Utah Mammoth take down Canucks 7-4",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/04/keller-nets-3-as-visiting-utah-mammoth-take-down-canucks-7-4/",
-      "published_date": "2026-04-05T02:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tumbler Ridge nets Kraft Hockeyville runner-up prize; Alberta town crowned winner",
+      "title": "These are the 3 best beauty products we tried this week",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/alberta-town-crowned-2026-kraft-hockeyville-tumbler-ridge-nets-runner-up",
-      "published_date": "2026-04-05T01:26:03Z",
+      "url": "https://vancouversun.com/life/fashion-beauty/these-are-the-3-best-beauty-products-we-tried-this-week-21",
+      "published_date": "2026-04-06T18:00:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Jewish-owned restaurant in North York shot up",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/jewish-owned-restaurant-north-york-shot-up",
-      "published_date": "2026-04-04T22:55:42Z",
+      "title": "Chef Hector Laguna makes Pacific Northwest cuisine for Vancouver&#039;s diverse community",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/chef-hector-laguna-makes-pacific-northwest-cuisine-for-vancouvers-diverse-community",
+      "published_date": "2026-04-06T18:00:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Young man and teen boy shot dead outside Brampton school",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-teen-boy-shot-dead-outside-brampton-school",
-      "published_date": "2026-04-04T21:40:41Z",
+      "title": "The Astronaut Children of Dunbar Street is an intimate recounting of family separated by distance",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/astronaut-children-of-dunbar",
+      "published_date": "2026-04-06T17:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here are the must-see classical music events happening in Vancouver this April",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/must-see-classical-music-events-vancouver-april",
+      "published_date": "2026-04-06T17:00:14Z",
       "category": "Local Events"
     }
   ]
