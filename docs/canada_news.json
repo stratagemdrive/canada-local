@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-08T05:31:39Z",
+  "generated_at": "2026-04-08T14:59:26Z",
   "country": "Canada",
-  "total_stories": 78,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -37,6 +37,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/04/01/first-nations-letter-calls-b-c-government-effort-on-dripa-consultation-shambolic/",
       "published_date": "2026-04-01T23:42:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Hegseth says Operation Epic Fury 'epic victory'; Attacks reported in Iran, gulf Arab nations",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-8",
+      "published_date": "2026-04-08T11:26:09Z",
+      "category": "Military"
     },
     {
       "title": "Vehicle image released in firearm probe; cops investigating gun hoax at movie theatre",
@@ -165,20 +172,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR LATEST: Trump says Iran has asked for ceasefire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-april-1",
-      "published_date": "2026-04-01T13:35:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "'Ball of fire' — Explosive Windsor Assembly Plant criminal trial underway",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/ball-of-fire-explosive-windsor-assembly-plant-criminal-trial-underway",
-      "published_date": "2026-04-01T13:21:13Z",
-      "category": "Military"
-    },
-    {
       "title": "Transmission project signals years of construction for Terrace area",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/07/transmission-project-signals-years-of-construction-for-terrace-area/",
@@ -270,11 +263,25 @@
       "category": "Energy"
     },
     {
-      "title": "Blades 'just kept believing' in 4-3 playoff win over Oil Kings",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/blades-just-kept-believing-in-4-3-comeback-win-over-oil-kings-in-whl-playoffs",
-      "published_date": "2026-04-01T06:48:08Z",
-      "category": "Energy"
+      "title": "Amid economic turmoil, Windsor area housing prices drop",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/amid-economic-turmoil-windsor-area-housing-prices-take-a-nosedive",
+      "published_date": "2026-04-08T13:35:23Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Chinatown summit in Vancouver looks at ways to revitalize historic neighbourhoods",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/chinatown-summit-vancouver-looks-at-revitalizing-historic-neighbourhoods",
+      "published_date": "2026-04-08T13:00:12Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: Carney should heed Poilievre's call for gas tax relief",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/opinion-carney-should-heed-poilievres-call-for-gas-tax-relief",
+      "published_date": "2026-04-08T11:20:10Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. Ferries workers&#039; union calls for more investment in maintenance after weekend breakdowns",
@@ -396,25 +403,95 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: PM Carney should heed Poilievre's call for gas tax cuts",
+      "title": "Chilliwack elementary school teacher asked students if they wanted to ‘go to the chokey’",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/chilliwack-teacher-asked-students-go-to-the-chokey",
+      "published_date": "2026-04-08T14:52:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "$75 million Lotto Max ticket sold in the Okanagan",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/08/75-million-lotto-max-ticket-sold-in-the-okanagan/",
+      "published_date": "2026-04-08T14:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justin Trudeau’s son Xav on dad dating Katy Perry: 'She's great'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-pierre-poilievre-gas-tax-cuts",
-      "published_date": "2026-04-02T13:16:12Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/entertainment/celebrity/xavier-trudeau-justin-trudeau-dating-katy-perry",
+      "published_date": "2026-04-08T14:45:29Z",
+      "category": "Local Events"
     },
     {
-      "title": "Hundreds of youths hunt jobs at UWindsor career expo",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/hundreds-of-youths-hunt-jobs-at-uwindsor-career-expo",
-      "published_date": "2026-04-02T13:00:52Z",
-      "category": "Economy"
+      "title": "Petawawa Hall of Fame announces the Class of 2026",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/petawawa-hall-of-fame-announces-the-class-of-2026",
+      "published_date": "2026-04-08T14:32:53Z",
+      "category": "Local Events"
     },
     {
-      "title": "Amherstburg secures $838K in provincial funding to ready industrial park for new jobs",
+      "title": "Vancouver park board pushes forward with $1.4B ask for facility upgrades",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-park-board-1-4b-ask-facility-upgrades",
+      "published_date": "2026-04-08T14:29:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Waste disposal plant in Etobicoke goes up in flames",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/waste-disposal-plant-etobicoke-fire",
+      "published_date": "2026-04-08T14:06:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Costco recalls bed amid reports of injuries from collapses",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/costco-recalls-bed-amid-injury-reports",
+      "published_date": "2026-04-08T13:13:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This B.C. pilot project is turning construction&#039;s plastic trash into a new building material",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/bc-pilot-project-construction-plastic-trash-new-building-material",
+      "published_date": "2026-04-08T13:00:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Esquimalt Nation sues Canada for Hatley Park in Victoria, claims it is excluded from new treaty",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/esquimalt-nation-sues-canada-for-hatley-park-in-victoria-claims-it-is-excluded-from-new-treaty",
+      "published_date": "2026-04-08T13:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flooding in Saskatoon a sign of spring in 1955",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/flooding-saskatoon-spring-1955",
+      "published_date": "2026-04-08T12:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Going blind — Windsor photographer, author battles vision loss",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/amherstburg-secures-838k-in-provincial-funding-to-ready-industrial-park-for-new-jobs",
-      "published_date": "2026-04-02T11:00:59Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/author-photographer-marty-gervais",
+      "published_date": "2026-04-08T11:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sarah Darraugh named inspector at Upper Ottawa Valley OPP",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/sarah-darraugh-named-inspector-at-upper-ottawa-valley-opp",
+      "published_date": "2026-04-08T10:14:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Attention needed to provide adequate health care",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/08/editorial-attention-needed-to-provide-adequate-health-care/",
+      "published_date": "2026-04-08T08:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Smith nets winner as visiting Vegas Golden Knights dump Canucks 2-1",
@@ -463,97 +540,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/man-wanted-teen-girl-followed-toronto",
       "published_date": "2026-04-08T00:24:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Someone strung up a VW Beetle on Stawamus Chief: What happens now?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/volkwagen-beetle-hanging-stawamus-chief-squamish-will-be-removed",
-      "published_date": "2026-04-07T23:54:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Downtown is stabilizing&#039;: Mixed signals from latest downtown Vancouver business report",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/mixed-signals-latest-downtown-vancouver-business-report",
-      "published_date": "2026-04-07T23:46:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP charge Windsor cop with breach of trust",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-charge-windsor-cop-with-breach-of-trust",
-      "published_date": "2026-04-07T22:31:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Green Party leader asks Carney step up in response to ‘unhinged’ Trump Iran threat",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/07/green-party-leader-asks-carney-step-up-in-response-to-unhinged-trump-iran-threat/",
-      "published_date": "2026-04-07T22:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.-based mining company confirms 9 of 10 workers abducted in Mexico have died",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/07/b-c-based-mining-company-confirms-9-of-10-workers-abducted-in-mexico-have-died/",
-      "published_date": "2026-04-07T21:56:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada to launch first national health strategy for men and boys",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-to-launch-first-national-health-strategy-for-men-and-boys",
-      "published_date": "2026-04-07T21:26:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: There is no such thing as &#039;Sovereign AI&#039; — Canadian provinces need to beware",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-there-is-no-such-thing-as-sovereign-ai-canadian-provinces-need-to-beware",
-      "published_date": "2026-04-07T21:00:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 pleads not guilty in Kelowna court for 2021 homicide of Penticton man",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/07/1-pleads-not-guilty-in-kelowna-court-for-2021-homicide-of-penticton-man/",
-      "published_date": "2026-04-07T20:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. country singer vying for top-three spot in national competition",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/07/b-c-country-singer-vying-for-top-three-spot-in-national-competition/",
-      "published_date": "2026-04-07T20:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;A defining moment for dance:&#039; Vancouver Dance Centre secures its legacy with $6-million land purchase",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/a-defining-moment-for-dance-in-british-columbia-vancouver-dance-centre-secures-its-legacy-with-6-million-land-purchase",
-      "published_date": "2026-04-07T20:18:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: 3 arts positions reinstated at Okanagan College following arbitration",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/07/arbitrator-finds-okanagan-college-at-fault-for-layoffs/",
-      "published_date": "2026-04-07T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TransLink to boost service on dozens of bus routes starting April 20",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/translink-spring-service-changes-april-20-list-routes",
-      "published_date": "2026-04-07T19:56:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crown stays charges against four in 2024 Saskatoon murder case",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/crown-stays-charges-against-four-in-2024-saskatoon-murder-case",
-      "published_date": "2026-04-07T19:55:25Z",
       "category": "Local Events"
     }
   ]
