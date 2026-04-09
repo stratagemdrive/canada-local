@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-09T00:03:34Z",
+  "generated_at": "2026-04-09T16:06:33Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 75,
   "categories": [
     "Diplomacy",
     "Military",
@@ -37,6 +37,34 @@
       "url": "https://vancouversun.com/opinion/letters-to-the-sun-puzzled-that-former-mayors-six-month-consulting-contract-on-dtes-did-not-deliver-an-interim-report",
       "published_date": "2026-04-03T23:00:01Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "After season-long battle for division crown, is an old rivalry set to be rekindled between Spitfires and Firebirds in the playoffs?",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/after-season-long-battle-for-division-crown-is-an-old-rivalry-set-to-be-rekindled-between-spitfires-and-firebirds-in-the-playoffs",
+      "published_date": "2026-04-09T15:57:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "U.S. proposes automatic military registration to draft-eligible men",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/us-automatic-military-registration-draft-men",
+      "published_date": "2026-04-09T15:44:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR LATEST: Ceasefire on shaky ground as Israel continues strikes on Lebanon",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-ceasefire-on-shaky-ground-as-israel-continues-strikes-in-lebanon",
+      "published_date": "2026-04-09T12:26:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Vancouver Island plane hijacker pleads guilty to terror charge",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-island-plane-hijacker-pleads-guilty-to-terror-charge",
+      "published_date": "2026-04-09T00:15:40Z",
+      "category": "Military"
     },
     {
       "title": "B.C. First Nation at odds over ownership of historic Greater Victoria site",
@@ -144,11 +172,18 @@
       "category": "Military"
     },
     {
-      "title": "Donald Trump says Iran war 'nearing completion,' necessary to remove nuclear threat",
+      "title": "This prime Coal Harbour restaurant location is up for grabs",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-coal-harbour-restaurant-location-is-up-for-grabs",
+      "published_date": "2026-04-09T15:32:51Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Gas prices in Ontario expected to dip by Friday: ‘GOOD NEWS FOR THE MARKET’",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/donald-trump-says-iran-war-nearing-completion",
-      "published_date": "2026-04-02T02:11:23Z",
-      "category": "Military"
+      "url": "https://torontosun.com/news/provincial/gas-prices-in-ontario-expected-to-dip-by-friday-good-news-for-the-market",
+      "published_date": "2026-04-09T13:39:33Z",
+      "category": "Energy"
     },
     {
       "title": "Transmission project signals years of construction for Terrace area",
@@ -221,25 +256,11 @@
       "category": "Energy"
     },
     {
-      "title": "Oil Kings 'skilled players' take over in 5-2 playoff win over Blades",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/oil-kings-skilled-players-take-over-in-5-2-playoff-win-over-blades",
-      "published_date": "2026-04-02T14:39:54Z",
-      "category": "Energy"
-    },
-    {
-      "title": "B.C. government relaxes 2035 zero-emission vehicle sales mandate",
+      "title": "Developer offers prospective buyers a free weekend stay at new Vancouver building",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-relaxes-2035-zero-emission-vehicle-sales-mandate",
-      "published_date": "2026-04-02T13:50:51Z",
-      "category": "Energy"
-    },
-    {
-      "title": "As pump prices soar, Tories call on government to cut fuel taxes",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/as-pump-prices-soar-tories-call-on-government-to-cut-fuel-taxes",
-      "published_date": "2026-04-02T10:00:36Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/developer-offers-prospective-buyers-a-free-weekend-stay-at-new-vancouver-building",
+      "published_date": "2026-04-09T13:00:10Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. spent $165K on free coffee stunt for U.S. health workers: Taxpayers’ group",
@@ -375,150 +396,143 @@
       "category": "Economy"
     },
     {
-      "title": "Peel Region's top cop earns top dollar among police chiefs in Canada",
+      "title": "WARMINGTON: Carney lauds Canada's moon traveller for 'incredible' feat of speaking French",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/peel-region-police-chief-nishan-duraiappah-salary-canada",
-      "published_date": "2026-04-03T18:02:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C. set to mark 10-year anniversary of toxic drug crisis",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/08/b-c-set-to-mark-10-year-anniversary-of-toxic-drug-crisis/",
-      "published_date": "2026-04-09T00:00:00Z",
+      "url": "https://torontosun.com/news/local-news/warmington-carney-lauds-canadas-moon-traveller-for-incredible-feat-of-speaking-french",
+      "published_date": "2026-04-09T16:04:11Z",
       "category": "Local Events"
     },
     {
-      "title": "West Vancouver ordered by B.C. government to build more homes after deadline passes",
+      "title": "Prescribed burning season to begin at Garrison Petawawa",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/prescribed-burning-season-to-begin-at-garrison-petawawa",
+      "published_date": "2026-04-09T15:57:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disgruntled employee accused of lighting up Kimberly-Clark warehouse in California: ‘SHOULD HAVE PAID US MORE’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/disgruntled-employee-accused-of-lighting-up-kimberly-clark-warehouse-in-california-should-have-paid-us-more",
+      "published_date": "2026-04-09T15:38:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ryan Reynolds gets spicy over sailing superstitions in new video",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/west-vancouver-ordered-bc-government-to-build-more-homes-after-deadline-passes",
-      "published_date": "2026-04-08T23:55:57Z",
+      "url": "https://vancouversun.com/entertainment/ryan-reynolds-sailing-superstitions-video",
+      "published_date": "2026-04-09T15:29:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Air Canada testing new arbitration process to resolve passenger complaints",
+      "title": "OPP recover two of four guns stolen from Laurentian Valley residence",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/opp-recover-two-of-four-guns-stolen-from-laurentian-valley-residence",
+      "published_date": "2026-04-09T15:19:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cable guy tipped off robbers to valuables ahead of violent Windsor home invasion",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/cable-guy-tipped-off-robbers-to-valuables-ahead-of-violent-windsor-home-invasion",
+      "published_date": "2026-04-09T14:59:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Was Nancy Guthrie’s body dumped because kidnappers 'underestimated' her?",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/air-canada-testing-new-arbitration-process",
-      "published_date": "2026-04-08T23:54:17Z",
+      "url": "https://torontosun.com/entertainment/celebrity/was-nancy-guthries-body-dumped-because-kidnappers-underestimated-her",
+      "published_date": "2026-04-09T14:20:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: Another wake-up call as B.C. court awards claim of Aboriginal title over Nootka Island",
+      "title": "'Compete with the best' — Tecumseh auto parts firm gets $726K Ontario boost for $4.8M expansion",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/compete-with-the-best-tecumseh-auto-parts-firm-gets-726k-ontario-boost-for-4-8m-expansion",
+      "published_date": "2026-04-09T14:10:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caught on video: Windsor police arrest suspect after power tool theft",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/caught-on-video-windsor-police-arrest-suspect-after-power-tool-theft",
+      "published_date": "2026-04-09T14:01:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four British Columbians fined $3.5 million for pump-and-dump stock fraud",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-nootka-island-aboriginal-title-court-appeal-bc-ndp-wake-up-call",
-      "published_date": "2026-04-08T23:50:50Z",
+      "url": "https://vancouversun.com/business/four-british-columbians-fined-3-5-million-for-pump-and-dump-stock-fraud",
+      "published_date": "2026-04-09T13:40:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Toronto Humane Society's new animal health-care clinic to serve 10-12K clients a year",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-humane-society-opens-new-animal-health-care-clinic-serve-10-12k-clients-a-year",
-      "published_date": "2026-04-08T23:45:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Arrest made in Jewish restaurant shooting small step in right direction",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/jewish-restaurant-shooting-arrest-offers-relief",
-      "published_date": "2026-04-08T23:40:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We have the votes’: Eby says he is sure B.C. NDP can pass DRIPA changes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/08/we-have-the-votes-eby-says-he-is-sure-b-c-ndp-can-pass-dripa-changes/",
-      "published_date": "2026-04-08T23:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$80M lottery winners took months to claim 'life-changing amount of money'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/80-m-lottery-winners-took-months-claim-life-changing-amount-of-money",
-      "published_date": "2026-04-08T23:34:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Out-of-control wildfire 50 hectares in size east of Merritt",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/08/out-of-control-wildfire-100-hectares-in-size-east-of-merritt/",
-      "published_date": "2026-04-08T23:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto announces 3-year test run of waterfront shuttle service",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-testing-waterfront-shuttle-service",
-      "published_date": "2026-04-08T23:22:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooter in 2024 Maple Ridge killing sentenced to 15 years in prison",
+      "title": "B.C. crime briefs: Homicide detectives called after man&#039;s death in Surrey &#124; Woman assaulted in Surrey&#039;s Holland Park",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/shooter-2024-maple-ridge-killing-sentenced-15-years-prison",
-      "published_date": "2026-04-08T22:30:06Z",
+      "url": "https://vancouversun.com/news/bc-crime-briefs-april-9-2026",
+      "published_date": "2026-04-09T13:34:06Z",
       "category": "Local Events"
     },
     {
-      "title": "MANDEL: Pearson gold heist mastermind sentenced to just four years in jail",
+      "title": "Husband arrested after claiming American woman fell overboard in Bahamas",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/pearson-gold-heist-mastermind-sentenced-four-years",
-      "published_date": "2026-04-08T22:26:03Z",
+      "url": "https://torontosun.com/news/world/husband-arrested-after-claiming-american-woman-fell-overboard-in-bahamas",
+      "published_date": "2026-04-09T13:07:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Sentencing decision reserved for Saskatoon man convicted in fatal assault",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/sentencing-decision-reserved-for-saskatoon-man-convicted-in-fatal-assault",
-      "published_date": "2026-04-08T22:12:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Facelift approved for iconic East Van cross sign",
+      "title": "Juno-winning Vancouver band aims to break a Guinness World Record",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/facelift-approved-iconic-east-vancouver-cross-sign",
-      "published_date": "2026-04-08T22:07:01Z",
+      "url": "https://vancouversun.com/entertainment/juno-award-vancouver-band-archspire-guinness-world-record",
+      "published_date": "2026-04-09T13:00:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Transport Canada survey asks Canadians for input on vehicle headlights, glare",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/08/transport-canada-survey-asks-canadians-for-input-on-vehicle-headlights-glare/",
-      "published_date": "2026-04-08T21:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sask. unveils second mammogram bus for breast cancer screening",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/sask-unveils-second-mammogram-bus-for-breast-cancer-screening",
-      "published_date": "2026-04-08T21:45:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Premier says announcement on Kelowna’s short-term rental exemption coming ‘soon’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/08/b-c-premier-says-announcement-on-kelownas-short-term-rental-exemption-coming-soon/",
-      "published_date": "2026-04-08T21:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Someone in this B.C. city has won a $75 million Lotto Max jackpot",
+      "title": "Surrey Hells Angels dissolved, but new chapter opens on Vancouver Island",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/penticton-bc-lotto-max-jackpot-winning-numbers",
-      "published_date": "2026-04-08T20:52:43Z",
+      "url": "https://vancouversun.com/news/crime/surrey-hells-angels-dissolved-but-new-chapter-opens-on-vancouver-island",
+      "published_date": "2026-04-09T13:00:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Distracted driving, seatbelt violations ‘not gotten much better or worse’: B.C. RCMP",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/08/distracted-driving-seatbelt-violations-not-gotten-much-better-or-worse-b-c-rcmp/",
-      "published_date": "2026-04-08T20:48:00Z",
+      "title": "Renovator loses lawsuit against B.C. homeowners who refused to pay double the estimate",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/renovator-loses-lawsuit-bc-homeowners-double-estimate",
+      "published_date": "2026-04-09T13:00:22Z",
       "category": "Local Events"
     },
     {
-      "title": "THE MOJ: Fun is just beginning after total knee replacement procedure",
+      "title": "'Best days ahead' — Mayor focuses on Windsor's 'long game' in state of the city speech",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/best-days-ahead-mayor-focuses-on-windsors-long-game-in-state-of-the-city-speech",
+      "published_date": "2026-04-09T12:52:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naming the nameless: Victoria street community mourns lives lost to drug crisis",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/08/the-moj-fun-is-just-beginning-after-total-knee-replacement-procedure/",
-      "published_date": "2026-04-08T20:40:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/09/naming-the-nameless-victoria-street-community-mourns-lives-lost-to-drug-crisis/",
+      "published_date": "2026-04-09T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake council directs staff to prepare community grants policy",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/09/burns-lake-council-directs-staff-to-prepare-community-grants-policy/",
+      "published_date": "2026-04-09T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "It’s kitten season; our shelters need a hand",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/09/its-kitten-season-our-shelters-need-a-hand/",
+      "published_date": "2026-04-09T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative leadership candidate Yuri Fulmer works out electoral math",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/09/b-c-conservative-leadership-candidate-yuri-fulmer-works-out-electoral-math/",
+      "published_date": "2026-04-09T12:30:00Z",
       "category": "Local Events"
     }
   ]
