@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-10T06:10:02Z",
+  "generated_at": "2026-04-10T14:35:11Z",
   "country": "Canada",
-  "total_stories": 81,
+  "total_stories": 83,
   "categories": [
     "Diplomacy",
     "Military",
@@ -58,6 +58,13 @@
       "url": "https://vancouversun.com/opinion/letters-to-the-sun-puzzled-that-former-mayors-six-month-consulting-contract-on-dtes-did-not-deliver-an-interim-report",
       "published_date": "2026-04-03T23:00:01Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Kuwait blames Iran for drone strikes; Trump casts doubt on ceasefire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-11",
+      "published_date": "2026-04-10T11:18:13Z",
+      "category": "Military"
     },
     {
       "title": "ISIS terrorist guilty plea highlights problems with Canada's student visa vetting",
@@ -191,6 +198,13 @@
       "url": "https://torontosun.com/news/world/u-s-launches-rescue-operation-after-iran-claims-fighter-jet-went-down",
       "published_date": "2026-04-03T16:21:14Z",
       "category": "Military"
+    },
+    {
+      "title": "TTC exec apologizes for second oil spill on Line 2 in a week: 'THIS IS UNACCEPTABLE'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/ttc-exec-apologizes-second-oil-spill-on-line-2-this-week",
+      "published_date": "2026-04-10T14:10:31Z",
+      "category": "Energy"
     },
     {
       "title": "Opinion: B.C.&#039;s mudslides are the bill for decades of short-horizon governance",
@@ -438,6 +452,83 @@
       "category": "Economy"
     },
     {
+      "title": "Windsor Arena could support nextdoor homeless hub: Dilkens",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-arena-could-support-nextdoor-homeless-hub-dilkens",
+      "published_date": "2026-04-10T14:30:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HUNTER: Child sex killers and rapists facing execution and castration",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/child-sex-killers-rapists-facing-execution-castration",
+      "published_date": "2026-04-10T14:04:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conversations That Matter: More permits, less talk",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/conversations-that-matter-more-permits-less-talk",
+      "published_date": "2026-04-10T14:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHL playoffs: Blades have 'fire in us' against hated rivals Raiders",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/whl-playoffs-blades-have-fire-in-us-against-hated-rivals-raiders",
+      "published_date": "2026-04-10T13:47:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Friend of missing woman in Bahamas reveals husband's messages: ‘STORIES DON’T REALLY MATCH UP’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/friend-of-missing-woman-bahamas-reveals-messages-from-husband",
+      "published_date": "2026-04-10T13:28:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver council to consider zoning changes to increase small hotels and rental buildings",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-council-to-consider-zoning-changes-to-increase-small-hotels-and-rental-buildings",
+      "published_date": "2026-04-10T13:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UVic researchers discuss why B.C. couldn’t replicate Portugal’s drug strategy",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/10/uvic-researchers-discuss-why-b-c-couldnt-replicate-portugals-drug-strategy/",
+      "published_date": "2026-04-10T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One man dead in early-morning shooting at Lambton College: Sarnia police",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/one-man-dead-in-early-morning-shooting-at-lambton-college-sarnia-police",
+      "published_date": "2026-04-10T12:16:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Embrace local music: Five things to do this weekend in Saskatoon, April 10-12",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/entertainment/local-arts/five-things-to-do-this-weekend-in-saskatoon-april-10-12",
+      "published_date": "2026-04-10T12:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Another Tory MP crosses; Liberals will have their majority Monday",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/opinion-another-tory-mp-crosses-liberals-will-have-their-majority-monday",
+      "published_date": "2026-04-10T11:15:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MPP Billy Denault secures annual Rural Ontario Week designation",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/mpp-billy-denault-secures-annual-rural-ontario-week-designation",
+      "published_date": "2026-04-10T10:59:50Z",
+      "category": "Local Events"
+    },
+    {
       "title": "One dead in Langley crash near Fraser Highway",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/one-dead-after-langley-crash-near-fraser-highway",
@@ -498,83 +589,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/crime/surreys-specialized-police-gang-unit-members-have-been-temporarily-repurposed",
       "published_date": "2026-04-09T23:07:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: MMIWG2SLGBTQQIA+ a woke joke but murders of indigenous women no laughing matter",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mmiwg2slgbtqqia-woke-joke-murders-indigenous-women-no-laughing-matter",
-      "published_date": "2026-04-09T23:02:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire grows to 550 hectares east Merritt",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/09/wildfire-grows-to-550-hectares-east-merritt/",
-      "published_date": "2026-04-09T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prairie Harm Reduction's closure will leave community without lifesaving services: board member",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/prairie-harm-reductions-closure-will-leave-community-without-lifesaving-services-board-member",
-      "published_date": "2026-04-09T22:34:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Pushing in the same direction’: B.C. Premier asked about Okanagan long-term care facility",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/09/pushing-in-the-same-direction-b-c-premier-asked-about-okanagan-long-term-care-facility/",
-      "published_date": "2026-04-09T22:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto City Hall rethinks rules for street buskers, vendors",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/street-buskers-vendors-city-hall-committee",
-      "published_date": "2026-04-09T21:38:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.’s need for more schools highlighted by Premier Eby during West Kelowna visit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/09/b-c-s-need-for-more-schools-highlighted-by-premier-eby-during-west-kelowna-visit/",
-      "published_date": "2026-04-09T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Missing Vancouver Island cat found 30 km from home reunited with family",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/09/missing-vancouver-island-cat-found-30-km-from-home-reunited-with-family/",
-      "published_date": "2026-04-09T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man accused of stabbing Iryna Zarutska on train deemed incompetent to stand trial",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iryna-zarutska-suspect-deemed-incompetent-for-trial",
-      "published_date": "2026-04-09T21:23:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pierre Poilievre says floor-crossing MPs duty-bound to respect voters' wishes",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/poilievre-says-mps-must-respect-voters-wishes",
-      "published_date": "2026-04-09T20:59:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 Vancouver Folk Music Festival lineup includes English folk superstar: What you need to know",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/2026-vancouver-folk-music-festival-lineup-includes-english-folk-superstar-what-you-need-to-know",
-      "published_date": "2026-04-09T20:42:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charity that gives handmade beds to kids in need opens Chilliwack chapter",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/09/charity-that-gives-handmade-beds-to-kids-in-need-opens-chilliwack-chapter/",
-      "published_date": "2026-04-09T20:41:00Z",
       "category": "Local Events"
     }
   ]
