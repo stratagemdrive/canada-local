@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-10T23:40:15Z",
+  "generated_at": "2026-04-11T11:20:21Z",
   "country": "Canada",
-  "total_stories": 85,
+  "total_stories": 87,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "David Eby says B.C. is still putting pressure on Ottawa to resolve Canada-U.S. lumber dispute",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/david-eby-pressures-ottawa-us-lumber-dispute",
+      "published_date": "2026-04-11T01:14:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "B.C. First Nation ‘confident’ in Island land transfer despite court injunction",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/10/b-c-first-nation-confident-in-island-land-transfer-despite-court-injunction/",
+      "published_date": "2026-04-10T23:39:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "James Smith Cree Nation signs agreement with Sask. Marshals Service",
       "source": "The StarPhoenix",
@@ -466,6 +480,55 @@
       "category": "Economy"
     },
     {
+      "title": "In Highway 11 showdown, Raiders route Blades 6-1 in Game 1 playoff drubbing",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/in-highway-11-showdown-raiders-route-blades-6-1-in-game-1-playoff-drubbing",
+      "published_date": "2026-04-11T05:11:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far from perfect, Spitfires vow to be better after series-opening win against Firebirds",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/far-from-perfect-spitfires-vow-to-be-better-after-series-opening-win-against-firebirds",
+      "published_date": "2026-04-11T04:50:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chairlift outage at B.C. ski resort raises questions about capacity limits",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/10/chairlift-outage-at-b-c-ski-resort-raises-questions-about-capacity-limits/",
+      "published_date": "2026-04-11T01:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Filipino community commemorates victims of last year&#039;s Lapu Lapu festival attack",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/filipino-community-commemorates-victims-lapu-lapu-festival-attack",
+      "published_date": "2026-04-11T01:22:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Power shut off at B.C. trailer park as safety issues go unaddressed",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/10/power-shut-off-at-b-c-trailer-park-as-safety-issues-go-unaddressed/",
+      "published_date": "2026-04-11T00:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The problem is Premier Eby’: B.C. NDP’s leadership taken to task over DRIPA",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/10/the-problem-is-premier-eby-b-c-ndps-leadership-taken-to-task-over-dripa/",
+      "published_date": "2026-04-11T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: David Eby&#039;s miscalculations bring his government to brink of defeat",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/politics/vaughn-palmer-eby-miscalculations-bring-his-government-to-brink-of-defeat",
+      "published_date": "2026-04-10T23:50:18Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Canadians split on if doctors, nurses should be allowed to opt out of medically-assisted death program",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/canadians-split-opt-out-medically-assisted-death",
@@ -554,55 +617,6 @@
       "source": "Pembroke Observer",
       "url": "https://www.pembrokeobserver.com/news/flood-watch-issued-for-ottawa-river-below-pembroke",
       "published_date": "2026-04-10T20:44:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "DWBIA opens new hub, supports relocating Windsor's Downtown Mission homeless shelter",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/dwbia-opens-new-hub-pushes-relocating-windsors-downtown-mission-homeless-shelter",
-      "published_date": "2026-04-10T20:39:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chlorine Gas incident at Victoria pool sends 8 to hospital",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/10/chlorine-gas-incident-at-victoria-pool-sends-8-to-hospital/",
-      "published_date": "2026-04-10T20:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crews working to repair watermain break at Petawawa intersection",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/crews-working-to-repair-watermain-break-at-petawawa-intersection",
-      "published_date": "2026-04-10T20:33:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$80M pot bust results in $50k fine for Leamington farm",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/80m-pot-bust-results-in-50k-fine-for-leamington-farm",
-      "published_date": "2026-04-10T19:46:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Grateful, fortunate & unbelievable’: Kelowna resident wins $675K on Set for Life",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/10/grateful-fortunate-kelowna-resident-wins-675k-on-set-for-life/",
-      "published_date": "2026-04-10T18:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seize drugs and loaded handgun after downtown foot chase",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seize-drugs-and-loaded-handgun-after-downtown-foot-chase",
-      "published_date": "2026-04-10T18:39:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ARTEMIS II SPLASHDOWN: What you need to know about crew’s dramatic return to Earth",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/artemis-splashdown-need-to-know-crews-dramatic-return-earth",
-      "published_date": "2026-04-10T18:32:53Z",
       "category": "Local Events"
     }
   ]
