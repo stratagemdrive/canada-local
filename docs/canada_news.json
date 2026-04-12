@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T23:39:06Z",
+  "generated_at": "2026-04-12T11:24:34Z",
   "country": "Canada",
   "total_stories": 86,
   "categories": [
@@ -65,6 +65,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/04/07/george-abbott-named-chief-commissioner-of-b-c-treaty-commission/",
       "published_date": "2026-04-07T23:48:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Man, 28, wanted following overnight stabbing in Barrie",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-28-wanted-overnight-stabbing-barrie",
+      "published_date": "2026-04-12T01:04:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "CRIME HUNTER: Serial killer Dr. No preyed on truck stop hookers across rust belt",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-serial-killer-dr-no-truck-stop-hookers-rust-belt",
+      "published_date": "2026-04-11T14:30:44Z",
+      "category": "Military"
     },
     {
       "title": "BATRA’S BURNING QUESTIONS: For Israel the Iran war is about more than oil",
@@ -193,13 +207,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: Trump drops F-bomb in new threat to Iran, missing U.S. airman rescued",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-trump-drops-f-bomb-in-new-threat-to-iran-missing-u-s-airman-rescued",
-      "published_date": "2026-04-05T17:04:02Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. climate news: Emperor penguin now on endangered list &#124; Vancouver&#039;s Science World goes green with solar panels &#124; A potentially strong El Niño on the way",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/climate-change-news-april-12-26",
@@ -323,13 +330,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/sports/oil-kings-force-game-7-after-3-2-double-ot-win-over-blades",
       "published_date": "2026-04-06T02:18:13Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Blades one win from advancing after 4-2 playoff win over Oil Kings",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/blades-one-win-from-advancing-after-4-2-playoff-win-over-oil-kings",
-      "published_date": "2026-04-05T00:03:28Z",
       "category": "Energy"
     },
     {
@@ -473,6 +473,13 @@
       "category": "Economy"
     },
     {
+      "title": "EXCLUSIVE: Eby discusses DRIPA, healthcare, housing and more in Vernon stop",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/11/exclusive-eby-discusses-dripa-healthcare-housing-and-more-in-vernon-stop/",
+      "published_date": "2026-04-12T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "$10M settlement reached for victims of Elliot Lake mall collapse",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/10m-settlement-victims-elliot-lake-mall-collapse",
@@ -603,13 +610,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/liberals-broke-law-while-claiming-to-defend-it",
       "published_date": "2026-04-11T14:21:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Iranian woman reflects on Saskatchewan's embrace, Canada's promise",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-iranian-woman-reflects-on-saskatchewans-embrace-canadas-promise",
-      "published_date": "2026-04-11T14:00:20Z",
       "category": "Local Events"
     }
   ]
