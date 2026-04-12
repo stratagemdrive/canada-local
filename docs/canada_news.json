@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-12T11:24:34Z",
+  "generated_at": "2026-04-12T23:39:53Z",
   "country": "Canada",
-  "total_stories": 86,
+  "total_stories": 87,
   "categories": [
     "Diplomacy",
     "Military",
@@ -65,6 +65,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/04/07/george-abbott-named-chief-commissioner-of-b-c-treaty-commission/",
       "published_date": "2026-04-07T23:48:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "1 dead, 6 injured in mass shooting at Chick-fil-A in New Jersey",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/fatal-mass-shooting-chick-fil-a-new-jersey",
+      "published_date": "2026-04-12T20:05:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR LATEST: Trump threatens ‘immediate’ Strait of Hormuz blockade after talks fail",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-trump-threatens-blockade",
+      "published_date": "2026-04-12T17:08:26Z",
+      "category": "Military"
     },
     {
       "title": "Man, 28, wanted following overnight stabbing in Barrie",
@@ -193,18 +207,11 @@
       "category": "Military"
     },
     {
-      "title": "Software glitch prompts recall of 8,000 Volkswagens",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/software-glitch-prompts-recall-of-8000-volkswagens",
-      "published_date": "2026-04-06T22:55:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR UPDATES: Israel says it attacked South Pars plant; Iran, U.S. receive ceasefire proposal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-6",
-      "published_date": "2026-04-06T11:22:58Z",
-      "category": "Military"
+      "title": "Sask. government oil and gas public offering garners nearly $13 million",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/sask-government-oil-and-gas-public-offering-garners-nearly-13-million",
+      "published_date": "2026-04-12T19:38:43Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. climate news: Emperor penguin now on endangered list &#124; Vancouver&#039;s Science World goes green with solar panels &#124; A potentially strong El Niño on the way",
@@ -473,143 +480,143 @@
       "category": "Economy"
     },
     {
-      "title": "EXCLUSIVE: Eby discusses DRIPA, healthcare, housing and more in Vernon stop",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/11/exclusive-eby-discusses-dripa-healthcare-housing-and-more-in-vernon-stop/",
-      "published_date": "2026-04-12T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$10M settlement reached for victims of Elliot Lake mall collapse",
+      "title": "Any Toronto city hall ‘excuse’ to kill off boat club good enough, activist says",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/10m-settlement-victims-elliot-lake-mall-collapse",
-      "published_date": "2026-04-11T22:06:13Z",
+      "url": "https://torontosun.com/news/local-news/toronto-humber-yacht-club-activist-closure",
+      "published_date": "2026-04-12T23:31:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Thousands attend the 47th annual Vaisakhi Parade in Vancouver",
+      "title": "Hungary's PM Viktor Orban concedes 'painful' election loss to rival Peter Magyar",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/hungary-pm-viktor-orban-defeated-by-rival",
+      "published_date": "2026-04-12T22:22:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dead, woman rescued after canoe capsizes on Heart Lake in Brampton",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-dead-woman-rescued-brampton-lake",
+      "published_date": "2026-04-12T21:21:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Master plan for Surrey&#039;s Newton town centre to be unveiled to city council",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/thousands-attend-the-47th-annual-vaisakhi-parade-in-vancouver",
-      "published_date": "2026-04-11T21:45:46Z",
+      "url": "https://vancouversun.com/news/surrey-newton-town-centre-master-plan-unveiled",
+      "published_date": "2026-04-12T21:00:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Extortion threats decline in Surrey in early 2026, says police chief",
+      "title": "LILLEY: Tories can thank Donald Trump with Mark Carney on verge of majority",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-on-verge-majority-government",
+      "published_date": "2026-04-12T19:48:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iconic Miami hotel blown up to make way for new luxury development",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/miami-hotel-imploded-new-development-planned",
+      "published_date": "2026-04-12T19:26:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Car fire in West Vancouver synagogue parking lot sparks concern",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/extortion-threats-decline-surrey-2026",
-      "published_date": "2026-04-11T21:24:29Z",
+      "url": "https://vancouversun.com/news/west-vancouver-synagogue-car-fire",
+      "published_date": "2026-04-12T19:24:20Z",
       "category": "Local Events"
     },
     {
-      "title": "EDITORIAL: Disloyal Conservatives should leave – now",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/disloyal-conservatives-leave-now-poilievre-carney",
-      "published_date": "2026-04-11T21:00:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Volunteers, students plant 500 trees to rejuvenate B.C. park after 2023 wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/11/volunteers-students-plant-500-trees-to-rejuvenate-b-c-park-after-2023-wildfire/",
-      "published_date": "2026-04-11T20:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen boy pleads guilty to May 2025 murder of Pickering senior",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/teen-boy-guilty-murder-pickering-great-grandma",
-      "published_date": "2026-04-11T20:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops shoot man dead after three injured in machete attack at New York subway station",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/cops-shoot-man-dead-three-injured-machete-attack-new-york-subway",
-      "published_date": "2026-04-11T20:29:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unruly passengers force Mexico-bound plane to go back to YVR",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/unruly-passengers-force-mexico-flight-back-to-yvr",
-      "published_date": "2026-04-11T20:11:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police ask for help finding vandalism suspect",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-ask-for-help-finding-vandalism-suspect",
-      "published_date": "2026-04-11T19:53:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liberal party adopts motion to ban kids under 16 from social media",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/liberal-party-adopts-motion-ban-kids-under-16-social-media",
-      "published_date": "2026-04-11T19:48:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One person dead after hit by SkyTrain at Main Street Station in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/one-person-dead-after-hit-by-skytrain-at-main-street-station-in-vancouver",
-      "published_date": "2026-04-11T18:37:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP charge Moose Jaw man after indecent act reported at Manitou Beach",
+      "title": "P.A. Raiders take 2-0 series lead with gritty win vs. Saskatoon Blades",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/rcmp-charge-moose-jaw-man-after-indecent-act-reported-at-manitou-beach",
-      "published_date": "2026-04-11T17:17:26Z",
+      "url": "https://thestarphoenix.com/sports/hockey/saskatoon-blades/p-a-raiders-take-2-0-series-lead-with-gritty-win-vs-saskatoon-blades",
+      "published_date": "2026-04-12T19:20:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Second arrest in deadly 2025 shooting of 18-year-old man in city's Entertainment District",
+      "title": "China says it will resume some ties with Taiwan after visit by opposition leader",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/second-arrest-deadly-2025-shooting-of-18-year-old-man-entertainment-district",
-      "published_date": "2026-04-11T16:20:51Z",
+      "url": "https://torontosun.com/news/world/china-says-it-will-resume-some-ties-with-taiwan-after-visit-by-opposition-leader",
+      "published_date": "2026-04-12T17:53:37Z",
       "category": "Local Events"
     },
     {
-      "title": "JAY GOLDBERG: Doug Ford’s regional government overhaul threatens local democracy",
+      "title": "Russia, Ukraine accuse each other of violating Vladimir Putin’s Easter ceasefire",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/doug-ford-regional-government-overhaul-threatens-local-democracy",
-      "published_date": "2026-04-11T15:06:54Z",
+      "url": "https://torontosun.com/news/world/russia-ukraine-accuse-each-other-of-violating-vladimir-putins-easter-ceasefire",
+      "published_date": "2026-04-12T17:43:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Anthony Gismondi: A night of Michelin-starred dining and Haisma wine at Vancouver&#039;s Burdock and Co.",
+      "title": "Christine Frechette to be Quebec’s next premier after winning CAQ leadership",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/quebecers-about-to-find-out-who-will-replace-francois-legault-as-premier",
+      "published_date": "2026-04-12T17:18:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fatal crash between motorcycle and semi-truck on Alex Fraser Bridge",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-a-night-of-michelin-starred-dining-and-haisma-wine-at-vancouvers-burdock-co",
-      "published_date": "2026-04-11T15:00:21Z",
+      "url": "https://vancouversun.com/news/fatal-crash-between-motorcycle-and-semi-truck-on-alex-fraser-bridge",
+      "published_date": "2026-04-12T16:18:34Z",
       "category": "Local Events"
     },
     {
-      "title": "KINSELLA: The Conservative Party's problem isn't floor-crossing – it's leadership",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/conservative-partys-problem-floor-crossing-leadership",
-      "published_date": "2026-04-11T15:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How will extreme, near-record low snowpack affect B.C.&#039;s south coast?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/snowpack-record-april-2026",
-      "published_date": "2026-04-11T15:00:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motorist seriously injured in Windsor road rage incident; two suspects sought",
+      "title": "Retired Women Teachers of Ontario celebrate 70 years in Windsor",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/motorist-seriously-injured-in-windsor-road-rage-incident-two-suspects-sought",
-      "published_date": "2026-04-11T14:39:20Z",
+      "url": "https://windsorstar.com/news/local-news/retired-women-teachers-of-ontario-celebrate-70-years-in-windsor",
+      "published_date": "2026-04-12T14:01:11Z",
       "category": "Local Events"
     },
     {
-      "title": "GOLDSTEIN: How the Liberals broke the law while claiming to defend it",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/liberals-broke-law-while-claiming-to-defend-it",
-      "published_date": "2026-04-11T14:21:30Z",
+      "title": "Double-booked court delays trial for ER doctor facing sex charges",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/double-booked-court-delays-trial-for-er-doctor-facing-sex-charges",
+      "published_date": "2026-04-12T13:55:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: Do you cook with alcohol? Any tips?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-cook-with-alcohol-tips",
+      "published_date": "2026-04-12T13:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey will soon be B.C.&#039;s largest city. Does it need its own airport?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-soon-be-bc-largest-city-need-airport",
+      "published_date": "2026-04-12T13:00:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver showgirls mourn end of the &#039;sexiest show lounge&#039; with Brandi&#039;s closure",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/closure-brandis-show-lounge-ends-vancouverera",
+      "published_date": "2026-04-12T13:00:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Things look bleak’: Greater Victoria experts ponder future of drug crisis",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/12/things-look-bleak-greater-victoria-experts-ponder-future-of-drug-crisis/",
+      "published_date": "2026-04-12T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From ‘chaos’ to purpose: B.C. man rebuilds life after decades of struggle",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/12/from-chaos-to-purpose-b-c-man-rebuilds-life-after-decades-of-struggle/",
+      "published_date": "2026-04-12T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: The continuing quest for space",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/12/quiz-the-continuing-quest-for-space/",
+      "published_date": "2026-04-12T12:20:00Z",
       "category": "Local Events"
     }
   ]
