@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-12T23:39:53Z",
+  "generated_at": "2026-04-13T11:57:43Z",
   "country": "Canada",
-  "total_stories": 87,
+  "total_stories": 86,
   "categories": [
     "Diplomacy",
     "Military",
@@ -67,6 +67,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "IRAN WAR UPDATES: Trump and Pope Leo trade criticism; Ship traffic halts in Strait of Hormuz",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-13",
+      "published_date": "2026-04-13T11:31:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "Opinion: What happened to promise of no more wars?",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/opinion-what-happened-to-promise-of-no-more-wars",
+      "published_date": "2026-04-13T11:15:00Z",
+      "category": "Military"
+    },
+    {
       "title": "1 dead, 6 injured in mass shooting at Chick-fil-A in New Jersey",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/fatal-mass-shooting-chick-fil-a-new-jersey",
@@ -106,6 +120,13 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/prime-minister-mark-carney-billed-524k-flight-catering-first-year",
       "published_date": "2026-04-10T17:56:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "George Clooney fires back after White House accuses him of 'war crimes' for bad acting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/george-clooney-slams-trump-war-crimes-iran",
+      "published_date": "2026-04-10T15:01:56Z",
       "category": "Military"
     },
     {
@@ -183,27 +204,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/lets-get-together-windsor-fair-aims-to-combat-loneliness-with-hobbies-crafts",
       "published_date": "2026-04-07T14:56:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR UPDATES: Trump says 'whole civilization will die tonight' as deadline for attacks on Iran infrastructure nears",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-7",
-      "published_date": "2026-04-07T11:02:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "AGAR: Canadians facing taxing situation at the pumps as Iran war lumbers on",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/agar-canadians-facing-taxing-situation-at-the-pumps-as-iran-war-lumbers-on",
-      "published_date": "2026-04-07T00:40:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "As airlines raise prices, Canadians choosing different destinations",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/airlines-raise-prices-canadians-choose-different-destinations",
-      "published_date": "2026-04-06T23:08:57Z",
       "category": "Military"
     },
     {
@@ -330,13 +330,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/local-news/nearly-half-of-sask-residents-donations-in-ndp-race-went-to-avi-lewis",
       "published_date": "2026-04-06T19:49:55Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil Kings force Game 7 after 3-2 double-OT win over Blades",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/oil-kings-force-game-7-after-3-2-double-ot-win-over-blades",
-      "published_date": "2026-04-06T02:18:13Z",
       "category": "Energy"
     },
     {
@@ -480,6 +473,34 @@
       "category": "Economy"
     },
     {
+      "title": "Pembroke Community Watch to host spring meeting",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-community-watch-to-host-spring-meeting",
+      "published_date": "2026-04-13T09:41:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "All Elite Wrestling draws biggest non-WWE B.C. wrestling attendance mark in 58 years",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/all-elite-wrestling-draws-biggest-non-wwe-b-c-wrestling-attendance-mark-in-58-years/",
+      "published_date": "2026-04-13T07:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spitfires stun Firebirds with third-period comeback to take 2-0 series lead",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-stun-firebirds-with-third-period-comeback-to-take-2-0-series-lead",
+      "published_date": "2026-04-13T03:34:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man accused of threatening protesters; pedestrian critically hurt in Rexdale",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-accused-threatening-protesters-downtown",
+      "published_date": "2026-04-13T01:51:10Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Any Toronto city hall ‘excuse’ to kill off boat club good enough, activist says",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-humber-yacht-club-activist-closure",
@@ -536,6 +557,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Police arrest suspect, hunt for another after fatal shooting at Sarnia college bar",
+      "source": "Toronto Sun",
+      "url": "http://torontosun.com/news/local-news/sarnia-police-arrest-one-suspect-hunt-for-another-in-shooting-death/wcm/5b2bb24d-e28d-466b-8634-3a7c69023c1d",
+      "published_date": "2026-04-12T19:00:28Z",
+      "category": "Local Events"
+    },
+    {
       "title": "China says it will resume some ties with Taiwan after visit by opposition leader",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/china-says-it-will-resume-some-ties-with-taiwan-after-visit-by-opposition-leader",
@@ -557,66 +585,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Renowned grizzly 'The Boss' emerges from hibernation in Banff National Park's Bow Valley",
+      "source": "Toronto Sun",
+      "url": "http://torontosun.com/news/grizzly-or-groundhog-the-boss-announces-return-of-spring-in-the-bow-valley/wcm/b7211c0d-329b-4ea0-bdbd-0cab8bfb9eb3",
+      "published_date": "2026-04-12T16:55:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is running in Scarborough Southwest, University—Rosedale byelections?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/who-is-running-gta-federal-byelections",
+      "published_date": "2026-04-12T16:45:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Katy Perry, Justin Trudeau dance to Justin Bieber at Coachella music festival",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/katy-perry-justin-trudeau-justin-bieber-coachella",
+      "published_date": "2026-04-12T16:30:12Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Fatal crash between motorcycle and semi-truck on Alex Fraser Bridge",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/fatal-crash-between-motorcycle-and-semi-truck-on-alex-fraser-bridge",
       "published_date": "2026-04-12T16:18:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Retired Women Teachers of Ontario celebrate 70 years in Windsor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/retired-women-teachers-of-ontario-celebrate-70-years-in-windsor",
-      "published_date": "2026-04-12T14:01:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Double-booked court delays trial for ER doctor facing sex charges",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/double-booked-court-delays-trial-for-er-doctor-facing-sex-charges",
-      "published_date": "2026-04-12T13:55:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Do you cook with alcohol? Any tips?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-cook-with-alcohol-tips",
-      "published_date": "2026-04-12T13:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey will soon be B.C.&#039;s largest city. Does it need its own airport?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-soon-be-bc-largest-city-need-airport",
-      "published_date": "2026-04-12T13:00:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver showgirls mourn end of the &#039;sexiest show lounge&#039; with Brandi&#039;s closure",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/closure-brandis-show-lounge-ends-vancouverera",
-      "published_date": "2026-04-12T13:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Things look bleak’: Greater Victoria experts ponder future of drug crisis",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/12/things-look-bleak-greater-victoria-experts-ponder-future-of-drug-crisis/",
-      "published_date": "2026-04-12T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From ‘chaos’ to purpose: B.C. man rebuilds life after decades of struggle",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/12/from-chaos-to-purpose-b-c-man-rebuilds-life-after-decades-of-struggle/",
-      "published_date": "2026-04-12T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: The continuing quest for space",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/12/quiz-the-continuing-quest-for-space/",
-      "published_date": "2026-04-12T12:20:00Z",
       "category": "Local Events"
     }
   ]
