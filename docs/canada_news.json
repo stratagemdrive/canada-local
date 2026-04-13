@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T11:57:43Z",
+  "generated_at": "2026-04-13T23:49:51Z",
   "country": "Canada",
   "total_stories": 86,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Telecom customers must now be notified before discounts, promos end: CRTC",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/new-crtc-rule-affecting-telecom-service-providers",
+      "published_date": "2026-04-13T19:44:54Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "David Eby says B.C. is still putting pressure on Ottawa to resolve Canada-U.S. lumber dispute",
       "source": "Vancouver Sun",
@@ -65,6 +72,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/04/07/george-abbott-named-chief-commissioner-of-b-c-treaty-commission/",
       "published_date": "2026-04-07T23:48:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Dropping off ‘unsecured, unregistered’ firearms at detachment a criminal offence in B.C., RCMP says",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/dropping-off-unsecured-unregistered-firearms-at-detachment-a-criminal-offence-in-b-c-rcmp-says/",
+      "published_date": "2026-04-13T22:13:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "'Changing lives' — Windsor hosts high-pressure battle of the robots",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/changing-lives-windsor-hosts-high-pressure-battle-of-the-robots",
+      "published_date": "2026-04-13T17:28:29Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: Trump and Pope Leo trade criticism; Ship traffic halts in Strait of Hormuz",
@@ -193,20 +214,6 @@
       "category": "Military"
     },
     {
-      "title": "Vehicle image released in firearm probe; cops investigating gun hoax at movie theatre",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/man-wanted-firearm-probe-vehicle-sought",
-      "published_date": "2026-04-07T22:20:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "'Let's get together’ — Windsor fair aims to combat loneliness with hobbies, crafts",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/lets-get-together-windsor-fair-aims-to-combat-loneliness-with-hobbies-crafts",
-      "published_date": "2026-04-07T14:56:59Z",
-      "category": "Military"
-    },
-    {
       "title": "Sask. government oil and gas public offering garners nearly $13 million",
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/local-news/sask-government-oil-and-gas-public-offering-garners-nearly-13-million",
@@ -326,11 +333,25 @@
       "category": "Energy"
     },
     {
-      "title": "Nearly half of Sask. residents' donations in NDP race went to Avi Lewis",
+      "title": "Surrey sues Metro Vancouver, argues its economic development agency is illegitimate",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-sues-metro-vancouver-argues-its-economic-development-agency-is-illegitimate",
+      "published_date": "2026-04-13T23:39:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Calls made for province to rehire 126 workers left jobless from PHR closure",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/nearly-half-of-sask-residents-donations-in-ndp-race-went-to-avi-lewis",
-      "published_date": "2026-04-06T19:49:55Z",
-      "category": "Energy"
+      "url": "https://thestarphoenix.com/news/local-news/ndp-wants-province-to-rehire-126-workers-left-jobless-from-phr-closure",
+      "published_date": "2026-04-13T20:26:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "'Failed stunt' — Ontario NDP leader says Ford missed chance to secure Amherstburg jobs in Diageo deal",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/failed-stunt-ontario-ndp-leader-says-ford-missed-chance-to-secure-amherstburg-jobs-in-diageo-deal",
+      "published_date": "2026-04-13T12:56:08Z",
+      "category": "Economy"
     },
     {
       "title": "Sask. government re-establishes labour relations advisory committee",
@@ -452,164 +473,143 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: It is First Nations that suffer when elected leaders spread fear",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-it-is-first-nations-that-suffer-when-elected-leaders-spread-fear",
-      "published_date": "2026-04-06T23:00:31Z",
-      "category": "Economy"
-    },
-    {
-      "title": "HST relief on new homes may take unintended toll on resale prices: Expert",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/hst-relief-on-new-homes-may-take-unintended-toll-on-resale-prices-expert",
-      "published_date": "2026-04-06T22:48:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Nearly 800 potholes reported in Saskatoon since late March",
+      "title": "'We would much rather be celebrating': Megan Gallagher's family attends sentencing hearing days after her birthday",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/nearly-800-potholes-reported-in-saskatoon-since-late-march",
-      "published_date": "2026-04-06T18:18:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pembroke Community Watch to host spring meeting",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-community-watch-to-host-spring-meeting",
-      "published_date": "2026-04-13T09:41:24Z",
+      "url": "https://thestarphoenix.com/news/crime/we-would-much-rather-be-celebrating-megan-gallaghers-family-attends-sentencing-hearing-days-after-her-birthday",
+      "published_date": "2026-04-13T22:25:18Z",
       "category": "Local Events"
     },
     {
-      "title": "All Elite Wrestling draws biggest non-WWE B.C. wrestling attendance mark in 58 years",
+      "title": "WARMINGTON: Toronto Police doing their best to prepare for worst",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-hold-counterterrorism-training",
+      "published_date": "2026-04-13T21:49:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Facing NDP caucus revolt, David Eby backs down on making DRIPA suspension a confidence vote",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/facing-ndp-caucus-revolt-david-eby-backs-down-dripa-suspension-confidence-vote",
+      "published_date": "2026-04-13T21:43:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teen charged with murder, sex abuse after stepsister slain on cruise ship",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/teen-charged-with-murder-of-stepsister",
+      "published_date": "2026-04-13T21:35:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. defenceman makes NHL debut days after Frozen Four appearance",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/all-elite-wrestling-draws-biggest-non-wwe-b-c-wrestling-attendance-mark-in-58-years/",
-      "published_date": "2026-04-13T07:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/b-c-defenceman-makes-nhl-debut-days-after-frozen-four-appearance/",
+      "published_date": "2026-04-13T21:35:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Spitfires stun Firebirds with third-period comeback to take 2-0 series lead",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/spitfires-stun-firebirds-with-third-period-comeback-to-take-2-0-series-lead",
-      "published_date": "2026-04-13T03:34:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto man accused of threatening protesters; pedestrian critically hurt in Rexdale",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-accused-threatening-protesters-downtown",
-      "published_date": "2026-04-13T01:51:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Any Toronto city hall ‘excuse’ to kill off boat club good enough, activist says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-humber-yacht-club-activist-closure",
-      "published_date": "2026-04-12T23:31:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary's PM Viktor Orban concedes 'painful' election loss to rival Peter Magyar",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/hungary-pm-viktor-orban-defeated-by-rival",
-      "published_date": "2026-04-12T22:22:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dead, woman rescued after canoe capsizes on Heart Lake in Brampton",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-dead-woman-rescued-brampton-lake",
-      "published_date": "2026-04-12T21:21:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Master plan for Surrey&#039;s Newton town centre to be unveiled to city council",
+      "title": "The Strokes in Vancouver: What to know about the concert",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-newton-town-centre-master-plan-unveiled",
-      "published_date": "2026-04-12T21:00:33Z",
+      "url": "https://vancouversun.com/entertainment/the-strokes-in-vancouver-what-to-know-about-the-concert",
+      "published_date": "2026-04-13T21:33:51Z",
       "category": "Local Events"
     },
     {
-      "title": "LILLEY: Tories can thank Donald Trump with Mark Carney on verge of majority",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-on-verge-majority-government",
-      "published_date": "2026-04-12T19:48:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iconic Miami hotel blown up to make way for new luxury development",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/miami-hotel-imploded-new-development-planned",
-      "published_date": "2026-04-12T19:26:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Car fire in West Vancouver synagogue parking lot sparks concern",
+      "title": "Two men charged in fatal 2022 shooting in Maple Ridge, says IHIT",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/west-vancouver-synagogue-car-fire",
-      "published_date": "2026-04-12T19:24:20Z",
+      "url": "https://vancouversun.com/news/two-men-charged-fatal-2022-shooting-maple-ridge-says-ihit",
+      "published_date": "2026-04-13T21:20:49Z",
       "category": "Local Events"
     },
     {
-      "title": "P.A. Raiders take 2-0 series lead with gritty win vs. Saskatoon Blades",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/hockey/saskatoon-blades/p-a-raiders-take-2-0-series-lead-with-gritty-win-vs-saskatoon-blades",
-      "published_date": "2026-04-12T19:20:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police arrest suspect, hunt for another after fatal shooting at Sarnia college bar",
+      "title": "LILLEY: Ontario's massive shake-up of education makes sense",
       "source": "Toronto Sun",
-      "url": "http://torontosun.com/news/local-news/sarnia-police-arrest-one-suspect-hunt-for-another-in-shooting-death/wcm/5b2bb24d-e28d-466b-8634-3a7c69023c1d",
-      "published_date": "2026-04-12T19:00:28Z",
+      "url": "https://torontosun.com/opinion/columnists/ontarios-massive-shake-up-of-education-makes-sense",
+      "published_date": "2026-04-13T21:01:09Z",
       "category": "Local Events"
     },
     {
-      "title": "China says it will resume some ties with Taiwan after visit by opposition leader",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/china-says-it-will-resume-some-ties-with-taiwan-after-visit-by-opposition-leader",
-      "published_date": "2026-04-12T17:53:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia, Ukraine accuse each other of violating Vladimir Putin’s Easter ceasefire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/russia-ukraine-accuse-each-other-of-violating-vladimir-putins-easter-ceasefire",
-      "published_date": "2026-04-12T17:43:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christine Frechette to be Quebec’s next premier after winning CAQ leadership",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/quebecers-about-to-find-out-who-will-replace-francois-legault-as-premier",
-      "published_date": "2026-04-12T17:18:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renowned grizzly 'The Boss' emerges from hibernation in Banff National Park's Bow Valley",
-      "source": "Toronto Sun",
-      "url": "http://torontosun.com/news/grizzly-or-groundhog-the-boss-announces-return-of-spring-in-the-bow-valley/wcm/b7211c0d-329b-4ea0-bdbd-0cab8bfb9eb3",
-      "published_date": "2026-04-12T16:55:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is running in Scarborough Southwest, University—Rosedale byelections?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/who-is-running-gta-federal-byelections",
-      "published_date": "2026-04-12T16:45:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Katy Perry, Justin Trudeau dance to Justin Bieber at Coachella music festival",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/katy-perry-justin-trudeau-justin-bieber-coachella",
-      "published_date": "2026-04-12T16:30:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fatal crash between motorcycle and semi-truck on Alex Fraser Bridge",
+      "title": "Opinion: Ten years into B.C.’s toxic drug crisis, solutions are within reach",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/fatal-crash-between-motorcycle-and-semi-truck-on-alex-fraser-bridge",
-      "published_date": "2026-04-12T16:18:34Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-ten-years-into-b-c-s-toxic-drug-crisis-solutions-are-within-reach",
+      "published_date": "2026-04-13T21:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamilton cops probing 'grandparent scam;' SUV driver wanted after Brampton crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hamilton-cops-seeking-male-scam-suspect",
+      "published_date": "2026-04-13T21:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. marks 10-year anniversary of toxic drug crisis, looks back at axed decrim pilot",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/b-c-marks-10-year-anniversary-of-toxic-drug-crisis-looks-back-at-axed-decrim-pilot/",
+      "published_date": "2026-04-13T20:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kitimat RCMP seek help locating missing 14-year-old girl",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/kitimat-rcmp-seek-help-locating-missing-14-year-old-girl/",
+      "published_date": "2026-04-13T20:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Legal dispute stalls KSM tunnel permit decision",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/legal-dispute-stalls-ksm-tunnel-permit-decision/",
+      "published_date": "2026-04-13T20:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.’s NDP government nixes plan for DRIPA confidence vote, delays bill",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/b-c-s-ndp-government-nixes-plan-for-dripa-confidence-vote-delays-bill/",
+      "published_date": "2026-04-13T20:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tennessee school board member censured for calling female student 'hot'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/tennessee-school-board-member-called-girl-hot",
+      "published_date": "2026-04-13T20:08:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP: Man wanted on Canada-wide warrant could be in Kamloops or Abbotsford",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/rcmp-man-wanted-on-canada-wide-warrant-could-be-in-kamloops-or-abbotsford/",
+      "published_date": "2026-04-13T20:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: After ten years of the toxic drug crisis, B.C. must build on what works",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-after-ten-years-of-the-toxic-drug-crisis-b-c-must-build-on-what-works",
+      "published_date": "2026-04-13T20:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke hospital launches rapid response team for early intervention",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-hospital-launches-rapid-response-team-for-early-intervention",
+      "published_date": "2026-04-13T19:49:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal Liberal support slips, but maintains double-digit lead over Tories",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/federal-liberal-support-slips-but-maintains-double-digit-lead-over-tories",
+      "published_date": "2026-04-13T19:27:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATED: Financial debt forces cancellation of Kootenays music festival",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/financial-debt-forces-cancellation-of-kootenays-music-festival/",
+      "published_date": "2026-04-13T18:49:00Z",
       "category": "Local Events"
     }
   ]
