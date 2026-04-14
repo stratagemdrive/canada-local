@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-13T23:49:51Z",
+  "generated_at": "2026-04-14T11:48:20Z",
   "country": "Canada",
-  "total_stories": 86,
+  "total_stories": 85,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/04/07/george-abbott-named-chief-commissioner-of-b-c-treaty-commission/",
       "published_date": "2026-04-07T23:48:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Pakistan proposes new U.S.-Iran talks",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-14",
+      "published_date": "2026-04-14T11:35:06Z",
+      "category": "Military"
     },
     {
       "title": "Dropping off ‘unsecured, unregistered’ firearms at detachment a criminal offence in B.C., RCMP says",
@@ -204,13 +211,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/08/b-c-first-nation-at-odds-over-ownership-of-historic-greater-victoria-site/",
       "published_date": "2026-04-08T23:23:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR UPDATES: Hegseth says Operation Epic Fury 'epic victory'; Attacks reported in Iran, gulf Arab nations",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-8",
-      "published_date": "2026-04-08T11:26:09Z",
       "category": "Military"
     },
     {
@@ -466,11 +466,53 @@
       "category": "Economy"
     },
     {
-      "title": "Reader letters: Keep ERCA as ERCA; turn Peche into Boblo-type amusement park",
+      "title": "Guest column: Progress made on housing, but still a ways to go",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/reader-letters-keep-erca-as-erca-turn-peche-into-boblo-type-amusement-park",
-      "published_date": "2026-04-07T11:22:56Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/opinion/columnists/guest-column-progress-made-on-housing-but-still-a-ways-to-go",
+      "published_date": "2026-04-14T11:20:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: What does Mark Carney do with his majority government now?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/what-does-mark-carney-do-with-his-majority-government-now",
+      "published_date": "2026-04-14T10:00:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. killer Tanner Fox adds another homicide to his bloody CV",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/b-c-killer-tanner-fox-another-homicide",
+      "published_date": "2026-04-14T01:18:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man accused of assaulting ref during Hamilton ball hockey game; 1 dead in Niagara crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/man-accused-assault-hamilton-ball-hockey-game",
+      "published_date": "2026-04-14T00:40:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian man killed in Israeli airstrikes in southern Lebanon",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-man-killed-israeli-airstrikes-lebanon",
+      "published_date": "2026-04-14T00:24:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Liberals seize majority control with federal byelection wins in GTA ridings",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/federal-byelection-scarborough-southwest-university-rosedale",
+      "published_date": "2026-04-14T00:04:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: David Eby&#039;s unnecessary use of &#039;confidence&#039; votes finally backfires",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-premier-david-eby-unnecessary-use-of-confidence-votes-finally-backfires",
+      "published_date": "2026-04-13T23:51:05Z",
+      "category": "Local Events"
     },
     {
       "title": "'We would much rather be celebrating': Megan Gallagher's family attends sentencing hearing days after her birthday",
@@ -561,55 +603,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/13/legal-dispute-stalls-ksm-tunnel-permit-decision/",
       "published_date": "2026-04-13T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.’s NDP government nixes plan for DRIPA confidence vote, delays bill",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/b-c-s-ndp-government-nixes-plan-for-dripa-confidence-vote-delays-bill/",
-      "published_date": "2026-04-13T20:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tennessee school board member censured for calling female student 'hot'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/tennessee-school-board-member-called-girl-hot",
-      "published_date": "2026-04-13T20:08:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP: Man wanted on Canada-wide warrant could be in Kamloops or Abbotsford",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/rcmp-man-wanted-on-canada-wide-warrant-could-be-in-kamloops-or-abbotsford/",
-      "published_date": "2026-04-13T20:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: After ten years of the toxic drug crisis, B.C. must build on what works",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-after-ten-years-of-the-toxic-drug-crisis-b-c-must-build-on-what-works",
-      "published_date": "2026-04-13T20:00:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke hospital launches rapid response team for early intervention",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-hospital-launches-rapid-response-team-for-early-intervention",
-      "published_date": "2026-04-13T19:49:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal Liberal support slips, but maintains double-digit lead over Tories",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/federal-liberal-support-slips-but-maintains-double-digit-lead-over-tories",
-      "published_date": "2026-04-13T19:27:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATED: Financial debt forces cancellation of Kootenays music festival",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/13/financial-debt-forces-cancellation-of-kootenays-music-festival/",
-      "published_date": "2026-04-13T18:49:00Z",
       "category": "Local Events"
     }
   ]
