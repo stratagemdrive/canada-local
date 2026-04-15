@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-14T23:46:40Z",
+  "generated_at": "2026-04-15T11:44:28Z",
   "country": "Canada",
-  "total_stories": 81,
+  "total_stories": 80,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "B.C. introduces legislation to implement modern treaty with K’ómoks First Nation",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-introduces-legislation-implement-modern-treaty-komoks-first-nation",
+      "published_date": "2026-04-14T23:48:24Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Telecom customers must now be notified before discounts, promos end: CRTC",
       "source": "Toronto Sun",
@@ -67,11 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "George Abbott named chief commissioner of B.C. Treaty Commission",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/07/george-abbott-named-chief-commissioner-of-b-c-treaty-commission/",
-      "published_date": "2026-04-07T23:48:00Z",
-      "category": "Diplomacy"
+      "title": "Windsor Star readers: More Ojibway; less war; buy EVs; invite Trump",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/windsor-star-readers-more-ojibway-less-war-buy-evs-invite-trump",
+      "published_date": "2026-04-15T11:20:45Z",
+      "category": "Military"
     },
     {
       "title": "B.C. Conservatives make opening bid to end union-only contracts for public projects",
@@ -204,13 +211,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/sports/after-season-long-battle-for-division-crown-is-an-old-rivalry-set-to-be-rekindled-between-spitfires-and-firebirds-in-the-playoffs",
       "published_date": "2026-04-09T15:57:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "U.S. proposes automatic military registration to draft-eligible men",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/us-automatic-military-registration-draft-men",
-      "published_date": "2026-04-09T15:44:05Z",
       "category": "Military"
     },
     {
@@ -431,11 +431,46 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: Carney should heed Poilievre's call for gas tax relief",
+      "title": "'You have our support' — Windsor signs friendship deal with war-torn Kupiansk, Ukraine",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/opinion-carney-should-heed-poilievres-call-for-gas-tax-relief",
-      "published_date": "2026-04-08T11:20:10Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/you-have-our-support-windsor-signs-friendship-deal-with-war-torn-kupiansk-ukraine",
+      "published_date": "2026-04-15T11:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Blades one game away from being swept by Raiders in WHL playoffs",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/blades-one-game-away-from-being-swept-by-raiders-in-whl-playoffs",
+      "published_date": "2026-04-15T06:13:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "DeBrusk nets 2, including OT winner, as Canucks edge L.A. Kings 4-3",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/14/debrusk-nets-2-including-ot-winner-as-canucks-edge-l-a-kings-4-3/",
+      "published_date": "2026-04-15T04:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Another dominant defensive effort has Spitfires up 3-0 in series against Firebirds",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/another-dominant-defensive-effort-has-spitfires-up-3-0-in-series-against-firebirds",
+      "published_date": "2026-04-15T04:35:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative leadership candidate back in Okanagan",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/14/b-c-conservative-leadership-candidate-back-in-okanagan/",
+      "published_date": "2026-04-15T01:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Sadness, grief, and outrage’: B.C. marks decade of toxic drug emergency",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/14/sadness-grief-and-outrage-b-c-marks-decade-of-toxic-drug-emergency/",
+      "published_date": "2026-04-15T00:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Montreal man talked about his goals and ambitions hours before he was stabbed to death, friend testifies",
@@ -533,48 +568,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/welcome-to-liberal-majority-government-new-world-order",
       "published_date": "2026-04-14T22:05:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. court rules judge must end contempt probe into Donald Trump",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/court-rules-judge-must-end-trump-probe",
-      "published_date": "2026-04-14T21:55:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barnside Brewing Co. Harvest Festival announces lineup: What you need to know about the concerts",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/barnside-brewing-co-harvest-festival-lineup-what-to-know",
-      "published_date": "2026-04-14T21:49:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged B.C. dark web drug trafficker arrested in Germany",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/alleged-bc-dark-web-drug-trafficker-arrested-in-germany",
-      "published_date": "2026-04-14T21:43:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Disturbing and exploitative’: Judge convicts Langley man in child sex abuse material, luring case",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/14/disturbing-and-exploitative-judge-convicts-langley-man-in-child-sex-abuse-material-luring-case/",
-      "published_date": "2026-04-14T21:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver mayor wants city to bid for a Major League Baseball team",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-mayor-wants-city-to-bid-for-a-major-league-baseball-team",
-      "published_date": "2026-04-14T21:29:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged in relation to drug trafficking network last seen in Victoria",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/14/man-charged-in-relation-to-drug-trafficking-network-last-seen-in-victoria/",
-      "published_date": "2026-04-14T20:44:00Z",
       "category": "Local Events"
     }
   ]
