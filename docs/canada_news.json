@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T23:44:33Z",
+  "generated_at": "2026-04-17T11:40:35Z",
   "country": "Canada",
   "total_stories": 76,
   "categories": [
@@ -79,6 +79,20 @@
       "url": "https://thestarphoenix.com/news/local-news/james-smith-cree-nation-signs-agreement-with-sask-marshals-service",
       "published_date": "2026-04-10T18:41:30Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR LATEST: 10-day Lebanon ceasefire appears to hold as European leaders to meet over Strait",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-17",
+      "published_date": "2026-04-17T11:21:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "Dyer: Has post-war generation forgotten how hard-won peace is?",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/dyer-has-post-war-generation-forgotten-how-hard-won-peace-is",
+      "published_date": "2026-04-17T11:20:21Z",
+      "category": "Military"
     },
     {
       "title": "Windsor crews battle $100K fire in South Windsor",
@@ -204,20 +218,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/batras-burning-questions-for-israel-the-iran-war-is-about-more-than-oil",
       "published_date": "2026-04-10T20:56:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Prime Minister Mark Carney billed $524K on in-flight catering during first year as PM",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/prime-minister-mark-carney-billed-524k-flight-catering-first-year",
-      "published_date": "2026-04-10T17:56:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "George Clooney fires back after White House accuses him of 'war crimes' for bad acting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/george-clooney-slams-trump-war-crimes-iran",
-      "published_date": "2026-04-10T15:01:56Z",
       "category": "Military"
     },
     {
@@ -403,6 +403,48 @@
       "category": "Economy"
     },
     {
+      "title": "Spitfires sweep Firebirds to continue path of 2010 Memorial Cup championship team",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-sweep-firebirds-to-continue-path-of-2010-memorial-cup-championship-team",
+      "published_date": "2026-04-17T04:43:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canucks end tough season on a sour note, falling 6-1 to Edmonton Oilers",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/16/canucks-end-tough-season-on-a-sour-note-falling-6-1-to-edmonton-oilers/",
+      "published_date": "2026-04-17T03:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Drug use and danger on full display when Toronto hosts World Cup",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/drug-use-danger-full-display-toronto-hosts-world-cup",
+      "published_date": "2026-04-17T00:35:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delta company opens lithium refining plant with first-in-North-America technology",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/delta-pilot-project-for-lithium-processing-b-c-s-next-try-tech-to-support-batteries-for-electrification",
+      "published_date": "2026-04-17T00:02:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Should there be a consumer advocate for B.C. Ferries? And why is a bridge to Vancouver Island not feasible?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/should-there-be-consumer-advocate-bc-ferries",
+      "published_date": "2026-04-16T23:53:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Trial begins in deadly 2020 shooting of beloved YMCA instructor Shane Stanford",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/murder-trial-shooting-ymca-instructor-shane-stanford-north-york",
+      "published_date": "2026-04-16T23:48:56Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Vaughn Palmer: Seattle columnist was a fan, and sometimes a critic, of B.C.",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-seattle-columnist-fan-bc",
@@ -498,48 +540,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/16/b-c-housing-minister-doubles-down-on-kelowna-short-term-rental-decision-coming-soon/",
       "published_date": "2026-04-16T21:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "DEMONTIS: Award-winning journalist Sandy Naiman was a powerful voice in the community",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/journalist-sandy-naiman-a-powerful-voice-in-the-community",
-      "published_date": "2026-04-16T20:55:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Health loses appeal in vaccine-related dismissal case",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/northern-health-loses-appeal-in-vaccine-related-dismissal-case",
-      "published_date": "2026-04-16T20:49:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. court turns down B.C. mine&#039;s push to increase selenium levels in border lake pollution dispute",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/us-court-turns-down-bc-mine-selenium-levels-border-lake-pollution-dispute",
-      "published_date": "2026-04-16T20:46:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "State funeral to be held in Regina for former Sask. lieutenant-governor",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/state-funeral-to-be-held-in-regina-for-former-sask-lieutenant-governor",
-      "published_date": "2026-04-16T20:28:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Saskatoon officer gets conditional discharge for off-duty assault at party",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/former-saskatoon-officer-gets-conditional-discharge-for-off-duty-assault-at-party",
-      "published_date": "2026-04-16T20:15:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish groups want Canada to better protect communities from extremism",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/jewish-groups-want-canada-better-protect-communities-extremism",
-      "published_date": "2026-04-16T20:14:46Z",
       "category": "Local Events"
     }
   ]
