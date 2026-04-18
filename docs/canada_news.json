@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-17T23:42:33Z",
+  "generated_at": "2026-04-18T11:24:56Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -15,6 +15,13 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/trump-administration-trashes-canada-on-trade-carney-investment-summit",
       "published_date": "2026-04-17T21:59:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR LATEST: Trump, Iranian foreign minister say Strait of Hormuz is fully open",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-17",
+      "published_date": "2026-04-17T11:21:33Z",
       "category": "Diplomacy"
     },
     {
@@ -64,13 +71,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/new-crtc-rule-affecting-telecom-service-providers",
       "published_date": "2026-04-13T19:44:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "David Eby says B.C. is still putting pressure on Ottawa to resolve Canada-U.S. lumber dispute",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/david-eby-pressures-ottawa-us-lumber-dispute",
-      "published_date": "2026-04-11T01:14:55Z",
       "category": "Diplomacy"
     },
     {
@@ -277,6 +277,13 @@
       "category": "Energy"
     },
     {
+      "title": "New &#039;track and trace&#039; program uses advanced testing and AI to locate origin of toxic drugs in B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/new-track-and-trace-program-locate-origin-toxic-drugs-bc",
+      "published_date": "2026-04-18T00:13:10Z",
+      "category": "Economy"
+    },
+    {
       "title": "‘Vindicated’ councillor’s $20Gs in legal fees may go on taxpayers’ tab",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/chris-moise-integrity-investigation-legal-fees",
@@ -359,6 +366,41 @@
       "url": "https://thestarphoenix.com/news/local-news/sask-government-re-establishes-labour-relations-advisory-committee",
       "published_date": "2026-04-11T17:57:05Z",
       "category": "Economy"
+    },
+    {
+      "title": "Toronto man, 40, accused of sex assault at Union Station; downtown robbery suspect caught",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-sex-assault-union-station-downtown-robbery-suspect-caught",
+      "published_date": "2026-04-18T00:52:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP say two targeted stabbing incidents in Langley &#039;concerning&#039; but not related",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/two-targeted-stabbing-incidents-langley-unrelated",
+      "published_date": "2026-04-17T23:58:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. judge rules arrest of ex-RCMP officer charged with helping China violated his Charter rights",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/bc-judge-rules-arrest-of-ex-rcmp-officer-charged-helping-china-violated-charter-rights",
+      "published_date": "2026-04-17T23:47:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Etobicoke residents asking judge to halt work on city’s Third St. shelter",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/etobicoke-residents-asking-judge-halt-work-citys-third-st-shelter",
+      "published_date": "2026-04-17T23:40:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Sun Run is this avid runner&#039;s favourite race",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/vancouver-sun-run-is-avid-runners-favourite-race",
+      "published_date": "2026-04-17T23:38:41Z",
+      "category": "Local Events"
     },
     {
       "title": "Three men arrested, accused of carjackings and vehicle theft in Toronto",
@@ -463,41 +505,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/kelowna-exempted-from-short-term-rental-rules",
       "published_date": "2026-04-17T21:04:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Sun: Floor crossings are controversial, but a feature of Canadian politics since Confederation",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-sun-floor-crossings-are-controversial-but-a-feature-of-canadian-politics-since-confederation",
-      "published_date": "2026-04-17T21:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prince George Cougars fined, player suspended after chaotic game vs. Penticton",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/17/prince-george-cougars-fined-player-suspended-after-chaotic-game-vs-penticton/",
-      "published_date": "2026-04-17T20:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Tory has strong support among Beaches–East York voters: Poll",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/john-tory-strong-support-beaches-east-york-voters",
-      "published_date": "2026-04-17T20:30:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tk’emlúps police medic overcomes rugged terrain to reach injured rider",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/17/tkemlps-police-medic-overcomes-rugged-terrain-to-reach-injured-rider/",
-      "published_date": "2026-04-17T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multiple injuries after vehicle slams through Kelowna Starbucks",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/17/multiple-injuries-after-vehicle-slams-through-kelowna-starbucks/",
-      "published_date": "2026-04-17T20:20:00Z",
       "category": "Local Events"
     }
   ]
