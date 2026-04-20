@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T23:41:35Z",
+  "generated_at": "2026-04-20T11:58:49Z",
   "country": "Canada",
   "total_stories": 73,
   "categories": [
@@ -86,6 +86,13 @@
       "url": "https://torontosun.com/news/national/new-crtc-rule-affecting-telecom-service-providers",
       "published_date": "2026-04-13T19:44:54Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: U.S. Navy seizure of Iranian ship casts doubt on new talks in Pakistan",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-20",
+      "published_date": "2026-04-20T11:28:45Z",
+      "category": "Military"
     },
     {
       "title": "LILLEY: Ford caves to mob driven by petty jealousy, sells government jet",
@@ -218,13 +225,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/13/dropping-off-unsecured-unregistered-firearms-at-detachment-a-criminal-offence-in-b-c-rcmp-says/",
       "published_date": "2026-04-13T22:13:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "'Changing lives' — Windsor hosts high-pressure battle of the robots",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/changing-lives-windsor-hosts-high-pressure-battle-of-the-robots",
-      "published_date": "2026-04-13T17:28:29Z",
       "category": "Military"
     },
     {
@@ -382,6 +382,41 @@
       "category": "Economy"
     },
     {
+      "title": "Wanted Toronto man accused of break-in spree; cops warn of downtown sex assault",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/wanted-toronto-man-accused-break-enter",
+      "published_date": "2026-04-20T03:02:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. premier’s office says DRIPA changes will not be introduced this spring after all",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/19/b-c-premiers-office-says-dripa-changes-will-not-be-introduced-this-spring-after-all/",
+      "published_date": "2026-04-20T01:41:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. premier backs away from suspending DRIPA amid concerns from MLAs and anger from First Nations",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-premier-david-eby-backs-away-suspending-dripa-concerns-mlas-anger-first-nations",
+      "published_date": "2026-04-20T01:25:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "8 children dead, 2 women critical after mass shooting in Shreveport",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/eight-children-killed-louisiana-mass-shooting",
+      "published_date": "2026-04-20T00:48:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Car-free Sundays to return to Gastown’s Water Street this summer",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/car-free-sundays-return-vancouver-gastown-water-street",
+      "published_date": "2026-04-19T23:52:50Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Police incident on Queen of Surrey suspends all ferries at Horseshoe Bay",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/police-incident-on-queen-of-surrey-suspends-all-ferries-at-horseshoe-bay",
@@ -484,41 +519,6 @@
       "source": "YGK News",
       "url": "https://ygknews.ca/2026/04/19/construction-of-culligan-water-park-enclosure-delayed-pushing-opening-to-late-2027/",
       "published_date": "2026-04-19T04:17:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Whitecaps score 1st place in MLS with league-leading 22 goals",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/18/whitecaps-fc-rise-to-1st-place-in-mls-with-league-leading-22-goals/",
-      "published_date": "2026-04-19T04:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey’s Jenn Gardiner secures OT win for Vancouver Goldeneyes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/18/surreys-jenn-gardiner-secures-ot-win-for-vancouver-goldeneyes/",
-      "published_date": "2026-04-19T02:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey’s Vaisakhi parade draws more than 450,000 in massive display of unity",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surreys-vaisakhi-parade-draws-more-than-450000-in-massive-display-of-unity",
-      "published_date": "2026-04-19T01:30:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Williams Lake teenager running for BC Children’s Hospital",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/18/williams-lake-teenager-running-for-bc-childrens-hospital/",
-      "published_date": "2026-04-18T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Dear Conservatives, avoid liberal advice",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-conservatives-avoid-liberal-advice",
-      "published_date": "2026-04-18T21:00:14Z",
       "category": "Local Events"
     }
   ]
