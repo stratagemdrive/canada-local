@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-20T23:49:21Z",
+  "generated_at": "2026-04-21T11:51:34Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 75,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "B.C. premier seeks agreement on DRIPA changes by fall: &#039;The most challenging issue I&#039;ve worked on&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-premier-backs-off-dripa-changes-seeks-agreement-on-changes-by-fall",
+      "published_date": "2026-04-20T23:54:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Trump said ceasefire extension 'highly unlikely' as Pakistan prepares for peace talks",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-20",
+      "published_date": "2026-04-20T11:28:45Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Trump administration trashes Canada on trade as Carney calls investment summit",
       "source": "Toronto Sun",
@@ -79,6 +93,13 @@
       "url": "https://vancouversun.com/news/bc-introduces-legislation-implement-modern-treaty-komoks-first-nation",
       "published_date": "2026-04-14T23:48:24Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR LATEST: Doubt surrounds Iran-U.S. talks as ceasefire is set to expire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-21",
+      "published_date": "2026-04-21T11:28:46Z",
+      "category": "Military"
     },
     {
       "title": "Mother, 6 kids killed in explosion, fire at Pennsylvania home",
@@ -211,13 +232,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/seeing-a-lot-of-success-amid-trade-war-with-u-s-invest-windsoressex-pivots-to-asia",
       "published_date": "2026-04-14T14:26:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR UPDATES: Pakistan proposes new U.S.-Iran talks",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-14",
-      "published_date": "2026-04-14T11:35:06Z",
       "category": "Military"
     },
     {
@@ -382,6 +396,76 @@
       "category": "Economy"
     },
     {
+      "title": "Baby dies after found inside vehicle in Leslieville",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-baby-dies-leslieville-vehicle",
+      "published_date": "2026-04-21T11:37:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sports roundup: Playoff-bound Rush wrap up regular season in third place",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/local-sports/sports-roundup-playoff-bound-rush-wrap-up-regular-season-in-third-place",
+      "published_date": "2026-04-21T05:05:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: CUPE Ontario president Fred Hahn on leave amid workplace complaint",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/fred-hahn-on-leave-workplace-complaint",
+      "published_date": "2026-04-21T03:03:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "King honours 'darling Mama' Queen Elizabeth in 100th birthday speech",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/king-honours-darling-mama-queen-elizabeth",
+      "published_date": "2026-04-21T01:55:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clarington man accused of exposing himself to minor; armed robbery in Oshawa",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/clarington-man-accused-exposing-himself-minor",
+      "published_date": "2026-04-21T01:54:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamilton cops uncover suspected illegal dog-breeding operation during drug bust",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hamilton-cops-uncover-illegal-dog-breeding",
+      "published_date": "2026-04-21T00:47:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-RCMP inspector pleads not guilty to planning to help China threaten B.C. resident",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/ex-rcmp-inspector-pleads-not-guilty-planning-help-china-threaten-bc-resident",
+      "published_date": "2026-04-21T00:19:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A beautiful day for Vancouver Sun Run, and its more than 55,000 participants",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/vancouver-sun-run-a-success-for-over-55000",
+      "published_date": "2026-04-21T00:06:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sleeping beauty marmot Roger yet to wake from slumber at B.C. hotel",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/20/sleeping-beauty-marmot-roger-yet-to-wake-from-slumber-at-b-c-hotel/",
+      "published_date": "2026-04-21T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: B.C. Premier David Eby has learned he is not in charge",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-premier-david-eby-not-in-charge-dripa-first-nations",
+      "published_date": "2026-04-20T23:48:32Z",
+      "category": "Local Events"
+    },
+    {
       "title": "VIDEO: Alberta man sentenced in B.C. highway crash that destroyed tow truck, Mercedes",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/20/video-alberta-man-sentenced-in-b-c-highway-crash-that-destroyed-tow-truck-mercedes/",
@@ -449,76 +533,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/20/you-can-accomplish-anything-fellow-in-yellow-makes-way-across-north-thompson/",
       "published_date": "2026-04-20T21:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grouse Grind reopens for 2026 season this week",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/grouse-grind-reopens-2026-season",
-      "published_date": "2026-04-20T20:56:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian woman shot dead in Mexico",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/canadian-woman-shot-dead-in-mexico",
-      "published_date": "2026-04-20T20:56:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Louisiana man who fatally shot 8 children had marital and mental health issues: Family",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/louisiana-man-who-fatally-shot-8-children-had-marital-and-mental-health-issues",
-      "published_date": "2026-04-20T20:41:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LaSalle’s Spring Fling served up ‘buskers-style’ fun for hundreds",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/la-salles-spring-fling-served-up-buskers-style-fun-for-hundreds",
-      "published_date": "2026-04-20T20:15:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pete McMartin: How I got up off the couch and survived the Sun Run",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/health/pete-mcmartin-how-i-got-up-off-the-couch-and-survived-the-sun-run",
-      "published_date": "2026-04-20T20:08:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police warn of distraction thefts",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-warn-of-distraction-thefts",
-      "published_date": "2026-04-20T19:03:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey police asking for help locating assault suspect",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-crime-news-april-20-2026-assault-suspect",
-      "published_date": "2026-04-20T19:01:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. family races to raise $2.7M to save 3-year-old with rare disease",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/20/b-c-family-races-to-raise-2-7m-to-save-3-year-old-with-rare-disease/",
-      "published_date": "2026-04-20T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International: 30 bestselling books of the week for April 18",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/international-30-bestselling-books-of-the-week-for-april-18",
-      "published_date": "2026-04-20T18:03:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatoon man who secretly recorded women, girls accused of sentence breach",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/saskatoon-man-who-secretly-recorded-women-girls-accused-of-sentence-breach",
-      "published_date": "2026-04-20T17:45:55Z",
       "category": "Local Events"
     }
   ]
