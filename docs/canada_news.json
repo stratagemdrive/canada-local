@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-22T11:49:17Z",
+  "generated_at": "2026-04-22T23:50:00Z",
   "country": "Canada",
-  "total_stories": 82,
+  "total_stories": 77,
   "categories": [
     "Diplomacy",
     "Military",
@@ -88,18 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "B.C. introduces legislation to ratify Kitselas Treaty",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/15/b-c-introduces-legislation-to-ratify-kitselas-treaty/",
-      "published_date": "2026-04-15T23:05:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ambassador Bridge announces some cuts to border crossing tolls",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/ambassador-bridge-announces-some-cuts-to-border-crossing-tolls",
-      "published_date": "2026-04-15T15:49:38Z",
-      "category": "Diplomacy"
+      "title": "China's 'weaponization' of civil airspace to ground Taiwanese president denounced",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/chinas-weaponization-of-civil-airspace-to-ground-taiwanese-president-denounced",
+      "published_date": "2026-04-22T21:25:01Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: Iran attacks third ship as Trump extends ceasefire",
@@ -228,20 +221,6 @@
       "category": "Military"
     },
     {
-      "title": "'Ends our fight' — Residents happy as Lakeshore takes over contentious Couture Road",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/ends-our-fight-residents-happy-as-lakeshore-takes-over-contentious-couture-road",
-      "published_date": "2026-04-15T16:37:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Slump in B.C. home sales blamed on sluggish economy and global conflict",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-home-sale-slump-sluggish-economy-global-conflict",
-      "published_date": "2026-04-15T14:22:39Z",
-      "category": "Military"
-    },
-    {
       "title": "Ford wants Irving refinery to stop importing foreign oil",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/ford-wants-irving-refinery-to-stop-importing-foreign-oil",
@@ -298,18 +277,18 @@
       "category": "Energy"
     },
     {
-      "title": "Heiltsuk Nation takes oil spill compensation fight to London",
+      "title": "Taxpayers group submits petition with 10K signatures opposing B.C.’s FOI bill",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/15/heiltsuk-nation-takes-oil-spill-compensation-fight-to-london/",
-      "published_date": "2026-04-15T21:00:00Z",
-      "category": "Energy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/taxpayers-group-submits-petition-with-10k-signatures-opposing-b-c-s-foi-bill/",
+      "published_date": "2026-04-22T20:20:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Vancouver approves floatel on Vancouver&#039;s Coal Harbour waterfront",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-approves-floatel-coal-harbour-waterfront",
-      "published_date": "2026-04-15T14:55:12Z",
-      "category": "Energy"
+      "title": "'Really scary' — Ottawa warned Windsor-Essex industry could move to U.S., shut down under tariff changes",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/really-scary-ottawa-warned-windsor-essex-industry-could-move-to-u-s-shut-down-under-tariff-changes",
+      "published_date": "2026-04-22T16:32:48Z",
+      "category": "Economy"
     },
     {
       "title": "Annette Ryan approved by MPs for vacant parliamentary budget officer role",
@@ -431,157 +410,143 @@
       "category": "Economy"
     },
     {
-      "title": "More Americans travelling north again as fewer and fewer Canadians head south",
+      "title": "Vaughn Palmer: Under cover of DRIPA, NDP pressing on with legislation to weaken FOI",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-under-cover-dripa-bc-ndp-pressing-on-with-legislation-to-weaken-foi",
+      "published_date": "2026-04-22T23:25:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Almost 50 years later, Toronto shoe-shine boy killer wins taste of freedom",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/mandel-almost-50-years-later-toronto-shoe-shine-boy-killer-wins-taste-of-freedom",
+      "published_date": "2026-04-22T23:24:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.K. forever bans people born after 2008 from buying cigarettes",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/uk-ban-creates-smoke-free-generation",
+      "published_date": "2026-04-22T23:21:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tumbler Ridge mayor shares update on school, community healing, OpenAI apology plans",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/15/more-americans-travelling-north-again-fewer-and-fewer-canadians-head-south/",
-      "published_date": "2026-04-15T23:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bunk beds in coach take off on Air New Zealand's new planes",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/bunk-beds-in-coach-take-off-on-air-new-zealands-new-planes",
-      "published_date": "2026-04-15T19:49:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Toronto Fire melting Drake ice sculpture to mitigate fans 'dangerous and unsafe activities'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/drake-iceman-sculpture-toronto-fire-melt",
-      "published_date": "2026-04-22T11:42:18Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/tumbler-ridge-mayor-shares-update-on-school-community-healing-openai-apology-plans/",
+      "published_date": "2026-04-22T23:06:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Ottawa Valley health team makes progress on waitlist",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/ottawa-valley-ontario-health-team-update",
-      "published_date": "2026-04-22T10:56:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor Junior Selects knock it out of the park at 19th WESPY Awards",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/windsor-junior-selects-knock-it-out-of-the-park-at-19th-wespy-awards",
-      "published_date": "2026-04-22T03:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HUNTER: Crucifixion continues of cop who seemingly tried to give kid a break",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/crucifixion-continues-toronto-cop-tribunal-case",
-      "published_date": "2026-04-22T00:42:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese police officers went missing during high-security Vancouver trip, court hears",
+      "title": "Opinion: Faced with intimidation, a community begins to shrink — not by choice, but by necessity",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/chinese-police-officers-went-missing-during-high-security-vancouver-trip-court-hears",
-      "published_date": "2026-04-22T00:38:31Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-faced-with-intimidation-a-community-begins-to-shrink-not-by-choice-but-by-necessity",
+      "published_date": "2026-04-22T23:00:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Leftist SPLC allegedly funneled $3M to KKK, Nazi groups, DOJ says",
+      "title": "Facade of new east Vancouver building inspired by Coast Salish woven basketry",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/new-east-vancouver-chief-leonard-george-building",
+      "published_date": "2026-04-22T22:53:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Antisemitism, racism hurting Toronto Police culture, former homicide chief says",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/leftist-splc-funneled-3m-to-kkk-nazi-groups-doj-says",
-      "published_date": "2026-04-22T00:20:55Z",
+      "url": "https://torontosun.com/opinion/columnists/antisemitism-racism-hurting-toronto-police-culture",
+      "published_date": "2026-04-22T22:46:46Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. teacher fired, licence suspended over inappropriate student interactions and sick-leave fraud",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-teacher-fired-licence-suspended-over-inappropriate-student-interactions-and-sick-leave-fraud",
-      "published_date": "2026-04-21T23:59:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gangster Jamie Bacon, convicted in Surrey Six murders, released from prison",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-gangster-jamie-bacon-released-from-prison",
-      "published_date": "2026-04-21T23:36:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former NHL player Dirk named coach of new Summerland community-owned junior team",
+      "title": "Abbotsford inmate who filed 70 lawsuits is restricted by courts",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/former-nhl-player-dirks-named-coach-of-summerland-jets-junior-hockey-team/",
-      "published_date": "2026-04-21T23:25:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/abbotsford-inmate-who-filed-70-lawsuits-is-restricted-by-courts/",
+      "published_date": "2026-04-22T22:46:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: Did Premier David Eby have an ulterior motive in thanking his attorney general?",
+      "title": "WARMINGTON: Vandals trying to leave marks of hate on Mississauga no match for city staff",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/vandals-mississauga-no-match-city-staff",
+      "published_date": "2026-04-22T22:36:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "David Eby says Vancouver-Strathcona MLA Joan Phillip &#039;is very ill,&#039; calls for prayers",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-did-bc-premier-david-eby-have-ulterior-motive-thanking-attorney-general",
-      "published_date": "2026-04-21T23:20:46Z",
+      "url": "https://vancouversun.com/news/bc-premier-david-eby-says-vancouver-strathcona-mla-joan-phillip-is-very-ill-calls-for-prayers",
+      "published_date": "2026-04-22T22:31:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Toronto Police officer charged; Ajax man nabbed in gun probe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-officer-arrested",
-      "published_date": "2026-04-21T23:12:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Fairview Mall security guard shooting Toronto's cruel reality in 2026",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/fairview-mall-security-guard-shooting-toronto-cruel-reality",
-      "published_date": "2026-04-21T23:03:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How an Abbotsford family business became involved in the World Cup",
+      "title": "5 bears die at Smithers wildlife rescue, from Vernon, Trail, Dawson Creek",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/how-an-abbotsford-family-business-became-involved-in-the-world-cup/",
-      "published_date": "2026-04-21T22:20:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/5-bears-die-at-smithers-wildlife-rescue-from-vernon-trail-dawson-creek/",
+      "published_date": "2026-04-22T22:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Grass doesn&#039;t pass: Guards find &#039;cleverly disguised&#039; contraband meant for B.C. prison",
+      "title": "Frank Stronach's second sexual assault trial postponed until May 2027",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/frank-stronach-second-assault-trial-postponed",
+      "published_date": "2026-04-22T22:28:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prosecution closes its case against former Mountie accused of planning to help China in surprise move",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/guards-uncover-cleverly-disguised-contraband-bc-mission-prison",
-      "published_date": "2026-04-21T22:14:40Z",
+      "url": "https://vancouversun.com/news/prosecution-closes-case-against-former-mountie-accused-planning-help-china-surprise-move",
+      "published_date": "2026-04-22T22:27:34Z",
       "category": "Local Events"
     },
     {
-      "title": "'Monster' North Carolina guidance counsellor sentenced for sexually abusing teen",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/guidance-counsellor-sentenced-teen-sexual-abuse",
-      "published_date": "2026-04-21T22:09:29Z",
+      "title": "Surrey Six mastermind Jamie Bacon released with a peace bond in place",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/surrey-six-mastermind-jamie-bacon-released-with-a-peace-bond-in-place",
+      "published_date": "2026-04-22T22:23:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Fed chair nominee Kevin Warsh says he made no promise to cut rates",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/fed-chair-nominee-kevin-warsh-says-he-made-no-promise-to-cut-rates",
-      "published_date": "2026-04-21T21:41:31Z",
+      "title": "B.C. Premier Eby says Vancouver MLA Joan Phillip ‘very ill’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/b-c-premier-eby-says-vancouver-mla-joan-phillip-very-ill/",
+      "published_date": "2026-04-22T22:08:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Saskatoon firefighters struggling to keep up with overdose 'surge'",
+      "title": "Kamloops draws hundreds to province-wide emergency services summit",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/kamloops-draws-hundreds-to-province-wide-emergency-services-summit/",
+      "published_date": "2026-04-22T21:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roderick Sutherland gets 7.5 years for role in Megan Gallagher homicide",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatoon-firefighters-struggling-to-keep-up-with-overdose-surge",
-      "published_date": "2026-04-21T21:39:17Z",
+      "url": "https://thestarphoenix.com/news/crime/roderick-sutherland-gets-7-5-years-for-role-in-megan-gallagher-homicide",
+      "published_date": "2026-04-22T21:29:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Seth Rogen&#039;s cannabis company cooks up new colab",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/seth-rogens-cannabis-company-carbone-collaboration",
-      "published_date": "2026-04-21T21:23:44Z",
+      "title": "Senate report on anti-Jewish hate calls for return of antisemitism envoy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/senate-report-wants-antisemitism-envoy-reinstated",
+      "published_date": "2026-04-22T21:26:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Police assault charges dropped in B.C. town due to invalid search warrant",
+      "title": "Jamie Bacon, B.C. gangster behind Surrey Six killings, released from prison",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/police-assault-charges-dropped-in-b-c-town-due-to-invalid-search-warrant/",
-      "published_date": "2026-04-21T21:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/jamie-bacon-b-c-gangster-behind-surrey-six-killings-released-from-prison/",
+      "published_date": "2026-04-22T21:13:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Ex-Kelowna hockey coach gets conditional discharge for assault, recording nudity",
+      "title": "B.C. SPCA tell tale of lost Kamloops cat to highlight pet databases",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/ex-kelowna-hockey-coach-gets-conditional-discharge-for-assault-recording-nudity/",
-      "published_date": "2026-04-21T20:49:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/b-c-spca-tell-tale-of-lost-kamloops-cat-to-highlight-pet-databases/",
+      "published_date": "2026-04-22T21:00:00Z",
       "category": "Local Events"
     }
   ]
