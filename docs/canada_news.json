@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-21T23:38:42Z",
+  "generated_at": "2026-04-22T11:49:17Z",
   "country": "Canada",
-  "total_stories": 81,
+  "total_stories": 82,
   "categories": [
     "Diplomacy",
     "Military",
@@ -102,11 +102,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "B.C. introduces legislation to implement modern treaty with K’ómoks First Nation",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-introduces-legislation-implement-modern-treaty-komoks-first-nation",
-      "published_date": "2026-04-14T23:48:24Z",
-      "category": "Diplomacy"
+      "title": "IRAN WAR UPDATES: Iran attacks third ship as Trump extends ceasefire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-22",
+      "published_date": "2026-04-22T11:23:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Guest column: Renowned Windsor Big 3 auto designer, now 98, uses art against war",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/guest-column-renowned-windsor-big-3-auto-designer-now-98-uses-art-against-war",
+      "published_date": "2026-04-22T11:15:01Z",
+      "category": "Military"
     },
     {
       "title": "Former NHL player Dirks named coach of Summerland Jets junior hockey team",
@@ -235,13 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "Windsor Star readers: More Ojibway; less war; buy EVs; invite Trump",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/windsor-star-readers-more-ojibway-less-war-buy-evs-invite-trump",
-      "published_date": "2026-04-15T11:20:45Z",
-      "category": "Military"
-    },
-    {
       "title": "Ford wants Irving refinery to stop importing foreign oil",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/ford-wants-irving-refinery-to-stop-importing-foreign-oil",
@@ -310,6 +310,13 @@
       "url": "https://vancouversun.com/news/vancouver-approves-floatel-coal-harbour-waterfront",
       "published_date": "2026-04-15T14:55:12Z",
       "category": "Energy"
+    },
+    {
+      "title": "Annette Ryan approved by MPs for vacant parliamentary budget officer role",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/annette-ryan-approved-parliamentary-budget-officer",
+      "published_date": "2026-04-22T02:26:06Z",
+      "category": "Economy"
     },
     {
       "title": "Canada Post cutting 30,000 jobs through attrition: Report",
@@ -438,6 +445,69 @@
       "category": "Economy"
     },
     {
+      "title": "Toronto Fire melting Drake ice sculpture to mitigate fans 'dangerous and unsafe activities'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/drake-iceman-sculpture-toronto-fire-melt",
+      "published_date": "2026-04-22T11:42:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ottawa Valley health team makes progress on waitlist",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/ottawa-valley-ontario-health-team-update",
+      "published_date": "2026-04-22T10:56:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor Junior Selects knock it out of the park at 19th WESPY Awards",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/windsor-junior-selects-knock-it-out-of-the-park-at-19th-wespy-awards",
+      "published_date": "2026-04-22T03:00:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HUNTER: Crucifixion continues of cop who seemingly tried to give kid a break",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/crucifixion-continues-toronto-cop-tribunal-case",
+      "published_date": "2026-04-22T00:42:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese police officers went missing during high-security Vancouver trip, court hears",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/chinese-police-officers-went-missing-during-high-security-vancouver-trip-court-hears",
+      "published_date": "2026-04-22T00:38:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leftist SPLC allegedly funneled $3M to KKK, Nazi groups, DOJ says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/leftist-splc-funneled-3m-to-kkk-nazi-groups-doj-says",
+      "published_date": "2026-04-22T00:20:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. teacher fired, licence suspended over inappropriate student interactions and sick-leave fraud",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-teacher-fired-licence-suspended-over-inappropriate-student-interactions-and-sick-leave-fraud",
+      "published_date": "2026-04-21T23:59:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gangster Jamie Bacon, convicted in Surrey Six murders, released from prison",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-gangster-jamie-bacon-released-from-prison",
+      "published_date": "2026-04-21T23:36:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former NHL player Dirk named coach of new Summerland community-owned junior team",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/former-nhl-player-dirks-named-coach-of-summerland-jets-junior-hockey-team/",
+      "published_date": "2026-04-21T23:25:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Vaughn Palmer: Did Premier David Eby have an ulterior motive in thanking his attorney general?",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-did-bc-premier-david-eby-have-ulterior-motive-thanking-attorney-general",
@@ -512,69 +582,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/21/ex-kelowna-hockey-coach-gets-conditional-discharge-for-assault-recording-nudity/",
       "published_date": "2026-04-21T20:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jack Nicholson's daughter takes aim at status-obsessed Hollywood in new essay",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/jack-nicholsons-daughter-takes-aim-at-status-obsessed-hollywood-in-new-essay",
-      "published_date": "2026-04-21T20:45:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. rancher’s obstruction during environmental order nets $30K fine",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/b-c-ranchers-obstruction-during-environmental-order-nets-30k-fine/",
-      "published_date": "2026-04-21T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Williams Lake council opposes potential TRU campus closure",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/williams-lake-council-opposes-potential-tru-campus-closure/",
-      "published_date": "2026-04-21T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: On being a blacksmith at Fort Langley historic site",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/video-on-being-a-blacksmith-at-fort-langley-historic-site/",
-      "published_date": "2026-04-21T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fundraiser started for Salmon Arm woman whose death ended dream of new life",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/fundraiser-started-for-salmon-arm-woman-whose-death-ended-dream-of-new-life/",
-      "published_date": "2026-04-21T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multiple tow trucks set ablaze overnight in Brampton: Cops",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/multiple-tow-trucks-arson-brampton",
-      "published_date": "2026-04-21T20:29:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Zoo's pygmy hippo pregnant, expecting to welcome calf in July",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-zoos-pygmy-hippo-pregnant-expecting-to-welcome-calf-in-july",
-      "published_date": "2026-04-21T20:24:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Mark Carney — The unreliable boyfriend Canada can’t afford",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-the-unreliable-boyfriend-canada-cant-afford",
-      "published_date": "2026-04-21T20:22:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drake's 'Iceman' album promo stunt in Toronto descends into chaos",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/music/drake-iceman-album-promo-stunt-toronto-chaos",
-      "published_date": "2026-04-21T20:19:59Z",
       "category": "Local Events"
     }
   ]
