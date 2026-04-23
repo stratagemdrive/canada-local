@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-22T23:50:00Z",
+  "generated_at": "2026-04-23T11:50:50Z",
   "country": "Canada",
-  "total_stories": 77,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -67,25 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IRAN WAR UPDATES: U.S. 'feels good' about prospects of peace deal; Iran threatens Gulf trade",
+      "title": "IRAN WAR UPDATES: Israel, Lebanon to meet in Washington while Iran-U.S. talks in limbo",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-peace-deal-prospects",
-      "published_date": "2026-04-16T00:47:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WARMINGTON: City plans to charge for fan fest despite FIFA contract saying it should be free",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/warmington-city-plans-to-charge-for-fan-fest-despite-fifa-contract-saying-it-should-be-free",
-      "published_date": "2026-04-16T00:42:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "B.C. moves to implement treaty with Kitselas First Nation in northwest",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-moves-to-implement-treaty-with-kitselas-first-nation-in-northwest",
-      "published_date": "2026-04-16T00:02:15Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-23",
+      "published_date": "2026-04-23T11:22:22Z",
+      "category": "Military"
     },
     {
       "title": "China's 'weaponization' of civil airspace to ground Taiwanese president denounced",
@@ -214,13 +200,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: Pakistan’s army chief to meet Iranian officials to push new U.S.-Iran talks",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-16",
-      "published_date": "2026-04-16T11:37:46Z",
-      "category": "Military"
-    },
-    {
       "title": "Ford wants Irving refinery to stop importing foreign oil",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/ford-wants-irving-refinery-to-stop-importing-foreign-oil",
@@ -270,11 +249,11 @@
       "category": "Energy"
     },
     {
-      "title": "Higher gas prices not going away 'anytime soon' for Canadian consumers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/higher-canadian-gas-prices-not-going-away",
-      "published_date": "2026-04-16T10:00:16Z",
-      "category": "Energy"
+      "title": "Windsor's Pro Trades Mechanical workers unanimously ratify new contract",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsors-pro-trades-mechanical-workers-unanimously-ratify-new-contract",
+      "published_date": "2026-04-23T01:55:36Z",
+      "category": "Economy"
     },
     {
       "title": "Taxpayers group submits petition with 10K signatures opposing B.C.’s FOI bill",
@@ -410,6 +389,111 @@
       "category": "Economy"
     },
     {
+      "title": "Star readers weigh in: ERCA; being homeless; going blind; battery power",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/star-readers-weigh-in-erca-being-homeless-going-blind-battery-power",
+      "published_date": "2026-04-23T11:20:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celebrate Earth Day this weekend with Windsor-Essex tree plantings, eco fun",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/celebrate-earth-day-this-weekend-with-windsor-essex-tree-plantings-eco-fun",
+      "published_date": "2026-04-23T11:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heroes Run for Healthcare returns to Pembroke May 3",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/heroes-run-for-healthcare-returns-to-pembroke-may-3",
+      "published_date": "2026-04-23T09:50:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Time for the Pembroke Observer and News weekly Photo Quiz",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/time-for-the-pembroke-observer-and-news-weekly-photo-quiz-41",
+      "published_date": "2026-04-23T09:35:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke Observer and News weekly community calendar listings",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-observer-and-news-weekly-community-calendar-listings-47",
+      "published_date": "2026-04-23T08:05:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspicious grass fire quickly doused in Kelowna’s Dilworth Park",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/suspicious-grass-fire-quickly-doused-in-kelownas-dilworth-park/",
+      "published_date": "2026-04-23T07:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Vancouver bar was just named the Best Bar in Canada",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/this-vancouver-bar-was-just-named-best-bar-in-canada",
+      "published_date": "2026-04-23T04:58:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beach lifeguard funding unclear after Vancouver council punts issue back to park board",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/beach-lifeguard-funding-unclear-after-council-punts-issue-back-to-park-board",
+      "published_date": "2026-04-23T03:20:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spitfires' Woodall a double award threat as nominee for league's top defenceman and humanitarian",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-woodall-a-double-award-threat-as-nominee-for-leagues-top-defenceman-and-humanitarian",
+      "published_date": "2026-04-23T03:04:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deportation for cartel-linked ‘hitman’ who claimed he hid bodies in North Okanagan",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/deportation-for-cartel-linked-hitman-who-claimed-he-hid-bodies-in-north-okanagan/",
+      "published_date": "2026-04-23T02:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brampton man accused of fraud in roofing scheme; cops seeking to ID wallet thief",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/brampton-man-accused-roofing-repair-fraud",
+      "published_date": "2026-04-23T02:28:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Run for Windsor’ donates $30K to Windsor's future Fancsy mega-hospital",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/run-for-windsor-donates-30k-to-windsors-future-fancsy-mega-hospital",
+      "published_date": "2026-04-23T01:48:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "DFO concerned about emaciated grey whales after 4 Vancouver Island deaths in April",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/dfo-concerned-about-emaciated-grey-whales-after-4-vancouver-island-deaths-in-april/",
+      "published_date": "2026-04-23T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man wanted in Calgary murder arrested in Abbotsford",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/man-wanted-calgary-murder-arrested-abbotsford",
+      "published_date": "2026-04-23T00:09:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man wanted for Calgary murder arrested in Abbotsford",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/man-wanted-for-calgary-murder-arrested-in-abbotsford/",
+      "published_date": "2026-04-22T23:58:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Vaughn Palmer: Under cover of DRIPA, NDP pressing on with legislation to weaken FOI",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-under-cover-dripa-bc-ndp-pressing-on-with-legislation-to-weaken-foi",
@@ -442,111 +526,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-faced-with-intimidation-a-community-begins-to-shrink-not-by-choice-but-by-necessity",
       "published_date": "2026-04-22T23:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Facade of new east Vancouver building inspired by Coast Salish woven basketry",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/new-east-vancouver-chief-leonard-george-building",
-      "published_date": "2026-04-22T22:53:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antisemitism, racism hurting Toronto Police culture, former homicide chief says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/antisemitism-racism-hurting-toronto-police-culture",
-      "published_date": "2026-04-22T22:46:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbotsford inmate who filed 70 lawsuits is restricted by courts",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/abbotsford-inmate-who-filed-70-lawsuits-is-restricted-by-courts/",
-      "published_date": "2026-04-22T22:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Vandals trying to leave marks of hate on Mississauga no match for city staff",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/vandals-mississauga-no-match-city-staff",
-      "published_date": "2026-04-22T22:36:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "David Eby says Vancouver-Strathcona MLA Joan Phillip &#039;is very ill,&#039; calls for prayers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-premier-david-eby-says-vancouver-strathcona-mla-joan-phillip-is-very-ill-calls-for-prayers",
-      "published_date": "2026-04-22T22:31:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 bears die at Smithers wildlife rescue, from Vernon, Trail, Dawson Creek",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/5-bears-die-at-smithers-wildlife-rescue-from-vernon-trail-dawson-creek/",
-      "published_date": "2026-04-22T22:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frank Stronach's second sexual assault trial postponed until May 2027",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/frank-stronach-second-assault-trial-postponed",
-      "published_date": "2026-04-22T22:28:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosecution closes its case against former Mountie accused of planning to help China in surprise move",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/prosecution-closes-case-against-former-mountie-accused-planning-help-china-surprise-move",
-      "published_date": "2026-04-22T22:27:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey Six mastermind Jamie Bacon released with a peace bond in place",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/surrey-six-mastermind-jamie-bacon-released-with-a-peace-bond-in-place",
-      "published_date": "2026-04-22T22:23:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Premier Eby says Vancouver MLA Joan Phillip ‘very ill’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/b-c-premier-eby-says-vancouver-mla-joan-phillip-very-ill/",
-      "published_date": "2026-04-22T22:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kamloops draws hundreds to province-wide emergency services summit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/kamloops-draws-hundreds-to-province-wide-emergency-services-summit/",
-      "published_date": "2026-04-22T21:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roderick Sutherland gets 7.5 years for role in Megan Gallagher homicide",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/roderick-sutherland-gets-7-5-years-for-role-in-megan-gallagher-homicide",
-      "published_date": "2026-04-22T21:29:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senate report on anti-Jewish hate calls for return of antisemitism envoy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/senate-report-wants-antisemitism-envoy-reinstated",
-      "published_date": "2026-04-22T21:26:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jamie Bacon, B.C. gangster behind Surrey Six killings, released from prison",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/jamie-bacon-b-c-gangster-behind-surrey-six-killings-released-from-prison/",
-      "published_date": "2026-04-22T21:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. SPCA tell tale of lost Kamloops cat to highlight pet databases",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/b-c-spca-tell-tale-of-lost-kamloops-cat-to-highlight-pet-databases/",
-      "published_date": "2026-04-22T21:00:00Z",
       "category": "Local Events"
     }
   ]
