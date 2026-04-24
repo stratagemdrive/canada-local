@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T11:50:00Z",
+  "generated_at": "2026-04-24T23:43:14Z",
   "country": "Canada",
   "total_stories": 75,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Letters to The Vancouver Sun: National chief is holding Canada and B.C. to their own word",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-national-chief-is-holding-canada-and-b-c-to-their-own-word",
+      "published_date": "2026-04-24T23:00:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tentative agreement announced for B.C.’s unionized social services workers",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/24/tentative-agreement-announced-for-b-c-s-unionized-social-services-workers/",
+      "published_date": "2026-04-24T21:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Trump sending Witkoff, Kushner to Pakistan for talks with Iran foreign minister",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-24",
+      "published_date": "2026-04-24T11:16:42Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Federal government to reinstate Envoy for Women, Peace and Security",
       "source": "Toronto Sun",
@@ -53,18 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: Trump administration trashes Canada on trade as Carney calls investment summit",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/trump-administration-trashes-canada-on-trade-carney-investment-summit",
-      "published_date": "2026-04-17T21:59:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prime Minister Mark Carney announces investment summit",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/prime-minister-mark-carney-investment-summit",
-      "published_date": "2026-04-17T14:06:40Z",
-      "category": "Diplomacy"
+      "title": "BDC chief economist sees Windsor-Essex 'at the heart' of Canada's big defence push",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/bdc-chief-economist-sees-windsor-essex-at-the-heart-of-canadas-big-defence-push",
+      "published_date": "2026-04-24T14:04:16Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: Standoff intensifies in Strait of Hormuz after Trump issues ‘shoot and kill’ order",
@@ -165,32 +179,25 @@
       "category": "Military"
     },
     {
-      "title": "MANDEL: Man with 'severe' schizophrenia guilty of murdering his mom in Etobicoke park",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/colin-hatcher-schizophrenia-guilty-murder-mom-kathleen-etobicoke",
-      "published_date": "2026-04-17T23:17:51Z",
-      "category": "Military"
+      "title": "$135M upgrade complete at Rio Tinto’s Kitimat smelter",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/24/135m-upgrade-complete-at-rio-tintos-kitimat-smelter/",
+      "published_date": "2026-04-24T22:30:00Z",
+      "category": "Energy"
     },
     {
-      "title": "High fuel costs will ground Air Canada flights to JFK from YYZ, YUL",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/fuel-costs-ground-air-canada-flights-jfk-yyz-yul-toronto-montreal",
-      "published_date": "2026-04-17T18:40:56Z",
-      "category": "Military"
+      "title": "Ottawa approves Enbridge $4 billion expansion of B.C. pipeline network",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ottawa-approves-enbridge-expansion-bc-pipeline-network",
+      "published_date": "2026-04-24T20:26:35Z",
+      "category": "Energy"
     },
     {
-      "title": "Overnight explosion at Downsview Park was for Drake's music video",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/overnight-explosion-downsview-park-drakes-music-video",
-      "published_date": "2026-04-17T17:52:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "WARMINGTON: They call it Air Ford One. Doug Ford defends purchasing 'private' plane",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/they-call-it-air-ford-one-premier-why-own-instead-charter",
-      "published_date": "2026-04-17T14:04:07Z",
-      "category": "Military"
+      "title": "Feds announce $4B natural gas pipeline expansion for B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/24/feds-annouce-4b-natural-gas-pipeline-expansion-for-b-c/",
+      "published_date": "2026-04-24T14:30:00Z",
+      "category": "Energy"
     },
     {
       "title": "Opinion: Astronauts return to an Earth in climate crisis mess",
@@ -389,150 +396,143 @@
       "category": "Economy"
     },
     {
-      "title": "‘Vindicated’ councillor’s $20Gs in legal fees may go on taxpayers’ tab",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/chris-moise-integrity-investigation-legal-fees",
-      "published_date": "2026-04-17T17:33:06Z",
-      "category": "Economy"
+      "title": "Vaughn Palmer: Adopting UNDRIP featured wishful thinking and stonewalling by B.C. NDP",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-adopting-undrip-featured-wishful-thinking-bc-ndp",
+      "published_date": "2026-04-24T23:32:13Z",
+      "category": "Local Events"
     },
     {
-      "title": "Achoo! Windsor named top pollen hotspot in Canada",
+      "title": "MANDEL: Julia MacIsaac's ex-boyfriend rewarded her compassion by killing her",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/julia-macisaacs-ex-boyfriend-guilty-murder-scarborough",
+      "published_date": "2026-04-24T23:19:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Momentum,' but not visible progress, on Toronto van attack memorial",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/yonge-st-van-attack-eight-years-later",
+      "published_date": "2026-04-24T22:13:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto cops charge B.C. man with fraud targeting Ukrainian citizens living abroad",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-cops-bc-man-fraud-ukrainian-citizens-abroad",
+      "published_date": "2026-04-24T22:06:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OpenAI apologizes over missed warning following Tumbler Ridge mass shooting",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/24/openai-apologizes-over-missed-warning-following-tumbler-ridge-mass-shooting/",
+      "published_date": "2026-04-24T22:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘What just happened?’: B.C. teen makes rare hole-in-one on Par 4",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/24/what-just-happened-b-c-teen-makes-unprecedented-hole-in-one-on-par-4/",
+      "published_date": "2026-04-24T21:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: B.C.’s disability reform shows why Canada can’t keep outsourcing fairness to postal codes",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-s-disability-reform-shows-why-canada-cant-keep-outsourcing-fairness-to-postal-codes",
+      "published_date": "2026-04-24T21:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with series of Peel break-ins; 4 charged in firearms probe",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-charged-peel-break-ins-firearms-probe",
+      "published_date": "2026-04-24T20:52:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rob and Michele Reiner's son Jake Reiner breaks silence on parents' 'nightmare' murders",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/rob-reiner-son-jake-reiner-parents-nightmare-murders",
+      "published_date": "2026-04-24T20:29:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Male arrested after teen stabbed in Brampton; man wanted in 2 Greektown break-ins",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/male-arrested-teen-stabbed-brampton-man-wanted-greektown-break-ins",
+      "published_date": "2026-04-24T20:26:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Doug Ford’s FOI changes won’t impact RCMP Greenbelt investigation",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/doug-ford-foi-changes-wont-jeopardize-police-investigations-rcmp-greenbelt",
+      "published_date": "2026-04-24T20:20:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor unveils plan for massive Emancipation Day monument",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/achoo-windsor-named-top-pollen-hotspot-in-canada",
-      "published_date": "2026-04-24T11:00:31Z",
+      "url": "https://windsorstar.com/news/local-news/windsor-unveils-plan-for-massive-emancipation-day-monument",
+      "published_date": "2026-04-24T20:08:40Z",
       "category": "Local Events"
     },
     {
-      "title": "BATRA’S BURNING QUESTIONS: Is Mark Carney the ‘unreliable boyfriend?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/batras-burning-questions-is-mark-carney-the-unreliable-boyfriend",
-      "published_date": "2026-04-24T11:00:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamilton cops crack down on speeding after deadly weekend on city streets",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hamilton-cops-crack-down-speeding-initiative",
-      "published_date": "2026-04-24T01:54:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City council won’t rule on Chris Moise’s legal fees until May",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/city-council-moise-legal-fees-deferral",
-      "published_date": "2026-04-24T01:44:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violent Burlington home invasion linked to Oakville break-in attempt: Halton cops",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/burlington-home-invasion-linked-oakville-breakin",
-      "published_date": "2026-04-24T01:02:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver team behind two of Canada&#039;s best bars isn&#039;t taking anything for granted",
+      "title": "Families of Robert Pickton victims lose court bid to delay RCMP applications to dispose of seized items",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-common-thread-canada-two-best-bars",
-      "published_date": "2026-04-24T00:38:23Z",
+      "url": "https://vancouversun.com/news/crime/victim-families-robert-pickton-victims-lose-court-bid-to-delay-rcmp-applications",
+      "published_date": "2026-04-24T20:03:12Z",
       "category": "Local Events"
     },
     {
-      "title": "LILLEY: Will Beyoncé, Timothée Chalamet and Donald Trump vote in Canadian elections?",
+      "title": "Israel welcomes Senate antisemitism report, but groups point out gaps",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/lilley-will-beyonce-timothee-chalamet-and-donald-trump-vote-in-canadian-elections",
-      "published_date": "2026-04-24T00:05:08Z",
+      "url": "https://torontosun.com/news/national/israel-welcomes-senate-antisemitism-report-groups-gaps",
+      "published_date": "2026-04-24T19:50:59Z",
       "category": "Local Events"
     },
     {
-      "title": "First Nations file new claims against B.C. government, cite court ruling making UNDRIP enforceable in law",
+      "title": "Bulls and Bears: Let&#039;s check NHL and NBA playoff ratings; then there&#039;s the NFL draft",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/first-nations-file-new-claims-against-bc-government-cite-court-ruling-making-undrip-enforceable-in-law",
-      "published_date": "2026-04-23T23:55:09Z",
+      "url": "https://vancouversun.com/sports/bulls-and-bears-lets-check-nhl-and-nba-playoff-ratings-then-theres-the-nfl-draft",
+      "published_date": "2026-04-24T19:50:09Z",
       "category": "Local Events"
     },
     {
-      "title": "Bar Pompette, 3 other Toronto joints make list of North America's best",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-bars-among-north-americas-best",
-      "published_date": "2026-04-23T23:30:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Opposition repeats what B.C. premier said, is accused of &#039;misinformation&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-opposition-repeats-what-premier-said-accused-of-misinformation",
-      "published_date": "2026-04-23T23:29:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver looking for potential ownership group for MLB franchise",
+      "title": "Crime Stoppers celebrates 50 years in B.C.",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/vancouver-looking-for-potential-ownership-group-for-mlb-franchise/",
-      "published_date": "2026-04-23T23:23:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/24/crime-stoppers-celebrates-50-years-in-b-c/",
+      "published_date": "2026-04-24T19:50:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Bear-spraying bandits rob man of high-value Pokémon cards: VPD",
+      "title": "Bini plays Vancouver: What to know about the concert",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/teenage-bear-spraying-bandits-arrested-after-robbing-man-of-high-value-pokemon-cards-vpd",
-      "published_date": "2026-04-23T22:59:26Z",
+      "url": "https://vancouversun.com/entertainment/bini-plays-vancouver-what-to-know-about-concert",
+      "published_date": "2026-04-24T19:38:17Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: Are antisemites within Toronto Police the problem or is it the whistleblower cop?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/antisemites-toronto-police-whistleblower-cop",
-      "published_date": "2026-04-23T22:52:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather conditions cited as main contributor of 2024 helicopter crash near Port McNeill",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/weather-conditions-cited-as-main-contributor-of-2024-helicopter-crash-near-port-mcneill/",
-      "published_date": "2026-04-23T22:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parts of Saskatchewan hit with spring flooding, road closures",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/parts-of-saskatchewan-hit-with-spring-flooding-road-closures",
-      "published_date": "2026-04-23T22:27:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto trio facing firearm, drug charges; man accused of GTA bank robberies",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-trio-facing-firearm-drug-charges",
-      "published_date": "2026-04-23T22:01:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Premier Eby should repeal legislation fuelling uncertainty over property rights in B.C.",
+      "title": "Man stabbed to death in Vancouver&#039;s third homicide of the year",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-premier-eby-should-repeal-legislation-fuelling-uncertainty-over-property-rights-in-bc",
-      "published_date": "2026-04-23T22:00:55Z",
+      "url": "https://vancouversun.com/news/crime-briefs-bc-april-24-2026",
+      "published_date": "2026-04-24T18:25:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Why B.C.’s future depends on embracing DRIPA",
+      "title": "Vancouver fashion designer wins big at Canadian awards",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/why-b-c-s-future-depends-on-embracing-dripa",
-      "published_date": "2026-04-23T22:00:14Z",
+      "url": "https://vancouversun.com/life/fashion-beauty/vancouver-fashion-designer-wins-big-canadian-awards",
+      "published_date": "2026-04-24T18:06:36Z",
       "category": "Local Events"
     },
     {
-      "title": "From bubbling up to 'Elbows up,' councillors file odd expenses",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-councillors-office-expenses-elbows",
-      "published_date": "2026-04-23T21:55:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "65% of Sikh Canadians report increased harassment amid rising anti-Sikh hate: report",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/65-of-sikh-canadians-report-increased-harassment-amid-rising-anti-sikh-hate-report/",
-      "published_date": "2026-04-23T21:51:00Z",
+      "title": "&#039;90s rock era the stage for Canadian musician Melissa Auf der Maur&#039;s story",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/90s-rock-era-the-stage-for-canadian-musician-melissa-auf-der-maurs-story",
+      "published_date": "2026-04-24T18:00:11Z",
       "category": "Local Events"
     }
   ]
