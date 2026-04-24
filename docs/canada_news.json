@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T23:51:53Z",
+  "generated_at": "2026-04-24T11:50:00Z",
   "country": "Canada",
   "total_stories": 75,
   "categories": [
@@ -67,11 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IRAN WAR LATEST: Trump, Iranian foreign minister say Strait of Hormuz is fully open",
+      "title": "IRAN WAR UPDATES: Standoff intensifies in Strait of Hormuz after Trump issues ‘shoot and kill’ order",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-17",
-      "published_date": "2026-04-17T11:21:33Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-24",
+      "published_date": "2026-04-24T11:16:42Z",
+      "category": "Military"
     },
     {
       "title": "Increased water storage, added filtration among Metro Vancouver plans to combat climate risks",
@@ -193,18 +193,18 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR LATEST: 10-day Lebanon ceasefire appears to hold as European leaders to meet over Strait",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-17",
-      "published_date": "2026-04-17T11:21:33Z",
-      "category": "Military"
+      "title": "Opinion: Astronauts return to an Earth in climate crisis mess",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/opinion-astronauts-return-to-an-earth-in-climate-crisis-mess",
+      "published_date": "2026-04-24T11:15:44Z",
+      "category": "Energy"
     },
     {
-      "title": "Dyer: Has post-war generation forgotten how hard-won peace is?",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/dyer-has-post-war-generation-forgotten-how-hard-won-peace-is",
-      "published_date": "2026-04-17T11:20:21Z",
-      "category": "Military"
+      "title": "Raptors fans at 'Jurassic Park' want Drake to torment James Harden",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/basketball/nba/toronto-raptors/raptors-fans-want-drake-to-torment-harden",
+      "published_date": "2026-04-24T01:28:31Z",
+      "category": "Energy"
     },
     {
       "title": "Opinion: B.C. Hydro plays for time as power gap grows",
@@ -396,6 +396,62 @@
       "category": "Economy"
     },
     {
+      "title": "Achoo! Windsor named top pollen hotspot in Canada",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/achoo-windsor-named-top-pollen-hotspot-in-canada",
+      "published_date": "2026-04-24T11:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BATRA’S BURNING QUESTIONS: Is Mark Carney the ‘unreliable boyfriend?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/batras-burning-questions-is-mark-carney-the-unreliable-boyfriend",
+      "published_date": "2026-04-24T11:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamilton cops crack down on speeding after deadly weekend on city streets",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hamilton-cops-crack-down-speeding-initiative",
+      "published_date": "2026-04-24T01:54:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City council won’t rule on Chris Moise’s legal fees until May",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/city-council-moise-legal-fees-deferral",
+      "published_date": "2026-04-24T01:44:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Violent Burlington home invasion linked to Oakville break-in attempt: Halton cops",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/burlington-home-invasion-linked-oakville-breakin",
+      "published_date": "2026-04-24T01:02:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver team behind two of Canada&#039;s best bars isn&#039;t taking anything for granted",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-common-thread-canada-two-best-bars",
+      "published_date": "2026-04-24T00:38:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Will Beyoncé, Timothée Chalamet and Donald Trump vote in Canadian elections?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/lilley-will-beyonce-timothee-chalamet-and-donald-trump-vote-in-canadian-elections",
+      "published_date": "2026-04-24T00:05:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Nations file new claims against B.C. government, cite court ruling making UNDRIP enforceable in law",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/first-nations-file-new-claims-against-bc-government-cite-court-ruling-making-undrip-enforceable-in-law",
+      "published_date": "2026-04-23T23:55:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Bar Pompette, 3 other Toronto joints make list of North America's best",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-bars-among-north-americas-best",
@@ -477,62 +533,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/23/65-of-sikh-canadians-report-increased-harassment-amid-rising-anti-sikh-hate-report/",
       "published_date": "2026-04-23T21:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SAY WHAT?!: Procrastination, yes or no?",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/say-what-procrastination-yes-or-no/",
-      "published_date": "2026-04-23T21:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Union of B.C. Indian Chiefs calls for pause on legislation to adopt 2 major treaties",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/union-of-b-c-indian-chiefs-calls-for-pause-on-legislation-to-adopt-2-major-treaties/",
-      "published_date": "2026-04-23T21:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Langley RCMP sergeant convicted of assault, kicked suspect in head",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/langley-rcmp-sergeant-convicted-of-assault-kicked-suspect-in-head/",
-      "published_date": "2026-04-23T21:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "5-year jail sentence for woman who killed partner near Quesnel",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/5-year-jail-sentence-for-woman-who-killed-partner-near-quesnel/",
-      "published_date": "2026-04-23T21:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Slow response to 2025 wildfire evacuees from Sask. government: ombudsman",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/slow-response-to-2025-wildfire-evacuees-from-sask-government-ombudsman",
-      "published_date": "2026-04-23T21:29:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian skating champs to headline Stars on Ice",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/canadian-skating-champs-to-headline-stars-on-ice/",
-      "published_date": "2026-04-23T21:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Montreal man wanted for Fairview Mall shooting also accused of Oshawa jewelry heist",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/montreal-man-fairview-shooting-oshawa-heist",
-      "published_date": "2026-04-23T21:21:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Safer Together: Kelowna leaders unite to build the future of workplace safety",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/23/safer-together-kelowna-leaders-unite-to-build-the-future-of-workplace-safety/",
-      "published_date": "2026-04-23T20:46:00Z",
       "category": "Local Events"
     }
   ]
