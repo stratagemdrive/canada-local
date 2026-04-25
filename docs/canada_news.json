@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-24T23:43:14Z",
+  "generated_at": "2026-04-25T11:29:25Z",
   "country": "Canada",
-  "total_stories": 75,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -389,11 +389,53 @@
       "category": "Economy"
     },
     {
-      "title": "New &#039;track and trace&#039; program uses advanced testing and AI to locate origin of toxic drugs in B.C.",
+      "title": "Windsor Light Music Theatre presents the musical Frozen, opening May 1",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-light-music-theatre-presents-the-musical-frozen-opening-may-1",
+      "published_date": "2026-04-25T11:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two charged after breaking into Windsor pub through fire-damaged wall",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/two-charged-after-breaking-into-windsor-pub-through-fire-damaged-wall",
+      "published_date": "2026-04-25T11:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One dead after suspicious fire at Abbotsford homeless camp",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/new-track-and-trace-program-locate-origin-toxic-drugs-bc",
-      "published_date": "2026-04-18T00:13:10Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/local-news/one-dead-after-suspicious-fire-at-abbotsford-homeless-camp",
+      "published_date": "2026-04-25T05:32:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rangers utilize multiple power-play chances to drop Spitfires in overtime in series opener",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/rangers-utilize-multiple-power-play-chances-to-drop-spitfires-in-overtime-in-series-opener",
+      "published_date": "2026-04-25T03:50:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Vancouver Sun and The Province win national award for coverage of Lapu Lapu Day tragedy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/embargoed-vancouver-sun-and-province-win-newspaper-award-lapu-lapu-coverage",
+      "published_date": "2026-04-25T02:35:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boy, 16, dead in 'brazen' shooting at downtown Hamilton mall",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/person-dead-hamilton-mall-shooting",
+      "published_date": "2026-04-25T00:08:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prosecutor says evidence shows former Mountie took steps to repatriate Chinese suspect",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/prosecutor-says-evidence-shows-former-mountie-took-steps-to-repatriate-chinese-suspect",
+      "published_date": "2026-04-24T23:44:43Z",
+      "category": "Local Events"
     },
     {
       "title": "Vaughn Palmer: Adopting UNDRIP featured wishful thinking and stonewalling by B.C. NDP",
@@ -484,55 +526,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/crime/victim-families-robert-pickton-victims-lose-court-bid-to-delay-rcmp-applications",
       "published_date": "2026-04-24T20:03:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel welcomes Senate antisemitism report, but groups point out gaps",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/israel-welcomes-senate-antisemitism-report-groups-gaps",
-      "published_date": "2026-04-24T19:50:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulls and Bears: Let&#039;s check NHL and NBA playoff ratings; then there&#039;s the NFL draft",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/sports/bulls-and-bears-lets-check-nhl-and-nba-playoff-ratings-then-theres-the-nfl-draft",
-      "published_date": "2026-04-24T19:50:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crime Stoppers celebrates 50 years in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/24/crime-stoppers-celebrates-50-years-in-b-c/",
-      "published_date": "2026-04-24T19:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bini plays Vancouver: What to know about the concert",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/bini-plays-vancouver-what-to-know-about-concert",
-      "published_date": "2026-04-24T19:38:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man stabbed to death in Vancouver&#039;s third homicide of the year",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime-briefs-bc-april-24-2026",
-      "published_date": "2026-04-24T18:25:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver fashion designer wins big at Canadian awards",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/vancouver-fashion-designer-wins-big-canadian-awards",
-      "published_date": "2026-04-24T18:06:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;90s rock era the stage for Canadian musician Melissa Auf der Maur&#039;s story",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/90s-rock-era-the-stage-for-canadian-musician-melissa-auf-der-maurs-story",
-      "published_date": "2026-04-24T18:00:11Z",
       "category": "Local Events"
     }
   ]
