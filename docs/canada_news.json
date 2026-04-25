@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-25T11:29:25Z",
+  "generated_at": "2026-04-25T23:42:26Z",
   "country": "Canada",
-  "total_stories": 74,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,13 @@
       "url": "https://torontosun.com/news/world/iran-war-updates-april-20",
       "published_date": "2026-04-20T11:28:45Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "B.C. climate news: Scientists link grey whale deaths in B.C., U.S to warming ocean &#124; Increased water storage, added filtration among Metro Vancouver plans to combat climate risks &#124; Cheap batteries take over world&#039;s power grids",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-april-26-26",
+      "published_date": "2026-04-25T18:50:12Z",
+      "category": "Military"
     },
     {
       "title": "BDC chief economist sees Windsor-Essex 'at the heart' of Canada's big defence push",
@@ -249,18 +256,18 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. climate news: Delta company opens lithium refining plant with first-in-North-America technology &#124; B.C. company creates AI &#039;scout&#039; to predict wildfire risk",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-april-19-26",
-      "published_date": "2026-04-18T16:52:00Z",
-      "category": "Energy"
+      "title": "Opinion: Why the most important food prices are rising again",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-why-the-most-important-food-prices-are-rising-again",
+      "published_date": "2026-04-25T13:30:30Z",
+      "category": "Economy"
     },
     {
-      "title": "GOLDSTEIN: Climate hysteria wasted our money, failed to reduce need for fossil fuels",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/goldstein-climate-hysteria-wasted-our-money-failed-to-reduce-need-for-fossil-fuels",
-      "published_date": "2026-04-18T15:03:08Z",
-      "category": "Energy"
+      "title": "Affordibility impoves for most Northern B.C. communities",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/affordibility-impoves-for-most-northern-b-c-communities/",
+      "published_date": "2026-04-25T12:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "LILLEY: Canada must use leverage now in CUSMA trade negotiations",
@@ -368,164 +375,143 @@
       "category": "Economy"
     },
     {
-      "title": "'Everybody is worried' — Southwestern Ontario French Catholic school board cutting up to 50 jobs",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/everybody-is-worried-southwestern-ontario-french-catholic-school-board-cutting-up-to-50-jobs",
-      "published_date": "2026-04-18T13:54:06Z",
-      "category": "Economy"
+      "title": "B.C. Premier Eby, MLAs, immigration expert at Nanaimo Infusion event",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/b-c-premier-eby-mlas-immigration-expert-at-nanaimo-infusion-event/",
+      "published_date": "2026-04-25T23:14:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Opinion: Saskatchewan, be careful when hiring a tax agent",
+      "title": "Boy, 14, sought after teen fatally shot inside Hamilton mall",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/boy-sought-teen-fatally-shot-hamilton-mall",
+      "published_date": "2026-04-25T22:07:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Months after $16M deal, city may give away building tied to top bureaucrat",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-indigenous-housing-procurement-land-transfers",
+      "published_date": "2026-04-25T21:59:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Passion, courage that most &#039;dream of&#039;: Will Stanhope, pioneering free solo climber, dies after fall on Squamish Chief",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/passion-courage-that-most-dream-of-will-stanhope-pioneering-free-solo-climber-dies-after-fall-on-squamish-chief",
+      "published_date": "2026-04-25T21:49:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Toronto Police offer to discuss antisemitism and racism allegation with retired cop",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-antisemitism-racism-allegation-retired-cop",
+      "published_date": "2026-04-25T21:06:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada&#039;s governor general travelling to Tumbler Ridge following mass shooting",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/canadas-governor-general-travelling-to-tumbler-ridge-following-mass-shooting",
+      "published_date": "2026-04-25T20:01:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: NDP could be on road to extinction",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/editorial-ndp-extinction-avi-lewis",
+      "published_date": "2026-04-25T20:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sask. spring snowstorm weakens, travel advisories remain",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-saskatchewan-be-careful-when-hiring-a-tax-agent",
-      "published_date": "2026-04-18T13:00:45Z",
-      "category": "Economy"
+      "url": "https://thestarphoenix.com/news/local-news/sask-spring-snowstorm-weakens-travel-advisories-remain",
+      "published_date": "2026-04-25T18:25:48Z",
+      "category": "Local Events"
     },
     {
-      "title": "University Canada West lays off 240 staff and faculty, citing crippling international student enrolment caps",
+      "title": "Richmond Mounties investigate possible kidnapping in Richmond",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/university-canada-west-lays-off-240-staff-citing-international-student-enrolment-caps",
-      "published_date": "2026-04-18T13:00:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Windsor Light Music Theatre presents the musical Frozen, opening May 1",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-light-music-theatre-presents-the-musical-frozen-opening-may-1",
-      "published_date": "2026-04-25T11:00:33Z",
+      "url": "https://vancouversun.com/news/richmond-mounties-investigate-possible-kidnapping-in-richmond",
+      "published_date": "2026-04-25T17:55:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Two charged after breaking into Windsor pub through fire-damaged wall",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/two-charged-after-breaking-into-windsor-pub-through-fire-damaged-wall",
-      "published_date": "2026-04-25T11:00:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One dead after suspicious fire at Abbotsford homeless camp",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/one-dead-after-suspicious-fire-at-abbotsford-homeless-camp",
-      "published_date": "2026-04-25T05:32:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rangers utilize multiple power-play chances to drop Spitfires in overtime in series opener",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/rangers-utilize-multiple-power-play-chances-to-drop-spitfires-in-overtime-in-series-opener",
-      "published_date": "2026-04-25T03:50:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Vancouver Sun and The Province win national award for coverage of Lapu Lapu Day tragedy",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/embargoed-vancouver-sun-and-province-win-newspaper-award-lapu-lapu-coverage",
-      "published_date": "2026-04-25T02:35:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 16, dead in 'brazen' shooting at downtown Hamilton mall",
+      "title": "WARMINGTON: Highway and TTC closures a nightmare for commuters attending big events",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/person-dead-hamilton-mall-shooting",
-      "published_date": "2026-04-25T00:08:42Z",
+      "url": "https://torontosun.com/news/local-news/highway-gardiner-ttc-shut-down-commute-events-jays-raptors-marlies-khalsa",
+      "published_date": "2026-04-25T17:09:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Prosecutor says evidence shows former Mountie took steps to repatriate Chinese suspect",
+      "title": "Northeastern B.C. community again cut off after landslide prompts evacuation orders",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/prosecutor-says-evidence-shows-former-mountie-took-steps-to-repatriate-chinese-suspect",
-      "published_date": "2026-04-24T23:44:43Z",
+      "url": "https://vancouversun.com/news/northeastern-bc-community-cut-off-after-landslide-prompts-evacuation-orders",
+      "published_date": "2026-04-25T16:53:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: Adopting UNDRIP featured wishful thinking and stonewalling by B.C. NDP",
+      "title": "Traffic Alert: Metro Vancouver&#039;s new the stal̕əw̓ asəm Bridge closed this weekend",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-adopting-undrip-featured-wishful-thinking-bc-ndp",
-      "published_date": "2026-04-24T23:32:13Z",
+      "url": "https://vancouversun.com/news/traffic-alert-metro-vancouver-stal%cc%95%c9%99w%cc%93-as%c9%99m-bridge-closed-this-weekend",
+      "published_date": "2026-04-25T16:18:57Z",
       "category": "Local Events"
     },
     {
-      "title": "MANDEL: Julia MacIsaac's ex-boyfriend rewarded her compassion by killing her",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/julia-macisaacs-ex-boyfriend-guilty-murder-scarborough",
-      "published_date": "2026-04-24T23:19:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Momentum,' but not visible progress, on Toronto van attack memorial",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/yonge-st-van-attack-eight-years-later",
-      "published_date": "2026-04-24T22:13:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto cops charge B.C. man with fraud targeting Ukrainian citizens living abroad",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-cops-bc-man-fraud-ukrainian-citizens-abroad",
-      "published_date": "2026-04-24T22:06:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OpenAI apologizes over missed warning following Tumbler Ridge mass shooting",
+      "title": "Man arrested following homicide, fire at Abbotsford homeless encampment",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/24/openai-apologizes-over-missed-warning-following-tumbler-ridge-mass-shooting/",
-      "published_date": "2026-04-24T22:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/man-arrested-following-homicide-fire-at-abbotsford-homeless-encampment/",
+      "published_date": "2026-04-25T16:14:00Z",
       "category": "Local Events"
     },
     {
-      "title": "‘What just happened?’: B.C. teen makes rare hole-in-one on Par 4",
+      "title": "Triumph came fully loaded for Toronto show with three power players",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/triumph-fully-loaded-toronto-concert-scotiabank-arena",
+      "published_date": "2026-04-25T15:52:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHAUDHRI: AI may be cheaper than hiring a new employee but the lawsuits are not",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/artificial-intelligence-ai-cheaper-than-hiring-employee-but-lawsuits-are-not",
+      "published_date": "2026-04-25T15:30:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coldest city in B.C.: Merritt sets 102-year-old temperature record",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/24/what-just-happened-b-c-teen-makes-unprecedented-hole-in-one-on-par-4/",
-      "published_date": "2026-04-24T21:45:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/coldest-city-in-b-c-merritt-sets-102-year-old-temperature-record/",
+      "published_date": "2026-04-25T15:23:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: B.C.’s disability reform shows why Canada can’t keep outsourcing fairness to postal codes",
+      "title": "Vancouver Rise FC fall short in season opener against AFC Toronto",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/vancouver-rise-fc-fall-short-in-season-opener-against-afc-toronto/",
+      "published_date": "2026-04-25T15:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "GOLDSTEIN: Is Canada becoming a one-party state?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canada-becoming-one-party-state-carney-liberal",
+      "published_date": "2026-04-25T15:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1945: Vancouver civic centre proposed, with art gallery, civic theatre and a rink like Maple Leaf Gardens",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-s-disability-reform-shows-why-canada-cant-keep-outsourcing-fairness-to-postal-codes",
-      "published_date": "2026-04-24T21:00:08Z",
+      "url": "https://vancouversun.com/news/this-day-history-1945-vancouver-civic-centre-proposed",
+      "published_date": "2026-04-25T15:00:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Man charged with series of Peel break-ins; 4 charged in firearms probe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-charged-peel-break-ins-firearms-probe",
-      "published_date": "2026-04-24T20:52:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rob and Michele Reiner's son Jake Reiner breaks silence on parents' 'nightmare' murders",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/rob-reiner-son-jake-reiner-parents-nightmare-murders",
-      "published_date": "2026-04-24T20:29:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Male arrested after teen stabbed in Brampton; man wanted in 2 Greektown break-ins",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/male-arrested-teen-stabbed-brampton-man-wanted-greektown-break-ins",
-      "published_date": "2026-04-24T20:26:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Doug Ford’s FOI changes won’t impact RCMP Greenbelt investigation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/doug-ford-foi-changes-wont-jeopardize-police-investigations-rcmp-greenbelt",
-      "published_date": "2026-04-24T20:20:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor unveils plan for massive Emancipation Day monument",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-unveils-plan-for-massive-emancipation-day-monument",
-      "published_date": "2026-04-24T20:08:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Families of Robert Pickton victims lose court bid to delay RCMP applications to dispose of seized items",
+      "title": "Anthony Gismondi: B.C. wineries could learn from France how to remain relevant and connected",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/victim-families-robert-pickton-victims-lose-court-bid-to-delay-rcmp-applications",
-      "published_date": "2026-04-24T20:03:12Z",
+      "url": "https://vancouversun.com/life/food/anthony-gismondi-b-c-wineries-could-learn-from-france-how-to-remain-relevant-and-connected",
+      "published_date": "2026-04-25T15:00:50Z",
       "category": "Local Events"
     }
   ]
