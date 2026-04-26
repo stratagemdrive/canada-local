@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T23:42:26Z",
+  "generated_at": "2026-04-26T11:30:08Z",
   "country": "Canada",
   "total_stories": 72,
   "categories": [
@@ -375,6 +375,20 @@
       "category": "Economy"
     },
     {
+      "title": "Vancouver Goldeneyes conclude season with thrilling OT win over Frost",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/vancouver-goldeneyes-conclude-season-with-thrilling-ot-win-over-frost/",
+      "published_date": "2026-04-26T04:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver in Humboldt Broncos crash granted 11th-hour pause of deportation order",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/crime/driver-in-humboldt-broncos-crash-granted-11th-hour-pause-of-deportation-order",
+      "published_date": "2026-04-26T00:03:20Z",
+      "category": "Local Events"
+    },
+    {
       "title": "B.C. Premier Eby, MLAs, immigration expert at Nanaimo Infusion event",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/25/b-c-premier-eby-mlas-immigration-expert-at-nanaimo-infusion-event/",
@@ -498,20 +512,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/canada-becoming-one-party-state-carney-liberal",
       "published_date": "2026-04-25T15:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1945: Vancouver civic centre proposed, with art gallery, civic theatre and a rink like Maple Leaf Gardens",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-history-1945-vancouver-civic-centre-proposed",
-      "published_date": "2026-04-25T15:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: B.C. wineries could learn from France how to remain relevant and connected",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/anthony-gismondi-b-c-wineries-could-learn-from-france-how-to-remain-relevant-and-connected",
-      "published_date": "2026-04-25T15:00:50Z",
       "category": "Local Events"
     }
   ]
