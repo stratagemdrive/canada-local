@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-26T11:30:08Z",
+  "generated_at": "2026-04-26T23:43:00Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 73,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,27 @@
       "url": "https://torontosun.com/news/world/iran-war-updates-april-20",
       "published_date": "2026-04-20T11:28:45Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR LATEST: Iranian official returning to Pakistan as Trump says talks to resume over phone",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-iranian-official-returns-to-pakistan",
+      "published_date": "2026-04-26T19:41:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "HANSON: All the dream houses of the Left",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/all-the-dream-houses-of-the-left",
+      "published_date": "2026-04-26T15:00:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "&#039;The way of the future&#039;: Goodbye guns, hello avalanche-exploding drones at Whistler",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/avalanche-exploding-drones-whistler",
+      "published_date": "2026-04-26T13:00:59Z",
+      "category": "Military"
     },
     {
       "title": "B.C. climate news: Scientists link grey whale deaths in B.C., U.S to warming ocean &#124; Increased water storage, added filtration among Metro Vancouver plans to combat climate risks &#124; Cheap batteries take over world&#039;s power grids",
@@ -165,27 +186,6 @@
       "category": "Military"
     },
     {
-      "title": "LILLEY: Ford caves to mob driven by petty jealousy, sells government jet",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/ford-caves-to-mob-driven-by-petty-jealousy-sells-government-jet",
-      "published_date": "2026-04-19T20:50:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR LATEST: Trump says U.S. Navy seizes Iranian cargo ship that tried to get through blockade",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-trump-says-u-s-negotiators-will-be-in-islamabad-for-talks-with-iran",
-      "published_date": "2026-04-19T16:18:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "WARMINGTON: Doug Ford's private jet grounded before first takeoff",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/doug-ford-pulls-plug-on-private-jet",
-      "published_date": "2026-04-19T15:47:03Z",
-      "category": "Military"
-    },
-    {
       "title": "$135M upgrade complete at Rio Tinto’s Kitimat smelter",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/24/135m-upgrade-complete-at-rio-tintos-kitimat-smelter/",
@@ -254,6 +254,13 @@
       "url": "https://torontosun.com/news/local-news/carneys-fuel-tax-cut-in-effect-what-can-you-expect",
       "published_date": "2026-04-20T19:38:54Z",
       "category": "Energy"
+    },
+    {
+      "title": "Should Vancouver relax short-term rental rules during World Cup to counter soaring hotel rates?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/should-vancouver-relax-short-term-rental-rules-world-cup-counter-hotel-rates",
+      "published_date": "2026-04-26T13:00:29Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: Why the most important food prices are rising again",
@@ -375,6 +382,104 @@
       "category": "Economy"
     },
     {
+      "title": "Infant in serious condition after 'multiple' pedestrians reportedly struck in North York",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/infant-serious-condition-pedestrians-reportedly-struck",
+      "published_date": "2026-04-26T23:35:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'It's Raptors season': Gardiner gridlock can't stop massive turnout at 'Jurassic Park'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/basketball/nba/toronto-raptors/its-raptors-season-gardiner-gridlock-cant-stop-massive-turnout-at-jurassic-park",
+      "published_date": "2026-04-26T23:02:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gangs using Indian international students as &#039;money mules&#039; in Canada&#039;s extortion crimes, new report finds",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/gangs-using-indian-international-students-money-mules-canada-extortion-crimes-fintrac-report",
+      "published_date": "2026-04-26T22:01:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HOMICIDE HERO: Retired cop Hank Idsinga solved some of Toronto's biggest murders",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/homicide-hero-hank-idsinga-biggest-cases",
+      "published_date": "2026-04-26T21:15:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigating sixth homicide of the year in Saskatoon",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/crime/police-investigating-sixth-homicide-of-the-year-in-saskatoon",
+      "published_date": "2026-04-26T19:34:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two cars exchange gunfire in Surrey City Centre Saturday night",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/two-cars-exchange-gunfire-in-surrey-city-centre-saturday-night",
+      "published_date": "2026-04-26T17:51:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "White House Correspondents’ Dinner shooting suspect slammed Trump in manifesto: Report",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/alleged-gunman-in-white-house-correspondents-dinner-shooting-indentified",
+      "published_date": "2026-04-26T16:55:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPP investigating fatal Hwy. 401 crash in Pickering; ROPE Squad apprehends federal offender",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/opp-investigate-fatal-crash-401",
+      "published_date": "2026-04-26T16:53:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ELDER: On CNN, Democrat 'Election Deniers' get a pass",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/on-cnn-democrat-election-deniers-get-a-pass",
+      "published_date": "2026-04-26T15:12:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parasite to blame for five dead bears at Smithers wildlife rescue",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/26/parasite-to-blame-for-five-dead-bears-at-smithers-wildlife-rescue/",
+      "published_date": "2026-04-26T15:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saskatchewan Rush stunned in NLL playoff elimination game",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/saskatchewan-rush-stunned-in-nll-playoff-elimination-game",
+      "published_date": "2026-04-26T15:07:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weight-loss treatments lead to improved quality of life: Study",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/health/diet-fitness/weight-loss-treatments-leads-to-improved-quality-of-life-study",
+      "published_date": "2026-04-26T14:10:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exhibition Place could see massive makeover for year-round use",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/exhibition-place-could-see-massive-makeover-for-year-round-use",
+      "published_date": "2026-04-26T14:01:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: How do you view retirement?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-how-do-you-view-retirement",
+      "published_date": "2026-04-26T13:00:47Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Vancouver Goldeneyes conclude season with thrilling OT win over Frost",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/25/vancouver-goldeneyes-conclude-season-with-thrilling-ot-win-over-frost/",
@@ -414,104 +519,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/passion-courage-that-most-dream-of-will-stanhope-pioneering-free-solo-climber-dies-after-fall-on-squamish-chief",
       "published_date": "2026-04-25T21:49:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Toronto Police offer to discuss antisemitism and racism allegation with retired cop",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-antisemitism-racism-allegation-retired-cop",
-      "published_date": "2026-04-25T21:06:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada&#039;s governor general travelling to Tumbler Ridge following mass shooting",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/canadas-governor-general-travelling-to-tumbler-ridge-following-mass-shooting",
-      "published_date": "2026-04-25T20:01:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: NDP could be on road to extinction",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-ndp-extinction-avi-lewis",
-      "published_date": "2026-04-25T20:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sask. spring snowstorm weakens, travel advisories remain",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/sask-spring-snowstorm-weakens-travel-advisories-remain",
-      "published_date": "2026-04-25T18:25:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Richmond Mounties investigate possible kidnapping in Richmond",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/richmond-mounties-investigate-possible-kidnapping-in-richmond",
-      "published_date": "2026-04-25T17:55:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Highway and TTC closures a nightmare for commuters attending big events",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/highway-gardiner-ttc-shut-down-commute-events-jays-raptors-marlies-khalsa",
-      "published_date": "2026-04-25T17:09:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northeastern B.C. community again cut off after landslide prompts evacuation orders",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/northeastern-bc-community-cut-off-after-landslide-prompts-evacuation-orders",
-      "published_date": "2026-04-25T16:53:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traffic Alert: Metro Vancouver&#039;s new the stal̕əw̓ asəm Bridge closed this weekend",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/traffic-alert-metro-vancouver-stal%cc%95%c9%99w%cc%93-as%c9%99m-bridge-closed-this-weekend",
-      "published_date": "2026-04-25T16:18:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested following homicide, fire at Abbotsford homeless encampment",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/man-arrested-following-homicide-fire-at-abbotsford-homeless-encampment/",
-      "published_date": "2026-04-25T16:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Triumph came fully loaded for Toronto show with three power players",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/triumph-fully-loaded-toronto-concert-scotiabank-arena",
-      "published_date": "2026-04-25T15:52:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHAUDHRI: AI may be cheaper than hiring a new employee but the lawsuits are not",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/artificial-intelligence-ai-cheaper-than-hiring-employee-but-lawsuits-are-not",
-      "published_date": "2026-04-25T15:30:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coldest city in B.C.: Merritt sets 102-year-old temperature record",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/coldest-city-in-b-c-merritt-sets-102-year-old-temperature-record/",
-      "published_date": "2026-04-25T15:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Rise FC fall short in season opener against AFC Toronto",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/vancouver-rise-fc-fall-short-in-season-opener-against-afc-toronto/",
-      "published_date": "2026-04-25T15:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GOLDSTEIN: Is Canada becoming a one-party state?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canada-becoming-one-party-state-carney-liberal",
-      "published_date": "2026-04-25T15:18:00Z",
       "category": "Local Events"
     }
   ]
