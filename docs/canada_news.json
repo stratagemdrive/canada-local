@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-27T12:14:15Z",
+  "generated_at": "2026-04-27T23:56:48Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -67,11 +67,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "B.C. premier seeks agreement on DRIPA changes by fall: &#039;The most challenging issue I&#039;ve worked on&#039;",
+      "title": "Vaughn Palmer: Polarizing B.C. Conservative leadership candidates battle at their own expense",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-premier-backs-off-dripa-changes-seeks-agreement-on-changes-by-fall",
-      "published_date": "2026-04-20T23:54:08Z",
-      "category": "Diplomacy"
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-polarizing-bc-conservative-leadership-candidates-battle-debate",
+      "published_date": "2026-04-27T23:12:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "Peel cops seek 4 attempted murder suspects; Ajax girl, 13, faces weapon charge",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/peel-cops-seek-4-attempted-murder-suspects",
+      "published_date": "2026-04-27T21:52:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Iran wants Strait of Hormuz reopening tied to U.S. ending the war, officials say",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-27",
+      "published_date": "2026-04-27T11:21:32Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR LATEST: Iranian official returning to Pakistan as Trump says talks to resume over phone",
@@ -172,11 +186,11 @@
       "category": "Military"
     },
     {
-      "title": "Mother, 6 kids killed in explosion, fire at Pennsylvania home",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/mother-6-kids-killed-in-explosion-fire-at-pennsylvania-home",
-      "published_date": "2026-04-20T20:13:39Z",
-      "category": "Military"
+      "title": "‘Great turnout’ – Windsor celebrates Earth Day with family fun at Malden Park",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/great-turnout-windsor-celebrates-earth-day-with-family-fun-at-malden-park",
+      "published_date": "2026-04-27T18:39:41Z",
+      "category": "Energy"
     },
     {
       "title": "$135M upgrade complete at Rio Tinto’s Kitimat smelter",
@@ -235,18 +249,25 @@
       "category": "Energy"
     },
     {
-      "title": "Bruce Power advising Saskatchewan, Alberta on nuclear plans",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/bruce-power-advising-saskatchewan-alberta-on-nuclear-plans",
-      "published_date": "2026-04-20T20:30:08Z",
-      "category": "Energy"
+      "title": "LILLEY: Mark Carney's new Sovereign Wealth Fund just like all other funds",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carneys-new-sovereign-wealth-fund-is-just-like-all-the-other-funds",
+      "published_date": "2026-04-27T22:34:48Z",
+      "category": "Economy"
     },
     {
-      "title": "Mark Carney’s fuel tax cut in effect — what can you expect?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/carneys-fuel-tax-cut-in-effect-what-can-you-expect",
-      "published_date": "2026-04-20T19:38:54Z",
-      "category": "Energy"
+      "title": "Opinion: In this uncertain time, is B.C. putting CleanBC, our best tool, back on the shelf?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-in-this-uncertain-time-is-b-c-putting-cleanbc-our-best-tool-back-on-the-shelf",
+      "published_date": "2026-04-27T21:00:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Windsor MP urges Ottawa to act fast as industry reels from U.S. tariffs",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-mp-urges-ottawa-to-act-fast-as-industry-reels-from-u-s-tariffs",
+      "published_date": "2026-04-27T18:16:21Z",
+      "category": "Economy"
     },
     {
       "title": "Pierre Poilievre calls for end to 'credit card budgeting' ahead of spring fiscal update",
@@ -368,157 +389,143 @@
       "category": "Economy"
     },
     {
-      "title": "Pierre Poilievre slams PM's online video for pushing more 'costly illusions'",
+      "title": "King Charles, Queen Camilla in Washington for state visit with U.K.-U.S. relationship in spotlight",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/pierre-poilievre-slams-mark-carney-speech",
-      "published_date": "2026-04-20T22:23:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Windsor's historic 1798 Duff-Baby House sees $2M restoration work completed",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsors-historic-1798-duff-baby-house-sees-2m-restoration-work-completed",
-      "published_date": "2026-04-20T15:59:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kellogg's bringing back cereal box goodies for 'Toy Story 5' release",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/life/food/kelloggs-cereal-box-goodies-toy-story-5",
-      "published_date": "2026-04-27T12:03:25Z",
+      "url": "https://torontosun.com/news/world/king-charles-queen-camilla-in-washington-for-state-visit-with-u-k-u-s-relationship-in-spotlight",
+      "published_date": "2026-04-27T23:46:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Clothes Café closes shop after 35 years on Saskatoon's Broadway Ave.",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/clothes-cafe-closes-shop-after-35-years-on-saskatoons-broadway-ave",
-      "published_date": "2026-04-27T12:00:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Girl, 6, dead after fall from North York apartment building",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/girl-6-dead-after-fall-from-north-york-apartment-building",
-      "published_date": "2026-04-27T11:41:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Premier Doug Ford apologizes to MPP Stephanie Smyth -- but will she?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/premier-doug-ford-apologizes-stephanie-smyth",
-      "published_date": "2026-04-27T11:34:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police make arrest after teenager stabbed to death",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-make-arrest-after-teenager-stabbed-to-death",
-      "published_date": "2026-04-27T11:32:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dyer: Is Orban's fall a harbinger of Trump populism's fate?",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/dyer-is-orbans-fall-a-harbinger-of-trump-populisms-fate",
-      "published_date": "2026-04-27T11:15:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spitfires hoping to find success at home after suffering another one-goal loss to Rangers",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/spitfires-hoping-to-find-success-at-home-after-suffering-another-one-goal-loss-to-rangers",
-      "published_date": "2026-04-27T03:31:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect surrenders to cops after teen fatally shot at downtown Hamilton mall",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-surrenders-fatal-shooting-hamilton-mall",
-      "published_date": "2026-04-27T03:01:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Infant in serious condition after 'multiple' pedestrians reportedly struck in North York",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/infant-serious-condition-pedestrians-reportedly-struck",
-      "published_date": "2026-04-26T23:35:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It's Raptors season': Gardiner gridlock can't stop massive turnout at 'Jurassic Park'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/basketball/nba/toronto-raptors/its-raptors-season-gardiner-gridlock-cant-stop-massive-turnout-at-jurassic-park",
-      "published_date": "2026-04-26T23:02:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gangs using Indian international students as &#039;money mules&#039; in Canada&#039;s extortion crimes, new report finds",
+      "title": "Former Surrey Mountie pleads guilty after corruption investigation",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/gangs-using-indian-international-students-money-mules-canada-extortion-crimes-fintrac-report",
-      "published_date": "2026-04-26T22:01:24Z",
+      "url": "https://vancouversun.com/news/former-surrey-mountie-pleads-guilty-after-corruption-investigation",
+      "published_date": "2026-04-27T23:35:54Z",
       "category": "Local Events"
     },
     {
-      "title": "HOMICIDE HERO: Retired cop Hank Idsinga solved some of Toronto's biggest murders",
+      "title": "Dangerous driver's guilty plea in crash that killed Ontario husband, dad of 3 'step in the right direction': Brother",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/homicide-hero-hank-idsinga-biggest-cases",
-      "published_date": "2026-04-26T21:15:35Z",
+      "url": "https://torontosun.com/news/local-news/dangerous-driver-killed-ontario-husband-father-three-pleads-guilty",
+      "published_date": "2026-04-27T23:26:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Police investigating sixth homicide of the year in Saskatoon",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/police-investigating-sixth-homicide-of-the-year-in-saskatoon",
-      "published_date": "2026-04-26T19:34:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two cars exchange gunfire in Surrey City Centre Saturday night",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/two-cars-exchange-gunfire-in-surrey-city-centre-saturday-night",
-      "published_date": "2026-04-26T17:51:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "White House Correspondents’ Dinner shooting suspect slammed Trump in manifesto: Report",
+      "title": "1 dead in Hwy. 401 crash in Cobourg",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/alleged-gunman-in-white-house-correspondents-dinner-shooting-indentified",
-      "published_date": "2026-04-26T16:55:57Z",
+      "url": "https://torontosun.com/news/local-news/1-dead-in-hwy-401-crash-in-cobourg",
+      "published_date": "2026-04-27T23:15:24Z",
       "category": "Local Events"
     },
     {
-      "title": "OPP investigating fatal Hwy. 401 crash in Pickering; ROPE Squad apprehends federal offender",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/opp-investigate-fatal-crash-401",
-      "published_date": "2026-04-26T16:53:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ELDER: On CNN, Democrat 'Election Deniers' get a pass",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/on-cnn-democrat-election-deniers-get-a-pass",
-      "published_date": "2026-04-26T15:12:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parasite to blame for five dead bears at Smithers wildlife rescue",
+      "title": "Life after breast cancer: 2 B.C. survivors travel the world",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/26/parasite-to-blame-for-five-dead-bears-at-smithers-wildlife-rescue/",
-      "published_date": "2026-04-26T15:10:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/life-after-breast-cancer-2-b-c-survivors-travel-the-world/",
+      "published_date": "2026-04-27T23:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Saskatchewan Rush stunned in NLL playoff elimination game",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/saskatchewan-rush-stunned-in-nll-playoff-elimination-game",
-      "published_date": "2026-04-26T15:07:22Z",
+      "title": "Homicide investigators take over as two found dead in Langley",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/langley-two-found-dead-homicide-investigators-take-over",
+      "published_date": "2026-04-27T22:54:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Weight-loss treatments lead to improved quality of life: Study",
+      "title": "East Kootenay caught between shifting time observances",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/east-kootenay-caught-between-shifting-time-observances/",
+      "published_date": "2026-04-27T22:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bailey’s Law passes third reading in House of Commons",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/baileys-law-passes-third-reading-in-house-of-commons/",
+      "published_date": "2026-04-27T22:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rogers to offer voluntary buyouts to 10,000 employees: Report",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/health/diet-fitness/weight-loss-treatments-leads-to-improved-quality-of-life-study",
-      "published_date": "2026-04-26T14:10:48Z",
+      "url": "https://torontosun.com/news/national/rogers-to-offer-voluntary-buyouts-to-half-its-workforce-report",
+      "published_date": "2026-04-27T22:23:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "$30 tickets for ‘Summer of Live’ concerts by Live Nation Canada",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/30-tickets-for-summer-of-live-concerts-by-live-nation-canada/",
+      "published_date": "2026-04-27T22:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Langley Mountie convicted twice of assault has resigned from force",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/langley-mountie-convicted-twice-of-assault-has-resigned-from-force/",
+      "published_date": "2026-04-27T22:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rural, remote B.C. communities face high intimate partner violence deaths",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/rural-remote-b-c-communities-face-high-intimate-partner-violence-deaths/",
+      "published_date": "2026-04-27T22:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Failure to confront Jew hatred a disgrace",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/failure-to-confront-jew-hatred-a-disgrace",
+      "published_date": "2026-04-27T22:01:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HAVAN Awards Gala celebrates achievements in residential construction, renovation and design",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/havan-awards-gala-celebrates-achievements-in-residential-construction-renovation-and-design",
+      "published_date": "2026-04-27T22:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria cancer survivor, 80, completes 10K race alongside son",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/victoria-cancer-survivor-80-completes-10k-race-alongside-son/",
+      "published_date": "2026-04-27T21:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City report outlines Saskatoon's costs for homelessness",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/city-report-outlines-saskatoons-costs-for-homelessness",
+      "published_date": "2026-04-27T21:08:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Governor General to visit with Tumbler Ridge students, mayor, first responders",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/governor-general-to-visit-with-tumbler-ridge-students-mayor-first-responders/",
+      "published_date": "2026-04-27T20:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "28-year-old Alberta murder suspect arrested in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/28-year-old-alberta-murder-suspect-arrested-in-b-c/",
+      "published_date": "2026-04-27T20:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man in his 70s arrested after shooting death of man, 62, in Mississauga",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-his-70s-arrested-shooting-death-man-62-mississauga",
+      "published_date": "2026-04-27T19:12:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flood warning remains in effect along Ottawa River east of Pembroke",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/fllod-warning-remains-in-effect-along-ottawa-river-east-of-pembroke",
+      "published_date": "2026-04-27T19:00:30Z",
       "category": "Local Events"
     }
   ]
