@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T23:43:00Z",
+  "generated_at": "2026-04-27T12:14:15Z",
   "country": "Canada",
   "total_stories": 73,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "IRAN WAR UPDATES: Iran proposes to reopen Strait of Hormuz without nuclear agreement",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-27",
+      "published_date": "2026-04-27T11:21:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Letters to The Vancouver Sun: National chief is holding Canada and B.C. to their own word",
       "source": "Vancouver Sun",
@@ -64,13 +71,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-premier-backs-off-dripa-changes-seeks-agreement-on-changes-by-fall",
       "published_date": "2026-04-20T23:54:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IRAN WAR UPDATES: Trump said ceasefire extension 'highly unlikely' as Pakistan prepares for peace talks",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-20",
-      "published_date": "2026-04-20T11:28:45Z",
       "category": "Diplomacy"
     },
     {
@@ -179,13 +179,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: U.S. Navy seizure of Iranian ship casts doubt on new talks in Pakistan",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-20",
-      "published_date": "2026-04-20T11:28:45Z",
-      "category": "Military"
-    },
-    {
       "title": "$135M upgrade complete at Rio Tinto’s Kitimat smelter",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/24/135m-upgrade-complete-at-rio-tintos-kitimat-smelter/",
@@ -254,6 +247,13 @@
       "url": "https://torontosun.com/news/local-news/carneys-fuel-tax-cut-in-effect-what-can-you-expect",
       "published_date": "2026-04-20T19:38:54Z",
       "category": "Energy"
+    },
+    {
+      "title": "Pierre Poilievre calls for end to 'credit card budgeting' ahead of spring fiscal update",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/pierre-poilievre-demands-end-credit-card-budgeting",
+      "published_date": "2026-04-27T00:51:41Z",
+      "category": "Economy"
     },
     {
       "title": "Should Vancouver relax short-term rental rules during World Cup to counter soaring hotel rates?",
@@ -382,6 +382,62 @@
       "category": "Economy"
     },
     {
+      "title": "Kellogg's bringing back cereal box goodies for 'Toy Story 5' release",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/life/food/kelloggs-cereal-box-goodies-toy-story-5",
+      "published_date": "2026-04-27T12:03:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clothes Café closes shop after 35 years on Saskatoon's Broadway Ave.",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/clothes-cafe-closes-shop-after-35-years-on-saskatoons-broadway-ave",
+      "published_date": "2026-04-27T12:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Girl, 6, dead after fall from North York apartment building",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/girl-6-dead-after-fall-from-north-york-apartment-building",
+      "published_date": "2026-04-27T11:41:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Premier Doug Ford apologizes to MPP Stephanie Smyth -- but will she?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/premier-doug-ford-apologizes-stephanie-smyth",
+      "published_date": "2026-04-27T11:34:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police make arrest after teenager stabbed to death",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-make-arrest-after-teenager-stabbed-to-death",
+      "published_date": "2026-04-27T11:32:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dyer: Is Orban's fall a harbinger of Trump populism's fate?",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/dyer-is-orbans-fall-a-harbinger-of-trump-populisms-fate",
+      "published_date": "2026-04-27T11:15:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spitfires hoping to find success at home after suffering another one-goal loss to Rangers",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-hoping-to-find-success-at-home-after-suffering-another-one-goal-loss-to-rangers",
+      "published_date": "2026-04-27T03:31:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect surrenders to cops after teen fatally shot at downtown Hamilton mall",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspect-surrenders-fatal-shooting-hamilton-mall",
+      "published_date": "2026-04-27T03:01:59Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Infant in serious condition after 'multiple' pedestrians reportedly struck in North York",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/infant-serious-condition-pedestrians-reportedly-struck",
@@ -463,62 +519,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/health/diet-fitness/weight-loss-treatments-leads-to-improved-quality-of-life-study",
       "published_date": "2026-04-26T14:10:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exhibition Place could see massive makeover for year-round use",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/exhibition-place-could-see-massive-makeover-for-year-round-use",
-      "published_date": "2026-04-26T14:01:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: How do you view retirement?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-how-do-you-view-retirement",
-      "published_date": "2026-04-26T13:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Goldeneyes conclude season with thrilling OT win over Frost",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/vancouver-goldeneyes-conclude-season-with-thrilling-ot-win-over-frost/",
-      "published_date": "2026-04-26T04:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver in Humboldt Broncos crash granted 11th-hour pause of deportation order",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/driver-in-humboldt-broncos-crash-granted-11th-hour-pause-of-deportation-order",
-      "published_date": "2026-04-26T00:03:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Premier Eby, MLAs, immigration expert at Nanaimo Infusion event",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/b-c-premier-eby-mlas-immigration-expert-at-nanaimo-infusion-event/",
-      "published_date": "2026-04-25T23:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 14, sought after teen fatally shot inside Hamilton mall",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/boy-sought-teen-fatally-shot-hamilton-mall",
-      "published_date": "2026-04-25T22:07:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Months after $16M deal, city may give away building tied to top bureaucrat",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-indigenous-housing-procurement-land-transfers",
-      "published_date": "2026-04-25T21:59:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passion, courage that most &#039;dream of&#039;: Will Stanhope, pioneering free solo climber, dies after fall on Squamish Chief",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/passion-courage-that-most-dream-of-will-stanhope-pioneering-free-solo-climber-dies-after-fall-on-squamish-chief",
-      "published_date": "2026-04-25T21:49:04Z",
       "category": "Local Events"
     }
   ]
