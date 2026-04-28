@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-27T23:56:48Z",
+  "generated_at": "2026-04-28T12:17:58Z",
   "country": "Canada",
-  "total_stories": 74,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -65,6 +65,20 @@
       "url": "https://torontosun.com/news/national/appeasement-wont-work-against-iran-diplomat-says",
       "published_date": "2026-04-21T20:58:47Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: U.S. appears cold to Iranian proposal to end war without nuclear deal",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-28",
+      "published_date": "2026-04-28T11:36:06Z",
+      "category": "Military"
+    },
+    {
+      "title": "Case against ex Mountie charged with planning to aid China called &#039;purely circumstantial&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/case-against-ex-mountie-charged-planning-to-aid-china-called-purely-circumstantial",
+      "published_date": "2026-04-27T23:55:53Z",
+      "category": "Military"
     },
     {
       "title": "Vaughn Palmer: Polarizing B.C. Conservative leadership candidates battle at their own expense",
@@ -179,11 +193,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR LATEST: Doubt surrounds Iran-U.S. talks as ceasefire is set to expire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-21",
-      "published_date": "2026-04-21T11:28:46Z",
-      "category": "Military"
+      "title": "B.C. court being asked to throw out approval of $12-billion natural gas pipeline",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/bc-court-asked-throw-out-approval-12-billion-natural-gas-pipeline",
+      "published_date": "2026-04-28T00:13:04Z",
+      "category": "Energy"
     },
     {
       "title": "‘Great turnout’ – Windsor celebrates Earth Day with family fun at Malden Park",
@@ -247,6 +261,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/04/21/b-c-calls-southern-pipeline-route-a-positive-shift-remains-wary/",
       "published_date": "2026-04-21T23:00:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Mark Carney's non-U.S. exports target far-fetched: Fraser Institute",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/mark-carneys-non-us-exports-target-far-fetched-report",
+      "published_date": "2026-04-28T09:00:53Z",
+      "category": "Economy"
     },
     {
       "title": "LILLEY: Mark Carney's new Sovereign Wealth Fund just like all other funds",
@@ -382,11 +403,67 @@
       "category": "Economy"
     },
     {
-      "title": "Paulson: Building permits, land purchases demonstrate confidence in Saskatoon industrial real estate",
+      "title": "Babco Meats expands quickly with four locations and first in Saskatoon",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/columnists/paulson-building-permits-land-purchases-demonstrate-confidence-in-saskatoon-industrial-real-estate",
-      "published_date": "2026-04-21T12:00:59Z",
-      "category": "Economy"
+      "url": "https://thestarphoenix.com/business/local-business/babco-meats-expands-quickly-with-four-locations-and-first-in-saskatoon",
+      "published_date": "2026-04-28T12:00:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Simons confirmed to move into old Nordstrom store in downtown Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/simons-vancouver-store-old-nordstrom-location",
+      "published_date": "2026-04-28T12:00:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: OPP 'hearts are broken' at death of much-respected motorcycle cop Sgt. Brandon Malcolm",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/opp-motorcycle-cop-brandon-malcolm-mourned",
+      "published_date": "2026-04-28T11:32:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ford: Astronauts offer otherworldly reminder of our shared humanity",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/ford-astronauts-offer-otherworldly-reminder-of-our-shared-humanity",
+      "published_date": "2026-04-28T11:15:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local artist to walk from Ottawa to Windsor to raise funds for youth groups",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/local-artist-to-walk-from-ottawa-to-windsor-to-raise-funds-for-youth-groups",
+      "published_date": "2026-04-28T11:00:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspected overdose deaths in Renfrew County triple in early 2026",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/suspected-overdose-deaths-in-renfrew-county-triple-in-early-2026",
+      "published_date": "2026-04-28T10:59:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "After a pair of one-goal defeats, Spitfires finally break through to get first win of series against Rangers",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/after-two-one-goal-defeats-spitfires-finally-break-through-to-get-first-win-of-series-against-rangers",
+      "published_date": "2026-04-28T04:44:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver park board commissioner tells mayor and council to mind their own business",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-park-board-commissioner-tells-mayor-and-council-to-mind-their-own-business",
+      "published_date": "2026-04-28T04:14:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Witness testifies in murder trial to being driver in Naramata woman’s killing",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/witness-testifies-in-murder-trial-to-being-driver-in-naramata-womans-killing/",
+      "published_date": "2026-04-28T03:45:00Z",
+      "category": "Local Events"
     },
     {
       "title": "King Charles, Queen Camilla in Washington for state visit with U.K.-U.S. relationship in spotlight",
@@ -463,69 +540,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/27/langley-mountie-convicted-twice-of-assault-has-resigned-from-force/",
       "published_date": "2026-04-27T22:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rural, remote B.C. communities face high intimate partner violence deaths",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/rural-remote-b-c-communities-face-high-intimate-partner-violence-deaths/",
-      "published_date": "2026-04-27T22:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Failure to confront Jew hatred a disgrace",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/failure-to-confront-jew-hatred-a-disgrace",
-      "published_date": "2026-04-27T22:01:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HAVAN Awards Gala celebrates achievements in residential construction, renovation and design",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/havan-awards-gala-celebrates-achievements-in-residential-construction-renovation-and-design",
-      "published_date": "2026-04-27T22:00:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victoria cancer survivor, 80, completes 10K race alongside son",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/victoria-cancer-survivor-80-completes-10k-race-alongside-son/",
-      "published_date": "2026-04-27T21:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City report outlines Saskatoon's costs for homelessness",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/city-report-outlines-saskatoons-costs-for-homelessness",
-      "published_date": "2026-04-27T21:08:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Governor General to visit with Tumbler Ridge students, mayor, first responders",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/governor-general-to-visit-with-tumbler-ridge-students-mayor-first-responders/",
-      "published_date": "2026-04-27T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "28-year-old Alberta murder suspect arrested in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/28-year-old-alberta-murder-suspect-arrested-in-b-c/",
-      "published_date": "2026-04-27T20:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man in his 70s arrested after shooting death of man, 62, in Mississauga",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-his-70s-arrested-shooting-death-man-62-mississauga",
-      "published_date": "2026-04-27T19:12:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flood warning remains in effect along Ottawa River east of Pembroke",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/fllod-warning-remains-in-effect-along-ottawa-river-east-of-pembroke",
-      "published_date": "2026-04-27T19:00:30Z",
       "category": "Local Events"
     }
   ]
