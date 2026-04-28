@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T12:17:58Z",
+  "generated_at": "2026-04-28T23:57:47Z",
   "country": "Canada",
-  "total_stories": 76,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -53,18 +53,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Two is a start’: British Columbians named to Carney’s U.S. relations committee",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/two-is-a-start-british-columbians-named-to-carneys-u-s-relations-committee/",
-      "published_date": "2026-04-21T23:15:00Z",
-      "category": "Diplomacy"
+      "title": "MANDEL: Toronto rapper who claimed self-defence sentenced to life for murder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-rapper-who-claimed-self-defence-is-sentenced-to-life-for-murder",
+      "published_date": "2026-04-28T22:04:15Z",
+      "category": "Military"
     },
     {
-      "title": "White House can't ease up on Iran as Tehran looks to 'rearm and repair,' ex-diplomat says",
+      "title": "Spring economic update offers more funding to military, efforts to combat hate",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/appeasement-wont-work-against-iran-diplomat-says",
-      "published_date": "2026-04-21T20:58:47Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/national/new-spending-measures-federal-economic-update",
+      "published_date": "2026-04-28T21:07:23Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: U.S. appears cold to Iranian proposal to end war without nuclear deal",
@@ -179,20 +179,6 @@
       "category": "Military"
     },
     {
-      "title": "Former NHL player Dirks named coach of Summerland Jets junior hockey team",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/former-nhl-player-dirks-named-coach-of-summerland-jets-junior-hockey-team/",
-      "published_date": "2026-04-21T23:25:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "'It's wonderful the way things worked out': Solving the mystery of a Regina soldier's family connections",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/harry-brooks-family",
-      "published_date": "2026-04-21T13:00:39Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. court being asked to throw out approval of $12-billion natural gas pipeline",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/business/bc-court-asked-throw-out-approval-12-billion-natural-gas-pipeline",
@@ -249,18 +235,25 @@
       "category": "Energy"
     },
     {
-      "title": "Ford wants Irving refinery to stop importing foreign oil",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/ford-wants-irving-refinery-to-stop-importing-foreign-oil",
-      "published_date": "2026-04-21T23:00:08Z",
-      "category": "Energy"
+      "title": "‘We want to see the Whitecaps stay’ says B.C. jobs minister amid relocation report",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/we-want-to-see-the-whitecaps-stay-says-b-c-jobs-minister-amid-relocation-report/",
+      "published_date": "2026-04-28T22:52:00Z",
+      "category": "Economy"
     },
     {
-      "title": "B.C. calls southern pipeline route a ‘positive shift’, remains wary",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/21/b-c-calls-southern-pipeline-route-a-positive-shift-remains-wary/",
-      "published_date": "2026-04-21T23:00:00Z",
-      "category": "Energy"
+      "title": "King calls for renewed U.S.-U.K. alliance in visit to Washington",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/king-calls-for-renewed-u-s-u-k-alliance-in-visit-to-washington",
+      "published_date": "2026-04-28T21:42:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mark Carney Liberals trumpet Canada's 'resilient' economy in spring update",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/government-to-unveil-spring-economic-update",
+      "published_date": "2026-04-28T14:35:49Z",
+      "category": "Economy"
     },
     {
       "title": "Mark Carney's non-U.S. exports target far-fetched: Fraser Institute",
@@ -361,185 +354,143 @@
       "category": "Economy"
     },
     {
-      "title": "Canada Post cutting 30,000 jobs through attrition: Report",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-post-cutting-30000-jobs-through-attrition-report",
-      "published_date": "2026-04-21T20:35:47Z",
-      "category": "Economy"
+      "title": "‘Those deaths were preventable’: B.C. mourns 138 workplace deaths in 2025",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/those-deaths-were-preventable-b-c-mourns-138-workplace-deaths-in-2025/",
+      "published_date": "2026-04-28T23:40:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Canada announces CUSMA advisory council",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/canada-announces-cusma-advisory-council",
-      "published_date": "2026-04-21T18:38:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Vancouver-based Coast Appliances fighting off bankruptcy, cites slowdown in residential construction",
+      "title": "Union of B.C. Indian Chiefs stands with chiefs in Victoria and calls for province to pull back on K&#039;ómoks and Kitselas treaties",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-coast-appliances-creditor-protection-bankruptcy",
-      "published_date": "2026-04-21T18:22:16Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/union-of-bc-indian-chiefs-victoria-calls-province-pull-back-komoks-kitselas-treaties",
+      "published_date": "2026-04-28T23:32:29Z",
+      "category": "Local Events"
     },
     {
-      "title": "Privy Council Office spent millions on outside contractors: CTF",
+      "title": "Dan McLean, longtime CHCH news anchor, dies at 78",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/privy-council-office-spent-millions-on-outside-contractors-ctf",
-      "published_date": "2026-04-21T18:13:40Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/dan-mclean-longtime-chch-news-anchor-dies-at-78",
+      "published_date": "2026-04-28T23:13:24Z",
+      "category": "Local Events"
     },
     {
-      "title": "Trump’s Labor Secretary Lori Chavez-DeRemer quits after misconduct probe",
+      "title": "22 incarcerated people died in correctional facilities in B.C. in 2025",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/22-incarcerated-people-died-in-correctional-facilities-in-b-c-in-2025/",
+      "published_date": "2026-04-28T23:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "James Comey indicted for alleged Trump threat with ‘86 47’ Instagram post",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trumps-labor-secretary-lori-chavez-deremer-quits-after-misconduct-probe",
-      "published_date": "2026-04-21T17:15:25Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/james-comey-indicted-for-alleged-trump-threat-with-86-47-instagram-post",
+      "published_date": "2026-04-28T22:49:48Z",
+      "category": "Local Events"
     },
     {
-      "title": "‘Profoundly selfless act’ — Windsor Regional Hospital doctor and nurses honoured for advocacy of organ donation",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/profoundly-selfless-act-windsor-regional-hospital-doctor-and-nurses-honoured-for-advocacy-of-organ-donation",
-      "published_date": "2026-04-21T14:04:17Z",
-      "category": "Economy"
+      "title": "Life sentence in U.S. for former actor facing charges in B.C. and Alberta",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/life-sentence-in-u-s-for-former-actor-facing-charges-in-b-c-and-alberta/",
+      "published_date": "2026-04-28T22:45:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Babco Meats expands quickly with four locations and first in Saskatoon",
+      "title": "Lisa Orr",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/lisa-orr/",
+      "published_date": "2026-04-28T22:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Carney gov't acting unconstitutionally, ex-N.L. premier says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-government-acting-unconstitutionally-former-premier-says",
+      "published_date": "2026-04-28T22:33:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: B.C. premier dances rather than admitting DRIPA means co-government",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-premier-dances-rather-than-admitting-dripa-means-co-government",
+      "published_date": "2026-04-28T21:55:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: Antisemitism continues to fester under Mark Carney Liberals",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/antisemitism-festering-under-mark-carney-liberals",
+      "published_date": "2026-04-28T21:54:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Additional paramedics needed for FIFA World Cup, report says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/paramedics-fifa-world-cup",
+      "published_date": "2026-04-28T21:22:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. dance teacher charged with historical sex assaults",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-dance-tap-teacher-charged-historical-sex-assaults-exploitation-white-rock",
+      "published_date": "2026-04-28T21:08:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. urges feds to ban teens and children from using social media, AI chatbots",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/b-c-urges-feds-to-ban-teens-and-children-from-using-social-media-ai-chatbots/",
+      "published_date": "2026-04-28T21:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former B.C. dance teacher charged with multiple sexual assaults",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/former-b-c-dance-teacher-charged-with-multiple-sexual-assaults/",
+      "published_date": "2026-04-28T20:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "10 years of forest work by B.C. society reduces fire risk, carbon output",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/10-years-of-forest-work-by-b-c-society-reduces-fire-risk-carbon-output/",
+      "published_date": "2026-04-28T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman arrested after series of deliberate fires set in downtown Prince George",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/woman-arrested-after-series-of-deliberate-fires-set-in-downtown-prince-george/",
+      "published_date": "2026-04-28T18:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Converted couch-mobile cruises streets of Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/converted-couch-mobile-cruises-streets-of-kelowna/",
+      "published_date": "2026-04-28T18:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From flowers to fermentation: New owner revamps popular North Vancouver distillery",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/woods-spirit-co-north-vancouver-celia-chiang",
+      "published_date": "2026-04-28T18:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Saskatoon concerts to see in May",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/local-business/babco-meats-expands-quickly-with-four-locations-and-first-in-saskatoon",
-      "published_date": "2026-04-28T12:00:50Z",
+      "url": "https://thestarphoenix.com/news/local-news/five-saskatoon-concerts-to-see-in-may",
+      "published_date": "2026-04-28T17:55:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Simons confirmed to move into old Nordstrom store in downtown Vancouver",
+      "title": "Vancouver park board approves one-night English Bay fireworks",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/simons-vancouver-store-old-nordstrom-location",
-      "published_date": "2026-04-28T12:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: OPP 'hearts are broken' at death of much-respected motorcycle cop Sgt. Brandon Malcolm",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/opp-motorcycle-cop-brandon-malcolm-mourned",
-      "published_date": "2026-04-28T11:32:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ford: Astronauts offer otherworldly reminder of our shared humanity",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/ford-astronauts-offer-otherworldly-reminder-of-our-shared-humanity",
-      "published_date": "2026-04-28T11:15:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local artist to walk from Ottawa to Windsor to raise funds for youth groups",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/local-artist-to-walk-from-ottawa-to-windsor-to-raise-funds-for-youth-groups",
-      "published_date": "2026-04-28T11:00:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspected overdose deaths in Renfrew County triple in early 2026",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/suspected-overdose-deaths-in-renfrew-county-triple-in-early-2026",
-      "published_date": "2026-04-28T10:59:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After a pair of one-goal defeats, Spitfires finally break through to get first win of series against Rangers",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/after-two-one-goal-defeats-spitfires-finally-break-through-to-get-first-win-of-series-against-rangers",
-      "published_date": "2026-04-28T04:44:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver park board commissioner tells mayor and council to mind their own business",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-park-board-commissioner-tells-mayor-and-council-to-mind-their-own-business",
-      "published_date": "2026-04-28T04:14:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Witness testifies in murder trial to being driver in Naramata woman’s killing",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/witness-testifies-in-murder-trial-to-being-driver-in-naramata-womans-killing/",
-      "published_date": "2026-04-28T03:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Charles, Queen Camilla in Washington for state visit with U.K.-U.S. relationship in spotlight",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/king-charles-queen-camilla-in-washington-for-state-visit-with-u-k-u-s-relationship-in-spotlight",
-      "published_date": "2026-04-27T23:46:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Surrey Mountie pleads guilty after corruption investigation",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/former-surrey-mountie-pleads-guilty-after-corruption-investigation",
-      "published_date": "2026-04-27T23:35:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dangerous driver's guilty plea in crash that killed Ontario husband, dad of 3 'step in the right direction': Brother",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/dangerous-driver-killed-ontario-husband-father-three-pleads-guilty",
-      "published_date": "2026-04-27T23:26:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 dead in Hwy. 401 crash in Cobourg",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/1-dead-in-hwy-401-crash-in-cobourg",
-      "published_date": "2026-04-27T23:15:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Life after breast cancer: 2 B.C. survivors travel the world",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/life-after-breast-cancer-2-b-c-survivors-travel-the-world/",
-      "published_date": "2026-04-27T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homicide investigators take over as two found dead in Langley",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/langley-two-found-dead-homicide-investigators-take-over",
-      "published_date": "2026-04-27T22:54:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "East Kootenay caught between shifting time observances",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/east-kootenay-caught-between-shifting-time-observances/",
-      "published_date": "2026-04-27T22:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bailey’s Law passes third reading in House of Commons",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/baileys-law-passes-third-reading-in-house-of-commons/",
-      "published_date": "2026-04-27T22:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rogers to offer voluntary buyouts to 10,000 employees: Report",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/rogers-to-offer-voluntary-buyouts-to-half-its-workforce-report",
-      "published_date": "2026-04-27T22:23:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$30 tickets for ‘Summer of Live’ concerts by Live Nation Canada",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/30-tickets-for-summer-of-live-concerts-by-live-nation-canada/",
-      "published_date": "2026-04-27T22:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Langley Mountie convicted twice of assault has resigned from force",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/27/langley-mountie-convicted-twice-of-assault-has-resigned-from-force/",
-      "published_date": "2026-04-27T22:20:00Z",
+      "url": "https://vancouversun.com/news/vancouver-park-board-approves-one-night-english-bay-fireworks",
+      "published_date": "2026-04-28T17:54:36Z",
       "category": "Local Events"
     }
   ]
