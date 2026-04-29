@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T12:09:07Z",
+  "generated_at": "2026-04-29T23:57:59Z",
   "country": "Canada",
   "total_stories": 67,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Young workers bearing brunt of Canada's 'frozen' job market: Survey",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/young-workers-feeling-brunt-job-market",
+      "published_date": "2026-04-29T22:47:41Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "IRAN WAR UPDATES: Iran proposes to reopen Strait of Hormuz without nuclear agreement",
       "source": "Toronto Sun",
@@ -165,13 +172,6 @@
       "category": "Military"
     },
     {
-      "title": "China's 'weaponization' of civil airspace to ground Taiwanese president denounced",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/chinas-weaponization-of-civil-airspace-to-ground-taiwanese-president-denounced",
-      "published_date": "2026-04-22T21:25:01Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. court being asked to throw out approval of $12-billion natural gas pipeline",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/business/bc-court-asked-throw-out-approval-12-billion-natural-gas-pipeline",
@@ -226,6 +226,20 @@
       "url": "https://vancouversun.com/opinion/op-ed/bc-hydro-plays-for-time-as-power-gap-grows",
       "published_date": "2026-04-23T21:00:35Z",
       "category": "Energy"
+    },
+    {
+      "title": "B.C. nurses could be striking in May after talks reach an impasse",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-nurses-could-be-striking-may-talks-reach-impasse",
+      "published_date": "2026-04-29T23:26:10Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: Nation-building isn&#039;t an investment strategy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-nation-building-isnt-an-investment-strategy",
+      "published_date": "2026-04-29T19:30:19Z",
+      "category": "Economy"
     },
     {
       "title": "‘We want to see the Whitecaps stay’ says B.C. jobs minister amid relocation report",
@@ -326,157 +340,143 @@
       "category": "Economy"
     },
     {
-      "title": "Taxpayers group submits petition with 10K signatures opposing B.C.’s FOI bill",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/22/taxpayers-group-submits-petition-with-10k-signatures-opposing-b-c-s-foi-bill/",
-      "published_date": "2026-04-22T20:20:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "'Really scary' — Ottawa warned Windsor-Essex industry could move to U.S., shut down under tariff changes",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/really-scary-ottawa-warned-windsor-essex-industry-could-move-to-u-s-shut-down-under-tariff-changes",
-      "published_date": "2026-04-22T16:32:48Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Potholes, pavement and performance: Comparing Saskatoon's road repairs",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/potholes-pavement-and-performance-comparing-saskatoons-road-repairs",
-      "published_date": "2026-04-29T12:00:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Humber Yacht Club burns in early morning fire",
+      "title": "York cops look for man after assault on person at Vaughan synagogue",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-humber-yacht-club-fire",
-      "published_date": "2026-04-29T12:00:27Z",
+      "url": "https://torontosun.com/news/local-news/york-cops-look-for-man-after-assault-on-person-at-vaughan-synagogue",
+      "published_date": "2026-04-29T23:50:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Heavy smoke in area as structure fire closes stretch of Wyandotte Street East",
+      "title": "King Charles, Queen Camilla pay their respects at 9/11 Memorial during U.S. tour",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/king-charles-queen-camilla-911-memorial",
+      "published_date": "2026-04-29T23:22:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: NDP&#039;s latest makeover of Heritage Conservation Act running into strong opposition",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-ndp-latest-makeover-heritage-conservation-act-running-into-strong-opposition",
+      "published_date": "2026-04-29T23:11:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lululemon officials, founder Chip Wilson at odds over new board nominees",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/business/lululemon-founder-fight-over-board-nominees",
+      "published_date": "2026-04-29T23:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Relocation of Kelowna’s Tent City residents underway as Rail Trail reopening nears",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/relocation-of-kelownas-tent-city-residents-underway-as-rail-trail-reopening-nears/",
+      "published_date": "2026-04-29T22:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Municipal infrastructure glaring omission from federal economic update",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/municipal-infrastructure-glaringly-omitted-economic-update",
+      "published_date": "2026-04-29T22:26:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Culturally safe primary care centre opens near Fort St. James",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/culturally-safe-primary-care-centre-opens-near-fort-st-james/",
+      "published_date": "2026-04-29T22:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. sex assault charge against Dances With Wolves actor still alive in Penticton court",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/bc-sex-assault-charge-against-dances-with-wolves-actor-still-alive-in-penticton-court",
+      "published_date": "2026-04-29T21:59:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zekelmans donate $3M for Ronald McDonald House in new Windsor mega-hospital",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/structure-fire-closes-stretch-of-wyandotte-street-east",
-      "published_date": "2026-04-29T11:30:54Z",
+      "url": "https://windsorstar.com/news/local-news/zekelmans-donate-3m-for-ronald-mcdonald-house-in-new-windsor-mega-hospital",
+      "published_date": "2026-04-29T21:06:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Gordie Howe a bridge to prosperous future — if we have courage to cross it",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/opinion-gordie-howe-a-bridge-to-prosperous-future-if-we-have-courage-to-cross-it",
-      "published_date": "2026-04-29T11:15:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gardeners' delight: annual perennial sale May 2",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/gardeners-delight-annual-perennial-sale-may-2",
-      "published_date": "2026-04-29T11:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renfrew County public board welcomes new and returning student trustees",
+      "title": "Pembroke Observer and News weekly community calendar listings",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/renfrew-county-public-board-welcomes-new-and-returning-student-trustees",
-      "published_date": "2026-04-29T08:48:43Z",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-observer-and-news-weekly-community-calendar-listings-48",
+      "published_date": "2026-04-29T20:27:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Sports Roundup: Valkyries open season with victory",
+      "title": "Sask. children's advocate highlights young deaths linked to toxic drugs",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/local-sports/sports-roundup-valkyries-open-season-with-victory",
-      "published_date": "2026-04-29T04:49:08Z",
+      "url": "https://thestarphoenix.com/news/local-news/sask-childrens-advocate-highlights-young-deaths-linked-to-toxic-drugs",
+      "published_date": "2026-04-29T20:08:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Homicide team called in after hooded gunmen shoot man dead in Surrey driveway (with video)",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/homicide-team-called-in-after-fatal-surrey-shooting",
-      "published_date": "2026-04-29T04:18:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health Canada approves generic version of Ozempic, a first for G7 nations",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/health-canada-approves-generic-version-ozempic",
-      "published_date": "2026-04-29T02:05:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga man charged with murder as Caledon cold case heats up",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mississauga-man-charged-murder-cold-case",
-      "published_date": "2026-04-29T00:24:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Critics question delay in implementing B.C. gun law",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/critics-question-delay-in-implementing-bc-gun-law",
-      "published_date": "2026-04-29T00:02:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "8 Vancouver bars land on Canada’s 50 Best Bars list",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/8-vancouver-bars-land-on-canada-50-best-bars-list",
-      "published_date": "2026-04-29T00:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Those deaths were preventable’: B.C. mourns 138 workplace deaths in 2025",
+      "title": "507 people died while experiencing homelessness in B.C. in 2024: Report",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/those-deaths-were-preventable-b-c-mourns-138-workplace-deaths-in-2025/",
-      "published_date": "2026-04-28T23:40:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/507-people-died-while-experiencing-homelessness-in-b-c-in-2024-report/",
+      "published_date": "2026-04-29T19:46:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Union of B.C. Indian Chiefs stands with chiefs in Victoria and calls for province to pull back on K&#039;ómoks and Kitselas treaties",
+      "title": "Japanese zoo employee allegedly disposed of wife's body in incinerator: Reports",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/japanese-zoo-employee-disposed-wife-body-incinerator",
+      "published_date": "2026-04-29T19:38:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Sad day&#039; as Langara pauses journalism program indefinitely",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/union-of-bc-indian-chiefs-victoria-calls-province-pull-back-komoks-kitselas-treaties",
-      "published_date": "2026-04-28T23:32:29Z",
+      "url": "https://vancouversun.com/news/sad-day-as-langara-pauses-journalism-program-indefinitely",
+      "published_date": "2026-04-29T19:23:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Dan McLean, longtime CHCH news anchor, dies at 78",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/dan-mclean-longtime-chch-news-anchor-dies-at-78",
-      "published_date": "2026-04-28T23:13:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "22 incarcerated people died in correctional facilities in B.C. in 2025",
+      "title": "Abbotsford man unlocks patriotic pride with grassroots movement",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/22-incarcerated-people-died-in-correctional-facilities-in-b-c-in-2025/",
-      "published_date": "2026-04-28T23:13:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/abbotsford-man-unlocks-patriotic-pride-with-grassroots-movement/",
+      "published_date": "2026-04-29T18:50:00Z",
       "category": "Local Events"
     },
     {
-      "title": "James Comey indicted for alleged Trump threat with ‘86 47’ Instagram post",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/james-comey-indicted-for-alleged-trump-threat-with-86-47-instagram-post",
-      "published_date": "2026-04-28T22:49:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Life sentence in U.S. for former actor facing charges in B.C. and Alberta",
+      "title": "Northwood Plaza, Nelly’s Pub destroyed by fire in Prince George",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/life-sentence-in-u-s-for-former-actor-facing-charges-in-b-c-and-alberta/",
-      "published_date": "2026-04-28T22:45:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/northwood-plaza-nellys-pub-destroyed-by-fire-in-prince-george/",
+      "published_date": "2026-04-29T18:25:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Lisa Orr",
+      "title": "Seven families of Tumbler Ridge victims sue OpenAI in California court",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/tumbler-ridge-victims-sue-openai-california",
+      "published_date": "2026-04-29T18:10:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 stylish homewares perfect for Mother’s Day gifts",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/5-stylish-homewares-perfect-for-mothers-day-gifts",
+      "published_date": "2026-04-29T18:05:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "DOXA celebrates 25 years of connection amid politically polarizing times",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/25th-annual-doxa-offers-connection-during-politically-polarizing-times",
+      "published_date": "2026-04-29T18:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fallen workers remembered at Terrace Day of Mourning event",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/lisa-orr/",
-      "published_date": "2026-04-28T22:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Carney gov't acting unconstitutionally, ex-N.L. premier says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carney-government-acting-unconstitutionally-former-premier-says",
-      "published_date": "2026-04-28T22:33:51Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/fallen-workers-remembered-at-terrace-day-of-mourning-event/",
+      "published_date": "2026-04-29T17:50:00Z",
       "category": "Local Events"
     }
   ]
