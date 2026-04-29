@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T23:57:47Z",
+  "generated_at": "2026-04-29T12:09:07Z",
   "country": "Canada",
-  "total_stories": 69,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -51,6 +51,13 @@
       "url": "https://thestarphoenix.com/news/local-news/wanuskewin-saskatoon-catholic-schools-renew-land-based-learning-agreement",
       "published_date": "2026-04-23T16:35:30Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Talks to end war in Iran stall as economies feel impact of rising energy costs",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-april-29",
+      "published_date": "2026-04-29T11:30:57Z",
+      "category": "Military"
     },
     {
       "title": "MANDEL: Toronto rapper who claimed self-defence sentenced to life for murder",
@@ -162,20 +169,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/chinas-weaponization-of-civil-airspace-to-ground-taiwanese-president-denounced",
       "published_date": "2026-04-22T21:25:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR UPDATES: Iran attacks third ship as Trump extends ceasefire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-22",
-      "published_date": "2026-04-22T11:23:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "Guest column: Renowned Windsor Big 3 auto designer, now 98, uses art against war",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/guest-column-renowned-windsor-big-3-auto-designer-now-98-uses-art-against-war",
-      "published_date": "2026-04-22T11:15:01Z",
       "category": "Military"
     },
     {
@@ -347,11 +340,88 @@
       "category": "Economy"
     },
     {
-      "title": "Annette Ryan approved by MPs for vacant parliamentary budget officer role",
+      "title": "Potholes, pavement and performance: Comparing Saskatoon's road repairs",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/potholes-pavement-and-performance-comparing-saskatoons-road-repairs",
+      "published_date": "2026-04-29T12:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Humber Yacht Club burns in early morning fire",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/annette-ryan-approved-parliamentary-budget-officer",
-      "published_date": "2026-04-22T02:26:06Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/toronto-humber-yacht-club-fire",
+      "published_date": "2026-04-29T12:00:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy smoke in area as structure fire closes stretch of Wyandotte Street East",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/structure-fire-closes-stretch-of-wyandotte-street-east",
+      "published_date": "2026-04-29T11:30:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Gordie Howe a bridge to prosperous future — if we have courage to cross it",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/opinion-gordie-howe-a-bridge-to-prosperous-future-if-we-have-courage-to-cross-it",
+      "published_date": "2026-04-29T11:15:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gardeners' delight: annual perennial sale May 2",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/gardeners-delight-annual-perennial-sale-may-2",
+      "published_date": "2026-04-29T11:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renfrew County public board welcomes new and returning student trustees",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/renfrew-county-public-board-welcomes-new-and-returning-student-trustees",
+      "published_date": "2026-04-29T08:48:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sports Roundup: Valkyries open season with victory",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/local-sports/sports-roundup-valkyries-open-season-with-victory",
+      "published_date": "2026-04-29T04:49:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Homicide team called in after hooded gunmen shoot man dead in Surrey driveway (with video)",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/homicide-team-called-in-after-fatal-surrey-shooting",
+      "published_date": "2026-04-29T04:18:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health Canada approves generic version of Ozempic, a first for G7 nations",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/health-canada-approves-generic-version-ozempic",
+      "published_date": "2026-04-29T02:05:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mississauga man charged with murder as Caledon cold case heats up",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/mississauga-man-charged-murder-cold-case",
+      "published_date": "2026-04-29T00:24:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Critics question delay in implementing B.C. gun law",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/critics-question-delay-in-implementing-bc-gun-law",
+      "published_date": "2026-04-29T00:02:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "8 Vancouver bars land on Canada’s 50 Best Bars list",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/8-vancouver-bars-land-on-canada-50-best-bars-list",
+      "published_date": "2026-04-29T00:00:15Z",
+      "category": "Local Events"
     },
     {
       "title": "‘Those deaths were preventable’: B.C. mourns 138 workplace deaths in 2025",
@@ -407,90 +477,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/carney-government-acting-unconstitutionally-former-premier-says",
       "published_date": "2026-04-28T22:33:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: B.C. premier dances rather than admitting DRIPA means co-government",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-premier-dances-rather-than-admitting-dripa-means-co-government",
-      "published_date": "2026-04-28T21:55:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Antisemitism continues to fester under Mark Carney Liberals",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/antisemitism-festering-under-mark-carney-liberals",
-      "published_date": "2026-04-28T21:54:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Additional paramedics needed for FIFA World Cup, report says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/paramedics-fifa-world-cup",
-      "published_date": "2026-04-28T21:22:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. dance teacher charged with historical sex assaults",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-dance-tap-teacher-charged-historical-sex-assaults-exploitation-white-rock",
-      "published_date": "2026-04-28T21:08:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. urges feds to ban teens and children from using social media, AI chatbots",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/b-c-urges-feds-to-ban-teens-and-children-from-using-social-media-ai-chatbots/",
-      "published_date": "2026-04-28T21:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former B.C. dance teacher charged with multiple sexual assaults",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/former-b-c-dance-teacher-charged-with-multiple-sexual-assaults/",
-      "published_date": "2026-04-28T20:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 years of forest work by B.C. society reduces fire risk, carbon output",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/10-years-of-forest-work-by-b-c-society-reduces-fire-risk-carbon-output/",
-      "published_date": "2026-04-28T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman arrested after series of deliberate fires set in downtown Prince George",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/woman-arrested-after-series-of-deliberate-fires-set-in-downtown-prince-george/",
-      "published_date": "2026-04-28T18:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Converted couch-mobile cruises streets of Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/converted-couch-mobile-cruises-streets-of-kelowna/",
-      "published_date": "2026-04-28T18:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From flowers to fermentation: New owner revamps popular North Vancouver distillery",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/woods-spirit-co-north-vancouver-celia-chiang",
-      "published_date": "2026-04-28T18:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five Saskatoon concerts to see in May",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/five-saskatoon-concerts-to-see-in-may",
-      "published_date": "2026-04-28T17:55:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver park board approves one-night English Bay fireworks",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-park-board-approves-one-night-english-bay-fireworks",
-      "published_date": "2026-04-28T17:54:36Z",
       "category": "Local Events"
     }
   ]
