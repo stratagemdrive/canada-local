@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-29T23:57:59Z",
+  "generated_at": "2026-04-30T12:06:29Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 65,
   "categories": [
     "Diplomacy",
     "Military",
@@ -162,13 +162,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/water-conservation-not-enough-to-meet-metro-vancouvers-future-demand-climate-risk",
       "published_date": "2026-04-23T21:16:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR UPDATES: Israel, Lebanon to meet in Washington while Iran-U.S. talks in limbo",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-23",
-      "published_date": "2026-04-23T11:22:22Z",
       "category": "Military"
     },
     {
@@ -333,11 +326,67 @@
       "category": "Economy"
     },
     {
-      "title": "Windsor's Pro Trades Mechanical workers unanimously ratify new contract",
+      "title": "Voice from Michigan: Grab popcorn, Canada, as U.S. midterm elections launch amid chaos",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsors-pro-trades-mechanical-workers-unanimously-ratify-new-contract",
-      "published_date": "2026-04-23T01:55:36Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/opinion/columnists/voice-from-michigan-grab-popcorn-canada-as-u-s-midterm-elections-launch-amid-chaos",
+      "published_date": "2026-04-30T11:15:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Deep River connection behind astronaut Jeremy Hansen’s journey",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/the-deep-river-connection-behind-astronaut-jeremy-hansens-journey",
+      "published_date": "2026-04-30T10:33:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Time for the Pembroke Observer and News weekly Photo Quiz",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/time-for-the-pembroke-observer-and-news-weekly-photo-quiz-42",
+      "published_date": "2026-04-30T10:10:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than one issue has put the Spitfires on brink of playoff elimination",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/more-than-one-issue-has-put-the-spitfires-on-brink-of-playoff-elimination",
+      "published_date": "2026-04-30T04:59:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City hall asked to allow self-storage warehouse at Yonge and Bloor Sts.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/self-storage-sought-yonge-bloor-intersection",
+      "published_date": "2026-04-30T02:03:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada mulling U.K.-style 'generational' tobacco ban, health minister says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-mulling-uk-style-tobacco-ban",
+      "published_date": "2026-04-30T01:29:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Scarborough doctor's licence revoked after bilking OHIP of more than $125,000",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/scarborough-doctor-loses-licence-ohip-overbilled",
+      "published_date": "2026-04-30T00:33:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Morrissey Pub in Vancouver to close after 26 years",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/the-morrissey-pub-in-vancouver-to-close-after-26-years",
+      "published_date": "2026-04-30T00:02:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Resolution expansions work to keep more family conflicts out of B.C. courts",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/resolution-expansions-work-to-keep-more-family-conflicts-out-of-b-c-courts/",
+      "published_date": "2026-04-30T00:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "York cops look for man after assault on person at Vaughan synagogue",
@@ -414,69 +463,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/local-news/sask-childrens-advocate-highlights-young-deaths-linked-to-toxic-drugs",
       "published_date": "2026-04-29T20:08:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "507 people died while experiencing homelessness in B.C. in 2024: Report",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/507-people-died-while-experiencing-homelessness-in-b-c-in-2024-report/",
-      "published_date": "2026-04-29T19:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japanese zoo employee allegedly disposed of wife's body in incinerator: Reports",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/japanese-zoo-employee-disposed-wife-body-incinerator",
-      "published_date": "2026-04-29T19:38:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Sad day&#039; as Langara pauses journalism program indefinitely",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/sad-day-as-langara-pauses-journalism-program-indefinitely",
-      "published_date": "2026-04-29T19:23:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbotsford man unlocks patriotic pride with grassroots movement",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/abbotsford-man-unlocks-patriotic-pride-with-grassroots-movement/",
-      "published_date": "2026-04-29T18:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northwood Plaza, Nelly’s Pub destroyed by fire in Prince George",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/northwood-plaza-nellys-pub-destroyed-by-fire-in-prince-george/",
-      "published_date": "2026-04-29T18:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven families of Tumbler Ridge victims sue OpenAI in California court",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/tumbler-ridge-victims-sue-openai-california",
-      "published_date": "2026-04-29T18:10:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 stylish homewares perfect for Mother’s Day gifts",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/5-stylish-homewares-perfect-for-mothers-day-gifts",
-      "published_date": "2026-04-29T18:05:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "DOXA celebrates 25 years of connection amid politically polarizing times",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/25th-annual-doxa-offers-connection-during-politically-polarizing-times",
-      "published_date": "2026-04-29T18:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fallen workers remembered at Terrace Day of Mourning event",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/29/fallen-workers-remembered-at-terrace-day-of-mourning-event/",
-      "published_date": "2026-04-29T17:50:00Z",
       "category": "Local Events"
     }
   ]
