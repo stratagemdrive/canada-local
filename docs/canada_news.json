@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-30T23:55:21Z",
+  "generated_at": "2026-05-01T11:49:03Z",
   "country": "Canada",
-  "total_stories": 66,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -57,13 +57,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/24/tentative-agreement-announced-for-b-c-s-unionized-social-services-workers/",
       "published_date": "2026-04-24T21:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IRAN WAR UPDATES: Trump sending Witkoff, Kushner to Pakistan for talks with Iran foreign minister",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-24",
-      "published_date": "2026-04-24T11:16:42Z",
       "category": "Diplomacy"
     },
     {
@@ -179,13 +172,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: Standoff intensifies in Strait of Hormuz after Trump issues ‘shoot and kill’ order",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-24",
-      "published_date": "2026-04-24T11:16:42Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. court being asked to throw out approval of $12-billion natural gas pipeline",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/business/bc-court-asked-throw-out-approval-12-billion-natural-gas-pipeline",
@@ -221,18 +207,11 @@
       "category": "Energy"
     },
     {
-      "title": "Opinion: Astronauts return to an Earth in climate crisis mess",
+      "title": "Opinion: Food security starts with protecting Ontario’s disappearing farmland",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/opinion-astronauts-return-to-an-earth-in-climate-crisis-mess",
-      "published_date": "2026-04-24T11:15:44Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Raptors fans at 'Jurassic Park' want Drake to torment James Harden",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/basketball/nba/toronto-raptors/raptors-fans-want-drake-to-torment-harden",
-      "published_date": "2026-04-24T01:28:31Z",
-      "category": "Energy"
+      "url": "https://windsorstar.com/opinion/columnists/opinion-food-security-starts-with-protecting-ontarios-disappearing-farmland",
+      "published_date": "2026-05-01T11:30:15Z",
+      "category": "Economy"
     },
     {
       "title": "‘Just tell us’: B.C. Jobs Minister calls for transparency about Vancouver Whitecaps bid",
@@ -333,6 +312,48 @@
       "category": "Economy"
     },
     {
+      "title": "Male victim dies as Hamilton cops probe another downtown shooting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hamilton-cops-probing-another-downtown-shooting",
+      "published_date": "2026-05-01T02:20:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Chief Myron Demkiw breaks silence on retired Insp. Hank Idsinga's racism claim",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-chief-myron-demkiw-breaks-silence-on-retired-hank-idsingas-racism-claim",
+      "published_date": "2026-05-01T00:43:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stretch of Church St. could be closed to vehicles this summer",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-closed-church-street-wellesley-pedestrian-pilot-project",
+      "published_date": "2026-05-01T00:04:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New alliance launches campaign for full provincial intercity bus network",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/04/30/new-alliance-launches-campaign-for-full-provincial-intercity-bus-network/",
+      "published_date": "2026-05-01T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Second man charged with murder in slaying of Mustafa the Poet's brother",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/second-man-charged-mohamed-ahmed-murder",
+      "published_date": "2026-04-30T23:56:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shock, horror as province cancels contracts to build health-care facilities",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/shock-horror-as-province-cancels-contracts-to-build-health-care-facilities",
+      "published_date": "2026-04-30T23:55:17Z",
+      "category": "Local Events"
+    },
+    {
       "title": "MANDEL: Shoeshine boy killer Robert Kribs still too dangerous for escorted day pass",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/shoeshine-boy-killer-robert-kribs-too-dangerous-escorted-day-pass",
@@ -428,48 +449,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/04/30/olivia-rodrigo-coming-to-vancouver-for-2-concerts-in-december/",
       "published_date": "2026-04-30T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trio wanted for Financial District robbery; cops probe Richmond Hill home invasion",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-financial-district-robbery-richmond-hill-home-invasion",
-      "published_date": "2026-04-30T21:25:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sask. to provide twice-daily updates about emergency room closures",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/sask-to-provide-twice-daily-updates-about-emergency-room-closures",
-      "published_date": "2026-04-30T21:22:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario invests over $400,000 to help Toronto fight crime",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ontario-invests-400g-help-toronto-fight-crime",
-      "published_date": "2026-04-30T21:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says UFO files will be released 'in the near future'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/donald-trump-ufo-files-released-near-future",
-      "published_date": "2026-04-30T20:41:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sentence reserved for Wylie Vermette in fatal Saskatoon dangerous driving case",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/sentence-reserved-for-wylie-vermette-in-fatal-saskatoon-dangerous-driving-case",
-      "published_date": "2026-04-30T20:41:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Black back touring B.C. with plan to be Premier",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/30/black-back-touring-b-c-with-plan-to-be-premier/",
-      "published_date": "2026-04-30T20:24:00Z",
       "category": "Local Events"
     }
   ]
