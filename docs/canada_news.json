@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T11:34:50Z",
+  "generated_at": "2026-05-02T23:50:25Z",
   "country": "Canada",
   "total_stories": 63,
   "categories": [
@@ -44,6 +44,13 @@
       "url": "https://torontosun.com/news/world/iran-war-updates-april-27",
       "published_date": "2026-04-27T11:21:32Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Windsor man’s homemade gun only ‘technically’ capable of firing bullet",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-mans-homemade-gun-only-technically-capable-of-firing-bullet",
+      "published_date": "2026-05-02T12:00:24Z",
+      "category": "Military"
     },
     {
       "title": "Man running Vancouver to Ontario for $100K mental health fundraiser",
@@ -158,11 +165,11 @@
       "category": "Military"
     },
     {
-      "title": "B.C. climate news: Scientists link grey whale deaths in B.C., U.S to warming ocean &#124; Increased water storage, added filtration among Metro Vancouver plans to combat climate risks &#124; Cheap batteries take over world&#039;s power grids",
+      "title": "B.C. climate news: Drought forces earlier watering restrictions in Metro Vancouver &#124; Global forest loss fell in 2025 but still 46 per cent higher than a decade ago",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-april-26-26",
-      "published_date": "2026-04-25T18:50:12Z",
-      "category": "Military"
+      "url": "https://vancouversun.com/news/climate-change-news-to-may-3-26",
+      "published_date": "2026-05-02T16:40:18Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. court being asked to throw out approval of $12-billion natural gas pipeline",
@@ -177,6 +184,13 @@
       "url": "https://windsorstar.com/news/local-news/great-turnout-windsor-celebrates-earth-day-with-family-fun-at-malden-park",
       "published_date": "2026-04-27T18:39:41Z",
       "category": "Energy"
+    },
+    {
+      "title": "CHARLEBOIS: GLP-1 drugs becoming Canada’s $3.4 billion food disruption",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/glp-1-drugs-canadas-food-disruption",
+      "published_date": "2026-05-02T14:07:25Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. First Nations coalition calls for reversal of Trudeau-era salmon pen ban",
@@ -298,157 +312,143 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: Why the most important food prices are rising again",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-why-the-most-important-food-prices-are-rising-again",
-      "published_date": "2026-04-25T13:30:30Z",
-      "category": "Economy"
+      "title": "Cops suspect hate-motivated assault on Jewish residents in North York",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/cops-suspect-hate-motivated-assault-jewish-residents-north-york",
+      "published_date": "2026-05-02T23:41:02Z",
+      "category": "Local Events"
     },
     {
-      "title": "Affordibility impoves for most Northern B.C. communities",
+      "title": "Man, 35, allegedly sexually assaulted and harassed woman in Scarborough",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-allegedly-sexually-assaulted-harassed-woman-scarborough",
+      "published_date": "2026-05-02T22:56:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver, 36, fighting for his life after two-vehicle crash in Scarborough",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/driver-fighting-for-life-two-vehicle-crash-scarborough",
+      "published_date": "2026-05-02T22:24:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 42, killed in single-vehicle crash in Scarborough",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-42-killed-single-vehicle-crash-scarborough",
+      "published_date": "2026-05-02T21:58:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olympians Sarah Nurse and Harbir Sidhu inspire future stars at RBC Training Ground in Surrey",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/25/affordibility-impoves-for-most-northern-b-c-communities/",
-      "published_date": "2026-04-25T12:30:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/02/olympians-sarah-nurse-and-harbir-sidhu-inspire-future-stars-at-rbc-training-ground-in-surrey/",
+      "published_date": "2026-05-02T21:44:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Spitfires' season comes to a screeching end after OT loss to Rangers",
+      "title": "Funeral plans set for OPP officer killed in line of duty",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/funeral-opp-officer-brandon-malcolm-killed-line-of-duty",
+      "published_date": "2026-05-02T21:14:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "GOLDSTEIN: China – our 'strategic partner' and greatest security threat",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/china-strategic-partner-greatest-security-threat",
+      "published_date": "2026-05-02T20:11:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedestrian, 69, dead from collision on Howard Avenue, say Windsor police",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/spitfires-season-comes-to-a-screetching-end-after-ot-loss-to-rangers",
-      "published_date": "2026-05-02T04:14:52Z",
+      "url": "https://windsorstar.com/news/local-news/pedestrian-69-dead-from-collision-on-howard-avenue-say-windsor-police",
+      "published_date": "2026-05-02T19:40:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Driver arrested after pedestrian injured in Abbotsford crash",
+      "title": "Police say business in Delta sprayed with gunfire",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/driver-arrested-after-pedestrian-injured-in-abbotsford-crash",
-      "published_date": "2026-05-02T02:07:51Z",
+      "url": "https://vancouversun.com/news/police-say-business-in-delta-sprayed-with-gunfire",
+      "published_date": "2026-05-02T18:31:51Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: 'Hank Idsinga effect' has police board probing and Toronto cops making more arrests",
+      "title": "City Hall’s shelters division spent $300M on sole-source deals",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hank-idsinga-toronto-police-board-probing-antisemetism-racism",
-      "published_date": "2026-05-02T00:32:57Z",
+      "url": "https://torontosun.com/news/local-news/city-shelters-non-competitive-contracts",
+      "published_date": "2026-05-02T18:00:09Z",
       "category": "Local Events"
     },
     {
-      "title": "TTC plagued by ‘gremlins’ weeks before World Cup",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ttc-subway-service-disruptions-gremlins-world-cup-soccer",
-      "published_date": "2026-05-01T23:50:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Projects look cancelled, despite NDP insisting they&#039;re &#039;re-paced&#039;",
+      "title": "WestJet flight bound for U.S. returns to YVR shortly after takeoff",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-projects-look-cancelled-despite-ndp-insisting-otherwise",
-      "published_date": "2026-05-01T23:02:57Z",
+      "url": "https://vancouversun.com/news/westjet-flight-bound-us-returns-to-yvr-after-takeoff",
+      "published_date": "2026-05-02T16:54:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Letters to The Sun: City&#039;s array of parking meters is fraught with inconsistency and confusion",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-sun-citys-array-of-parking-meters-is-fraught-with-inconsistency-and-confusion",
-      "published_date": "2026-05-01T23:00:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Behchoko, NWT remains on lockdown after alleged shooting, 1 suspect at large",
+      "title": "More concurrent jail time for fisheries violator from Vancouver Island",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/01/behchoko-nwt-remains-on-lockdown-after-alleged-shooting-1-suspect-at-large/",
-      "published_date": "2026-05-01T22:34:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/02/more-concurrent-jail-time-for-fisheries-violator-from-vancouver-island/",
+      "published_date": "2026-05-02T16:44:00Z",
       "category": "Local Events"
     },
     {
-      "title": "LILLEY: Chief Justice Wagner refuses recusal in Freedom Convoy case",
+      "title": "VUONG: Canadians need to stop being penny wise and pound foolish",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/chief-justice-wagner-refuses-recusal-freedom-convoy-case-emergencies-act",
-      "published_date": "2026-05-01T22:11:17Z",
+      "url": "https://torontosun.com/opinion/columnists/canadians-penny-wise-pound-foolish-government-spending-doug-ford-plane",
+      "published_date": "2026-05-02T16:20:52Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. FOI complaints surge as AI tools drive more review requests",
+      "title": "Health Canada approves two generic versions of Ozempic",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/01/b-c-foi-complaints-surge-as-ai-tools-drive-more-review-requests/",
-      "published_date": "2026-05-01T22:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/02/health-canada-approves-two-generic-versions-of-ozempic/",
+      "published_date": "2026-05-02T16:13:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver park board restores lifeguards to most beaches",
+      "title": "This Day in History, 1986: A Gianthropologist documents Expo 86 at new Surrey Art Gallery exhibit",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/vancouver-park-board-restores-lifeguards-most-beaches",
-      "published_date": "2026-05-01T21:48:20Z",
+      "url": "https://vancouversun.com/news/this-day-in-history-1986-a-gianthropologist-documents-expo-86-at-new-surrey-art-gallery-exhibit",
+      "published_date": "2026-05-02T15:00:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Spirit Airlines prepares to shut down over spiraling costs, debt",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/spirit-airlines-shut-down-spiraling-costs-debt",
-      "published_date": "2026-05-01T21:47:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 19, killed inside Hamilton apartment in targeted shooting: Cops",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hamilton-man-killed-targeted-shooting",
-      "published_date": "2026-05-01T21:36:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City’s 'VIP' emergency chiefs in stadium for World Series and Taylor Swift",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-emergency-chiefs-world-series-jays-taylor-swift",
-      "published_date": "2026-05-01T21:20:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver park board staff recommend easing tree maintenance policy",
+      "title": "Anthony Gismondi: The white wine reset is here. Here are 5 B.C. bottles to try",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-park-board-staff-recommend-easing-tree-maintenance-policy",
-      "published_date": "2026-05-01T21:10:29Z",
+      "url": "https://vancouversun.com/life/anthony-gismondi-5-bc-white-wines-to-try",
+      "published_date": "2026-05-02T15:00:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Scheduled criminal trials at 11 B.C. courthouses may not be able to proceed",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/01/scheduled-criminal-trials-at-11-b-c-courthouses-may-not-be-able-to-proceed/",
-      "published_date": "2026-05-01T21:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Ave. Link bus system pause: Downtown BID, councillor hopeful for 'clear, practical' clarification",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/first-ave-link-bus-system-pause-downtown-bid-councillor-hopeful-for-clear-practical-clarification",
-      "published_date": "2026-05-01T21:05:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulls and Bears: How the Whitecaps, FIFA congress dominated news this week",
+      "title": "Brian Minter: Mother&#039;s Day gifts that will connect your mom to Mother Nature",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/sports/soccer/mls/vancouver-whitecaps/bulls-and-bears-how-the-whitecaps-fifa-congress-dominated-news-this-week",
-      "published_date": "2026-05-01T20:58:37Z",
+      "url": "https://vancouversun.com/life/brian-minter-mothers-day-gifts-plants",
+      "published_date": "2026-05-02T15:00:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Court finds B.C.’s Legal Professions Act is not beyond government’s powers",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/01/court-finds-b-c-s-legal-professions-act-is-not-beyond-governments-powers/",
-      "published_date": "2026-05-01T20:45:00Z",
+      "title": "Legacy of &#039;86: Expo helped shape our little coastal town into a global city, but at what expense?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/legacy-expo-86-vancouver-global-city-what-expense",
+      "published_date": "2026-05-02T15:00:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Queen rocker Brian May banned from planting daffodils in his village",
+      "title": "KINSELLA: Democratic values under attack as antisemitism fragments Canada",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/queen-rocker-brian-may-banned-planting-daffodils-village-england",
-      "published_date": "2026-05-01T20:38:08Z",
+      "url": "https://torontosun.com/opinion/columnists/democratic-values-under-attack-antisemitism-fragments-canada",
+      "published_date": "2026-05-02T14:56:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Vehicle owners can't locate missing tires after Thornhill auto shop closes",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/customers-missing-tires-thornhill-auto-shop",
-      "published_date": "2026-05-01T20:26:16Z",
+      "title": "OPP offer tips as motorcycle season gears up",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/opp-offer-tips-as-motorcycle-season-opens",
+      "published_date": "2026-05-02T13:45:34Z",
       "category": "Local Events"
     }
   ]
