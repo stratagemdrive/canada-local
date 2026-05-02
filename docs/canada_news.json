@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-01T23:55:17Z",
+  "generated_at": "2026-05-02T11:34:50Z",
   "country": "Canada",
-  "total_stories": 61,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -44,6 +44,13 @@
       "url": "https://torontosun.com/news/world/iran-war-updates-april-27",
       "published_date": "2026-04-27T11:21:32Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Man running Vancouver to Ontario for $100K mental health fundraiser",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/01/man-running-vancouver-to-ontario-for-100k-mental-health-fundraiser/",
+      "published_date": "2026-05-02T00:40:00Z",
+      "category": "Military"
     },
     {
       "title": "Windsor police seek three suspects after knife threat, pepper spray attack on youths",
@@ -172,6 +179,13 @@
       "category": "Energy"
     },
     {
+      "title": "B.C. First Nations coalition calls for reversal of Trudeau-era salmon pen ban",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/02/b-c-first-nations-coalition-calls-for-reversal-of-trudeau-era-salmon-pen-ban/",
+      "published_date": "2026-05-02T11:30:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "LILLEY: Toronto normalizing open drug use as taxpayers pick up tab",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/toronto-olivia-chow-normalize-open-drug-use-taxpayers-pay",
@@ -298,6 +312,34 @@
       "category": "Economy"
     },
     {
+      "title": "Spitfires' season comes to a screeching end after OT loss to Rangers",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-season-comes-to-a-screetching-end-after-ot-loss-to-rangers",
+      "published_date": "2026-05-02T04:14:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver arrested after pedestrian injured in Abbotsford crash",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/driver-arrested-after-pedestrian-injured-in-abbotsford-crash",
+      "published_date": "2026-05-02T02:07:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: 'Hank Idsinga effect' has police board probing and Toronto cops making more arrests",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hank-idsinga-toronto-police-board-probing-antisemetism-racism",
+      "published_date": "2026-05-02T00:32:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "TTC plagued by ‘gremlins’ weeks before World Cup",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/ttc-subway-service-disruptions-gremlins-world-cup-soccer",
+      "published_date": "2026-05-01T23:50:39Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Vaughn Palmer: Projects look cancelled, despite NDP insisting they&#039;re &#039;re-paced&#039;",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-projects-look-cancelled-despite-ndp-insisting-otherwise",
@@ -407,34 +449,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/customers-missing-tires-thornhill-auto-shop",
       "published_date": "2026-05-01T20:26:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Montreal now Canada's last hope to finally bring Stanley Cup back home",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/montreal-canadiens-canada-last-hope-stanley-cup",
-      "published_date": "2026-05-01T20:11:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "On-demand sign-language interpretation coming to all ICBC licensing offices",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/01/on-demand-sign-language-interpretation-coming-to-all-icbc-licensing-offices/",
-      "published_date": "2026-05-01T19:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fraudulent incident costs Shuswap community $44,536",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/01/fraudulent-incident-costs-shuswap-community-44536/",
-      "published_date": "2026-05-01T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World FIFA reps in Vancouver talk unity, despite geopolitical tensions",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/sports/world-fifa-reps-vancouver-talk-unity-during-geopolitical-tensions",
-      "published_date": "2026-05-01T19:20:12Z",
       "category": "Local Events"
     }
   ]
