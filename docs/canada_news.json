@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T23:50:25Z",
+  "generated_at": "2026-05-03T11:33:04Z",
   "country": "Canada",
   "total_stories": 63,
   "categories": [
@@ -312,6 +312,48 @@
       "category": "Economy"
     },
     {
+      "title": "One dead, several injured, in multi-vehicle crash in Delta",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/one-dead-several-injured-in-multi-vehicle-crash-in-delta",
+      "published_date": "2026-05-03T04:25:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two children hit by a car and seriously injured in Burnaby",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/two-children-hit-by-a-car-and-seriously-injured-in-burnaby",
+      "published_date": "2026-05-03T04:04:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man seriously injured in Duncan-area stabbing attack",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/man-seriously-injured-in-duncan-area-stabbing-attack",
+      "published_date": "2026-05-03T03:42:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Rise FC falls to Montreal Roses 4-0",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/02/vancouver-rise-fc-falls-to-montreal-roses-4-0/",
+      "published_date": "2026-05-03T03:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 37, wanted for Scarborough distraction theft",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/woman-wanted-scarborough-distraction-theft",
+      "published_date": "2026-05-03T00:37:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thieves squirt ketchup on elderly man in distraction theft at Scarborough bank",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/thieves-squirt-ketchup-elderly-man-distraction-theft-scarborough-bank",
+      "published_date": "2026-05-02T23:45:06Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Cops suspect hate-motivated assault on Jewish residents in North York",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/cops-suspect-hate-motivated-assault-jewish-residents-north-york",
@@ -407,48 +449,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/02/health-canada-approves-two-generic-versions-of-ozempic/",
       "published_date": "2026-05-02T16:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1986: A Gianthropologist documents Expo 86 at new Surrey Art Gallery exhibit",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1986-a-gianthropologist-documents-expo-86-at-new-surrey-art-gallery-exhibit",
-      "published_date": "2026-05-02T15:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: The white wine reset is here. Here are 5 B.C. bottles to try",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-5-bc-white-wines-to-try",
-      "published_date": "2026-05-02T15:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Minter: Mother&#039;s Day gifts that will connect your mom to Mother Nature",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/brian-minter-mothers-day-gifts-plants",
-      "published_date": "2026-05-02T15:00:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Legacy of &#039;86: Expo helped shape our little coastal town into a global city, but at what expense?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/legacy-expo-86-vancouver-global-city-what-expense",
-      "published_date": "2026-05-02T15:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Democratic values under attack as antisemitism fragments Canada",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/democratic-values-under-attack-antisemitism-fragments-canada",
-      "published_date": "2026-05-02T14:56:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP offer tips as motorcycle season gears up",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-offer-tips-as-motorcycle-season-opens",
-      "published_date": "2026-05-02T13:45:34Z",
       "category": "Local Events"
     }
   ]
