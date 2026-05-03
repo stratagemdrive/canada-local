@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-03T11:33:04Z",
+  "generated_at": "2026-05-03T23:52:33Z",
   "country": "Canada",
-  "total_stories": 63,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -44,6 +44,13 @@
       "url": "https://torontosun.com/news/world/iran-war-updates-april-27",
       "published_date": "2026-04-27T11:21:32Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Cargo ship near Strait of Hormuz reports attack as Iran says U.S. has responded to Tehran's proposal",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-cargo-ship-near-strait-of-hormuz-reports-attack-as-details-of-irans-latest-proposal-released",
+      "published_date": "2026-05-03T18:07:16Z",
+      "category": "Military"
     },
     {
       "title": "Windsor man’s homemade gun only ‘technically’ capable of firing bullet",
@@ -141,27 +148,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-updates-april-27",
       "published_date": "2026-04-27T11:21:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR LATEST: Iranian official returning to Pakistan as Trump says talks to resume over phone",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-iranian-official-returns-to-pakistan",
-      "published_date": "2026-04-26T19:41:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "HANSON: All the dream houses of the Left",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/all-the-dream-houses-of-the-left",
-      "published_date": "2026-04-26T15:00:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "&#039;The way of the future&#039;: Goodbye guns, hello avalanche-exploding drones at Whistler",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/avalanche-exploding-drones-whistler",
-      "published_date": "2026-04-26T13:00:59Z",
       "category": "Military"
     },
     {
@@ -305,11 +291,95 @@
       "category": "Economy"
     },
     {
-      "title": "Should Vancouver relax short-term rental rules during World Cup to counter soaring hotel rates?",
+      "title": "Vancouver asked to let slot machines keep ringing at Hastings Park despite suspension of horse racing",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/should-vancouver-relax-short-term-rental-rules-world-cup-counter-hotel-rates",
-      "published_date": "2026-04-26T13:00:29Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/vancouver-asked-let-slot-machines-keep-ringing-hastings-park-despite-suspension-horse-racing",
+      "published_date": "2026-05-03T22:43:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A fond farewell to the Vancouver Opera Chorus&#039;s elder statesman",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/fond-farewell-vancouver-operas-elder-statesman",
+      "published_date": "2026-05-03T22:12:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 dead, others sickened by suspected hantavirus outbreak on cruise ship",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/three-dead-suspected-hantavirus-cruise-ship",
+      "published_date": "2026-05-03T21:57:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Secret Service agent hit by buckshot from Trump attacker: Pirro",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/secret-service-agent-hit-by-buckshot-by-trump-attacker-pirro",
+      "published_date": "2026-05-03T21:11:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delivery robots could soon be rolling along Vancouver sidewalks",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/delivery-robots-vancouver-pilot-project",
+      "published_date": "2026-05-03T19:46:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Police identify Toronto man fatally shot as Daniel Stopnicki, 47",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-mans-death-linked-to-fatal-shooting",
+      "published_date": "2026-05-03T17:47:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FOREVER FRIEND: Sushi, 'a sweet, playful dog,' is ready for adoption",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/sushi-a-sweet-playful-dog-ready-adoption",
+      "published_date": "2026-05-03T16:27:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pair of GTA warehouse fires being probed; man arrested in Regent Park stabbing",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/pair-of-gta-warehouse-fires-being-probed-man-arrested-in-regent-park-stabbing",
+      "published_date": "2026-05-03T16:20:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "McCAUGHEY: Your whereabouts are known at all times",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mccaughey-your-whereabouts-are-known-at-all-times",
+      "published_date": "2026-05-03T14:59:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PARKER: How to think about affordability",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/how-to-think-about-affordability",
+      "published_date": "2026-05-03T14:45:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Menstrual blood a potential breakthrough for millions living with osteoarthritis",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/health/menstrual-blood-a-potential-breakthrough-for-millions-living-with-osteoarthritis",
+      "published_date": "2026-05-03T14:06:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What it might take to restart passenger rail service from North Vancouver to Whistler",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/how-to-restart-passenger-rail-service-from-north-vancouver-to-whistler",
+      "published_date": "2026-05-03T13:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: A trek across the Star Wars universe?",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/03/quiz-a-trek-across-the-star-wars-universe/",
+      "published_date": "2026-05-03T12:20:00Z",
+      "category": "Local Events"
     },
     {
       "title": "One dead, several injured, in multi-vehicle crash in Delta",
@@ -358,97 +428,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/cops-suspect-hate-motivated-assault-jewish-residents-north-york",
       "published_date": "2026-05-02T23:41:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 35, allegedly sexually assaulted and harassed woman in Scarborough",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-allegedly-sexually-assaulted-harassed-woman-scarborough",
-      "published_date": "2026-05-02T22:56:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver, 36, fighting for his life after two-vehicle crash in Scarborough",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/driver-fighting-for-life-two-vehicle-crash-scarborough",
-      "published_date": "2026-05-02T22:24:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 42, killed in single-vehicle crash in Scarborough",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-42-killed-single-vehicle-crash-scarborough",
-      "published_date": "2026-05-02T21:58:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olympians Sarah Nurse and Harbir Sidhu inspire future stars at RBC Training Ground in Surrey",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/02/olympians-sarah-nurse-and-harbir-sidhu-inspire-future-stars-at-rbc-training-ground-in-surrey/",
-      "published_date": "2026-05-02T21:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funeral plans set for OPP officer killed in line of duty",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/funeral-opp-officer-brandon-malcolm-killed-line-of-duty",
-      "published_date": "2026-05-02T21:14:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GOLDSTEIN: China – our 'strategic partner' and greatest security threat",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/china-strategic-partner-greatest-security-threat",
-      "published_date": "2026-05-02T20:11:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pedestrian, 69, dead from collision on Howard Avenue, say Windsor police",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/pedestrian-69-dead-from-collision-on-howard-avenue-say-windsor-police",
-      "published_date": "2026-05-02T19:40:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police say business in Delta sprayed with gunfire",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/police-say-business-in-delta-sprayed-with-gunfire",
-      "published_date": "2026-05-02T18:31:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City Hall’s shelters division spent $300M on sole-source deals",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/city-shelters-non-competitive-contracts",
-      "published_date": "2026-05-02T18:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WestJet flight bound for U.S. returns to YVR shortly after takeoff",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/westjet-flight-bound-us-returns-to-yvr-after-takeoff",
-      "published_date": "2026-05-02T16:54:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More concurrent jail time for fisheries violator from Vancouver Island",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/02/more-concurrent-jail-time-for-fisheries-violator-from-vancouver-island/",
-      "published_date": "2026-05-02T16:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VUONG: Canadians need to stop being penny wise and pound foolish",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canadians-penny-wise-pound-foolish-government-spending-doug-ford-plane",
-      "published_date": "2026-05-02T16:20:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health Canada approves two generic versions of Ozempic",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/02/health-canada-approves-two-generic-versions-of-ozempic/",
-      "published_date": "2026-05-02T16:13:00Z",
       "category": "Local Events"
     }
   ]
