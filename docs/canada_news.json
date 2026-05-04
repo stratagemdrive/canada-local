@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-03T23:52:33Z",
+  "generated_at": "2026-05-04T12:15:42Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -39,11 +39,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IRAN WAR UPDATES: Iran proposes to reopen Strait of Hormuz without nuclear agreement",
+      "title": "IRAN WAR: U.S.-led task force tells ships to reroute on first day of reopening Strait of Hormuz",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-27",
-      "published_date": "2026-04-27T11:21:32Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-updates-may-4",
+      "published_date": "2026-05-04T11:18:41Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: Cargo ship near Strait of Hormuz reports attack as Iran says U.S. has responded to Tehran's proposal",
@@ -144,13 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: Iran wants Strait of Hormuz reopening tied to U.S. ending the war, officials say",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-27",
-      "published_date": "2026-04-27T11:21:32Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. climate news: Drought forces earlier watering restrictions in Metro Vancouver &#124; Global forest loss fell in 2025 but still 46 per cent higher than a decade ago",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/climate-change-news-to-may-3-26",
@@ -170,6 +163,13 @@
       "url": "https://windsorstar.com/news/local-news/great-turnout-windsor-celebrates-earth-day-with-family-fun-at-malden-park",
       "published_date": "2026-04-27T18:39:41Z",
       "category": "Energy"
+    },
+    {
+      "title": "Star readers: Downtown Windsor library; jobs; Gordie bridge",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/star-readers-downtown-windsor-library-jobs-gordie-bridge",
+      "published_date": "2026-05-04T11:20:28Z",
+      "category": "Economy"
     },
     {
       "title": "CHARLEBOIS: GLP-1 drugs becoming Canada’s $3.4 billion food disruption",
@@ -284,11 +284,11 @@
       "category": "Economy"
     },
     {
-      "title": "Pierre Poilievre calls for end to 'credit card budgeting' ahead of spring fiscal update",
+      "title": "Bomb, active shooter threats shut down two more zoos over weekend in Ohio",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/pierre-poilievre-demands-end-credit-card-budgeting",
-      "published_date": "2026-04-27T00:51:41Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/bomb-active-shooter-threats-shut-down-two-more-zoos-over-weekend-in-ohio",
+      "published_date": "2026-05-04T00:40:53Z",
+      "category": "Local Events"
     },
     {
       "title": "Vancouver asked to let slot machines keep ringing at Hastings Park despite suspension of horse racing",
@@ -421,13 +421,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/thieves-squirt-ketchup-elderly-man-distraction-theft-scarborough-bank",
       "published_date": "2026-05-02T23:45:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops suspect hate-motivated assault on Jewish residents in North York",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/cops-suspect-hate-motivated-assault-jewish-residents-north-york",
-      "published_date": "2026-05-02T23:41:02Z",
       "category": "Local Events"
     }
   ]
