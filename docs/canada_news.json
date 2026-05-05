@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-05T11:53:57Z",
+  "generated_at": "2026-05-05T23:52:30Z",
   "country": "Canada",
-  "total_stories": 54,
+  "total_stories": 55,
   "categories": [
     "Diplomacy",
     "Military",
@@ -44,6 +44,20 @@
       "url": "https://torontosun.com/news/national/young-workers-feeling-brunt-job-market",
       "published_date": "2026-04-29T22:47:41Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Jet skier rescued after allegedly hitting whale in water off Vancouver",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/jet-skier-rescued-after-allegedly-hitting-whale-in-water-off-vancouver/",
+      "published_date": "2026-05-05T22:09:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Grey whale struck by jet ski near Vancouver&#039;s Siwash Rock (with video)",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/grey-whale-struck-by-jet-ski-near-vancouvers-siwash-rock",
+      "published_date": "2026-05-05T16:44:08Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: U.S.-led task force tells ships to reroute on first day of reopening Strait of Hormuz",
@@ -109,18 +123,18 @@
       "category": "Military"
     },
     {
-      "title": "MANDEL: Toronto rapper who claimed self-defence sentenced to life for murder",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-rapper-who-claimed-self-defence-is-sentenced-to-life-for-murder",
-      "published_date": "2026-04-28T22:04:15Z",
-      "category": "Military"
+      "title": "British Columbians push electricity demand to highest level ever seen in May",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/british-columbians-push-electricity-demand-to-the-highest-level-ever-seen-in-may/",
+      "published_date": "2026-05-05T23:21:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Spring economic update offers more funding to military, efforts to combat hate",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/new-spending-measures-federal-economic-update",
-      "published_date": "2026-04-28T21:07:23Z",
-      "category": "Military"
+      "title": "Opinion: B.C. is failing its students on climate education",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-is-failing-its-students-on-climate-education",
+      "published_date": "2026-05-05T23:00:17Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. climate news: Drought forces earlier watering restrictions in Metro Vancouver &#124; Global forest loss fell in 2025 but still 46 per cent higher than a decade ago",
@@ -128,6 +142,20 @@
       "url": "https://vancouversun.com/news/climate-change-news-to-may-3-26",
       "published_date": "2026-05-02T16:40:18Z",
       "category": "Energy"
+    },
+    {
+      "title": "Tracker leaving Vancouver for L.A. a big blow to Hollywood North",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/tracker-tv-series-moving-vancouver-california",
+      "published_date": "2026-05-05T20:49:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "'Generational investment' — Ottawa's new $6B trades plan could grow skilled trades training, jobs in Windsor-Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/generational-investment-ottawas-new-6b-trades-plan-could-grow-skilled-trades-training-jobs-in-windsor-essex",
+      "published_date": "2026-05-05T14:15:32Z",
+      "category": "Economy"
     },
     {
       "title": "U.S. tribes demand a say in key B.C. economic decisions",
@@ -228,164 +256,143 @@
       "category": "Economy"
     },
     {
-      "title": "‘We want to see the Whitecaps stay’ says B.C. jobs minister amid relocation report",
+      "title": "WARMINGTON: 'Hank Effect' sees Toronto Police scrubbing beloved crest from 14 Division",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/toronto-police-14-division-crest-removed",
+      "published_date": "2026-05-05T23:36:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Maple Leafs get No. 1 pick in NHL draft, Canucks slip to No. 3",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/28/we-want-to-see-the-whitecaps-stay-says-b-c-jobs-minister-amid-relocation-report/",
-      "published_date": "2026-04-28T22:52:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "King calls for renewed U.S.-U.K. alliance in visit to Washington",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/king-calls-for-renewed-u-s-u-k-alliance-in-visit-to-washington",
-      "published_date": "2026-04-28T21:42:57Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Mark Carney Liberals trumpet Canada's 'resilient' economy in spring update",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/government-to-unveil-spring-economic-update",
-      "published_date": "2026-04-28T14:35:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Opinion: Be nice to Sir John A. — his leadership more relevant now than ever before",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/opinion-be-nice-to-sir-john-a-his-leadership-more-relevant-now-than-ever-before",
-      "published_date": "2026-05-05T11:15:06Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/toronto-maple-leafs-get-no-1-pick-in-nhl-draft-canucks-slip-to-no-3/",
+      "published_date": "2026-05-05T23:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver&#039;s Kitsilano Pool set to open by mid-June, says city",
+      "title": "Vaughn Palmer: DRIPA troubles dragging down David Eby&#039;s government",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouvers-kitsilano-pool-set-to-open-by-mid-june-says-city",
-      "published_date": "2026-05-05T03:30:45Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-dripa-troubles-dragging-down-david-eby-bc-ndp-government",
+      "published_date": "2026-05-05T23:25:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Canada&#039;s best new restaurant is right here in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/canada-best-new-restaurant-is-right-here-in-vancouver",
-      "published_date": "2026-05-05T03:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Some foreign-owned companies still qualify under 'Buy Canadian' policy: Report",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/foreign-owned-companies-qualify-buy-canadian",
-      "published_date": "2026-05-05T02:33:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mark Carney expected to name new governor general on Tuesday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/new-governor-general-expected-announcement-tuesday",
-      "published_date": "2026-05-05T01:45:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Olivia Chow's attacks show she's worried about mayoral rival Brad Bradford",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/olivia-chow-worried-about-brad-bradford",
-      "published_date": "2026-05-05T01:23:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man shot and killed inside Surrey business Monday afternoon",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-shot-killed-inside-surrey-business-monday-afternoon",
-      "published_date": "2026-05-05T01:00:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: More questions than answers in mysterious slaying of Daniel Stopnicki",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/many-questions-mysterious-slaying-daniel-stopnicki",
-      "published_date": "2026-05-05T00:43:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. funeral directors and embalmers fined up to $1,000 for skipping training",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-funeral-directors-embalmers-fined-up-to-1000-for-skipping-training",
-      "published_date": "2026-05-05T00:08:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Innisfil man charged in arson",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-firefighters-return-scene-last-years-condo-blaze-new-fire",
-      "published_date": "2026-05-05T00:00:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: B.C. and Ottawa fighting on same side in Cowichan Tribes&#039; case",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-ottawa-fighting-same-side-cowichan-tribes-case",
-      "published_date": "2026-05-04T23:46:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Man jailed eight years for drunk-driving crash that killed 3 kids in Etobicoke",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/eight-years-fatal-drunk-driving-crash",
-      "published_date": "2026-05-04T23:40:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Human remains found in giant crocodile",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/human-remains-found-in-giant-crocodile",
-      "published_date": "2026-05-04T23:24:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New cherry varieties developed in Summerland",
+      "title": "Phones, TVs, radios across B.C. to sound with emergency alert test on May 6",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/04/new-cherry-varieties-developed-in-summerland/",
-      "published_date": "2026-05-04T23:12:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/phones-tvs-radios-across-b-c-to-sound-with-emergency-alert-test-on-may-6/",
+      "published_date": "2026-05-05T22:58:00Z",
       "category": "Local Events"
     },
     {
-      "title": "4 Canadians aboard cruise ship facing suspected hantavirus outbreak",
+      "title": "Returning blaze at Toronto high-rises resulted from saw on concrete sparks",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/canadians-aboard-cruise-ship-hantavirus-outbreak",
-      "published_date": "2026-05-04T23:05:36Z",
+      "url": "https://torontosun.com/news/local-news/returning-blaze-toronto-high-rises-resulted-saw-concrete-sparks",
+      "published_date": "2026-05-05T22:53:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: We need to protect our kids — not tech companies — and ban social media for those under 16",
+      "title": "19 daily temperature highs broken across B.C., including 128-year-old records",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/19-daily-temperature-highs-broken-across-b-c-including-128-year-old-records/",
+      "published_date": "2026-05-05T22:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Motorcyclist dead following west-end crash; cops probe stabbing",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/motorcyclist-dead-following-west-end-crash-cops-probe-stabbing",
+      "published_date": "2026-05-05T22:39:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-FedEx driver Tanner Horner sentenced to death for Texas girl's murder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/ex-fedex-driver-tanner-horner-sentenced-to-death-for-texas-girls-murder",
+      "published_date": "2026-05-05T22:32:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. woman sentenced for ‘unauthorized contact’ with NICU babies at Surrey hospital",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/b-c-woman-sentenced-for-unauthorized-contact-with-nicu-babies-at-surrey-hospital/",
+      "published_date": "2026-05-05T22:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PHOTOS: Inside the $2.3M PNE Prize Home in Surrey, a city picked after poll",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/photos-inside-the-2-3m-pne-prize-home-in-surrey-a-city-picked-after-poll/",
+      "published_date": "2026-05-05T22:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 2026 PNE Prize Home is in Surrey: Take a look inside",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-we-need-to-protect-our-kids-not-tech-companies-and-ban-social-media-for-those-under-16",
-      "published_date": "2026-05-04T23:00:02Z",
+      "url": "https://vancouversun.com/news/2026-pne-prize-home-surrey-take-a-look-inside",
+      "published_date": "2026-05-05T22:12:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Immigration Department launching program to track foreign students",
+      "title": "Rogers Stadium introducing new food offerings for second season",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/immigration-department-launching-foreign-students-tracking",
-      "published_date": "2026-05-04T22:40:43Z",
+      "url": "https://torontosun.com/news/local-news/rogers-stadium-expanding-food-program-second-concert-season",
+      "published_date": "2026-05-05T22:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "NWT diamond mine in jeopardy, owner seeks insolvency protection in B.C. court",
+      "title": "Man, 30, with no criminal connection, killed at work in Surrey shooting",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/04/nwt-diamond-mine-in-jeopardy-owner-seeks-insolvency-protection-in-b-c-court/",
-      "published_date": "2026-05-04T22:36:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/30-year-old-man-killed-at-work-in-targeted-broad-daylight-shooting-in-surrey/",
+      "published_date": "2026-05-05T21:44:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Port McNeill RCMP officer charged with assault in relation to 2025 incident",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/04/port-mcneill-rcmp-officer-charged-with-assault-in-relation-to-2025-incident/",
-      "published_date": "2026-05-04T22:30:00Z",
+      "title": "Saskatchewan's Cameco says profits up by 87% on rising sales of uranium",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/mining/saskatchewan-cameco-profits-up-rising-sales-uranium",
+      "published_date": "2026-05-05T21:39:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Fire breaks out again at Thorncliffe Park high-rises evacuated in 2025",
+      "title": "Cops recover gong stolen from Kitchener hospital's cancer centre",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/fire-breaks-out-again-thorncliffe-park-buildings",
-      "published_date": "2026-05-04T22:24:46Z",
+      "url": "https://torontosun.com/news/provincial/cops-recover-stolen-gong-kitchener-hospital-cancer-centre",
+      "published_date": "2026-05-05T21:28:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thieves make off with ATM after excavator used in Ajax bank heist",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/excavator-used-during-ajax-bank-heist",
+      "published_date": "2026-05-05T21:25:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sask. elder calls for people to remember the meaning of Red Dress Day",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/sask-elder-calls-for-people-to-remember-the-meaning-of-red-dress-day",
+      "published_date": "2026-05-05T21:14:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ashley MacIsaac suing Google for $1.5M after AI summary confused him for convict",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/ashley-macisaac-lawsuit-google-ai-overview",
+      "published_date": "2026-05-05T20:44:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OLG winners now only identified by first name and first initial of last name",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/olg-winners-now-only-identified-by-first-name-first-initial-last-name",
+      "published_date": "2026-05-05T20:22:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Simply not true’: NDP refutes claims of B.C. minister under investigation",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/simply-not-true-ndp-refutes-claims-of-b-c-minister-under-investigation/",
+      "published_date": "2026-05-05T20:19:00Z",
       "category": "Local Events"
     }
   ]
