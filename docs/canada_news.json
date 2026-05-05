@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T23:57:16Z",
+  "generated_at": "2026-05-05T11:53:57Z",
   "country": "Canada",
-  "total_stories": 56,
+  "total_stories": 54,
   "categories": [
     "Diplomacy",
     "Military",
@@ -123,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: U.S. appears cold to Iranian proposal to end war without nuclear deal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-28",
-      "published_date": "2026-04-28T11:36:06Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. climate news: Drought forces earlier watering restrictions in Metro Vancouver &#124; Global forest loss fell in 2025 but still 46 per cent higher than a decade ago",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/climate-change-news-to-may-3-26",
@@ -137,11 +130,11 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. court being asked to throw out approval of $12-billion natural gas pipeline",
+      "title": "U.S. tribes demand a say in key B.C. economic decisions",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/bc-court-asked-throw-out-approval-12-billion-natural-gas-pipeline",
-      "published_date": "2026-04-28T00:13:04Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/us-tribes-demand-say-key-bc-economic-decisions",
+      "published_date": "2026-05-05T00:14:04Z",
+      "category": "Economy"
     },
     {
       "title": "LILLEY: Mark Carney pushes Euro-style agenda again with veiled jab at U.S.",
@@ -256,11 +249,74 @@
       "category": "Economy"
     },
     {
-      "title": "Mark Carney's non-U.S. exports target far-fetched: Fraser Institute",
+      "title": "Opinion: Be nice to Sir John A. — his leadership more relevant now than ever before",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/opinion-be-nice-to-sir-john-a-his-leadership-more-relevant-now-than-ever-before",
+      "published_date": "2026-05-05T11:15:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver&#039;s Kitsilano Pool set to open by mid-June, says city",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouvers-kitsilano-pool-set-to-open-by-mid-june-says-city",
+      "published_date": "2026-05-05T03:30:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada&#039;s best new restaurant is right here in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/canada-best-new-restaurant-is-right-here-in-vancouver",
+      "published_date": "2026-05-05T03:00:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Some foreign-owned companies still qualify under 'Buy Canadian' policy: Report",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/mark-carneys-non-us-exports-target-far-fetched-report",
-      "published_date": "2026-04-28T09:00:53Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/national/foreign-owned-companies-qualify-buy-canadian",
+      "published_date": "2026-05-05T02:33:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mark Carney expected to name new governor general on Tuesday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/new-governor-general-expected-announcement-tuesday",
+      "published_date": "2026-05-05T01:45:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Olivia Chow's attacks show she's worried about mayoral rival Brad Bradford",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/olivia-chow-worried-about-brad-bradford",
+      "published_date": "2026-05-05T01:23:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man shot and killed inside Surrey business Monday afternoon",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-shot-killed-inside-surrey-business-monday-afternoon",
+      "published_date": "2026-05-05T01:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: More questions than answers in mysterious slaying of Daniel Stopnicki",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/many-questions-mysterious-slaying-daniel-stopnicki",
+      "published_date": "2026-05-05T00:43:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. funeral directors and embalmers fined up to $1,000 for skipping training",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-funeral-directors-embalmers-fined-up-to-1000-for-skipping-training",
+      "published_date": "2026-05-05T00:08:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Innisfil man charged in arson",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-firefighters-return-scene-last-years-condo-blaze-new-fire",
+      "published_date": "2026-05-05T00:00:13Z",
+      "category": "Local Events"
     },
     {
       "title": "Vaughn Palmer: B.C. and Ottawa fighting on same side in Cowichan Tribes&#039; case",
@@ -330,76 +386,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/fire-breaks-out-again-thorncliffe-park-buildings",
       "published_date": "2026-05-04T22:24:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alberta man charged in Langley with murdering man, woman",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/alberta-man-charged-langley-double-homicide-man-teen-girl",
-      "published_date": "2026-05-04T22:19:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: One charged in Langley double homicide",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/04/video-one-charged-in-langley-double-homicide/",
-      "published_date": "2026-05-04T22:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Upstream diesel spill in South Saskatchewan River not a threat to drinking water: city",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/upstream-diesel-spill-in-south-saskatchewan-river-not-a-threat-to-drinking-water-city",
-      "published_date": "2026-05-04T21:55:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. emergency alert system to be tested this week",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-emergency-alert-system-test-wednesday-may-6-2026",
-      "published_date": "2026-05-04T21:23:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sask. gun owners can apply to keep recently-banned firearms while seeking compensation",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/sask-gun-owners-can-apply-to-keep-recently-banned-firearms-while-seeking-compensation",
-      "published_date": "2026-05-04T20:08:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Careless driving charge laid after vehicle slams into Windsor home",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/careless-driving-charge-laid-after-vehicle-slams-into-windsor-home",
-      "published_date": "2026-05-04T19:48:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Interior rivers rise under high streamflow advisory",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/04/northern-interior-rivers-rise-under-high-streamflow-advisory/",
-      "published_date": "2026-05-04T19:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MP Fuhr: Canadian investments in trades could unlock potential in Okanagan",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/04/mp-fuhr-canadian-investments-in-trades-could-unlock-potential-in-okanagan/",
-      "published_date": "2026-05-04T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver council seeking feedback on building even taller towers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/real-estate/vancouver-city-council-seeks-feedback-higher-buildings-policy-tower-development-downtown",
-      "published_date": "2026-05-04T19:29:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Friends group hits $200K for Pembroke's Kinsmen Pool renewal",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/friends-group-hits-200k-for-pembrokes-kinsmen-pool-renewal",
-      "published_date": "2026-05-04T19:10:03Z",
       "category": "Local Events"
     }
   ]
