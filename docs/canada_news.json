@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-05T23:52:30Z",
+  "generated_at": "2026-05-06T12:21:20Z",
   "country": "Canada",
-  "total_stories": 55,
+  "total_stories": 56,
   "categories": [
     "Diplomacy",
     "Military",
@@ -116,11 +116,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: Talks to end war in Iran stall as economies feel impact of rising energy costs",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-april-29",
-      "published_date": "2026-04-29T11:30:57Z",
-      "category": "Military"
+      "title": "Early heat wave: B.C. Hydro sets a record for peak May demand",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/early-heat-wave-bc-hydro-sets-a-record-for-peak-may-demand",
+      "published_date": "2026-05-06T00:07:58Z",
+      "category": "Energy"
     },
     {
       "title": "British Columbians push electricity demand to highest level ever seen in May",
@@ -142,6 +142,13 @@
       "url": "https://vancouversun.com/news/climate-change-news-to-may-3-26",
       "published_date": "2026-05-02T16:40:18Z",
       "category": "Energy"
+    },
+    {
+      "title": "‘Canadian experience’ keeps skilled immigrants out of the labour market",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/05/05/canadian-experience-keeps-skilled-immigrants-out-of-the-labour-market/",
+      "published_date": "2026-05-06T02:02:44Z",
+      "category": "Economy"
     },
     {
       "title": "Tracker leaving Vancouver for L.A. a big blow to Hollywood North",
@@ -256,6 +263,62 @@
       "category": "Economy"
     },
     {
+      "title": "Five Saskatoon theatre shows to experience in May",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/entertainment/local-arts/five-saskatoon-theatre-shows-may",
+      "published_date": "2026-05-06T12:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Two bridges, one pattern: why this should concern Canadians",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/reader-letter-two-bridges-one-pattern-why-this-should-concern-canadians",
+      "published_date": "2026-05-06T11:15:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Tragically Hip, Kawartha Dairy collaborate on new ice cream",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/tragically-hip-kawartha-dairy-collaborate-ice-cream",
+      "published_date": "2026-05-06T11:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke Public Library gets $20K boost for Multicultural Festival",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-public-library-gets-20k-boost-for-multicultural-festival",
+      "published_date": "2026-05-06T10:50:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver teacher suspended for watching students drink vodka shots on her doorstep",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-teacher-suspended-watching-students-drink-vodka-shots-on-her-doorstep",
+      "published_date": "2026-05-06T02:23:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kingston opts out of provincial “bring-your-own” alcohol event permits",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/05/05/kingston-opts-out-of-provincial-bring-your-own-alcohol-event-permits/",
+      "published_date": "2026-05-06T02:21:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Snow pack melted in South Okanagan community",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/snow-pack-melted-in-south-okanagan-community/",
+      "published_date": "2026-05-06T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stabbing on Vancouver Starbucks patio centred on whether accused had intent to kill",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/stabbing-vancouver-starbucks-patio-centred-on-whether-accused-had-intent-to-kill",
+      "published_date": "2026-05-05T23:52:29Z",
+      "category": "Local Events"
+    },
+    {
       "title": "WARMINGTON: 'Hank Effect' sees Toronto Police scrubbing beloved crest from 14 Division",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/toronto-police-14-division-crest-removed",
@@ -337,62 +400,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/rogers-stadium-expanding-food-program-second-concert-season",
       "published_date": "2026-05-05T22:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 30, with no criminal connection, killed at work in Surrey shooting",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/30-year-old-man-killed-at-work-in-targeted-broad-daylight-shooting-in-surrey/",
-      "published_date": "2026-05-05T21:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatchewan's Cameco says profits up by 87% on rising sales of uranium",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/mining/saskatchewan-cameco-profits-up-rising-sales-uranium",
-      "published_date": "2026-05-05T21:39:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops recover gong stolen from Kitchener hospital's cancer centre",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/cops-recover-stolen-gong-kitchener-hospital-cancer-centre",
-      "published_date": "2026-05-05T21:28:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thieves make off with ATM after excavator used in Ajax bank heist",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/excavator-used-during-ajax-bank-heist",
-      "published_date": "2026-05-05T21:25:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sask. elder calls for people to remember the meaning of Red Dress Day",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/sask-elder-calls-for-people-to-remember-the-meaning-of-red-dress-day",
-      "published_date": "2026-05-05T21:14:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ashley MacIsaac suing Google for $1.5M after AI summary confused him for convict",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/ashley-macisaac-lawsuit-google-ai-overview",
-      "published_date": "2026-05-05T20:44:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OLG winners now only identified by first name and first initial of last name",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/olg-winners-now-only-identified-by-first-name-first-initial-last-name",
-      "published_date": "2026-05-05T20:22:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Simply not true’: NDP refutes claims of B.C. minister under investigation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/simply-not-true-ndp-refutes-claims-of-b-c-minister-under-investigation/",
-      "published_date": "2026-05-05T20:19:00Z",
       "category": "Local Events"
     }
   ]
