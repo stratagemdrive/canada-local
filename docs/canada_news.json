@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-06T12:21:20Z",
+  "generated_at": "2026-05-06T23:54:01Z",
   "country": "Canada",
-  "total_stories": 56,
+  "total_stories": 58,
   "categories": [
     "Diplomacy",
     "Military",
@@ -36,13 +36,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/local-news/first-indigenous-senator-saskatoon-youth-conference-1962",
       "published_date": "2026-04-30T12:00:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Young workers bearing brunt of Canada's 'frozen' job market: Survey",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/young-workers-feeling-brunt-job-market",
-      "published_date": "2026-04-29T22:47:41Z",
       "category": "Diplomacy"
     },
     {
@@ -144,6 +137,48 @@
       "category": "Energy"
     },
     {
+      "title": "LILLEY: Tariffs not to blame for Honda's decision to axe EV plant in Alliston",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/tariffs-not-factor-honda-ev-plant",
+      "published_date": "2026-05-06T22:03:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Honda cancels $15B EV plant near Alliston",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/honda-cancels-15b-ev-plant-near-alliston",
+      "published_date": "2026-05-06T19:59:29Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Premier Doug Ford defends spending public money to woo foreign firm's AI jobs",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/premier-doug-ford-defends-spending-public-money-to-woo-foreign-firms-ai-jobs",
+      "published_date": "2026-05-06T16:37:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Saskatoon organizations, community members, youth rally for Red Dress Day",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/saskatoon-organizations-community-members-and-youth-rally-for-red-dress-day",
+      "published_date": "2026-05-06T16:34:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "&#039;It will surprise most people&#039;: Mining association CEO says the industry benefits B.C.&#039;s urban communities",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/mining-gains-momentum-benefits-bc-urban-communities",
+      "published_date": "2026-05-06T14:51:18Z",
+      "category": "Economy"
+    },
+    {
+      "title": "&#039;Precarious labour&#039;: B.C.&#039;s female farm workers at risk, new report says",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/local-business/bc-female-farm-workers-at-risk-new-report-says",
+      "published_date": "2026-05-06T13:00:40Z",
+      "category": "Economy"
+    },
+    {
       "title": "‘Canadian experience’ keeps skilled immigrants out of the labour market",
       "source": "YGK News",
       "url": "https://ygknews.ca/2026/05/05/canadian-experience-keeps-skilled-immigrants-out-of-the-labour-market/",
@@ -242,164 +277,143 @@
       "category": "Economy"
     },
     {
-      "title": "‘Just tell us’: B.C. Jobs Minister calls for transparency about Vancouver Whitecaps bid",
+      "title": "Langley drug smuggler loses appeal in case of multi-million dollar brick of fentanyl",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/04/30/just-tell-us-b-c-jobs-minister-calls-for-transparency-about-vancouver-whitecaps-bid/",
-      "published_date": "2026-04-30T21:42:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/06/langley-drug-smuggler-loses-appeal-in-case-of-multi-million-dollar-brick-of-fentanyl/",
+      "published_date": "2026-05-06T23:32:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "B.C. nurses could be striking in May after talks reach an impasse",
+      "title": "International student numbers plummet to near COVID-era levels: StatsCan",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-international-student-numbers-fall-statscan",
+      "published_date": "2026-05-06T23:10:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Richmond parents push back against gender-neutral, non-competitive elementary track meets",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-nurses-could-be-striking-may-talks-reach-impasse",
-      "published_date": "2026-04-29T23:26:10Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/local-news/richmond-parents-push-back-against-gender-neutral-non-competitive-elementary-track-meets",
+      "published_date": "2026-05-06T22:56:32Z",
+      "category": "Local Events"
     },
     {
-      "title": "Opinion: Nation-building isn&#039;t an investment strategy",
+      "title": "Hantavirus: What is it, how does it spread and why is a cruise ship stranded?",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-nation-building-isnt-an-investment-strategy",
-      "published_date": "2026-04-29T19:30:19Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/what-is-hantavirus-cruise-ship-outbreak",
+      "published_date": "2026-05-06T22:32:09Z",
+      "category": "Local Events"
     },
     {
-      "title": "Five Saskatoon theatre shows to experience in May",
+      "title": "TTC boosting streetcar, bus and subway service when World Cup kicks off",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/ttc-increasing-service-fifa-world-cup",
+      "published_date": "2026-05-06T22:29:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man stabbed to death in Downtown Eastside in Vancouver&#039;s fourth homicide of 2026",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-stabbed-to-death-in-downtown-eastside-in-vancouvers-fourth-homicide-of-2026",
+      "published_date": "2026-05-06T22:10:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nippi-Albright says she left Sask. NDP because of Beck's 'performative' response to Bill 48",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/entertainment/local-arts/five-saskatoon-theatre-shows-may",
-      "published_date": "2026-05-06T12:00:25Z",
+      "url": "https://thestarphoenix.com/news/local-news/nippi-albright-says-she-left-sask-ndp-because-of-becks-performative-response-to-bill-48",
+      "published_date": "2026-05-06T21:33:27Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Two bridges, one pattern: why this should concern Canadians",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/reader-letter-two-bridges-one-pattern-why-this-should-concern-canadians",
-      "published_date": "2026-05-06T11:15:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Tragically Hip, Kawartha Dairy collaborate on new ice cream",
+      "title": "TOW-TALLY RECKLESS: Tow trucks plow through crash scene in Mississauga",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/tragically-hip-kawartha-dairy-collaborate-ice-cream",
-      "published_date": "2026-05-06T11:00:04Z",
+      "url": "https://torontosun.com/news/local-news/trucks-plow-through-crash-scene-mississauga",
+      "published_date": "2026-05-06T21:28:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Pembroke Public Library gets $20K boost for Multicultural Festival",
+      "title": "BC Cattlemen’s Association attempts intervention on DRIPA legal case",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/06/bc-cattlemens-association-attempts-intervention-on-dripa-legal-case/",
+      "published_date": "2026-05-06T21:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fundraiser for Prince George woman who lost business in devastating fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/06/fundraiser-for-prince-george-woman-who-lost-business-in-devastating-fire/",
+      "published_date": "2026-05-06T20:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surge of short-term rentals to return in Kelowna as tourist season begins",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/06/surge-of-short-term-rentals-to-return-in-kelowna-as-tourist-season-begins/",
+      "published_date": "2026-05-06T20:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pool party, watermelon smash among BC Lions game themes for 2026",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/06/pool-party-watermelon-smash-among-bc-lions-game-themes-for-2026/",
+      "published_date": "2026-05-06T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unions question use of AI 'accent-changers' for telecom overseas call centres",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/unions-question-use-of-ai-accent-changers-for-telecom-overseas-call-centres",
+      "published_date": "2026-05-06T19:11:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penticton vineyard named B.C. Winery of the Year",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/06/penticton-vineyard-named-b-c-winery-of-the-year/",
+      "published_date": "2026-05-06T19:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two hikers injured in bear attack at Yellowstone National Park",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/two-hikers-injured-in-bear-attack-at-yellowstone-national-park",
+      "published_date": "2026-05-06T18:57:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'They're not alone': Hundreds in Saskatoon walk to support kids' mental health",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/theyre-not-alone-hundreds-in-saskatoon-walk-to-support-kids-mental-health",
+      "published_date": "2026-05-06T18:49:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iconic humpback ‘Big Mama’ makes grand return to B.C. waters",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/06/iconic-humpback-big-mama-makes-grand-return-to-b-c-waters/",
+      "published_date": "2026-05-06T18:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ottawa River flooding risk persists into next week",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-public-library-gets-20k-boost-for-multicultural-festival",
-      "published_date": "2026-05-06T10:50:50Z",
+      "url": "https://www.pembrokeobserver.com/news/ottawa-river-flooding-risk-persists-into-next-week",
+      "published_date": "2026-05-06T18:01:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver teacher suspended for watching students drink vodka shots on her doorstep",
+      "title": "Mouth-watering Korean food at centre of docuseries Our Ocean Table",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-teacher-suspended-watching-students-drink-vodka-shots-on-her-doorstep",
-      "published_date": "2026-05-06T02:23:03Z",
+      "url": "https://vancouversun.com/entertainment/mouth-watering-korean-food-at-centre-of-docuseries-our-ocean-table",
+      "published_date": "2026-05-06T18:00:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Kingston opts out of provincial “bring-your-own” alcohol event permits",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/05/05/kingston-opts-out-of-provincial-bring-your-own-alcohol-event-permits/",
-      "published_date": "2026-05-06T02:21:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Snow pack melted in South Okanagan community",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/snow-pack-melted-in-south-okanagan-community/",
-      "published_date": "2026-05-06T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stabbing on Vancouver Starbucks patio centred on whether accused had intent to kill",
+      "title": "World Cup fans can expect to get a kick out of new Science World exhibit",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/stabbing-vancouver-starbucks-patio-centred-on-whether-accused-had-intent-to-kill",
-      "published_date": "2026-05-05T23:52:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: 'Hank Effect' sees Toronto Police scrubbing beloved crest from 14 Division",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/toronto-police-14-division-crest-removed",
-      "published_date": "2026-05-05T23:36:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Maple Leafs get No. 1 pick in NHL draft, Canucks slip to No. 3",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/toronto-maple-leafs-get-no-1-pick-in-nhl-draft-canucks-slip-to-no-3/",
-      "published_date": "2026-05-05T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: DRIPA troubles dragging down David Eby&#039;s government",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-dripa-troubles-dragging-down-david-eby-bc-ndp-government",
-      "published_date": "2026-05-05T23:25:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Phones, TVs, radios across B.C. to sound with emergency alert test on May 6",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/phones-tvs-radios-across-b-c-to-sound-with-emergency-alert-test-on-may-6/",
-      "published_date": "2026-05-05T22:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Returning blaze at Toronto high-rises resulted from saw on concrete sparks",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/returning-blaze-toronto-high-rises-resulted-saw-concrete-sparks",
-      "published_date": "2026-05-05T22:53:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "19 daily temperature highs broken across B.C., including 128-year-old records",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/19-daily-temperature-highs-broken-across-b-c-including-128-year-old-records/",
-      "published_date": "2026-05-05T22:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motorcyclist dead following west-end crash; cops probe stabbing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/motorcyclist-dead-following-west-end-crash-cops-probe-stabbing",
-      "published_date": "2026-05-05T22:39:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-FedEx driver Tanner Horner sentenced to death for Texas girl's murder",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/ex-fedex-driver-tanner-horner-sentenced-to-death-for-texas-girls-murder",
-      "published_date": "2026-05-05T22:32:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. woman sentenced for ‘unauthorized contact’ with NICU babies at Surrey hospital",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/b-c-woman-sentenced-for-unauthorized-contact-with-nicu-babies-at-surrey-hospital/",
-      "published_date": "2026-05-05T22:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHOTOS: Inside the $2.3M PNE Prize Home in Surrey, a city picked after poll",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/05/photos-inside-the-2-3m-pne-prize-home-in-surrey-a-city-picked-after-poll/",
-      "published_date": "2026-05-05T22:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The 2026 PNE Prize Home is in Surrey: Take a look inside",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/2026-pne-prize-home-surrey-take-a-look-inside",
-      "published_date": "2026-05-05T22:12:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rogers Stadium introducing new food offerings for second season",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/rogers-stadium-expanding-food-program-second-concert-season",
-      "published_date": "2026-05-05T22:05:00Z",
+      "url": "https://vancouversun.com/entertainment/science-world-vancouver-world-cup-exhibit",
+      "published_date": "2026-05-06T18:00:34Z",
       "category": "Local Events"
     }
   ]
