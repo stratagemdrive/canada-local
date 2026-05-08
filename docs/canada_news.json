@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-08T12:02:34Z",
+  "generated_at": "2026-05-08T23:58:20Z",
   "country": "Canada",
-  "total_stories": 58,
+  "total_stories": 62,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Vaughn Palmer: NDP demand for non-disclosure pacts derails &#039;public&#039; consultation",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-ndp-demand-for-non-disclosure-pacts-derails-public-consultation",
+      "published_date": "2026-05-08T23:30:20Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "New Vancouver overdose prevention site faces threat of lawsuit, but top doctor pushes back",
       "source": "Vancouver Sun",
@@ -23,6 +30,34 @@
       "url": "https://torontosun.com/news/national/china-irritation-with-canada-taiwan-issue",
       "published_date": "2026-05-04T20:32:13Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Toronto’s push to host defence bank sparks fury in Quebec",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-push-host-defence-bank-sparks-fury-quebec",
+      "published_date": "2026-05-08T21:27:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "WARMINGTON: War on cars means gridlock for Blue Jays, TFC, visiting Lionel Messi fans",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/war-on-cars-dvp-closed-gridlock-blue-jays-tfc-lionel-messi-fans",
+      "published_date": "2026-05-08T21:10:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "This Week in History, 1915: The Vancouver World goes bust building the Sun Tower",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-week-in-history-1915-the-vancouver-world-goes-bust-building-the-sun-tower",
+      "published_date": "2026-05-08T18:00:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "Highway 17 reopens after jet fuel tanker fire near Pembroke",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/highway-17-reopens-after-jet-fuel-tanker-fire-near-pembroke",
+      "published_date": "2026-05-08T14:12:43Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: UAE reports drone, missile attack as Iran war ceasefire is challenged",
@@ -95,13 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "Windsor police seek three suspects after knife threat, pepper spray attack on youths",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-three-suspects-after-knife-threat-pepper-spray-attack-on-youths",
-      "published_date": "2026-05-01T13:06:12Z",
-      "category": "Military"
-    },
-    {
       "title": "Man accused of 'used vehicle oil scam' arrested in Uxbridge: Police",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/crime/man-accused-of-used-vehicle-oil-scam-arrested-in-uxbridge-police",
@@ -135,6 +163,27 @@
       "url": "https://vancouversun.com/news/climate-change-news-to-may-3-26",
       "published_date": "2026-05-02T16:40:18Z",
       "category": "Energy"
+    },
+    {
+      "title": "World Cup security firm had labour dispute on city contract",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/world-cup-security-contractor-labour-dispute",
+      "published_date": "2026-05-08T22:52:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Strike vote begins for B.C. nurses following bargaining impasse",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/strike-vote-begins-for-b-c-nurses-following-bargaining-impasse/",
+      "published_date": "2026-05-08T21:43:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canada's unemployment rate hits six-month high: StatsCan",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/canadas-unemployment-rate-hits-six-month-high-statscan",
+      "published_date": "2026-05-08T21:05:26Z",
+      "category": "Economy"
     },
     {
       "title": "Latest round of global tariffs struck down by U.S. court",
@@ -256,164 +305,143 @@
       "category": "Economy"
     },
     {
-      "title": "CHARLEBOIS: GLP-1 drugs becoming Canada’s $3.4 billion food disruption",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/glp-1-drugs-canadas-food-disruption",
-      "published_date": "2026-05-02T14:07:25Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C. First Nations coalition calls for reversal of Trudeau-era salmon pen ban",
+      "title": "Chilliwack RCMP seek intel for Inez mural defaced on Red Dress Day",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/02/b-c-first-nations-coalition-calls-for-reversal-of-trudeau-era-salmon-pen-ban/",
-      "published_date": "2026-05-02T11:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "LILLEY: Toronto normalizing open drug use as taxpayers pick up tab",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/toronto-olivia-chow-normalize-open-drug-use-taxpayers-pay",
-      "published_date": "2026-05-01T22:41:37Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Public school board hosts Kindergarten welcome events across Renfrew County",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/public-school-board-hosts-kindergarten-welcome-events-across-renfrew-county",
-      "published_date": "2026-05-08T10:46:40Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/chilliwack-rcmp-seek-intel-for-inez-mural-defaced-on-red-dress-day/",
+      "published_date": "2026-05-08T23:39:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Ontario invests $1M to expand primary care access in Pikwakanagan",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/ontario-invests-1m-to-expand-primary-care-access-in-pikwakanagan",
-      "published_date": "2026-05-08T10:13:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Urgent fundraiser launches at Petawawa Heritage Village",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/urgent-fundraiser-launches-at-petawawa-heritage-village",
-      "published_date": "2026-05-08T10:01:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grief, Grace and Becoming: Jackie Agnew shares her story in Eganville",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/grief-grace-and-becoming-jackie-agnew-shares-her-story-in-eganville",
-      "published_date": "2026-05-08T09:26:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Fully clothed’ Arkells play Vancouver strip club 18 years after 1st date there",
+      "title": "Feds take Penticton shooting range to court over land use",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/fully-clothed-arkells-play-vancouver-strip-club-18-years-after-1st-date-there/",
-      "published_date": "2026-05-08T07:45:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/feds-take-penticton-shooting-range-to-court-over-land-use/",
+      "published_date": "2026-05-08T23:34:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tumbler Ridge Secondary to be demolished, high school rebuilt on new site",
+      "title": "Sooke man given 4 years in prison for fatal shooting of friend",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/sooke-man-given-4-years-in-prison-for-fatal-shooting-of-friend/",
+      "published_date": "2026-05-08T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Doing it for pops’: Victoria News rider Tony Trozzo takes on Tour de Rock",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/doing-it-for-pops-victoria-news-rider-tony-trozzo-takes-on-tour-de-rock/",
+      "published_date": "2026-05-08T23:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Port of Vancouver meth seizure leads to arrest in Australia",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/tumbler-ridge-secondary-to-be-demolished-high-school-rebuilt-on-new-site",
-      "published_date": "2026-05-08T01:20:33Z",
+      "url": "https://vancouversun.com/news/crime/port-of-vancouver-meth-seizure-leads-to-arrest-in-australia",
+      "published_date": "2026-05-08T23:09:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Cabot unveils ‘new era’ for luxury B.C. golf course opening 2027",
+      "title": "UBCM, business groups refuse to sign NDAs related to B.C.’s heritage act changes",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/07/cabot-unveils-155-room-lodge-7-6m-units-for-luxury-b-c-golf-course/",
-      "published_date": "2026-05-08T00:20:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/ubcm-business-groups-refuse-to-sign-ndas-related-to-b-c-s-heritage-act-changes/",
+      "published_date": "2026-05-08T23:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Manitoba declares public health emergency due to high HIV rates",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/manitoba-declares-public-health-emergency-high-hiv-rates",
-      "published_date": "2026-05-08T00:08:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shootings, extortions on the rise in Surrey for 2026",
+      "title": "Letters to The Vancouver Sun: Instead of reducing CPP premium, Carney should have increased benefit for future retirees",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-shootings-extortions-violent-crimes-surrey-increase-2026",
-      "published_date": "2026-05-08T00:05:17Z",
+      "url": "https://vancouversun.com/opinion/op-ed/letters-to-the-vancouver-sun-instead-of-reducing-cpp-premium-carney-should-have-increased-benefit-for-future-retirees",
+      "published_date": "2026-05-08T23:00:16Z",
       "category": "Local Events"
     },
     {
-      "title": "SFU, UBC among schools caught in massive hacker cyberattack",
+      "title": "LILLEY: Erskine-Smith's Liberal leadership ambitions at stake in Scarborough Southwest",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/erskine-smith-liberal-leadership-ambitions-scarborough-southwest",
+      "published_date": "2026-05-08T22:44:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cory Smockum gets determinate dangerous offender sentence for attempted murder",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/crime/cory-smockum-gets-determinate-dangerous-offender-sentence-for-attempted-murder",
+      "published_date": "2026-05-08T22:37:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crime briefs: Police ID suspects after eight-year-old assaulted at Kreepy Kastle",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/sfu-ubc-among-schools-caught-in-massive-hacker-cyberattack",
-      "published_date": "2026-05-08T00:00:42Z",
+      "url": "https://vancouversun.com/news/crime-briefs-police-id-suspects-after-eight-year-old-assaulted-at-kreepy-kastle",
+      "published_date": "2026-05-08T22:27:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Three Vegas hotels say over 50,000 Canadians have taken advantage of 'at par' offer",
+      "title": "HUNTER: Dirtbags R Us – notes and observations from the crime world",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/vegas-hotels-over-50000-canadians-at-par-offer-tourism-tariffs-trump",
-      "published_date": "2026-05-07T23:51:46Z",
+      "url": "https://torontosun.com/news/national/hunter-dirtbags-r-us-observations-crime-world",
+      "published_date": "2026-05-08T22:15:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Who is owed what by the owner of Northwest Territories’ Ekati diamond mine?",
+      "title": "Kelowna RCMP officer told to resign or be fired after 2 impaired driving infractions",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/07/who-is-owed-what-by-the-owner-of-northwest-territories-ekati-diamond-mine/",
-      "published_date": "2026-05-07T23:50:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/kelowna-rcmp-officer-told-to-resign-or-be-fired-after-2-impaired-driving-infractions/",
+      "published_date": "2026-05-08T21:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Assault acquittal leaves Trail family with questions, heartbreak",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/07/assault-acquittal-leaves-trail-family-with-questions-heartbreak/",
-      "published_date": "2026-05-07T23:38:00Z",
+      "title": "Huskies QB learns from the vets at Roughriders rookie training camp",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/huskies-qb-jake-farrell-takes-part-in-roughriders-rookie-training-camp",
+      "published_date": "2026-05-08T21:20:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Man accused of indecent act involving child in Brampton; luring charges laid in other case",
+      "title": "Covered Bridge Potato Chips says steps taken to reduce disruptions to nearby residents",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/peel-cops-charge-man-indecent-act",
-      "published_date": "2026-05-07T23:37:59Z",
+      "url": "https://torontosun.com/news/national/covered-bridge-potato-chips-steps-taken-disruptions-residents",
+      "published_date": "2026-05-08T21:18:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: B.C. NDP use &#039;guillotine&#039; to advance shredding of access-to-information law",
+      "title": "Cricket league started in 1914 doesn&#039;t have to accept players from new league: B.C. Appeal Court",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-ndp-use-guillotine-advance-shredding-access-to-information-law",
-      "published_date": "2026-05-07T23:32:51Z",
+      "url": "https://vancouversun.com/news/1914-cricket-league-bc-no-players-new-league",
+      "published_date": "2026-05-08T21:05:35Z",
       "category": "Local Events"
     },
     {
-      "title": "PHOTOS: Teens set up big wins at volleyball provincials in Abbotsford",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/07/photos-teens-set-up-big-wins-at-volleyball-provincials-in-abbotsford/",
-      "published_date": "2026-05-07T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. MP’s bill looks to halt expansion of MAiD",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/07/b-c-mps-bill-looks-to-halt-expansion-of-maid/",
-      "published_date": "2026-05-07T23:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Snowbirds to be grounded by Carney government?",
+      "title": "Police, enforcement officers hand out 46 tickets during one-day blitz",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/air-force-snowbirds-grounded-mark-carney-liberal-government",
-      "published_date": "2026-05-07T23:17:47Z",
+      "url": "https://torontosun.com/news/provincial/police-enforcement-officers-46-tickets-one-day-blitz",
+      "published_date": "2026-05-08T20:35:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Councillor takes Langley City council, mayor to court over freedom of speech",
+      "title": "VicPD officer charged with sexual assault following yearlong investigation",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/07/councillor-takes-langley-city-council-mayor-to-court-over-freedom-of-speech/",
-      "published_date": "2026-05-07T23:05:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/vicpd-officer-charged-with-sexual-assault-following-yearlong-investigation/",
+      "published_date": "2026-05-08T20:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "‘Devastated’ family of B.C. teen on life support thankful for fundraiser in wake of assault",
+      "title": "Vancouver seeks feedback on development of 22-storey pod hotel downtown",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-seeks-feedback-22-storey-pod-hotel-downtown",
+      "published_date": "2026-05-08T20:24:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verdict in trial of three men accused of first-degree murder in killing of Abbotsford couple",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/verdict-trial-men-accused-murder-abbotsford-couple",
+      "published_date": "2026-05-08T19:40:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 Surrey men convicted of killing senior Abbotsford couple",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/07/devastated-family-of-b-c-teen-on-life-support-thankful-for-fundraiser-in-wake-of-assault/",
-      "published_date": "2026-05-07T23:04:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/3-surrey-men-convicted-of-killing-senior-abbotsford-couple/",
+      "published_date": "2026-05-08T19:40:00Z",
       "category": "Local Events"
     }
   ]
