@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-09T11:39:17Z",
+  "generated_at": "2026-05-09T23:53:35Z",
   "country": "Canada",
-  "total_stories": 61,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -30,6 +30,20 @@
       "url": "https://torontosun.com/news/national/china-irritation-with-canada-taiwan-issue",
       "published_date": "2026-05-04T20:32:13Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "KINSELLA: Palestine Action designated a terror group in U.K. but not Canada",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/palestine-action-designated-terror-group-u-k-not-canada",
+      "published_date": "2026-05-09T15:00:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Letter: Newcomers not causing homelessness in Saskatchewan",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/letters/letters-newcomers-not-causing-homelessness-in-saskatchewan",
+      "published_date": "2026-05-09T14:00:11Z",
+      "category": "Military"
     },
     {
       "title": "Toronto’s push to host defence bank sparks fury in Quebec",
@@ -116,11 +130,18 @@
       "category": "Military"
     },
     {
-      "title": "Windsor man’s homemade gun only ‘technically’ capable of firing bullet",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-mans-homemade-gun-only-technically-capable-of-firing-bullet",
-      "published_date": "2026-05-02T12:00:24Z",
-      "category": "Military"
+      "title": "B.C. climate news: FortisBC violating environmental permit for more than a year &#124; Forecasters predict severe weather with strong El Niño",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-may-10-26",
+      "published_date": "2026-05-09T18:47:02Z",
+      "category": "Energy"
+    },
+    {
+      "title": "GOLDSTEIN: Mark Carney must kill Justin Trudeau’s anti-growth agenda",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-justin-trudeaus-anti-growth-agenda-emissions-productivity",
+      "published_date": "2026-05-09T17:14:58Z",
+      "category": "Energy"
     },
     {
       "title": "Man accused of 'used vehicle oil scam' arrested in Uxbridge: Police",
@@ -151,11 +172,25 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. climate news: Drought forces earlier watering restrictions in Metro Vancouver &#124; Global forest loss fell in 2025 but still 46 per cent higher than a decade ago",
+      "title": "Major Vancouver real estate developer in &#039;financially precarious position,&#039; former executive claims in court filings",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-may-3-26",
-      "published_date": "2026-05-02T16:40:18Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/local-news/westbank-tower-seized-by-ontario-pension-fund-over",
+      "published_date": "2026-05-09T15:00:04Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: Economics of operating a restaurant in Canada increasingly untenable.",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-economics-of-operating-a-restaurant-in-canada-increasingly-untenable",
+      "published_date": "2026-05-09T13:30:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Windsor-Essex manufacturers cautiously welcome Ottawa’s new tariff relief program, warn more help needed",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-essex-manufacturers-cautiously-welcome-ottawas-new-tariff-relief-program-warn-more-help-needed",
+      "published_date": "2026-05-09T13:00:57Z",
+      "category": "Economy"
     },
     {
       "title": "World Cup security firm had labour dispute on city contract",
@@ -277,25 +312,130 @@
       "category": "Economy"
     },
     {
-      "title": "Dog walker can't sue for damages after being bitten on job in Oshawa: Court",
+      "title": "Over $846K of contraband seized at Sask. penitentiary in Prince Albert",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/crime/over-846k-of-contraband-seized-at-sask-penitentiary-in-prince-albert",
+      "published_date": "2026-05-09T22:39:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayoral hopeful Brad Bradford calls out Olivia Chow over road repair schedule",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/dog-walker-cant-sue-damages-oshawa",
-      "published_date": "2026-05-04T21:05:04Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/mayoral-hopeful-brad-bradford-olivia-chow-road-repair-schedule",
+      "published_date": "2026-05-09T21:03:35Z",
+      "category": "Local Events"
     },
     {
-      "title": "Ontario's unemployment rate increases for fourth straight year",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/ontarios-unemployment-rate-increases-for-fourth-straight-year",
-      "published_date": "2026-05-04T14:21:49Z",
-      "category": "Economy"
+      "title": "EDITORIAL: Our leaders have failed Canada’s Jews",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/editorial-politicians-leaders-failed-canadas-jews-antisemitism-normalized",
+      "published_date": "2026-05-09T20:30:54Z",
+      "category": "Local Events"
     },
     {
-      "title": "Star readers: Downtown Windsor library; jobs; Gordie bridge",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/star-readers-downtown-windsor-library-jobs-gordie-bridge",
-      "published_date": "2026-05-04T11:20:28Z",
-      "category": "Economy"
+      "title": "Gavin McKenna's mom allegedly snuck teen hockey phenom alcohol at Pennsylvania bar",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/gavin-mckenna-mom-krystal-allegedly-snuck-teen-alcohol-bar-assault",
+      "published_date": "2026-05-09T20:11:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former B.C. chiropractor appeals sexual assault conviction",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/former-b-c-chiropractor-appeals-sexual-assault-conviction/",
+      "published_date": "2026-05-09T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lotto Max ticket worth a cool $70M sold in Brampton",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/lotto-max-ticket-70-million-sold-brampton",
+      "published_date": "2026-05-09T19:01:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Tempo’s historic WNBA debut ends in 68-65 loss",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/toronto-tempo-loses-inaugural-wnba-game-65-68/",
+      "published_date": "2026-05-09T18:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Giants fined after scout makes ‘inappropriate remarks’ to female reporter",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/vancouver-giants-fined-after-scout-makes-inappropriate-remarks-to-female-reporter/",
+      "published_date": "2026-05-09T18:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada to create new Financial Crimes Agency, but will it have a B.C. base?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/canada-to-create-new-financial-crimes-agency-but-will-it-have-a-bc-base",
+      "published_date": "2026-05-09T15:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Was beloved funk musician a secret serial killer?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-beloved-funk-musician-secret-serial-killer",
+      "published_date": "2026-05-09T14:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHAUDHRI: Double-dipping loophole in settlement agreements",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/chaudhri-double-dipping-loophole-settlement-agreements",
+      "published_date": "2026-05-09T13:59:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HUNTER: Cops thwart Pakistani man, others allegedly smuggling guns into Canada",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/hunter-new-york-pakistani-man-others-arrested-gun-smuggling-canada",
+      "published_date": "2026-05-09T13:38:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VUONG: Canada drew a line on anti-Asian hate, why not on anti-Jewish violence?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canada-drew-line-anti-asian-hate-not-anti-jewish-violence",
+      "published_date": "2026-05-09T13:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Time to foster healthier long-term care environments",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/letters/opinion-time-to-foster-healthier-long-term-care-environments",
+      "published_date": "2026-05-09T13:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Historic Barkerville businesses enter new era under Lhtako Dene Nation",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/historic-barkerville-businesses-enter-new-era-under-lhtako-dene-nation/",
+      "published_date": "2026-05-09T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake Public Library hosts annual seed, plant exchange",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/burns-lake-public-library-hosts-annual-seed-plant-exchange/",
+      "published_date": "2026-05-09T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake, Southside wildfire documentary premieres, wins big in Texas festival",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/burns-lake-southside-wildfire-documentary-premieres-wins-big-in-texas-festival/",
+      "published_date": "2026-05-09T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "No cap: B.C. capital low-key one of world’s top cities for Gen Z to live, slay",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/no-cap-b-c-capital-low-key-one-of-worlds-top-cities-for-gen-z-to-live-slay/",
+      "published_date": "2026-05-09T12:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Windsor police bust uncovers $50K in drugs, replica firearms",
@@ -309,132 +449,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/08/coast-guard-responds-after-fishing-boat-crashes-into-rock-in-barkley-sound/",
       "published_date": "2026-05-09T04:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alanis Morissette, Michael Bublé to perform at Canada's first World Cup match",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/soccer/alanis-morissette-michael-buble-canada-world-cup-match",
-      "published_date": "2026-05-09T01:04:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young Blue Jays fan, whose last wish was trip to Dunedin, has died",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/baseball/toronto-blue-jays/blue-jays-fan-last-wish-dunedin-trip-dies",
-      "published_date": "2026-05-09T00:38:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver police jail guard sentenced to house arrest for repeatedly punching girl in stomach",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/vancouver-police-jail-guard-sentenced-to-house-arrest-for-repeatedly-punching-girl-in-stomach",
-      "published_date": "2026-05-09T00:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chilliwack RCMP seek intel for Inez mural defaced on Red Dress Day",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/chilliwack-rcmp-seek-intel-for-inez-mural-defaced-on-red-dress-day/",
-      "published_date": "2026-05-08T23:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feds take Penticton shooting range to court over land use",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/feds-take-penticton-shooting-range-to-court-over-land-use/",
-      "published_date": "2026-05-08T23:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sooke man given 4 years in prison for fatal shooting of friend",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/sooke-man-given-4-years-in-prison-for-fatal-shooting-of-friend/",
-      "published_date": "2026-05-08T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Doing it for pops’: Victoria News rider Tony Trozzo takes on Tour de Rock",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/doing-it-for-pops-victoria-news-rider-tony-trozzo-takes-on-tour-de-rock/",
-      "published_date": "2026-05-08T23:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Port of Vancouver meth seizure leads to arrest in Australia",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/port-of-vancouver-meth-seizure-leads-to-arrest-in-australia",
-      "published_date": "2026-05-08T23:09:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UBCM, business groups refuse to sign NDAs related to B.C.’s heritage act changes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/ubcm-business-groups-refuse-to-sign-ndas-related-to-b-c-s-heritage-act-changes/",
-      "published_date": "2026-05-08T23:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Vancouver Sun: Instead of reducing CPP premium, Carney should have increased benefit for future retirees",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/letters-to-the-vancouver-sun-instead-of-reducing-cpp-premium-carney-should-have-increased-benefit-for-future-retirees",
-      "published_date": "2026-05-08T23:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Erskine-Smith's Liberal leadership ambitions at stake in Scarborough Southwest",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/erskine-smith-liberal-leadership-ambitions-scarborough-southwest",
-      "published_date": "2026-05-08T22:44:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cory Smockum gets determinate dangerous offender sentence for attempted murder",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/cory-smockum-gets-determinate-dangerous-offender-sentence-for-attempted-murder",
-      "published_date": "2026-05-08T22:37:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crime briefs: Police ID suspects after eight-year-old assaulted at Kreepy Kastle",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime-briefs-police-id-suspects-after-eight-year-old-assaulted-at-kreepy-kastle",
-      "published_date": "2026-05-08T22:27:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HUNTER: Dirtbags R Us – notes and observations from the crime world",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/hunter-dirtbags-r-us-observations-crime-world",
-      "published_date": "2026-05-08T22:15:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna RCMP officer told to resign or be fired after 2 impaired driving infractions",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/kelowna-rcmp-officer-told-to-resign-or-be-fired-after-2-impaired-driving-infractions/",
-      "published_date": "2026-05-08T21:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huskies QB learns from the vets at Roughriders rookie training camp",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/huskies-qb-jake-farrell-takes-part-in-roughriders-rookie-training-camp",
-      "published_date": "2026-05-08T21:20:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Covered Bridge Potato Chips says steps taken to reduce disruptions to nearby residents",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/covered-bridge-potato-chips-steps-taken-disruptions-residents",
-      "published_date": "2026-05-08T21:18:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cricket league started in 1914 doesn&#039;t have to accept players from new league: B.C. Appeal Court",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/1914-cricket-league-bc-no-players-new-league",
-      "published_date": "2026-05-08T21:05:35Z",
       "category": "Local Events"
     }
   ]
