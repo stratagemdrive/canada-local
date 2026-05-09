@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-08T23:58:20Z",
+  "generated_at": "2026-05-09T11:39:17Z",
   "country": "Canada",
-  "total_stories": 62,
+  "total_stories": 61,
   "categories": [
     "Diplomacy",
     "Military",
@@ -120,13 +120,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/windsor-mans-homemade-gun-only-technically-capable-of-firing-bullet",
       "published_date": "2026-05-02T12:00:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Man running Vancouver to Ontario for $100K mental health fundraiser",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/01/man-running-vancouver-to-ontario-for-100k-mental-health-fundraiser/",
-      "published_date": "2026-05-02T00:40:00Z",
       "category": "Military"
     },
     {
@@ -305,6 +298,41 @@
       "category": "Economy"
     },
     {
+      "title": "Windsor police bust uncovers $50K in drugs, replica firearms",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-bust-uncovers-50k-in-drugs-replica-firearms",
+      "published_date": "2026-05-09T11:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coast Guard responds after fishing boat crashes into rock in Barkley Sound",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/coast-guard-responds-after-fishing-boat-crashes-into-rock-in-barkley-sound/",
+      "published_date": "2026-05-09T04:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alanis Morissette, Michael Bublé to perform at Canada's first World Cup match",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/soccer/alanis-morissette-michael-buble-canada-world-cup-match",
+      "published_date": "2026-05-09T01:04:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young Blue Jays fan, whose last wish was trip to Dunedin, has died",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/baseball/toronto-blue-jays/blue-jays-fan-last-wish-dunedin-trip-dies",
+      "published_date": "2026-05-09T00:38:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver police jail guard sentenced to house arrest for repeatedly punching girl in stomach",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/vancouver-police-jail-guard-sentenced-to-house-arrest-for-repeatedly-punching-girl-in-stomach",
+      "published_date": "2026-05-09T00:00:14Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Chilliwack RCMP seek intel for Inez mural defaced on Red Dress Day",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/08/chilliwack-rcmp-seek-intel-for-inez-mural-defaced-on-red-dress-day/",
@@ -407,41 +435,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/1914-cricket-league-bc-no-players-new-league",
       "published_date": "2026-05-08T21:05:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police, enforcement officers hand out 46 tickets during one-day blitz",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/police-enforcement-officers-46-tickets-one-day-blitz",
-      "published_date": "2026-05-08T20:35:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VicPD officer charged with sexual assault following yearlong investigation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/vicpd-officer-charged-with-sexual-assault-following-yearlong-investigation/",
-      "published_date": "2026-05-08T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver seeks feedback on development of 22-storey pod hotel downtown",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-seeks-feedback-22-storey-pod-hotel-downtown",
-      "published_date": "2026-05-08T20:24:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verdict in trial of three men accused of first-degree murder in killing of Abbotsford couple",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/verdict-trial-men-accused-murder-abbotsford-couple",
-      "published_date": "2026-05-08T19:40:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 Surrey men convicted of killing senior Abbotsford couple",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/3-surrey-men-convicted-of-killing-senior-abbotsford-couple/",
-      "published_date": "2026-05-08T19:40:00Z",
       "category": "Local Events"
     }
   ]
