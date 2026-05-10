@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T11:38:47Z",
+  "generated_at": "2026-05-10T23:55:55Z",
   "country": "Canada",
   "total_stories": 63,
   "categories": [
@@ -30,6 +30,13 @@
       "url": "https://torontosun.com/news/national/china-irritation-with-canada-taiwan-issue",
       "published_date": "2026-05-04T20:32:13Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR UPDATES: Trump calls Iran response to latest U.S. proposal 'totally unacceptable'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-iran-responds-to-latest-u-s-proposal-netanyahu-warns-war-not-over",
+      "published_date": "2026-05-10T18:46:38Z",
+      "category": "Military"
     },
     {
       "title": "KINSELLA: Palestine Action designated a terror group in U.K. but not Canada",
@@ -123,13 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: Cargo ship near Strait of Hormuz reports attack as Iran says U.S. has responded to Tehran's proposal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-cargo-ship-near-strait-of-hormuz-reports-attack-as-details-of-irans-latest-proposal-released",
-      "published_date": "2026-05-03T18:07:16Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. climate news: FortisBC violating environmental permit for more than a year &#124; Forecasters predict severe weather with strong El Niño",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/climate-change-news-may-10-26",
@@ -170,6 +170,13 @@
       "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-is-failing-its-students-on-climate-education",
       "published_date": "2026-05-05T23:00:17Z",
       "category": "Energy"
+    },
+    {
+      "title": "Opinion: Mother’s Day not all celebration for farm-worker women in B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-mothers-day-not-celebration-for-farm-worker-women-bc",
+      "published_date": "2026-05-10T15:00:54Z",
+      "category": "Economy"
     },
     {
       "title": "Major Vancouver real estate developer in &#039;financially precarious position,&#039; former executive claims in court filings",
@@ -305,11 +312,130 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: Mark Carney pushes Euro-style agenda again with veiled jab at U.S.",
+      "title": "How to spot some of the warning signs of human trafficking",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-pushes-euro-style-agenda",
-      "published_date": "2026-05-04T22:02:04Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/how-to-spot-some-of-the-warning-signs-of-human-trafficking",
+      "published_date": "2026-05-10T23:49:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sask. RCMP charges Turnor Lake man with manslaughter",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/crime/sask-rcmp-charges-turnor-lake-man-with-manslaughter",
+      "published_date": "2026-05-10T23:21:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria cop facing sexual assault charge over off-duty incident",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/victoria-cop-facing-sexual-assault-charge-over-off-duty-incident",
+      "published_date": "2026-05-10T23:12:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peel Region's anti-human trafficking hub set to reveal 'significant expansion'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/peel-region-trafficking-hub-pearson-expansion",
+      "published_date": "2026-05-10T22:30:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey mayor looks to expedite approvals of medical clinics in city-owned buildings",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-mayor-expedite-approvals-medical-clinics-city-owned-buildings",
+      "published_date": "2026-05-10T21:44:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HAMMER: Why won't Barack Obama go away?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/why-wont-barack-obama-go-away",
+      "published_date": "2026-05-10T20:00:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four Canadians from hantavirus-hit cruise ship to quarantine in B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/four-canadians-hantavirus-cruise-ship-quarantine-bc",
+      "published_date": "2026-05-10T20:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "4 from cruise ship struck by hantavirus arriving in B.C. for 21-day isolation period",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/4-from-cruise-ship-struck-by-hantavirus-arriving-in-b-c-for-21-day-isolation-period/",
+      "published_date": "2026-05-10T18:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ontario murder suspects might have fled to B.C., police say",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ontario-murder-suspects-might-have-fled-to-bc-police-say",
+      "published_date": "2026-05-10T17:51:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two men critically injured in shooting at Surrey gas station",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/two-men-critically-injured-in-shooting-at-surrey-gas-station",
+      "published_date": "2026-05-10T17:12:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadians on cruise ship hit by hantavirus arrive in Quebec, set to be flown to B.C.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadians-on-cruise-ship-hit-by-hantavirus-on-flight-to-quebec",
+      "published_date": "2026-05-10T15:46:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toddler dead after falling from North York high-rise",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/man-dead-oshawwa-tim-hortons-altercation",
+      "published_date": "2026-05-10T15:43:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: Whistler mom moves mountains for her daughter and others",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-is-there-a-charity-youre-passionate-about",
+      "published_date": "2026-05-10T15:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Glenn Gould prize winner Elton John on Canada: 'It’s not the 51st state'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/elton-john-glenn-gould-prize-winner-speaks-about-canada",
+      "published_date": "2026-05-10T14:16:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 36, charged following knife incident in Windsor's Riverside Park area",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/woman-36-charged-following-knife-incident-in-windsors-riverside-park-area",
+      "published_date": "2026-05-10T14:16:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why U.S. anger over Canada’s alcohol bans still lingers",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/why-u-s-anger-over-canadas-alcohol-bans-still-lingers",
+      "published_date": "2026-05-10T13:55:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Slain Windsor teen remembered as 'fun and full of life'",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/slain-windsor-teen-remembered-as-fun-and-full-of-life",
+      "published_date": "2026-05-10T13:52:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: A tribute to Mom on Mother’s Day",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/quiz-a-tribute-to-mom-on-mothers-day/",
+      "published_date": "2026-05-10T12:20:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Kelowna can proceed with case against ‘Freedom Rally’ protester",
@@ -323,132 +449,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/delta-crash-motorcycle-traffic-lights",
       "published_date": "2026-05-10T00:45:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over $846K of contraband seized at Sask. penitentiary in Prince Albert",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/over-846k-of-contraband-seized-at-sask-penitentiary-in-prince-albert",
-      "published_date": "2026-05-09T22:39:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayoral hopeful Brad Bradford calls out Olivia Chow over road repair schedule",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mayoral-hopeful-brad-bradford-olivia-chow-road-repair-schedule",
-      "published_date": "2026-05-09T21:03:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Our leaders have failed Canada’s Jews",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/editorial-politicians-leaders-failed-canadas-jews-antisemitism-normalized",
-      "published_date": "2026-05-09T20:30:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gavin McKenna's mom allegedly snuck teen hockey phenom alcohol at Pennsylvania bar",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/gavin-mckenna-mom-krystal-allegedly-snuck-teen-alcohol-bar-assault",
-      "published_date": "2026-05-09T20:11:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former B.C. chiropractor appeals sexual assault conviction",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/former-b-c-chiropractor-appeals-sexual-assault-conviction/",
-      "published_date": "2026-05-09T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lotto Max ticket worth a cool $70M sold in Brampton",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/lotto-max-ticket-70-million-sold-brampton",
-      "published_date": "2026-05-09T19:01:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Tempo’s historic WNBA debut ends in 68-65 loss",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/toronto-tempo-loses-inaugural-wnba-game-65-68/",
-      "published_date": "2026-05-09T18:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Giants fined after scout makes ‘inappropriate remarks’ to female reporter",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/vancouver-giants-fined-after-scout-makes-inappropriate-remarks-to-female-reporter/",
-      "published_date": "2026-05-09T18:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada to create new Financial Crimes Agency, but will it have a B.C. base?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/canada-to-create-new-financial-crimes-agency-but-will-it-have-a-bc-base",
-      "published_date": "2026-05-09T15:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Was beloved funk musician a secret serial killer?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-beloved-funk-musician-secret-serial-killer",
-      "published_date": "2026-05-09T14:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letter: Newcomers not causing homelessness in Saskatchewan",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/letters/letters-newcomers-not-causing-homelessness-in-saskatchewan",
-      "published_date": "2026-05-09T14:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHAUDHRI: Double-dipping loophole in settlement agreements",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/chaudhri-double-dipping-loophole-settlement-agreements",
-      "published_date": "2026-05-09T13:59:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HUNTER: Cops thwart Pakistani man, others allegedly smuggling guns into Canada",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/hunter-new-york-pakistani-man-others-arrested-gun-smuggling-canada",
-      "published_date": "2026-05-09T13:38:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VUONG: Canada drew a line on anti-Asian hate, why not on anti-Jewish violence?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canada-drew-line-anti-asian-hate-not-anti-jewish-violence",
-      "published_date": "2026-05-09T13:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Time to foster healthier long-term care environments",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/letters/opinion-time-to-foster-healthier-long-term-care-environments",
-      "published_date": "2026-05-09T13:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Historic Barkerville businesses enter new era under Lhtako Dene Nation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/historic-barkerville-businesses-enter-new-era-under-lhtako-dene-nation/",
-      "published_date": "2026-05-09T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake Public Library hosts annual seed, plant exchange",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/burns-lake-public-library-hosts-annual-seed-plant-exchange/",
-      "published_date": "2026-05-09T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake, Southside wildfire documentary premieres, wins big in Texas festival",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/burns-lake-southside-wildfire-documentary-premieres-wins-big-in-texas-festival/",
-      "published_date": "2026-05-09T12:30:00Z",
       "category": "Local Events"
     }
   ]
