@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T23:53:35Z",
+  "generated_at": "2026-05-10T11:38:47Z",
   "country": "Canada",
   "total_stories": 63,
   "categories": [
@@ -312,6 +312,20 @@
       "category": "Economy"
     },
     {
+      "title": "Kelowna can proceed with case against ‘Freedom Rally’ protester",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/kelowna-can-proceed-with-case-against-freedom-rally-protester/",
+      "published_date": "2026-05-10T02:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delta crash sends motorcyclist to hospital, leaves bike suspended in traffic lights",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/delta-crash-motorcycle-traffic-lights",
+      "published_date": "2026-05-10T00:45:51Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Over $846K of contraband seized at Sask. penitentiary in Prince Albert",
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/crime/over-846k-of-contraband-seized-at-sask-penitentiary-in-prince-albert",
@@ -382,6 +396,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Letter: Newcomers not causing homelessness in Saskatchewan",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/letters/letters-newcomers-not-causing-homelessness-in-saskatchewan",
+      "published_date": "2026-05-09T14:00:11Z",
+      "category": "Local Events"
+    },
+    {
       "title": "CHAUDHRI: Double-dipping loophole in settlement agreements",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/chaudhri-double-dipping-loophole-settlement-agreements",
@@ -428,27 +449,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/09/burns-lake-southside-wildfire-documentary-premieres-wins-big-in-texas-festival/",
       "published_date": "2026-05-09T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No cap: B.C. capital low-key one of world’s top cities for Gen Z to live, slay",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/no-cap-b-c-capital-low-key-one-of-worlds-top-cities-for-gen-z-to-live-slay/",
-      "published_date": "2026-05-09T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police bust uncovers $50K in drugs, replica firearms",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-bust-uncovers-50k-in-drugs-replica-firearms",
-      "published_date": "2026-05-09T11:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coast Guard responds after fishing boat crashes into rock in Barkley Sound",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/coast-guard-responds-after-fishing-boat-crashes-into-rock-in-barkley-sound/",
-      "published_date": "2026-05-09T04:45:00Z",
       "category": "Local Events"
     }
   ]
