@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-10T23:55:55Z",
+  "generated_at": "2026-05-11T13:35:38Z",
   "country": "Canada",
-  "total_stories": 63,
+  "total_stories": 66,
   "categories": [
     "Diplomacy",
     "Military",
@@ -30,6 +30,20 @@
       "url": "https://torontosun.com/news/national/china-irritation-with-canada-taiwan-issue",
       "published_date": "2026-05-04T20:32:13Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Body of U.S. soldier missing in Morocco after cliff fall found in ocean",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/missing-american-soldier-morocco-found",
+      "published_date": "2026-05-11T12:06:31Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR: U.S. rejects Iranian proposal ahead of Trump’s China trip",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-may11",
+      "published_date": "2026-05-11T11:28:43Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: Trump calls Iran response to latest U.S. proposal 'totally unacceptable'",
@@ -123,11 +137,18 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: U.S.-led task force tells ships to reroute on first day of reopening Strait of Hormuz",
+      "title": "B.C.&#039;s new natural gas royalties to take effect in 2027: What are they?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/bc-new-natural-gas-royalties-to-take-effect-in-2027-what-are-they",
+      "published_date": "2026-05-11T13:00:30Z",
+      "category": "Energy"
+    },
+    {
+      "title": "CHARLEBOIS: Canada’s costly climate gamble on food needs to end",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-may-4",
-      "published_date": "2026-05-04T11:18:41Z",
-      "category": "Military"
+      "url": "https://torontosun.com/opinion/columnists/canadas-costly-climage-gamble-on-food-must-end",
+      "published_date": "2026-05-11T10:00:54Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. climate news: FortisBC violating environmental permit for more than a year &#124; Forecasters predict severe weather with strong El Niño",
@@ -170,6 +191,13 @@
       "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-is-failing-its-students-on-climate-education",
       "published_date": "2026-05-05T23:00:17Z",
       "category": "Energy"
+    },
+    {
+      "title": "From heartbreak to hero: Kelowna ‘Super Mom’ fights for Children’s Miracle Network",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/from-heartbreak-to-hero-kelowna-super-mom-fights-for-childrens-miracle-network/",
+      "published_date": "2026-05-10T21:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: Mother’s Day not all celebration for farm-worker women in B.C.",
@@ -305,11 +333,102 @@
       "category": "Economy"
     },
     {
-      "title": "U.S. tribes demand a say in key B.C. economic decisions",
+      "title": "LILLEY: We shouldn't let underage non-citizens vote in party nominations",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/underage-non-citizens-vote-ontario-party-nominations",
+      "published_date": "2026-05-11T13:14:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "For those near B.C. Place, the World Cup brings both buzz and strain",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/us-tribes-demand-say-key-bc-economic-decisions",
-      "published_date": "2026-05-05T00:14:04Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/residents-bc-place-world-cup-buzz-strain",
+      "published_date": "2026-05-11T13:00:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disney cruise cancelled after passengers had already boarded ship",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/disney-adventure-cruise-cancelled-passengers-boarded",
+      "published_date": "2026-05-11T12:55:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leamington man charged after collision with cyclist",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/leamington-man-charged-after-collision-with-cyclist",
+      "published_date": "2026-05-11T12:51:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renters frantic after promised repairs never materialized on Langley City home",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/11/renters-frantic-after-promised-repairs-never-materialized-on-langley-city-home/",
+      "published_date": "2026-05-11T12:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Building nostalgia brick-by-brick: Saskatoon man recreates local landmarks with Lego",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/building-nostalgia-brick-by-brick-saskatoon-man-recreates-local-landmarks-with-lego",
+      "published_date": "2026-05-11T12:00:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farmers fear fertilizer costs will eat up profits, wipe out some growers",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/farmers-fear-fertilizer-costs-will-eat-up-profits-wipe-out-some-growers",
+      "published_date": "2026-05-11T11:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: B.C. Amber Alert out of Terrace cancelled after twins located safe",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/11/amber-alert-issued-across-b-c-after-twins-reported-missing-from-terrace/",
+      "published_date": "2026-05-11T08:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Missing snowmobiler found dead in northwestern B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/missing-snowmobiler-found-dead-in-northwestern-bc",
+      "published_date": "2026-05-11T04:33:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police rescue boaters after vessel capsizes",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-rescue-boaters-after-vessel-capsizes",
+      "published_date": "2026-05-11T04:18:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police seek help in identifying 7 theft suspects",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-help-in-identifying-7-theft-suspects",
+      "published_date": "2026-05-11T04:01:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservatives strip Independent Penticton MLA Boultbee’s membership",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/b-c-conservatives-strip-independent-penticton-mla-boultbees-membership/",
+      "published_date": "2026-05-11T03:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Councillor Parthi Kandavel says he's facing provincial police probe",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-councillor-parthi-kandavel-opp-probe",
+      "published_date": "2026-05-11T02:28:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Missing snowmobiler seperated from group along Yukon boarder found deceased",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/rcmp-join-forces-to-search-for-missing-snowmobiler-along-yukon-boarder/",
+      "published_date": "2026-05-11T00:40:00Z",
+      "category": "Local Events"
     },
     {
       "title": "How to spot some of the warning signs of human trafficking",
@@ -351,104 +470,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/why-wont-barack-obama-go-away",
       "published_date": "2026-05-10T20:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four Canadians from hantavirus-hit cruise ship to quarantine in B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/four-canadians-hantavirus-cruise-ship-quarantine-bc",
-      "published_date": "2026-05-10T20:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 from cruise ship struck by hantavirus arriving in B.C. for 21-day isolation period",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/4-from-cruise-ship-struck-by-hantavirus-arriving-in-b-c-for-21-day-isolation-period/",
-      "published_date": "2026-05-10T18:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario murder suspects might have fled to B.C., police say",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/ontario-murder-suspects-might-have-fled-to-bc-police-say",
-      "published_date": "2026-05-10T17:51:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men critically injured in shooting at Surrey gas station",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/two-men-critically-injured-in-shooting-at-surrey-gas-station",
-      "published_date": "2026-05-10T17:12:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadians on cruise ship hit by hantavirus arrive in Quebec, set to be flown to B.C.",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadians-on-cruise-ship-hit-by-hantavirus-on-flight-to-quebec",
-      "published_date": "2026-05-10T15:46:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toddler dead after falling from North York high-rise",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/man-dead-oshawwa-tim-hortons-altercation",
-      "published_date": "2026-05-10T15:43:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Whistler mom moves mountains for her daughter and others",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-is-there-a-charity-youre-passionate-about",
-      "published_date": "2026-05-10T15:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Glenn Gould prize winner Elton John on Canada: 'It’s not the 51st state'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/elton-john-glenn-gould-prize-winner-speaks-about-canada",
-      "published_date": "2026-05-10T14:16:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 36, charged following knife incident in Windsor's Riverside Park area",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/woman-36-charged-following-knife-incident-in-windsors-riverside-park-area",
-      "published_date": "2026-05-10T14:16:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why U.S. anger over Canada’s alcohol bans still lingers",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/why-u-s-anger-over-canadas-alcohol-bans-still-lingers",
-      "published_date": "2026-05-10T13:55:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Slain Windsor teen remembered as 'fun and full of life'",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/slain-windsor-teen-remembered-as-fun-and-full-of-life",
-      "published_date": "2026-05-10T13:52:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: A tribute to Mom on Mother’s Day",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/quiz-a-tribute-to-mom-on-mothers-day/",
-      "published_date": "2026-05-10T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna can proceed with case against ‘Freedom Rally’ protester",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/09/kelowna-can-proceed-with-case-against-freedom-rally-protester/",
-      "published_date": "2026-05-10T02:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delta crash sends motorcyclist to hospital, leaves bike suspended in traffic lights",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/delta-crash-motorcycle-traffic-lights",
-      "published_date": "2026-05-10T00:45:51Z",
       "category": "Local Events"
     }
   ]
