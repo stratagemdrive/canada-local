@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-11T13:35:38Z",
+  "generated_at": "2026-05-12T00:01:15Z",
   "country": "Canada",
-  "total_stories": 66,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -25,11 +25,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China's irritation with Canada sign of anxiety over close Taiwan ties: Official",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/china-irritation-with-canada-taiwan-issue",
-      "published_date": "2026-05-04T20:32:13Z",
-      "category": "Diplomacy"
+      "title": "Windsor honours memory of Canada's Boer War soldiers",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-honours-memory-of-canadas-boer-war-soldiers",
+      "published_date": "2026-05-11T17:38:31Z",
+      "category": "Military"
+    },
+    {
+      "title": "Looksmaxxing, the Manosphere, and deconstructing rape culture in Sask.",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/looksmaxxing-the-manosphere-and-deconstructing-rape-culture-in-sask",
+      "published_date": "2026-05-11T16:33:21Z",
+      "category": "Military"
     },
     {
       "title": "Body of U.S. soldier missing in Morocco after cliff fall found in ocean",
@@ -193,6 +200,20 @@
       "category": "Energy"
     },
     {
+      "title": "Improved baggage system, new aircraft stands part of Pearson's $3B facelift",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/pearson-airport-announces-3-billion-dollar-improvements",
+      "published_date": "2026-05-11T22:34:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "AI announcement promises &#039;significant&#039; jobs, economic growth to B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/telus-ai-announcement",
+      "published_date": "2026-05-11T17:26:37Z",
+      "category": "Economy"
+    },
+    {
       "title": "From heartbreak to hero: Kelowna ‘Super Mom’ fights for Children’s Miracle Network",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/10/from-heartbreak-to-hero-kelowna-super-mom-fights-for-childrens-miracle-network/",
@@ -319,157 +340,143 @@
       "category": "Economy"
     },
     {
-      "title": "Tracker leaving Vancouver for L.A. a big blow to Hollywood North",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/tracker-tv-series-moving-vancouver-california",
-      "published_date": "2026-05-05T20:49:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "'Generational investment' — Ottawa's new $6B trades plan could grow skilled trades training, jobs in Windsor-Essex",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/generational-investment-ottawas-new-6b-trades-plan-could-grow-skilled-trades-training-jobs-in-windsor-essex",
-      "published_date": "2026-05-05T14:15:32Z",
-      "category": "Economy"
-    },
-    {
-      "title": "LILLEY: We shouldn't let underage non-citizens vote in party nominations",
+      "title": "Trump defends love of junk food in rambling White House talk",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/underage-non-citizens-vote-ontario-party-nominations",
-      "published_date": "2026-05-11T13:14:02Z",
+      "url": "https://torontosun.com/news/world/trump-defends-love-of-junk-food-in-rambling-white-house-talk",
+      "published_date": "2026-05-11T23:57:12Z",
       "category": "Local Events"
     },
     {
-      "title": "For those near B.C. Place, the World Cup brings both buzz and strain",
+      "title": "Female police officers in B.C. Appeal Court to fight for class-action case against sex abuse",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/residents-bc-place-world-cup-buzz-strain",
-      "published_date": "2026-05-11T13:00:38Z",
+      "url": "https://vancouversun.com/news/female-police-officers-bc-appeal-court-class-action-case-against-sex-abuse",
+      "published_date": "2026-05-11T23:41:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Disney cruise cancelled after passengers had already boarded ship",
+      "title": "Rachel Dolezal closing in on sex coach certification after latest career pivot",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/disney-adventure-cruise-cancelled-passengers-boarded",
-      "published_date": "2026-05-11T12:55:09Z",
+      "url": "https://torontosun.com/news/world/rachel-dolezal-chasing-sex-coach-career",
+      "published_date": "2026-05-11T23:32:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Leamington man charged after collision with cyclist",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/leamington-man-charged-after-collision-with-cyclist",
-      "published_date": "2026-05-11T12:51:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renters frantic after promised repairs never materialized on Langley City home",
+      "title": "Man accused of B.C. double murder struggles to represent himself in court",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/11/renters-frantic-after-promised-repairs-never-materialized-on-langley-city-home/",
-      "published_date": "2026-05-11T12:05:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/11/man-accused-of-b-c-double-murder-struggles-to-represent-himself-in-court/",
+      "published_date": "2026-05-11T23:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Building nostalgia brick-by-brick: Saskatoon man recreates local landmarks with Lego",
+      "title": "LILLEY: Carney and Co. can't afford to wing it on airport privatization",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-government-has-short-list-of-airports-to-privatize-needs-partners",
+      "published_date": "2026-05-11T23:11:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with suspected hate-motivated mischief; info sought on fatal crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/toronto-man-charged-hate-motivated-mischief",
+      "published_date": "2026-05-11T23:01:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Five B.C. Conservative candidates offer distinct choices for party voters",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-five-bc-conservative-candidates-offer-distinct-choices-for-party-voters",
+      "published_date": "2026-05-11T22:51:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria Day: What's open, closed, where to see fireworks or go explore",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/victoria-day-whats-open-closed-where-to-see-fireworks-or-go-explore",
+      "published_date": "2026-05-11T22:45:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Birch Narrows chief calls for support after homicide in Turnor Lake",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/building-nostalgia-brick-by-brick-saskatoon-man-recreates-local-landmarks-with-lego",
-      "published_date": "2026-05-11T12:00:29Z",
+      "url": "https://thestarphoenix.com/news/saskatchewan/birch-narrows-chief-calls-for-support-after-homicide-in-turnor-lake",
+      "published_date": "2026-05-11T22:40:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Farmers fear fertilizer costs will eat up profits, wipe out some growers",
+      "title": "Fire out at Thorncliffe Park highrises, officials say",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/fire-out-at-thorncliffe-park-highrises-officials-say",
+      "published_date": "2026-05-11T22:12:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Las Vegas tries to lure Canadian travellers with dollar-at-par deals",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/las-vegas-lures-canadian-travellers-with-dollar-at-par-deals",
+      "published_date": "2026-05-11T22:09:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Critics raise stink about Gavin Newsom's diaper plan",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/critics-raise-stink-about-newsoms-diaper-plan",
+      "published_date": "2026-05-11T22:02:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weekend roundup: Huskies players, coaches pick up win in East-West Bowl",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/farmers-fear-fertilizer-costs-will-eat-up-profits-wipe-out-some-growers",
-      "published_date": "2026-05-11T11:00:16Z",
+      "url": "https://thestarphoenix.com/sports/weekend-roundup-huskies-players-coaches-pick-up-win-in-east-west-bowl",
+      "published_date": "2026-05-11T21:47:50Z",
       "category": "Local Events"
     },
     {
-      "title": "UPDATE: B.C. Amber Alert out of Terrace cancelled after twins located safe",
+      "title": "Gull power: Seagull screamer soars to victory in B.C. capital contest",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/11/amber-alert-issued-across-b-c-after-twins-reported-missing-from-terrace/",
-      "published_date": "2026-05-11T08:19:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/11/gull-power-seagull-screamer-soars-to-victory-in-b-c-capital-contest/",
+      "published_date": "2026-05-11T20:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Missing snowmobiler found dead in northwestern B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/missing-snowmobiler-found-dead-in-northwestern-bc",
-      "published_date": "2026-05-11T04:33:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police rescue boaters after vessel capsizes",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-rescue-boaters-after-vessel-capsizes",
-      "published_date": "2026-05-11T04:18:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seek help in identifying 7 theft suspects",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-help-in-identifying-7-theft-suspects",
-      "published_date": "2026-05-11T04:01:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives strip Independent Penticton MLA Boultbee’s membership",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/b-c-conservatives-strip-independent-penticton-mla-boultbees-membership/",
-      "published_date": "2026-05-11T03:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Councillor Parthi Kandavel says he's facing provincial police probe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-councillor-parthi-kandavel-opp-probe",
-      "published_date": "2026-05-11T02:28:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Missing snowmobiler seperated from group along Yukon boarder found deceased",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/rcmp-join-forces-to-search-for-missing-snowmobiler-along-yukon-boarder/",
-      "published_date": "2026-05-11T00:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to spot some of the warning signs of human trafficking",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/how-to-spot-some-of-the-warning-signs-of-human-trafficking",
-      "published_date": "2026-05-10T23:49:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sask. RCMP charges Turnor Lake man with manslaughter",
+      "title": "Construction on seven new ICU beds at RUH to begin this week",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/sask-rcmp-charges-turnor-lake-man-with-manslaughter",
-      "published_date": "2026-05-10T23:21:21Z",
+      "url": "https://thestarphoenix.com/news/local-news/construction-on-seven-new-icu-beds-at-ruh-to-begin-this-week",
+      "published_date": "2026-05-11T20:02:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Victoria cop facing sexual assault charge over off-duty incident",
+      "title": "Upper Ottawa Valley OPP launches traffic blitz ahead of Victoria Day weekend",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/upper-ottawa-valley-opp-launches-traffic-blitz-ahead-of-victoria-day-weekend",
+      "published_date": "2026-05-11T19:46:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four passengers from hantavirus-hit cruise ship arrive in B.C.",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/victoria-cop-facing-sexual-assault-charge-over-off-duty-incident",
-      "published_date": "2026-05-10T23:12:24Z",
+      "url": "https://vancouversun.com/news/four-passengers-hantavirus-hit-cruise-ship-arrive-bc",
+      "published_date": "2026-05-11T19:35:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Peel Region's anti-human trafficking hub set to reveal 'significant expansion'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/peel-region-trafficking-hub-pearson-expansion",
-      "published_date": "2026-05-10T22:30:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey mayor looks to expedite approvals of medical clinics in city-owned buildings",
+      "title": "‘Lipstick on a pig’: Gastown&#039;s Blood Alley gets a facelift, but old tensions remain",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-mayor-expedite-approvals-medical-clinics-city-owned-buildings",
-      "published_date": "2026-05-10T21:44:34Z",
+      "url": "https://vancouversun.com/news/lipstick-on-a-pig-gastowns-blood-alley-gets-a-facelift-but-old-tensions-remain",
+      "published_date": "2026-05-11T19:29:28Z",
       "category": "Local Events"
     },
     {
-      "title": "HAMMER: Why won't Barack Obama go away?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/why-wont-barack-obama-go-away",
-      "published_date": "2026-05-10T20:00:50Z",
+      "title": "Fishing net defies time, resurfaces after 2,000 years in Tsawwassen",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/fishing-net-resurfaces-2000-years-tsawwassen",
+      "published_date": "2026-05-11T19:23:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke firefighters extinguish Renfrew Street kitchen fire",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-firefighters-extinguish-renfrew-street-kitchen-fire",
+      "published_date": "2026-05-11T19:22:30Z",
       "category": "Local Events"
     }
   ]
