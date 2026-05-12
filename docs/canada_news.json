@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-12T00:01:15Z",
+  "generated_at": "2026-05-12T12:59:08Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,13 @@
       "url": "https://vancouversun.com/news/new-overdose-prevention-site-faces-threat-of-lawsuit-but-top-doctor-pushes-back",
       "published_date": "2026-05-08T00:18:03Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Kuwait accuses Iran of sending Revolutionary Guard to attack island",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-may-12",
+      "published_date": "2026-05-12T11:25:45Z",
+      "category": "Military"
     },
     {
       "title": "Windsor honours memory of Canada's Boer War soldiers",
@@ -200,6 +207,20 @@
       "category": "Energy"
     },
     {
+      "title": "Young nurses are hanging up their scrubs at alarming rates",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/national-nursing-week/young-nurses-are-hanging-up-their-scrubs-at-alarming-rates",
+      "published_date": "2026-05-12T12:30:26Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Keir Starmer facing growing calls to resign as British prime minister",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/keir-starmer-facing-growing-resignation-calls",
+      "published_date": "2026-05-12T02:08:40Z",
+      "category": "Economy"
+    },
+    {
       "title": "Improved baggage system, new aircraft stands part of Pearson's $3B facelift",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/pearson-airport-announces-3-billion-dollar-improvements",
@@ -326,18 +347,74 @@
       "category": "Economy"
     },
     {
-      "title": "&#039;Precarious labour&#039;: B.C.&#039;s female farm workers at risk, new report says",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/local-business/bc-female-farm-workers-at-risk-new-report-says",
-      "published_date": "2026-05-06T13:00:40Z",
-      "category": "Economy"
+      "title": "Seven GTA residents accused taking bribes in provincial driving tests",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/seven-gta-residents-fraud-provincial-driving-tests-opp",
+      "published_date": "2026-05-12T12:55:08Z",
+      "category": "Local Events"
     },
     {
-      "title": "‘Canadian experience’ keeps skilled immigrants out of the labour market",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/05/05/canadian-experience-keeps-skilled-immigrants-out-of-the-labour-market/",
-      "published_date": "2026-05-06T02:02:44Z",
-      "category": "Economy"
+      "title": "Nurses need a stronger mandate to transform health care in Canada: CNA",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/national-nursing-week/nurses-need-a-stronger-mandate-to-transform-health-care-in-canada-cna",
+      "published_date": "2026-05-12T12:34:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "USask nursing grad blazed trail for forensic nursing in Canada",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/national-nursing-week/usask-nursing-grad-blazed-trail-for-forensic-nursing-in-canada",
+      "published_date": "2026-05-12T12:32:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Survey report unveils near-universal experience of abuse among nurses",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/national-nursing-week/survey-report-unveils-near-universal-experience-of-abuse-among-nurses",
+      "published_date": "2026-05-12T12:31:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Virtual reality is transforming nursing education",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/national-nursing-week/virtual-reality-is-transforming-nursing-education",
+      "published_date": "2026-05-12T12:29:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arcadia, California mayor Eileen Wang quits after Chinese agent charge",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/arcadia-california-mayor-eileen-wang-quits-chinese-agent-charge",
+      "published_date": "2026-05-12T12:14:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Owner uses dance background to empower clients at Rhythm Physio",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/local-business/owner-uses-dance-background-to-empower-clients-at-rhythm-physio",
+      "published_date": "2026-05-12T12:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Teen accused of pellet gun shooting at synagogue bailed out for $2,000",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/teen-accused-synagogue-shooting-gets-bail",
+      "published_date": "2026-05-12T01:38:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nate Erskine-Smith urged to 'prove it' after casting doubt on nomination race",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/nate-erskine-smith-ontario-liberal-controversy",
+      "published_date": "2026-05-12T00:53:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oakridge Park is officially opening later this month",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/oakridge-park-officially-opening-this-month",
+      "published_date": "2026-05-12T00:36:10Z",
+      "category": "Local Events"
     },
     {
       "title": "Trump defends love of junk food in rambling White House talk",
@@ -407,76 +484,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/fire-out-at-thorncliffe-park-highrises-officials-say",
       "published_date": "2026-05-11T22:12:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las Vegas tries to lure Canadian travellers with dollar-at-par deals",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/las-vegas-lures-canadian-travellers-with-dollar-at-par-deals",
-      "published_date": "2026-05-11T22:09:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Critics raise stink about Gavin Newsom's diaper plan",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/critics-raise-stink-about-newsoms-diaper-plan",
-      "published_date": "2026-05-11T22:02:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weekend roundup: Huskies players, coaches pick up win in East-West Bowl",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/sports/weekend-roundup-huskies-players-coaches-pick-up-win-in-east-west-bowl",
-      "published_date": "2026-05-11T21:47:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gull power: Seagull screamer soars to victory in B.C. capital contest",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/11/gull-power-seagull-screamer-soars-to-victory-in-b-c-capital-contest/",
-      "published_date": "2026-05-11T20:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Construction on seven new ICU beds at RUH to begin this week",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/construction-on-seven-new-icu-beds-at-ruh-to-begin-this-week",
-      "published_date": "2026-05-11T20:02:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Upper Ottawa Valley OPP launches traffic blitz ahead of Victoria Day weekend",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/upper-ottawa-valley-opp-launches-traffic-blitz-ahead-of-victoria-day-weekend",
-      "published_date": "2026-05-11T19:46:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four passengers from hantavirus-hit cruise ship arrive in B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/four-passengers-hantavirus-hit-cruise-ship-arrive-bc",
-      "published_date": "2026-05-11T19:35:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Lipstick on a pig’: Gastown&#039;s Blood Alley gets a facelift, but old tensions remain",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/lipstick-on-a-pig-gastowns-blood-alley-gets-a-facelift-but-old-tensions-remain",
-      "published_date": "2026-05-11T19:29:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fishing net defies time, resurfaces after 2,000 years in Tsawwassen",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/fishing-net-resurfaces-2000-years-tsawwassen",
-      "published_date": "2026-05-11T19:23:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke firefighters extinguish Renfrew Street kitchen fire",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-firefighters-extinguish-renfrew-street-kitchen-fire",
-      "published_date": "2026-05-11T19:22:30Z",
       "category": "Local Events"
     }
   ]
