@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T00:02:56Z",
+  "generated_at": "2026-05-13T13:06:28Z",
   "country": "Canada",
   "total_stories": 68,
   "categories": [
@@ -44,6 +44,13 @@
       "url": "https://vancouversun.com/news/new-overdose-prevention-site-faces-threat-of-lawsuit-but-top-doctor-pushes-back",
       "published_date": "2026-05-08T00:18:03Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Donald Trump will have 'long talk' about Iran with Chinese President Xi Jinping",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-may-13",
+      "published_date": "2026-05-13T11:58:59Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Kuwait accuses Iran of sending Revolutionary Guard to attack island",
@@ -200,11 +207,11 @@
       "category": "Energy"
     },
     {
-      "title": "Early heat wave: B.C. Hydro sets a record for peak May demand",
+      "title": "B.C. courting Qataris and the world through the World Cup",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/early-heat-wave-bc-hydro-sets-a-record-for-peak-may-demand",
-      "published_date": "2026-05-06T00:07:58Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/bc-courting-qataris-and-the-world-through-the-world-cup",
+      "published_date": "2026-05-13T02:20:56Z",
+      "category": "Economy"
     },
     {
       "title": "Total cost of World Cup to B.C. taxpayers to be released by end of May: Eby",
@@ -340,11 +347,109 @@
       "category": "Economy"
     },
     {
-      "title": "Saskatoon firefighters say resources are 'taxed' as overdose numbers continue to spike",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatoon-firefighters-say-resources-are-taxed-as-overdose-numbers-continue-to-spike",
-      "published_date": "2026-05-07T12:00:53Z",
-      "category": "Economy"
+      "title": "Windsor Regional Hospital nurse honoured for 'profound' dedication to patient care",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-regional-hospital-nurse-honoured-for-profound-dedication-to-patient-care",
+      "published_date": "2026-05-13T12:54:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor bank employee thwarts fraud attempt",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-bank-employee-thwarts-fraud-attempt",
+      "published_date": "2026-05-13T12:14:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Child hospitalized, woman arrested after incident in Scarborough",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/child-hospitalized-woman-arrested-scarborough",
+      "published_date": "2026-05-13T11:34:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Possible pit bull mix sought in fatal Toronto dog attack; Image released in Hamilton arson",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/dog-sought-fatal-toronto-attack",
+      "published_date": "2026-05-13T11:21:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Grave concern' — Conservation authority boss warns amalgamation could block Windsor-Essex development",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/grave-concern-conservation-authority-boss-warns-amalgamation-could-block-windsor-essex-development",
+      "published_date": "2026-05-13T11:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke-area woman catches Ace, wins $1M in PRH Foundation lottery",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-area-woman-catches-ace-wins-1m-in-prh-foundation-lottery",
+      "published_date": "2026-05-13T10:55:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dean Lapierre bringing fiddling and history to Bromley Historical Society",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/dean-lapierre-bringing-fiddling-and-history-to-bromley-historical-society",
+      "published_date": "2026-05-13T09:41:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Public Bible reading returns to Pembroke waterfront next month",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/public-bible-reading-returns-to-pembroke-waterfront-next-month",
+      "published_date": "2026-05-13T08:31:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yellowhead mine proposed for Clearwater area ‘still multiple years out’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/12/yellowhead-mine-proposed-for-clearwater-area-still-multiple-years-out/",
+      "published_date": "2026-05-13T02:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man, 24, wanted for assault; Mississauga man accused of defrauding dental office",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-wanted-accused-aggravated-assault",
+      "published_date": "2026-05-13T02:24:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man, 48, charged after menorah damaged at Yorkville community centre",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-charged-menorah-damaged-yorkville",
+      "published_date": "2026-05-13T01:47:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. making progress in extortion fight: roundtable",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/12/b-c-making-progress-in-extortion-fight-roundtable/",
+      "published_date": "2026-05-13T01:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnaby council approves grant to keep Michael J. Fox Theatre open to the public — for now",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/burnaby-council-approves-grant-to-keep-michael-j-fox-theatre-open-to-the-public-for-now",
+      "published_date": "2026-05-13T01:38:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.K.'s PM Starmer digs in as calls for resignation grow",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/u-k-s-pm-starmer-digs-in-as-calls-for-resignation-grow",
+      "published_date": "2026-05-13T01:02:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. tech star Photonic makes splash at Web Summit in time for provincial sales pitch",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/bc-tech-star-photonic-makes-splash-at-web-summit-in-time-for-provincial-sales-pitch",
+      "published_date": "2026-05-13T00:02:52Z",
+      "category": "Local Events"
     },
     {
       "title": "Province recommends grab-and-go kits for evacuations",
@@ -379,111 +484,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/12/bc-place-to-be-handed-over-to-fifa-in-2-days-for-final-touches-before-world-cup/",
       "published_date": "2026-05-12T23:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey council divided on bus rapid transit, as funding remains up in the air",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-council-divided-on-bus-rapid-transit-as-funding-remains-up-in-the-air",
-      "published_date": "2026-05-12T22:43:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI program provided hallucinated notes to Ontario doctors, report says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ai-program-hallucinated-notes-ontario-doctors",
-      "published_date": "2026-05-12T22:40:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This kid was tremendous’: Slain B.C. teen remembered by anti-gang foundation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/12/this-kid-was-tremendous-slain-b-c-teen-remembered-by-anti-gang-foundation/",
-      "published_date": "2026-05-12T22:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Road rage racist rant ‘did not meet threshold of criminal offence’: Kelowna RCMP",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/12/road-rage-racist-rant-did-not-meet-threshold-of-criminal-offence-kelowna-rcmp/",
-      "published_date": "2026-05-12T22:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. residents urged to prepare for potential wildfire-related evacuations",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/12/b-c-residents-urged-to-prepare-for-potential-wildfire-related-evacuations/",
-      "published_date": "2026-05-12T21:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "College drops prof name after he excavated Indigenous site",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/college-drops-prof-name-after-he-excavated-indigenous-site",
-      "published_date": "2026-05-12T21:44:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mark Carney's approval rating as PM slips despite Liberal lead in polls",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/mark-carney-pm-approval-rating-slips",
-      "published_date": "2026-05-12T21:42:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Last of Us stars spotted filming in downtown Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/the-last-of-us-stars-spotted-filming-in-downtown-vancouver",
-      "published_date": "2026-05-12T21:36:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada gets Lay's chips inspired by Canada, France, Argentina, U.K. for FIFA World Cup",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/canada-gets-lays-chips-inspired-canada-france-argentina-u-k-fifa-world-cup",
-      "published_date": "2026-05-12T21:26:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Survivor Greece' contestant loses leg in horrific accident",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/survivor-greece-contestant-loses-leg-in-horrific-accident",
-      "published_date": "2026-05-12T21:20:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "16 players from B.C. among 235 eligible for 2026 PWHL Draft",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/12/15-players-from-b-c-among-235-eligible-for-2026-pwhl-draft/",
-      "published_date": "2026-05-12T20:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver&#039;s Finn Wolfhard cast alongside Bradley Cooper, Ayo Edebiri in 3D-animated film Ally",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vancouver-finn-wolfhard-cast-bradley-cooper-ayo-edebiri-animated-ally",
-      "published_date": "2026-05-12T20:23:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Killer who stabbed teen on Surrey bus gets 8 years",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/12/killer-who-stabbed-teen-on-surrey-bus-gets-8-years/",
-      "published_date": "2026-05-12T20:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Audemars Piguet x Swatch is not what you think: Everything you need to know about the Royal Pop release",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/audemars-piguet-swatch-royal-pop-release",
-      "published_date": "2026-05-12T20:10:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatoon man aims to create local solution to Ticketmaster costs",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatoon-man-aims-to-create-local-solution-to-ticketmaster-costs",
-      "published_date": "2026-05-12T20:03:37Z",
       "category": "Local Events"
     }
   ]
