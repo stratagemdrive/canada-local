@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-14T00:04:09Z",
+  "generated_at": "2026-05-14T12:20:29Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 73,
   "categories": [
     "Diplomacy",
     "Military",
@@ -44,6 +44,20 @@
       "url": "https://vancouversun.com/news/new-overdose-prevention-site-faces-threat-of-lawsuit-but-top-doctor-pushes-back",
       "published_date": "2026-05-08T00:18:03Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "AGT Foods CEO touts long-term outlook as Middle East conflict dents revenue",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/agt-foods-long-term-outlook-middle-east-conflict-revenue",
+      "published_date": "2026-05-14T11:34:48Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR: Ship reported seized off UAE coast is heading toward Iran",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-may-14",
+      "published_date": "2026-05-14T11:25:26Z",
+      "category": "Military"
     },
     {
       "title": "LILLEY: 'Gravy Plane' receipts released by Doug Ford",
@@ -228,11 +242,11 @@
       "category": "Energy"
     },
     {
-      "title": "Man accused of 'used vehicle oil scam' arrested in Uxbridge: Police",
+      "title": "Tax increases on Canadian businesses proving costly to gov't: Study",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/man-accused-of-used-vehicle-oil-scam-arrested-in-uxbridge-police",
-      "published_date": "2026-05-07T01:07:57Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/news/national/tax-increases-on-canadian-biz-proving-costly-to-govt-study",
+      "published_date": "2026-05-14T09:00:08Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. announces up to 5,000 new trades training seats for 2026",
@@ -368,11 +382,88 @@
       "category": "Economy"
     },
     {
-      "title": "Strike vote begins for B.C. nurses following bargaining impasse",
+      "title": "New bus takes route from Saskatoon to Regina in 1959",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/new-bus-1959-route-saskatoon-regina",
+      "published_date": "2026-05-14T12:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police seeking two suspects after violent west-end assault",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seeking-two-suspects-after-violent-west-end-assault",
+      "published_date": "2026-05-14T12:00:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yukon delegation showcases northern innovation at Web Summit Vancouver",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/08/strike-vote-begins-for-b-c-nurses-following-bargaining-impasse/",
-      "published_date": "2026-05-08T21:43:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/14/yukon-delegation-showcases-northern-innovation-at-web-summit-vancouver/",
+      "published_date": "2026-05-14T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Atlas Tube lures in-demand skilled trades workers with $10K signing bonus",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/atlas-tube-offers-10k-signing-bonus-amid-fierce-competition-for-skilled-workers",
+      "published_date": "2026-05-14T11:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ISA tree climbing competition crowns Pembroke campus winners",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/isa-tree-climbing-competition-crowns-pembroke-campus-winners",
+      "published_date": "2026-05-14T10:55:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Community Calendar: What's on in Pembroke and the Ottawa Valley",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/community-calendar-whats-on-in-pembroke-and-the-ottawa-valley",
+      "published_date": "2026-05-14T10:20:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kingston based author nominated for prestigious award",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/05/13/kingston-based-author-nominated-for-prestigious-award/",
+      "published_date": "2026-05-14T03:34:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 men dead after 'multiple' gunshots reported in Woodbridge",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/two-people-dead-shooting-incident-woodbridge",
+      "published_date": "2026-05-14T01:35:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New AI data centres proposed for Vancouver, Kamloops: NDP leader skeptical",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/13/new-ai-data-centres-proposed-for-vancouver-kamloops-ndp-leader-skeptical/",
+      "published_date": "2026-05-14T00:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Desolate wasteland&#039; or irreplaceable habitat? Documentary explores how Roberts Bank port expansion threatens migrating birds",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/desolate-wasteland-or-irreplaceable-habitat-documentary-explores-how-roberts-bank-port-expansion-threatens-migrating-birds",
+      "published_date": "2026-05-14T00:19:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Truck driver who pleaded guilty to crash that killed Olympian jailed 2 1/2 years",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/truck-driver-sentenced-crash-killed-olympian",
+      "published_date": "2026-05-14T00:10:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria nurses lead greener approach to kidney care at Royal Jubilee",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/13/victoria-nurses-lead-greener-approach-to-kidney-care-at-royal-jubilee/",
+      "published_date": "2026-05-14T00:10:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Young B.C. bakers raising dough for Canucks Autism Network",
@@ -428,90 +519,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/13/alberta-premier-calls-judges-decision-on-separation-petition-anti-democratic/",
       "published_date": "2026-05-13T22:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor man pleads guilty in deadly stairway push",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-man-pleads-guilty-in-deadly-stairway-push",
-      "published_date": "2026-05-13T21:42:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Black bear euthanized after man killed in attack near Points North Landing",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/black-bear-euthanized-after-man-killed-in-attack-near-points-north-landing",
-      "published_date": "2026-05-13T21:29:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coquitlam RCMP officer charged with assault connected to 2024 incident",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/13/coquitlam-rcmp-officer-charged-with-assault-connected-to-2024-incident/",
-      "published_date": "2026-05-13T21:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is alleged feces flinger the same man accused of weekend sex assaults?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-feces-flinger-sexual-assault-charges",
-      "published_date": "2026-05-13T21:07:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Squeezed for space? Why not tuck into a Murphy bed?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/murphy-bed-space-savers",
-      "published_date": "2026-05-13T20:56:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metro Vancouver, Acciona settle lawsuits over wastewater treatment plant",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-acciona-settle-lawsuits-over-wastewater-treatment-plant",
-      "published_date": "2026-05-13T20:52:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MURDER SHE WROTE: Grief author Kouri Richins sentenced to life in prison",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/murder-she-wrote-grief-author-kouri-richins-sentenced-to-life-in-prison",
-      "published_date": "2026-05-13T20:49:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Whitecaps move to 5,000-seat Swangard Stadium for a summer match",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/13/whitecaps-move-to-5000-seat-swangard-stadium-for-a-summer-match/",
-      "published_date": "2026-05-13T20:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quesnel Mountie cleared in death outside shelter",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/13/quesnel-mountie-cleared-in-death-outside-shelter/",
-      "published_date": "2026-05-13T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "135 people died from toxic drugs in B.C. in March",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/13/135-people-died-from-toxic-drugs-in-b-c-in-march/",
-      "published_date": "2026-05-13T19:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charges stayed against man accused in Saskatoon's first homicide of 2026",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/charges-stayed-against-man-accused-in-saskatoons-first-homicide-of-2026",
-      "published_date": "2026-05-13T19:38:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three-storey South Windsor apartment development 'could be something worse' says Dilkens",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-council-backs-cabana-apartment",
-      "published_date": "2026-05-13T19:00:26Z",
       "category": "Local Events"
     }
   ]
