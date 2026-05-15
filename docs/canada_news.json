@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-15T00:00:07Z",
+  "generated_at": "2026-05-15T12:26:37Z",
   "country": "Canada",
-  "total_stories": 75,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -53,11 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "New Vancouver overdose prevention site faces threat of lawsuit, but top doctor pushes back",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/new-overdose-prevention-site-faces-threat-of-lawsuit-but-top-doctor-pushes-back",
-      "published_date": "2026-05-08T00:18:03Z",
-      "category": "Diplomacy"
+      "title": "IRAN WAR: Trump open to 20-year suspension of Iran's nuclear program",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-may-15",
+      "published_date": "2026-05-15T11:32:46Z",
+      "category": "Military"
     },
     {
       "title": "AGT Foods CEO touts long-term outlook as Middle East conflict dents revenue",
@@ -179,13 +179,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: UAE reports drone, missile attack as Iran war ceasefire is challenged",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may-8",
-      "published_date": "2026-05-08T11:28:37Z",
-      "category": "Military"
-    },
-    {
       "title": "Sold (Bought): Coal Harbour condo boasts coveted location",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/homes/sold-bought-coal-harbour-condo-boasts-coveted-position-next-to-stanley-park",
@@ -254,6 +247,13 @@
       "url": "https://torontosun.com/opinion/columnists/mark-carney-justin-trudeaus-anti-growth-agenda-emissions-productivity",
       "published_date": "2026-05-09T17:14:58Z",
       "category": "Energy"
+    },
+    {
+      "title": "OPINION: Mining investment creating jobs, building B.C. economy",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/15/opinion-mining-investment-creating-jobs-building-b-c-economy/",
+      "published_date": "2026-05-15T12:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Titan Tool lockout, protecting Windsor jobs top priorities for acclaimed Unifor Local 195 boss",
@@ -389,11 +389,95 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: Economics of operating a restaurant in Canada increasingly untenable.",
+      "title": "Out of session: Five take-aways from the spring stretch at Saskatchewan's Legislature",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-economics-of-operating-a-restaurant-in-canada-increasingly-untenable",
-      "published_date": "2026-05-09T13:30:07Z",
-      "category": "Economy"
+      "url": "https://thestarphoenix.com/news/local-news/out-of-session-five-take-aways-from-the-spring-stretch-at-saskatchewans-legislature",
+      "published_date": "2026-05-15T12:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Enjoy the long weekend: Five things to do in Saskatoon, May 15-18",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/entertainment/local-arts/enjoy-the-long-weekend-five-things-to-do-in-saskatoon-may-15-18",
+      "published_date": "2026-05-15T12:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor's Downtown Mission launches new community outreach series",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsors-downtown-mission-launches-new-community-outreach-series",
+      "published_date": "2026-05-15T12:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Hope mayor recalls ceremonial drive over freshly opened Coquihalla Highway",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/15/former-hope-mayor-recalls-ceremonial-drive-over-freshly-opened-coquihalla-highway/",
+      "published_date": "2026-05-15T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More suspects sought after targeted home invasion at East Riverside home",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/more-suspects-sought-after-targeted-home-invasion-at-east-riverside-home",
+      "published_date": "2026-05-15T11:59:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Finally! Warm stretch of weather ahead for Windsor-Essex this weekend",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/finally-warm-stretch-of-weather-ahead-for-windsor-essex-this-weekend",
+      "published_date": "2026-05-15T11:28:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor drug dealer played ‘Russian roulette’ with clients, judge says",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/fentanyl-kills-judge-tells-windsor-dealer-he-played-russian-roulette-with-clients",
+      "published_date": "2026-05-15T11:12:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LaSalle homicide investigators renew plea to public for tips in Nancy Grewal case",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/lasalle-homicide-investigators-renew-plea-to-public-for-tips-in-nancy-grewal-case",
+      "published_date": "2026-05-15T11:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Large item pickup in Pembroke, Petawawa, Laurentian Valley starts May 28",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/large-item-pickup-in-pembroke-petawawa-laurentian-valley-starts-may-28",
+      "published_date": "2026-05-15T10:16:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "High water keeps Pembroke marina closed until further notice",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/high-water-keeps-pembroke-marina-closed-until-further-notice",
+      "published_date": "2026-05-15T10:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. 911 workers vote overwhelmingly in favour of strike",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-911-workers-vote-overwhelmingly-in-favour-of-strike",
+      "published_date": "2026-05-15T03:00:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP: Charges laid in attempted child abduction at Chilliwack school",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/rcmp-charges-laid-in-attempted-child-abduction-at-chilliwack-school",
+      "published_date": "2026-05-15T01:21:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Where is our MLA?&#039;: Elections B.C. approves campaign to recall Vancouver-Quilchena MLA Dallas Brodie",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-quilchena-mla-dallas-brodie-elections-bc-approves-recall-campaign",
+      "published_date": "2026-05-14T23:58:54Z",
+      "category": "Local Events"
     },
     {
       "title": "Vancouver Mayor Ken Sim &#039;misused&#039; power of office, harassed rival: Investigator",
@@ -442,97 +526,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-men-need-to-know-its-ok-to-reach-out-for-help",
       "published_date": "2026-05-14T23:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested after video shows rock hurled at endangered Hawaiian monk seal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/man-arrested-video-rock-hurled-hawaiian-monk-seal",
-      "published_date": "2026-05-14T22:15:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speeding triples on Parkside Dr. since camera shut down",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/speeding-triples-parkside-drive-camera",
-      "published_date": "2026-05-14T21:59:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bill C-262 would allow Canada-wide postal delivery of beer, wine",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/bill-c-262-allow-canada-wide-postal-delivery-beer-wine",
-      "published_date": "2026-05-14T21:41:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother Goose: Proud mom’s goslings hatch in B.C. school courtyard",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/14/mother-goose-proud-moms-goslings-hatch-in-b-c-school-courtyard/",
-      "published_date": "2026-05-14T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Canucks name Sedin brothers as presidents, Ryan Johnson as general manager",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/14/vancouver-canucks-name-sedin-brothers-as-presidents-ryan-johnson-as-general-manager/",
-      "published_date": "2026-05-14T21:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remai Modern to feature artwork from famous Sask. painter",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/remai-modern-to-feature-artwork-from-famous-sask-painter",
-      "published_date": "2026-05-14T20:54:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Land commission denies subdivision of ‘Rust Valley Restorers’ property in Shuswap",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/14/land-commission-denies-subdivision-of-rust-valley-restorers-property-in-shuswap/",
-      "published_date": "2026-05-14T20:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police charge teen in child exploitation and sextortion investigation",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-charge-teen-in-child-exploitation-and-sextortion-investigation",
-      "published_date": "2026-05-14T20:20:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Summer weather on the way, but not in time for May Long Weekend in Sask.",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/summer-weather-on-the-way-but-not-in-time-for-may-long-weekend-in-sask",
-      "published_date": "2026-05-14T20:06:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dog days: Victoria, Kelowna, Langley patios among the best 100 in Canada",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/14/dog-days-victoria-kelowna-langley-patios-among-the-best-100-in-canada/",
-      "published_date": "2026-05-14T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trio charged in Toronto assault-robbery; armoured car guard shot in Waterloo",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/trio-charged-toronto-assault-robbery-armoured-car-guard-shot-waterloo",
-      "published_date": "2026-05-14T19:24:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police arrest suspect after break-in, identity fraud",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-suspect-after-break-in-identity-fraud",
-      "published_date": "2026-05-14T19:01:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman pleads guilty to accessory charge in 2024 Saskatoon murder",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/woman-pleads-guilty-to-accessory-charge-in-2024-saskatoon-murder",
-      "published_date": "2026-05-14T18:59:14Z",
       "category": "Local Events"
     }
   ]
