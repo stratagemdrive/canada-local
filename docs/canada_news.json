@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-16T11:40:34Z",
+  "generated_at": "2026-05-16T23:56:36Z",
   "country": "Canada",
-  "total_stories": 75,
+  "total_stories": 77,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Iraqi man allegedly behind numerous terror attacks on Jews in Canada, U.S. and Europe",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/iraqi-man-charged-numerous-terror-attacks-jews-toronto-canada-united-states-europe",
+      "published_date": "2026-05-16T22:15:19Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "B.C., feds reach agreement to advance Kitimat’s LNG Phase 2 expansion",
       "source": "Burns Lake District News",
@@ -44,6 +51,20 @@
       "url": "https://windsorstar.com/news/local-news/windsor-unifor-president-optimistic-as-ford-motor-company-chosen-to-lead-auto-talks",
       "published_date": "2026-05-12T15:32:15Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "WOLF: TV may have peaked with ‘Battle of the Network Stars’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/16/wolf-tv-may-have-peaked-with-battle-of-the-network-stars/",
+      "published_date": "2026-05-16T16:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "KINSELLA: Antisemitic conspiracy theories seek to instill panic and fear",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/kinsella-antisemitic-conspiracy-theories-seek-to-instill-panic-and-fear",
+      "published_date": "2026-05-16T15:31:46Z",
+      "category": "Military"
     },
     {
       "title": "RCAF tactical aviation course taking place throughout Ottawa Valley",
@@ -137,18 +158,25 @@
       "category": "Military"
     },
     {
-      "title": "KINSELLA: Palestine Action designated a terror group in U.K. but not Canada",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/palestine-action-designated-terror-group-u-k-not-canada",
-      "published_date": "2026-05-09T15:00:13Z",
-      "category": "Military"
+      "title": "B.C. climate news: B.C. cries foul after Ottawa signs another pipeline deal with Alberta &#124; Worst start to wildfire season raises alarm as El Niño threatens",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-may-17-26",
+      "published_date": "2026-05-16T20:38:11Z",
+      "category": "Energy"
     },
     {
-      "title": "Letter: Newcomers not causing homelessness in Saskatchewan",
+      "title": "Experts say Sask.'s coal power plan not compatible with national strategy",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/letters/letters-newcomers-not-causing-homelessness-in-saskatchewan",
-      "published_date": "2026-05-09T14:00:11Z",
-      "category": "Military"
+      "url": "https://thestarphoenix.com/news/local-news/experts-say-sask-s-coal-power-plan-not-compatible-with-national-strategy",
+      "published_date": "2026-05-16T20:21:42Z",
+      "category": "Energy"
+    },
+    {
+      "title": "GOLDSTEIN: 'Fighting' climate change about expanding government power, not hitting emission targets",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/fighting-climate-change-about-expanding-government-power-not-hitting-emission-targets",
+      "published_date": "2026-05-16T17:06:08Z",
+      "category": "Energy"
     },
     {
       "title": "Ottawa&#039;s latest deal with Alberta another step toward a new pipeline through B.C.",
@@ -242,18 +270,11 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. climate news: FortisBC violating environmental permit for more than a year &#124; Forecasters predict severe weather with strong El Niño",
+      "title": "Brian Minter: Want a colourful garden? Here are the keys to success",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-may-10-26",
-      "published_date": "2026-05-09T18:47:02Z",
-      "category": "Energy"
-    },
-    {
-      "title": "GOLDSTEIN: Mark Carney must kill Justin Trudeau’s anti-growth agenda",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-justin-trudeaus-anti-growth-agenda-emissions-productivity",
-      "published_date": "2026-05-09T17:14:58Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/life/brian-minter-colourful-flowers-vegetables-soil",
+      "published_date": "2026-05-16T15:00:53Z",
+      "category": "Economy"
     },
     {
       "title": "As World Cup nears, Vancouver councillor warns budget cuts leave sex workers with fewer safety supports",
@@ -389,150 +410,143 @@
       "category": "Economy"
     },
     {
-      "title": "From heartbreak to hero: Kelowna ‘Super Mom’ fights for Children’s Miracle Network",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/10/from-heartbreak-to-hero-kelowna-super-mom-fights-for-childrens-miracle-network/",
-      "published_date": "2026-05-10T21:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BATRA’S BURNING QUESTIONS: Civil liberties at risk if Bill C-22 becomes law",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/batras-burning-questions-civil-liberties-at-risk-if-bill-c-22-becomes-law",
-      "published_date": "2026-05-16T11:00:32Z",
+      "title": "Grassroots music festival debuts in living rooms of Kingston’s Inner Harbour",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/05/16/grassroots-music-festival-debuts-in-living-rooms-of-kingstons-inner-harbour/",
+      "published_date": "2026-05-16T22:57:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor-Essex cycling group falsely linked to vandalism, organizers say",
+      "title": "Langley shooting &#039;appears to be targeted&#039;: RCMP",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/langley-shooting-appears-to-be-targeted-rcmp",
+      "published_date": "2026-05-16T22:56:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto-area man accused in Ryan Wedding case denied bail in appeals court",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-area-man-ryan-wedding-case-denied-bail-appeals-court",
+      "published_date": "2026-05-16T22:11:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian cruise passenger isolating on Vancouver Island tests positive for Hantavirus",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/canadian-cruise-passenger-isolating-on-vancouver-island-tests-positive-for-hantavirus",
+      "published_date": "2026-05-16T19:56:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Texas man accused of killing pregnant wife fled to Italy through Toronto: Court documents",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/texas-man-kill-pregnant-wife-italy-toronto-air-canada",
+      "published_date": "2026-05-16T19:39:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Jury out on PM Mark Carney fixing Justin Trudeau’s mess",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/jury-out-mark-carney-fixing-justin-trudeau-mess",
+      "published_date": "2026-05-16T19:20:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedestrian killed in Langley hit-and-run collision early Saturday",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/pedestrian-killed-in-langley-hit-and-run-collision-early-saturday",
+      "published_date": "2026-05-16T18:47:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Vancouver outdoor pools open this weekend as swimming season begins",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/two-vancouver-outdoor-pools-open",
+      "published_date": "2026-05-16T17:26:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 23, allegedly stabbed to death protecting cousin in Oshawa fight",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/emran-yousufi-allegedly-stabbed-protecting-cousin-oshawa-fight-murder",
+      "published_date": "2026-05-16T15:55:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Special weather statement for snow accumulation on 3 B.C. Interior highways extended",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/16/special-weather-statement-for-snow-accumulation-on-3-b-c-interior-highways-extended/",
+      "published_date": "2026-05-16T15:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1967: The Crab shuffles to the Vancouver Centennial Museum",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1967-the-crab-shuffles-to-the-vancouver-centennial-museum",
+      "published_date": "2026-05-16T15:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judge orders review of CRA&#039;s sloppy, rambling decision ordering B.C. woman to repay CERB",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/canada-revenue-agency-decision-ordering-bc-woman-to-repay-cerb-not-intelligible-judge-says",
+      "published_date": "2026-05-16T15:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Richmond seeks trapper as bunny population booms",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/help-wanted-richmond-seeks-experienced-trapper-as-bunny-population-booms",
+      "published_date": "2026-05-16T15:00:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey school district to hire 40 education assistants, after 50 lost last year",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/surrey-school-district-hires-40-education-assistants",
+      "published_date": "2026-05-16T15:00:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City of Toronto refuses to say if 'slut' ad drew complaints",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/city-of-toronto-refuses-to-say-if-slut-ad-drew-complaints",
+      "published_date": "2026-05-16T14:30:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bruno Mars' 5 Toronto stadium shows among 'busiest summer' concert season yet",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/bruno-mars-5-toronto-stadium-shows-summer-concert-season",
+      "published_date": "2026-05-16T14:03:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: The world needs what Saskatchewan has. Time to say yes.",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-the-world-needs-what-saskatchewan-has-time-to-say-yes",
+      "published_date": "2026-05-16T14:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Two unsolved double murders at the Oklahoma State Fair",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-two-unsolved-double-murders-oklahoma-state-fair",
+      "published_date": "2026-05-16T14:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Walpole accused killer gets $270K bail, dead man's dad charged: records",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-essex-cycling-group-falsely-linked-to-vandalism-organizers-say",
-      "published_date": "2026-05-16T11:00:29Z",
+      "url": "https://windsorstar.com/news/local-news/walpole-accused-killer-gets-270k-bail-dead-mans-dad-charged-records",
+      "published_date": "2026-05-16T13:39:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Who ghosted who?: MRG Group speaks out after stalled WHL negotiations with City of Chilliwack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/15/who-ghosted-who-mrg-group-speaks-out-after-stalled-whl-negotiations-with-city-of-chilliwack/",
-      "published_date": "2026-05-16T06:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We are exhausted’: Chilliwack man, 86, sentenced for killing couple next door",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/15/we-are-exhausted-chilliwack-man-86-sentenced-for-killing-couple-next-ffdoor/",
-      "published_date": "2026-05-16T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 B.C. men charged in U.S. in connection with human-smuggling scheme",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/15/2-b-c-men-charged-in-u-s-in-connection-with-human-smuggling-scheme/",
-      "published_date": "2026-05-15T23:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Public Health warns of potential measles exposure in west end",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-public-health-warning-potential-measles-exposure-west-end",
-      "published_date": "2026-05-15T23:22:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Downtown traffic 'more complicated' with yet another bike lane",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/blue-jays-way-bike-lane-construction",
-      "published_date": "2026-05-15T23:16:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Vancouver Sun: Adversarial relationship between mayor&#039;s office and health authority serves no one well",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-adversarial-relationship-between-mayors-office-and-health-authority-serves-no-one-well",
-      "published_date": "2026-05-15T23:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. company goes out on the edge to stake ground in AI race",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/bc-company-stakes-ground-ai-race",
-      "published_date": "2026-05-15T21:48:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two sought for Toronto arson; four more arrested in Markham robbery",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/two-sought-toronto-arson-four-more-arrested-markham-robbery",
-      "published_date": "2026-05-15T21:46:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Water mains, paving, and Saskatoon's 'hit or miss' zipper merging",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/water-mains-paving-and-saskatoons-hit-or-miss-zipper-merging",
-      "published_date": "2026-05-15T21:38:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baffinland can’t pay back its debts, but Nunavut iron mine will continue operating for now",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/15/baffinland-cant-pay-back-its-debts-but-nunavut-iron-mine-will-continue-operating-for-now/",
-      "published_date": "2026-05-15T21:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coquihalla Highway 40 Years later: From wild horses to withering businesses",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/15/coquihalla-highway-40-years-later-from-wild-horses-to-withering-businesses/",
-      "published_date": "2026-05-15T20:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court rules civil damages can be awarded for intimate partner violence",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/supreme-court-damages-intimate-partner-violence",
-      "published_date": "2026-05-15T20:11:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Public Safety Agency prepares for Saskatchewan wildfire season",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatchewan-wildfire-season-is-ramping-up-again",
-      "published_date": "2026-05-15T19:55:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto's Top 5 homegrown actresses: Catherine O'Hara at No. 1",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/sun-readers-top-5-poll-homegrown-actresses-catherine-o-hara-no-1",
-      "published_date": "2026-05-15T19:54:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pit bull mix alleged to have killed another dog, injured owner found in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/pit-bull-killed-dog-injured-owner-found-toronto",
-      "published_date": "2026-05-15T19:16:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Legacy of smǝlqmíx Elder cewel’na honoured at syilx water gathering",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/15/legacy-of-smlqmx-elder-cewelna-honoured-at-syilx-water-gathering/",
-      "published_date": "2026-05-15T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police release more details after man in bunny mask charged with kidnapping in Chilliwack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/15/police-release-more-details-after-man-in-bunny-mask-charged-with-kidnapping-in-chilliwack/",
-      "published_date": "2026-05-15T18:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Black Eyed Peas singer spotted dining at Vancouver restaurant",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/black-eyed-peas-singer-spotted-dining-vancouver-restaurant",
-      "published_date": "2026-05-15T18:26:44Z",
+      "title": "25 years in the making, André Narbonne's new multi-generational novel 'had to be published'",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/25-years-in-the-making-andre-narbonnes-new-multi-generational-novel-had-to-be-published",
+      "published_date": "2026-05-16T13:35:20Z",
       "category": "Local Events"
     }
   ]
