@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T23:56:36Z",
+  "generated_at": "2026-05-17T11:50:51Z",
   "country": "Canada",
   "total_stories": 77,
   "categories": [
@@ -410,6 +410,20 @@
       "category": "Economy"
     },
     {
+      "title": "THE MOJ: Sedins, Johnson face huge task rebuilding Canucks culture",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/16/the-moj-sedins-johnson-face-huge-task-rebuilding-canucks-culture/",
+      "published_date": "2026-05-17T04:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cruise passenger isolating in Victoria tests positive for hantavirus",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
+      "published_date": "2026-05-17T00:25:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Grassroots music festival debuts in living rooms of Kingston’s Inner Harbour",
       "source": "YGK News",
       "url": "https://ygknews.ca/2026/05/16/grassroots-music-festival-debuts-in-living-rooms-of-kingstons-inner-harbour/",
@@ -533,20 +547,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/crime-hunter-two-unsolved-double-murders-oklahoma-state-fair",
       "published_date": "2026-05-16T14:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Walpole accused killer gets $270K bail, dead man's dad charged: records",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/walpole-accused-killer-gets-270k-bail-dead-mans-dad-charged-records",
-      "published_date": "2026-05-16T13:39:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "25 years in the making, André Narbonne's new multi-generational novel 'had to be published'",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/25-years-in-the-making-andre-narbonnes-new-multi-generational-novel-had-to-be-published",
-      "published_date": "2026-05-16T13:35:20Z",
       "category": "Local Events"
     }
   ]
