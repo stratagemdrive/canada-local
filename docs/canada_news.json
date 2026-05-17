@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-17T11:50:51Z",
+  "generated_at": "2026-05-17T23:59:25Z",
   "country": "Canada",
-  "total_stories": 77,
+  "total_stories": 79,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Tory MP Michael Chong in Taipei despite warning from China",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/tory-mp-michael-chong-in-taipei-despite-warning-china",
+      "published_date": "2026-05-17T16:50:06Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraqi man allegedly behind numerous terror attacks on Jews in Canada, U.S. and Europe",
       "source": "Toronto Sun",
@@ -51,6 +58,13 @@
       "url": "https://windsorstar.com/news/local-news/windsor-unifor-president-optimistic-as-ford-motor-company-chosen-to-lead-auto-talks",
       "published_date": "2026-05-12T15:32:15Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Trump says 'clock is ticking' for Iran to make deal",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-may-17",
+      "published_date": "2026-05-17T14:34:10Z",
+      "category": "Military"
     },
     {
       "title": "WOLF: TV may have peaked with ‘Battle of the Network Stars’",
@@ -151,11 +165,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR UPDATES: Trump calls Iran response to latest U.S. proposal 'totally unacceptable'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-iran-responds-to-latest-u-s-proposal-netanyahu-warns-war-not-over",
-      "published_date": "2026-05-10T18:46:38Z",
-      "category": "Military"
+      "title": "More ways to recycle in B.C. with Interchange Recycling",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/17/more-ways-to-recycle-in-b-c-with-interchange-recycling/",
+      "published_date": "2026-05-17T21:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. climate news: B.C. cries foul after Ottawa signs another pipeline deal with Alberta &#124; Worst start to wildfire season raises alarm as El Niño threatens",
@@ -410,6 +424,118 @@
       "category": "Economy"
     },
     {
+      "title": "Heat warning issued with early blast of summer about to hit GTA",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/heat-warning-issued-summer-blast-gta",
+      "published_date": "2026-05-17T23:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lab tests confirm positive hantavirus case in Yukon cruise passenger",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/lab-tests-confirms-positive-hantavirus-case-in-b-c-cruise-passenger",
+      "published_date": "2026-05-17T19:11:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sleep Country offering complimentary mattresses to fur-wearing Drake fans",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/sleep-country-complimentary-mattresses-drake-fans",
+      "published_date": "2026-05-17T16:58:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mississauga man charged after 57 kittens, 8 cats rescued in animal cruelty investigation",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/mississauga-man-charged-after-57-kittens-8-cats-rescued-in-animal-cruelty-investigation",
+      "published_date": "2026-05-17T15:24:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops probing deadly stabbing in Etobicoke apartment; woman seriously hurt in downtown rollover",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/cops-probing-deadly-stabbing-in-etobicoke-apartment",
+      "published_date": "2026-05-17T15:19:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro Vancouver will spend $600,000 this year on campaigns to reduce waste. But do they work?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-spends-600k-reduce-waste-campaign",
+      "published_date": "2026-05-17T15:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How one man painstakingly created public art inspired by Vancouver&#039;s sewers and storm drains",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/street-art-celebrating-whats-under-vancouvers-sidewalks",
+      "published_date": "2026-05-17T15:00:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "JONAH GOLDBERG: Cory Booker should be ashamed of himself",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/cory-booker-should-be-ashamed-of-himself",
+      "published_date": "2026-05-17T14:28:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto sports fans can't escape fake news on social media",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-sports-fans-cant-escape-fake-news-on-social-media",
+      "published_date": "2026-05-17T14:14:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "E-scooter injuries, including severe ones, increasing: LHSC doctor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/e-scooter-injuries-including-severe-ones-increasing-lhsc-doctor",
+      "published_date": "2026-05-17T13:32:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Falling support for Doug Ford and Ontario PCs as appetite grows for political alternatives: poll",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/falling-support-for-doug-ford-and-ontario-pcs-as-appetite-grows-for-political-alternatives-poll",
+      "published_date": "2026-05-17T13:29:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'New business' — Buy Canada push to bring federal procurement officials to Windsor-Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/new-business-buy-canada-push-to-bring-federal-procurement-officials-to-windsor-essex",
+      "published_date": "2026-05-17T13:25:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: Any gardening triumphs or tips to share?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-any-gardening-triumphs-or-tips-to-share",
+      "published_date": "2026-05-17T13:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "At 90 years old, David Suzuki says he has a &#039;duty&#039; to keep going",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/david-suzuki-birthday-90",
+      "published_date": "2026-05-17T13:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "David Suzuki: A look back at interviews from our archives over the years",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/david-suzuki-a-look-back-at-interviews-from-our-archives-over-the-years",
+      "published_date": "2026-05-17T13:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: Are you ready for Victoria Day?",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/17/quiz-are-you-ready-for-victoria-day-2/",
+      "published_date": "2026-05-17T12:20:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "THE MOJ: Sedins, Johnson face huge task rebuilding Canucks culture",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/16/the-moj-sedins-johnson-face-huge-task-rebuilding-canucks-culture/",
@@ -435,118 +561,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/langley-shooting-appears-to-be-targeted-rcmp",
       "published_date": "2026-05-16T22:56:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto-area man accused in Ryan Wedding case denied bail in appeals court",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-area-man-ryan-wedding-case-denied-bail-appeals-court",
-      "published_date": "2026-05-16T22:11:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian cruise passenger isolating on Vancouver Island tests positive for Hantavirus",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/canadian-cruise-passenger-isolating-on-vancouver-island-tests-positive-for-hantavirus",
-      "published_date": "2026-05-16T19:56:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Texas man accused of killing pregnant wife fled to Italy through Toronto: Court documents",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/texas-man-kill-pregnant-wife-italy-toronto-air-canada",
-      "published_date": "2026-05-16T19:39:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Jury out on PM Mark Carney fixing Justin Trudeau’s mess",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/jury-out-mark-carney-fixing-justin-trudeau-mess",
-      "published_date": "2026-05-16T19:20:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pedestrian killed in Langley hit-and-run collision early Saturday",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/pedestrian-killed-in-langley-hit-and-run-collision-early-saturday",
-      "published_date": "2026-05-16T18:47:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Vancouver outdoor pools open this weekend as swimming season begins",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/two-vancouver-outdoor-pools-open",
-      "published_date": "2026-05-16T17:26:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 23, allegedly stabbed to death protecting cousin in Oshawa fight",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/emran-yousufi-allegedly-stabbed-protecting-cousin-oshawa-fight-murder",
-      "published_date": "2026-05-16T15:55:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Special weather statement for snow accumulation on 3 B.C. Interior highways extended",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/16/special-weather-statement-for-snow-accumulation-on-3-b-c-interior-highways-extended/",
-      "published_date": "2026-05-16T15:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1967: The Crab shuffles to the Vancouver Centennial Museum",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1967-the-crab-shuffles-to-the-vancouver-centennial-museum",
-      "published_date": "2026-05-16T15:00:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judge orders review of CRA&#039;s sloppy, rambling decision ordering B.C. woman to repay CERB",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/canada-revenue-agency-decision-ordering-bc-woman-to-repay-cerb-not-intelligible-judge-says",
-      "published_date": "2026-05-16T15:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Richmond seeks trapper as bunny population booms",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/help-wanted-richmond-seeks-experienced-trapper-as-bunny-population-booms",
-      "published_date": "2026-05-16T15:00:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey school district to hire 40 education assistants, after 50 lost last year",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/surrey-school-district-hires-40-education-assistants",
-      "published_date": "2026-05-16T15:00:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City of Toronto refuses to say if 'slut' ad drew complaints",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/city-of-toronto-refuses-to-say-if-slut-ad-drew-complaints",
-      "published_date": "2026-05-16T14:30:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bruno Mars' 5 Toronto stadium shows among 'busiest summer' concert season yet",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bruno-mars-5-toronto-stadium-shows-summer-concert-season",
-      "published_date": "2026-05-16T14:03:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: The world needs what Saskatchewan has. Time to say yes.",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-the-world-needs-what-saskatchewan-has-time-to-say-yes",
-      "published_date": "2026-05-16T14:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Two unsolved double murders at the Oklahoma State Fair",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-two-unsolved-double-murders-oklahoma-state-fair",
-      "published_date": "2026-05-16T14:00:04Z",
       "category": "Local Events"
     }
   ]
