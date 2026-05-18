@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-17T23:59:25Z",
+  "generated_at": "2026-05-18T14:21:55Z",
   "country": "Canada",
-  "total_stories": 79,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -58,6 +58,13 @@
       "url": "https://windsorstar.com/news/local-news/windsor-unifor-president-optimistic-as-ford-motor-company-chosen-to-lead-auto-talks",
       "published_date": "2026-05-12T15:32:15Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Revised Iran peace proposal shared with U.S.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-may-18",
+      "published_date": "2026-05-18T11:33:05Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Trump says 'clock is ticking' for Iran to make deal",
@@ -148,20 +155,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/local-news/looksmaxxing-the-manosphere-and-deconstructing-rape-culture-in-sask",
       "published_date": "2026-05-11T16:33:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Body of U.S. soldier missing in Morocco after cliff fall found in ocean",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/missing-american-soldier-morocco-found",
-      "published_date": "2026-05-11T12:06:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: U.S. rejects Iranian proposal ahead of Trump’s China trip",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may11",
-      "published_date": "2026-05-11T11:28:43Z",
       "category": "Military"
     },
     {
@@ -270,18 +263,11 @@
       "category": "Energy"
     },
     {
-      "title": "B.C.&#039;s new natural gas royalties to take effect in 2027: What are they?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/bc-new-natural-gas-royalties-to-take-effect-in-2027-what-are-they",
-      "published_date": "2026-05-11T13:00:30Z",
-      "category": "Energy"
-    },
-    {
-      "title": "CHARLEBOIS: Canada’s costly climate gamble on food needs to end",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canadas-costly-climage-gamble-on-food-must-end",
-      "published_date": "2026-05-11T10:00:54Z",
-      "category": "Energy"
+      "title": "Windsor Freedom Convoy protests federal immigration policies, floor-crossing MPs, more",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-freedom-convoy-protests-federal-immigration-policies-floor-crossing-mps-more",
+      "published_date": "2026-05-18T14:03:14Z",
+      "category": "Economy"
     },
     {
       "title": "Brian Minter: Want a colourful garden? Here are the keys to success",
@@ -417,11 +403,67 @@
       "category": "Economy"
     },
     {
-      "title": "AI announcement promises &#039;significant&#039; jobs, economic growth to B.C.",
+      "title": "Appeal court denies Sask. man's bid to withdraw child exploitation pleas",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/crime/appeal-court-denies-sask-mans-bid-to-withdraw-child-exploitation-pleas",
+      "published_date": "2026-05-18T13:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bodies of four missing Italian divers found in Maldives",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/four-missing-italian-divers-bodies-found",
+      "published_date": "2026-05-18T13:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "600 young singers set to come together for Vancouver Youth Choir finale",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/telus-ai-announcement",
-      "published_date": "2026-05-11T17:26:37Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/entertainment/vancouver-youth-choir-finale-2026",
+      "published_date": "2026-05-18T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria Day: What's open, closed, where to see fireworks or go explore",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/victoria-day-whats-open-closed-where-to-see-fireworks-or-go-explore",
+      "published_date": "2026-05-18T12:45:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Where is Esther? Toronto Police and Jewish community are trying to find out",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/missing-teen-girl-earl-bales-park",
+      "published_date": "2026-05-18T12:38:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. sailor selected for Antarctica research trip on plastic pollution",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/18/b-c-sailor-selected-for-antarctica-research-trip-on-plastic-pollution/",
+      "published_date": "2026-05-18T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hantavirus-hit MV Hondius ship docks in Netherlands, to be disinfected",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/hantavirus-mv-hondius-ship-docks-netherlands",
+      "published_date": "2026-05-18T12:20:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO declares Ebola outbreak in Central Africa emergency of international concern",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/who-declares-ebola-outbreak-international-concern",
+      "published_date": "2026-05-18T01:01:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heartbreak in Dawson City after historical Westminster Hotel burns down",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/17/heartbreak-in-dawson-city-after-historical-westminster-hotel-burns-down/",
+      "published_date": "2026-05-18T01:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Heat warning issued with early blast of summer about to hit GTA",
@@ -498,69 +540,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/falling-support-for-doug-ford-and-ontario-pcs-as-appetite-grows-for-political-alternatives-poll",
       "published_date": "2026-05-17T13:29:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'New business' — Buy Canada push to bring federal procurement officials to Windsor-Essex",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/new-business-buy-canada-push-to-bring-federal-procurement-officials-to-windsor-essex",
-      "published_date": "2026-05-17T13:25:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Any gardening triumphs or tips to share?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-any-gardening-triumphs-or-tips-to-share",
-      "published_date": "2026-05-17T13:00:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "At 90 years old, David Suzuki says he has a &#039;duty&#039; to keep going",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/david-suzuki-birthday-90",
-      "published_date": "2026-05-17T13:00:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "David Suzuki: A look back at interviews from our archives over the years",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/david-suzuki-a-look-back-at-interviews-from-our-archives-over-the-years",
-      "published_date": "2026-05-17T13:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: Are you ready for Victoria Day?",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/17/quiz-are-you-ready-for-victoria-day-2/",
-      "published_date": "2026-05-17T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "THE MOJ: Sedins, Johnson face huge task rebuilding Canucks culture",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/16/the-moj-sedins-johnson-face-huge-task-rebuilding-canucks-culture/",
-      "published_date": "2026-05-17T04:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
-      "published_date": "2026-05-17T00:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grassroots music festival debuts in living rooms of Kingston’s Inner Harbour",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/05/16/grassroots-music-festival-debuts-in-living-rooms-of-kingstons-inner-harbour/",
-      "published_date": "2026-05-16T22:57:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Langley shooting &#039;appears to be targeted&#039;: RCMP",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/langley-shooting-appears-to-be-targeted-rcmp",
-      "published_date": "2026-05-16T22:56:02Z",
       "category": "Local Events"
     }
   ]
