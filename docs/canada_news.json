@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-19T00:12:00Z",
+  "generated_at": "2026-05-19T13:45:34Z",
   "country": "Canada",
-  "total_stories": 77,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,20 @@
       "url": "https://windsorstar.com/news/local-news/windsor-unifor-president-optimistic-as-ford-motor-company-chosen-to-lead-auto-talks",
       "published_date": "2026-05-12T15:32:15Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Province seeks to seize Surrey home from owner after criminal acts by tenants",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/province-seeks-to-seize-surrey-bc-home-from-owner-after-criminal-acts-by-tenants",
+      "published_date": "2026-05-19T13:00:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR: Trump calls off planned Iran attack citing 'serious negotiations'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-updates-may-19",
+      "published_date": "2026-05-19T11:45:10Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Revised Iran peace proposal shared with U.S.",
@@ -148,13 +162,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-may-13",
       "published_date": "2026-05-13T11:58:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Kuwait accuses Iran of sending Revolutionary Guard to attack island",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may-12",
-      "published_date": "2026-05-12T11:25:45Z",
       "category": "Military"
     },
     {
@@ -277,6 +284,13 @@
       "category": "Energy"
     },
     {
+      "title": "Sask. caregivers speak out as national survey shows many are overwhelmed",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/sask-caregivers-speak-out-as-national-survey-shows-many-are-overwhelmed",
+      "published_date": "2026-05-19T12:00:59Z",
+      "category": "Economy"
+    },
+    {
       "title": "Windsor Freedom Convoy protests federal immigration policies, floor-crossing MPs, more",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/windsor-freedom-convoy-protests-federal-immigration-policies-floor-crossing-mps-more",
@@ -389,25 +403,67 @@
       "category": "Economy"
     },
     {
-      "title": "Family Services Windsor-Essex welcomes $700K boost to help residents 'feeling the crunch'",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/family-services-windsor-essex-welcomes-700k-boost-to-help-residents-feeling-the-crunch",
-      "published_date": "2026-05-12T13:07:17Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Young nurses are hanging up their scrubs at alarming rates",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/national-nursing-week/young-nurses-are-hanging-up-their-scrubs-at-alarming-rates",
-      "published_date": "2026-05-12T12:30:26Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Keir Starmer facing growing calls to resign as British prime minister",
+      "title": "American tests positive for Ebola virus amid outbreak in Congo, Uganda",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/keir-starmer-facing-growing-resignation-calls",
-      "published_date": "2026-05-12T02:08:40Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/american-tests-positive-ebola-virus",
+      "published_date": "2026-05-19T13:17:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mango founder’s son arrested in connection with fashion magnate’s fatal fall",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/mango-founder-son-arrested-fashion-magnate-fatal-fall",
+      "published_date": "2026-05-19T13:10:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here are 7 Metro Vancouver Mexican restaurants on our radar right now",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/mexican-restaurants-vancouver",
+      "published_date": "2026-05-19T13:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paulson: Tight market brings multiple offers, warnings of eroding affordability",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/columnists/paulson-tight-market-brings-multiple-offers-warnings-of-eroding-affordability",
+      "published_date": "2026-05-19T13:00:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teen gunman's mom called police before 3 killed in San Diego mosque shooting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/3-killed-san-diego-mosque-shooting",
+      "published_date": "2026-05-19T12:24:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor’s Sikh community celebrates Khalsa Day",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/joy-every-time-windsors-sikh-community-celebrates-annual-khalsa-day-parade",
+      "published_date": "2026-05-19T11:58:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Science World turns into giant soccer ball for FIFA World Cup in Vancouver",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/18/science-world-turns-into-giant-soccer-ball-for-fifa-world-cup-in-vancouver/",
+      "published_date": "2026-05-19T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mark Fuhrman, detective in O.J. trial, dies at 74",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/mark-fuhrman-detective-in-o-j-trial-dies-at-74",
+      "published_date": "2026-05-19T00:23:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Tragic accident’: Woman presumed drowned after car falls in Kamloops river",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/18/tragic-accident-woman-presumed-drowned-after-car-falls-in-kamloops-river/",
+      "published_date": "2026-05-19T00:20:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Woman presumed drowned after vehicle plunges into Kamloops river",
@@ -484,69 +540,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/world-cup-vancouver-hotel-bookings-down-20-per-cent",
       "published_date": "2026-05-18T15:00:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Appeal court denies Sask. man's bid to withdraw child exploitation pleas",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/appeal-court-denies-sask-mans-bid-to-withdraw-child-exploitation-pleas",
-      "published_date": "2026-05-18T13:00:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bodies of four missing Italian divers found in Maldives",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/four-missing-italian-divers-bodies-found",
-      "published_date": "2026-05-18T13:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "600 young singers set to come together for Vancouver Youth Choir finale",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vancouver-youth-choir-finale-2026",
-      "published_date": "2026-05-18T13:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victoria Day: What's open, closed, where to see fireworks or go explore",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/victoria-day-whats-open-closed-where-to-see-fireworks-or-go-explore",
-      "published_date": "2026-05-18T12:45:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Where is Esther? Toronto Police and Jewish community are trying to find out",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/missing-teen-girl-earl-bales-park",
-      "published_date": "2026-05-18T12:38:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. sailor selected for Antarctica research trip on plastic pollution",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/18/b-c-sailor-selected-for-antarctica-research-trip-on-plastic-pollution/",
-      "published_date": "2026-05-18T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hantavirus-hit MV Hondius ship docks in Netherlands, to be disinfected",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/hantavirus-mv-hondius-ship-docks-netherlands",
-      "published_date": "2026-05-18T12:20:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO declares Ebola outbreak in Central Africa emergency of international concern",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/who-declares-ebola-outbreak-international-concern",
-      "published_date": "2026-05-18T01:01:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heartbreak in Dawson City after historical Westminster Hotel burns down",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/17/heartbreak-in-dawson-city-after-historical-westminster-hotel-burns-down/",
-      "published_date": "2026-05-18T01:00:00Z",
       "category": "Local Events"
     }
   ]
