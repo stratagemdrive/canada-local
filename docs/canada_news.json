@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-18T14:21:55Z",
+  "generated_at": "2026-05-19T00:12:00Z",
   "country": "Canada",
-  "total_stories": 76,
+  "total_stories": 77,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Former Park Ave. apartment for Canada's consul general in NYC sold: Report",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/former-park-ave-apartment-for-canadas-consul-general-in-nyc-sold-report",
+      "published_date": "2026-05-18T22:03:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "TTC, union reach tentative deal",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/ttc-union-reach-tentative-deal",
+      "published_date": "2026-05-18T21:39:28Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tory MP Michael Chong in Taipei despite warning from China",
       "source": "Toronto Sun",
@@ -144,18 +158,18 @@
       "category": "Military"
     },
     {
-      "title": "Windsor honours memory of Canada's Boer War soldiers",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-honours-memory-of-canadas-boer-war-soldiers",
-      "published_date": "2026-05-11T17:38:31Z",
-      "category": "Military"
+      "title": "Legal challenge seeks to block floating hotel in Vancouver&#039;s Coal Harbour",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/coal-harbour-floating-hotel-faces-legal-challenge",
+      "published_date": "2026-05-18T22:58:18Z",
+      "category": "Energy"
     },
     {
-      "title": "Looksmaxxing, the Manosphere, and deconstructing rape culture in Sask.",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/looksmaxxing-the-manosphere-and-deconstructing-rape-culture-in-sask",
-      "published_date": "2026-05-11T16:33:21Z",
-      "category": "Military"
+      "title": "Environmental advocates call pipeline deal a ‘betrayal’ of Canada’s climate goals",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/18/environmental-advocates-call-pipeline-deal-a-betrayal-of-canadas-climate-goals/",
+      "published_date": "2026-05-18T22:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "More ways to recycle in B.C. with Interchange Recycling",
@@ -396,11 +410,81 @@
       "category": "Economy"
     },
     {
-      "title": "Improved baggage system, new aircraft stands part of Pearson's $3B facelift",
+      "title": "Woman presumed drowned after vehicle plunges into Kamloops river",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/woman-presumed-drowned-after-vehicle-plunges-into-kamloops-river",
+      "published_date": "2026-05-18T23:39:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Danish pop group Aqua calling it quits",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/pearson-airport-announces-3-billion-dollar-improvements",
-      "published_date": "2026-05-11T22:34:07Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/entertainment/music/danish-pop-group-aqua-calling-it-quits",
+      "published_date": "2026-05-18T22:43:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wild world record broken by barefoot B.C. runner",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/18/wild-world-record-broken-by-barefoot-b-c-runner/",
+      "published_date": "2026-05-18T22:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 youths arrested in Austin shootings",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/3-youths-arrested-in-austin-shootings",
+      "published_date": "2026-05-18T19:12:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/best-beauty-products-we-tried-this-week",
+      "published_date": "2026-05-18T18:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "6 majors, 1 finish line: B.C. runner completes global marathon quest",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/18/6-majors-1-finish-line-b-c-runner-completes-global-marathon-quest/",
+      "published_date": "2026-05-18T17:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Toronto Police officers accused of sex assault of prostitute in Barcelona",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/three-toronto-police-officers-charged-barcelona-alleged-sexual-assault",
+      "published_date": "2026-05-18T16:45:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vernon crews helping in Kamloops river search for missing person",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/18/vernon-crews-helping-in-kamloops-river-search-for-missing-person/",
+      "published_date": "2026-05-18T16:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver sought after vehicle crash into fireworks shop sparks blaze",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/driver-sought-after-vehicle-crash-into-fireworks-shop-sparks-blaze",
+      "published_date": "2026-05-18T16:17:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "No rush and no panic as Spitfires make plans to overcome roster losses and stay competitive",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/no-rush-and-no-panic-as-spitfires-look-to-overcome-roster-losses-and-stay-competitive",
+      "published_date": "2026-05-18T15:33:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What World Cup bump? Vancouver hotel bookings down 20 per cent this year",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/world-cup-vancouver-hotel-bookings-down-20-per-cent",
+      "published_date": "2026-05-18T15:00:32Z",
+      "category": "Local Events"
     },
     {
       "title": "Appeal court denies Sask. man's bid to withdraw child exploitation pleas",
@@ -463,83 +547,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/17/heartbreak-in-dawson-city-after-historical-westminster-hotel-burns-down/",
       "published_date": "2026-05-18T01:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heat warning issued with early blast of summer about to hit GTA",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/heat-warning-issued-summer-blast-gta",
-      "published_date": "2026-05-17T23:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lab tests confirm positive hantavirus case in Yukon cruise passenger",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/lab-tests-confirms-positive-hantavirus-case-in-b-c-cruise-passenger",
-      "published_date": "2026-05-17T19:11:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sleep Country offering complimentary mattresses to fur-wearing Drake fans",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/sleep-country-complimentary-mattresses-drake-fans",
-      "published_date": "2026-05-17T16:58:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga man charged after 57 kittens, 8 cats rescued in animal cruelty investigation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mississauga-man-charged-after-57-kittens-8-cats-rescued-in-animal-cruelty-investigation",
-      "published_date": "2026-05-17T15:24:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops probing deadly stabbing in Etobicoke apartment; woman seriously hurt in downtown rollover",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/cops-probing-deadly-stabbing-in-etobicoke-apartment",
-      "published_date": "2026-05-17T15:19:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metro Vancouver will spend $600,000 this year on campaigns to reduce waste. But do they work?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-spends-600k-reduce-waste-campaign",
-      "published_date": "2026-05-17T15:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How one man painstakingly created public art inspired by Vancouver&#039;s sewers and storm drains",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/street-art-celebrating-whats-under-vancouvers-sidewalks",
-      "published_date": "2026-05-17T15:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "JONAH GOLDBERG: Cory Booker should be ashamed of himself",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/cory-booker-should-be-ashamed-of-himself",
-      "published_date": "2026-05-17T14:28:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto sports fans can't escape fake news on social media",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-sports-fans-cant-escape-fake-news-on-social-media",
-      "published_date": "2026-05-17T14:14:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "E-scooter injuries, including severe ones, increasing: LHSC doctor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/e-scooter-injuries-including-severe-ones-increasing-lhsc-doctor",
-      "published_date": "2026-05-17T13:32:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Falling support for Doug Ford and Ontario PCs as appetite grows for political alternatives: poll",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/falling-support-for-doug-ford-and-ontario-pcs-as-appetite-grows-for-political-alternatives-poll",
-      "published_date": "2026-05-17T13:29:57Z",
       "category": "Local Events"
     }
   ]
