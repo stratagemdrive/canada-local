@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-20T00:09:43Z",
+  "generated_at": "2026-05-20T13:27:00Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 73,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: CRTC looks set to kill off trade talks with U.S.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/crtc-looks-set-to-kill-off-trade-talks-with-usa",
+      "published_date": "2026-05-20T00:08:12Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former Park Ave. apartment for Canada's consul general in NYC sold: Report",
       "source": "Toronto Sun",
@@ -51,6 +58,20 @@
       "url": "https://windsorstar.com/news/local-news/lasalle-advances-40m-vollmer-expansion-despite-residents-concerns",
       "published_date": "2026-05-14T12:40:03Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Iran warns of war beyond Middle East as Trump repeats threats",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-may-20",
+      "published_date": "2026-05-20T11:19:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "Youths facing more weapon charges; shooting at Ajax restaurant being probed",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/youths-facing-more-weapon-charges-durham",
+      "published_date": "2026-05-20T02:23:52Z",
+      "category": "Military"
     },
     {
       "title": "Canadian Forces Snowbirds grounded until new planes arrive in 2030s",
@@ -141,13 +162,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/entertainment/poisonous-people-offers-perspective-on-psychopathy-and-other-dark-personality-traits",
       "published_date": "2026-05-13T18:00:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Donald Trump will have 'long talk' about Iran with Chinese President Xi Jinping",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may-13",
-      "published_date": "2026-05-13T11:58:59Z",
       "category": "Military"
     },
     {
@@ -368,11 +382,109 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. courting Qataris and the world through the World Cup",
+      "title": "Vancouver city council cites housing affordability on motion to make it easier to build homes",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-courting-qataris-and-the-world-through-the-world-cup",
-      "published_date": "2026-05-13T02:20:56Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/vancouver-city-council-cites-housing-affordability-on-motion-to-make-it-easier-to-build-homes",
+      "published_date": "2026-05-20T13:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Bad nightmare&#039;: After a year as Vancouver police chief, Steve Rai recalls his horrifying first day",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-police-chief-steve-rai-recalls-horrifying-first-day",
+      "published_date": "2026-05-20T13:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. seeks two properties from alleged drug and gun traffickers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/bc-seeks-two-properties-alleged-drug-and-gun-traffickers",
+      "published_date": "2026-05-20T13:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seniors are dying in hospital beds waiting for long-term care as B.C. waitlists span years",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/seniors-dying-hospital-beds-waiting-for-long-term-care-bc-waitlists-span-years",
+      "published_date": "2026-05-20T13:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Vancouver team is on top of the dance world. Here&#039;s how they did it",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/this-vancouver-team-is-on-top-of-the-dance-world-heres-how-they-did-it",
+      "published_date": "2026-05-20T13:00:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Savings of 10 cents a litre Thursday at 15 B.C. Circle K gas bars",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/10-cent-savings-thursday-circle-k-gas-bars",
+      "published_date": "2026-05-20T13:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "GO train signal issue forces delays at Union Station",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/go-train-signal-issue-delays-union-station",
+      "published_date": "2026-05-20T12:41:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tim Hortons customer, 75, dead after rage-fuelled brawl over order",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/tim-hortons-customer-dead-rage-fuelled-brawl",
+      "published_date": "2026-05-20T12:17:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RAD Toys and Games opens next to RAD Cards and Collectibles",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/local-business/rad-toys-games",
+      "published_date": "2026-05-20T12:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man earns conditional discharge for 2025 assault at B.C. nightclub",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/20/man-earns-conditional-discharge-for-2025-assault-at-b-c-nightclub/",
+      "published_date": "2026-05-20T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lakeshore approves $69 million for sewage treatment, debt financing to keep rates down",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/lakeshore-approves-69-million-for-sewage-treatment-debt-financing-to-keep-rates-down",
+      "published_date": "2026-05-20T11:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian Tire, Indigenous customers put racial profiling case in past with washing ceremony",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/canadian-tire-indigenous-customers-put-racial-profiling-case-in-past-with-washing-ceremony",
+      "published_date": "2026-05-20T04:23:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Witness describes discovering human bones in B.C. creek",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/19/witness-describes-discovering-human-bones-in-b-c-creek/",
+      "published_date": "2026-05-20T03:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man with history of escaping CAMH tracked down by cops",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-tracked-down-camh-escape",
+      "published_date": "2026-05-20T00:59:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Halton police chief warns record handgun seizure just a 'drop in the bucket'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/halton-police-chief-handgun-seizure-warning",
+      "published_date": "2026-05-20T00:31:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Heiltsuk Nation settles Coquitlam Canadian Tire racial profiling case",
@@ -407,111 +519,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/19/15-dolphins-trapped-temporarily-in-shallow-b-c-tide-pool/",
       "published_date": "2026-05-19T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect sought after fatal Mississauga stabbing; cops probe gas station robbery",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-sought-after-fatal-mississauga-stabbing",
-      "published_date": "2026-05-19T23:19:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged in Vancouver vehicle-ramming incident, senior still in hospital",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/19/man-charged-in-vancouver-vehicle-ramming-incident-senior-still-in-hospital/",
-      "published_date": "2026-05-19T23:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: David Eby glad B.C. has most projects on federal fast-track list, yet indignant that Alberta just got its first",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-david-eby-glad-bc-most-projects-federal-fast-track-list-indignant-alberta-got-first",
-      "published_date": "2026-05-19T22:52:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conservation service investigates Smithers tourist for feeding grizzly",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/19/conservation-service-investigates-tourist-to-smithers-feeding-grizzly/",
-      "published_date": "2026-05-19T22:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judge awards $156K in Surrey assault and battery lawsuit connected to 77-day protest",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/19/judge-awards-156k-in-surrey-assault-and-battery-lawsuit-connected-to-77-day-protest/",
-      "published_date": "2026-05-19T22:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shots fired at two Saskatoon homes; incidents appear to be unrelated: police",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/shots-fired-at-two-saskatoon-homes-incidents-appear-to-be-unrelated-police",
-      "published_date": "2026-05-19T22:27:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police investigate human remains found along Langley riverbed",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/police-investigate-human-remains-found-along-langley-riverbed",
-      "published_date": "2026-05-19T22:13:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Halton cops seize 24 firearms in service's largest seizure",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/halton-police-seize-firearms",
-      "published_date": "2026-05-19T21:48:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rare species of endangered snake discovered on B.C’s Lasqueti Island",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/19/rare-species-of-endangered-snake-discovered-on-b-cs-lasqueti-island/",
-      "published_date": "2026-05-19T21:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Agassiz runner completes 9 marathons in 4 days in Arizona",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/19/agassiz-runner-completes-9-marathons-in-4-days-in-arizona/",
-      "published_date": "2026-05-19T21:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbotsford Canucks’ two-way players top Pacific Division in NHL games played for 2025-26",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/19/abbotsford-canucks-two-way-players-top-pacific-division-in-nhl-games-played-for-2025-26/",
-      "published_date": "2026-05-19T21:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man sentenced for sexual offence involving 12-year-old B.C. girl",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/19/man-sentenced-for-sexual-offence-involving-12-year-old-b-c-girl/",
-      "published_date": "2026-05-19T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.: 15 bestselling books for the week of May 16",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/b-c-15-bestselling-books-for-the-week-of-may-16-2",
-      "published_date": "2026-05-19T21:29:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renfrew County District School Board honours 10 staff members",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/renfrew-county-district-school-board-honours-10-staff-members",
-      "published_date": "2026-05-19T21:25:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: CBC hits pause on show targeting RCMP and conservatives",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/lilley-cbc-hits-pause-on-show-targeting-rcmp-and-conservatives",
-      "published_date": "2026-05-19T20:58:18Z",
       "category": "Local Events"
     }
   ]
