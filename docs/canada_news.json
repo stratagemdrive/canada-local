@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-21T00:09:54Z",
+  "generated_at": "2026-05-21T13:50:41Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Deputy mayor miffed Amherstburg must consult Diageo on how to spend $500K",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/deputy-mayor-miffed-amherstburg-must-consult-diageo-on-how-to-spend-500k",
+      "published_date": "2026-05-21T12:21:51Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "With diminished need, Windsor mayor says Gordie Howe bridge shouldn't open at expense of 'bad deal'",
       "source": "Windsor Star",
@@ -57,13 +64,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/14/b-c-feds-reach-agreement-to-advance-kitimats-lng-phase-2-expansion/",
       "published_date": "2026-05-14T22:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LaSalle advances $40M Vollmer expansion despite residents' concerns",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/lasalle-advances-40m-vollmer-expansion-despite-residents-concerns",
-      "published_date": "2026-05-14T12:40:03Z",
       "category": "Diplomacy"
     },
     {
@@ -141,20 +141,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-may-15",
       "published_date": "2026-05-15T11:32:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "AGT Foods CEO touts long-term outlook as Middle East conflict dents revenue",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/agt-foods-long-term-outlook-middle-east-conflict-revenue",
-      "published_date": "2026-05-14T11:34:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Ship reported seized off UAE coast is heading toward Iran",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may-14",
-      "published_date": "2026-05-14T11:25:26Z",
       "category": "Military"
     },
     {
@@ -277,6 +263,27 @@
       "category": "Energy"
     },
     {
+      "title": "Rings or real estate? Survey suggests majority of Canadians would skip an expensive wedding to save for a home",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/rings-or-real-estate-survey-suggests-majority-of-canadians-would-skip-an-expensive-wedding-to-save-for-a-home",
+      "published_date": "2026-05-21T13:00:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Late-night sittings, stalled bills dominate proceedings at end of bruising session for B.C. NDP",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/late-night-sittings-stalled-bills-dominate-proceedings-end-of-bruising-session-for-b-c-ndp",
+      "published_date": "2026-05-21T13:00:26Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Restaurant review: Vancouver&#039;s Violeté offers casual but elevated Italian fare",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/restaurant-review-vancouvers-violete-offers-casual-but-elevated-italian-fare",
+      "published_date": "2026-05-21T13:00:24Z",
+      "category": "Economy"
+    },
+    {
       "title": "B.C. to release updated FIFA World Cup costs ‘next week,’ minister says",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/20/b-c-to-release-updated-fifa-world-cup-costs-next-week-minister-says/",
@@ -347,18 +354,102 @@
       "category": "Economy"
     },
     {
-      "title": "New Windsor garage-door company betting on housing market rebound",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/new-windsor-garage-door-company-betting-on-housing-market-rebound",
-      "published_date": "2026-05-14T13:15:33Z",
-      "category": "Economy"
+      "title": "Radio station apologizes after announcement of King Charles’ death",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/radio-station-announcement-king-charles-death",
+      "published_date": "2026-05-21T13:13:47Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tax increases on Canadian businesses proving costly to gov't: Study",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/tax-increases-on-canadian-biz-proving-costly-to-govt-study",
-      "published_date": "2026-05-14T09:00:08Z",
-      "category": "Economy"
+      "title": "&#039;Unsustainable&#039;: Vancouver Fire and Rescue on DTES overwhelmed by call volume",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/unsustainable-vancouver-fire-and-rescue-on-dtes-overwhelmed-by-call-volume",
+      "published_date": "2026-05-21T13:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regional gaming tournament spotlights St. Clair College’s esports program",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/regional-gaming-tournament-spotlights-st-clair-colleges-esports-program",
+      "published_date": "2026-05-21T12:47:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The decline of the modern multiple murderer",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/21/the-decline-of-the-modern-multiple-murderer/",
+      "published_date": "2026-05-21T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Nature Nut",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/21/the-nature-nut-17/",
+      "published_date": "2026-05-21T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Editorial: Don’t forget about your pets when preparing for wildfire season",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/21/editorial-dont-forget-about-your-pets-when-preparing-for-wildfire-season/",
+      "published_date": "2026-05-21T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teaching calmness through the Look At That game",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/21/teaching-calmness-through-the-look-at-that-game/",
+      "published_date": "2026-05-21T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saskatoon authors celebrate new book at city's centenary",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/saskatoon-authors-book-1989-centenary",
+      "published_date": "2026-05-21T12:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor man sentenced to nine months of jail for supporting neo-Nazi group",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-man-sentenced-to-nine-months-of-jail-for-supporting-neo-nazi-group",
+      "published_date": "2026-05-21T11:27:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Time for the Pembroke Observer and News weekly Photo Quiz",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/time-for-the-pembroke-observer-and-news-weekly-photo-quiz-45",
+      "published_date": "2026-05-21T09:58:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Montréal Victoire dominate Ottawa to claim 2026 PWHL Walter Cup",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/20/montral-victoire-are-the-2026-pwhl-walter-cup-champions/",
+      "published_date": "2026-05-21T01:53:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penticton city councillor’s second trial on historic sex crimes underway",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/20/penticton-city-councillors-second-trial-on-historic-sex-crimes-underway/",
+      "published_date": "2026-05-21T01:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver city council votes yes to free swimming lessons for kids",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-city-council-votes-yes-to-free-swimming-lessons-for-kids",
+      "published_date": "2026-05-21T00:53:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Lid slowly being lifted on who is backing B.C. recall campaigns",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-lid-slowly-being-lifted-on-who-is-backing-bc-recall-campaigns",
+      "published_date": "2026-05-21T00:13:06Z",
+      "category": "Local Events"
     },
     {
       "title": "The Pembroke Observer and News weekly community calendar listings",
@@ -400,104 +491,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/20/b-c-teachers-antisemitism-group-loses-bid-to-fast-track-complaint-hearing/",
       "published_date": "2026-05-20T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brampton trucker charged in Caledon after power lines hit; Rideshare passenger run over",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/trucker-charged-caledon-after-power-lines-hit-rideshare-passenger-run-over",
-      "published_date": "2026-05-20T22:47:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: On Bill C-22, Apple, Meta warn that Carney will compromise your data",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/on-bill-c-22-apple-meta-warn-that-carney-will-compromise-your-data",
-      "published_date": "2026-05-20T22:23:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Person who recently travelled to East Africa being tested for Ebola virus in Ontario",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/person-being-tested-ebola-virus-ontario",
-      "published_date": "2026-05-20T22:19:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. man sentenced for role in international meth trafficking scheme",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/20/b-c-man-sentenced-for-role-in-international-meth-trafficking-scheme/",
-      "published_date": "2026-05-20T22:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TikTok influencer busted in alleged murder-for-hire plot on baby daddy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/tiktok-influencer-busted-in-alleged-murder-for-hire-plot-on-baby-daddy",
-      "published_date": "2026-05-20T22:09:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joey Chestnut receives probation after being accused of slapping man at bar",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/joey-chestnut-probation-bar-slapping-incident",
-      "published_date": "2026-05-20T21:47:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lac La Ronge chief urges adoption of one-parent rule as federal court-ordered deadline looms",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/lac-la-ronge-chief-urges-adoption-of-one-parent-rule-as-federal-court-ordered-deadline-looms",
-      "published_date": "2026-05-20T21:38:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey drug kingpin sentenced to 6½ years in a U.S. prison",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/surrey-drug-kingpin-sentenced-6-years-in-us-prison",
-      "published_date": "2026-05-20T20:51:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Goldeneyes’ Sophie Jaques named finalist for PWHL defender of the year",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/20/vancouver-goldeneyes-sophie-jaques-defender-of-the-year-finalist/",
-      "published_date": "2026-05-20T20:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inclusive Park Social Clubs planned at Hillcrest Park in Pembroke",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/inclusive-park-social-clubs-planned-at-hillcrest-park-in-pembroke",
-      "published_date": "2026-05-20T20:04:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "40 years later: DNA testing links B.C. man with Washington state cold case murder",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/40-years-later-bc-man-linked-by-dna-with-washington-state-cold-case-murder",
-      "published_date": "2026-05-20T19:14:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver killed after u-turn attempt on Highway 1 at Salmon Arm",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/20/driver-killed-after-u-turn-attempt-on-highway-1-at-salmon-arm/",
-      "published_date": "2026-05-20T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another OT loss has Nanaimo Clippers down 2-1 in Rogers BCHL Cup final",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/20/another-ot-loss-has-nanaimo-clippers-down-2-1-in-rogers-bchl-cup-final/",
-      "published_date": "2026-05-20T18:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor women's shelter denied funding, despite turning away hundreds",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-womens-shelter-denied-funding-despite-turning-away-hundreds",
-      "published_date": "2026-05-20T18:21:37Z",
       "category": "Local Events"
     }
   ]
