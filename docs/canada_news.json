@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-23T11:51:27Z",
+  "generated_at": "2026-05-24T00:00:09Z",
   "country": "Canada",
-  "total_stories": 69,
+  "total_stories": 66,
   "categories": [
     "Diplomacy",
     "Military",
@@ -67,11 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraqi man allegedly behind numerous terror attacks on Jews in Canada, U.S. and Europe",
+      "title": "GOLDSTEIN: Wars against Israel are wars against Jews",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/iraqi-man-charged-numerous-terror-attacks-jews-toronto-canada-united-states-europe",
-      "published_date": "2026-05-16T22:15:19Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/opinion/columnists/wars-against-israel-jews",
+      "published_date": "2026-05-23T17:42:07Z",
+      "category": "Military"
     },
     {
       "title": "MANDEL: Man denies killing neighbour over complaints about barbecue fumes",
@@ -151,18 +151,11 @@
       "category": "Military"
     },
     {
-      "title": "WOLF: TV may have peaked with ‘Battle of the Network Stars’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/16/wolf-tv-may-have-peaked-with-battle-of-the-network-stars/",
-      "published_date": "2026-05-16T16:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "KINSELLA: Antisemitic conspiracy theories seek to instill panic and fear",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/kinsella-antisemitic-conspiracy-theories-seek-to-instill-panic-and-fear",
-      "published_date": "2026-05-16T15:31:46Z",
-      "category": "Military"
+      "title": "B.C. climate news: Metro Vancouver anticipates Stage 3 watering restrictions in June &#124; Vancouver council votes to bring back natural gas heating in new buildings",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-may-24-26",
+      "published_date": "2026-05-23T21:33:58Z",
+      "category": "Energy"
     },
     {
       "title": "As new oil pipeline effort takes major steps forward, B.C. scrambles to capitalize",
@@ -249,25 +242,18 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. climate news: B.C. cries foul after Ottawa signs another pipeline deal with Alberta &#124; Worst start to wildfire season raises alarm as El Niño threatens",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-may-17-26",
-      "published_date": "2026-05-16T20:38:11Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Experts say Sask.'s coal power plan not compatible with national strategy",
+      "title": "Opinion: Cowessess has a deal and plans, but needs Ottawa's follow-through",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/experts-say-sask-s-coal-power-plan-not-compatible-with-national-strategy",
-      "published_date": "2026-05-16T20:21:42Z",
-      "category": "Energy"
+      "url": "https://thestarphoenix.com/opinion/letters/opinion-cowessess-has-a-deal-and-plans-but-needs-ottawas-follow-through",
+      "published_date": "2026-05-23T14:00:28Z",
+      "category": "Economy"
     },
     {
-      "title": "GOLDSTEIN: 'Fighting' climate change about expanding government power, not hitting emission targets",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/fighting-climate-change-about-expanding-government-power-not-hitting-emission-targets",
-      "published_date": "2026-05-16T17:06:08Z",
-      "category": "Energy"
+      "title": "Opinion: Festivals like Country Thunder Saskatchewan help artists, communities",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-festivals-like-country-thunder-saskatchewan-help-artists-communities",
+      "published_date": "2026-05-23T12:00:50Z",
+      "category": "Economy"
     },
     {
       "title": "This B.C. startup CEO sees treasure in tailings trash — and he&#039;s got a new round of investment to keep digging",
@@ -347,150 +333,143 @@
       "category": "Economy"
     },
     {
-      "title": "Brian Minter: Want a colourful garden? Here are the keys to success",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/brian-minter-colourful-flowers-vegetables-soil",
-      "published_date": "2026-05-16T15:00:53Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Stellantis unveils North American plan including new Chrysler, Dodge products",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/stellantis-unveils-north-american-plan-including-new-chrysler-dodge-products",
-      "published_date": "2026-05-23T11:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna Rockets to have ‘goldfish memory’ after 5-0 loss to open Memorial Cup",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/22/kelowna-rockets-to-have-goldfish-memory-after-5-0-loss-to-open-memorial-cup/",
-      "published_date": "2026-05-23T05:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna repeat offender sentenced in intimate partner violence case",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/22/kelowna-repeat-offender-sentenced-in-intimate-partner-violence-case/",
-      "published_date": "2026-05-23T02:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Horgan said Site C sucked, but it would not have happened without him",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-horgan-said-site-c-sucked-but-it-would-not-have-happened-without-him",
-      "published_date": "2026-05-23T00:27:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why the world’s superyachts are suddenly flocking to B.C. and spending &#039;silly money&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/why-the-worlds-superyachts-are-suddenly-flocking-to-bc-and-spending-silly-money",
-      "published_date": "2026-05-23T00:09:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. liquor store worker allegedly spat on after ID request",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/22/b-c-liquor-store-worker-allegedly-spat-on-after-id-request/",
-      "published_date": "2026-05-22T23:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abandoning pet turtles is a turtle-y terrible idea",
+      "title": "Suspect sought after young girl sexually assaulted in Agincourt; woman found dead in Cabbagetown",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/abandoning-pet-turtles-is-a-turtle-y-terrible-idea",
-      "published_date": "2026-05-22T23:49:43Z",
+      "url": "https://torontosun.com/news/local-news/young-girl-sexually-assaulted-agincourt-woman-dead-cabbagetown",
+      "published_date": "2026-05-23T23:54:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor police officer involved in east-end shooting",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-officer-involved-in-east-end-shooting",
-      "published_date": "2026-05-22T23:39:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kansas man accused of fatally shooting wife during fight had history of abuse, police say",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/kansas-man-accused-shooting-wife-fight-abuse",
-      "published_date": "2026-05-22T23:36:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto's top 5 parks according to Sun readers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/torontos-top-5-parks-according-to-sun-readers",
-      "published_date": "2026-05-22T23:10:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nurses, B.C. government agree on tentative deal to avoid strike",
+      "title": "&#039;Use your brain&#039;: Hundreds march in Vancouver against AI data centre expansion",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/nurses-b-c-government-agree-on-tentative-deal-to-avoid-strike",
-      "published_date": "2026-05-22T23:03:13Z",
+      "url": "https://vancouversun.com/news/ai-data-centre-protest-vancouver",
+      "published_date": "2026-05-23T22:42:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Letters to The Vancouver Sun: B.C. Sports Hall of Fame deserves better than to be ousted during World Cup",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/letters-to-the-vancouver-sun-b-c-sports-hall-of-fame-deserves-better-than-to-be-ousted-during-world-cup",
-      "published_date": "2026-05-22T23:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remains of missing Squamish actor found, police suspect homicide",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/remains-of-missing-squamish-actor-found-police-suspect-homicide",
-      "published_date": "2026-05-22T22:43:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doug Ford slams encampment ruling affecting Kitchener transit expansion: 'It's a joke'",
+      "title": "Donald Trump says Iran ceasefire deal 'largely negotiated'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/doug-ford-slams-encampment-ruling-kitchener-transit-expansion",
-      "published_date": "2026-05-22T22:34:17Z",
+      "url": "https://torontosun.com/news/world/donald-trump-iran-ceasefire-deal-largely-negotiated",
+      "published_date": "2026-05-23T22:35:42Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. man sues StubHub for $25,000 for allegedly failing to resell FIFA tickets",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-man-sues-stubhub-for-25000-for-allegedly-failing-to-resell-fifa-tickets",
-      "published_date": "2026-05-22T22:30:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Markham teen bitten by coyote, city 'investigating the incident'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/markham-teen-bitten-by-coyote-city-investigating-the-incident",
-      "published_date": "2026-05-22T21:59:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tulsi Gabbard resigning as U.S. Director of National Intelligence",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/tulsi-gabbard-resign-us-director-national-intelligence",
-      "published_date": "2026-05-22T21:17:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mental health screening tool launches in B.C. Interior to aid RCMP response",
+      "title": "Mine rescue teams take on ‘dramatic, real-life simulations’ at long-running B.C. event",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/22/mental-health-screening-tool-launches-in-b-c-interior-to-aid-rcmp-response/",
-      "published_date": "2026-05-22T21:14:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/23/mine-rescue-teams-take-on-dramatic-real-life-simulations-at-long-running-b-c-event/",
+      "published_date": "2026-05-23T22:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Findlay stays on BC Conservative leadership ballot after tumultuous week",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/22/breaking-findlay-stays-on-bc-conservative-leadership-ballot-after-tumultous-week/",
-      "published_date": "2026-05-22T21:11:00Z",
+      "title": "Man wanted on Canada-wide warrant for fatal Mississauga stabbing",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-wanted-canada-wide-warrant-fatal-mississauga-stabbing",
+      "published_date": "2026-05-23T22:20:20Z",
       "category": "Local Events"
     },
     {
-      "title": "7 non-profits come together to form the Humane Societies of BC",
+      "title": "Bulls and Bears: Arsenal adds another jewel in the crown of this multi-sport billionaire owner",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/sports/soccer/bulls-and-bears-arsenal-adds-another-jewel-in-the-crown-of-this-multi-sport-billionaire-owner",
+      "published_date": "2026-05-23T21:56:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto District School Board appoints new CEO",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-district-school-board-appoints-new-ceo",
+      "published_date": "2026-05-23T20:27:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 5.2 Project shows parents how much screen time their teens are averaging",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/the-5-2-project-parents-screen-time-teens-averaging",
+      "published_date": "2026-05-23T20:11:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who's calling shots in city's enforcement of FIFA trademarks?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/fifa-city-hall-trademark-enforcement",
+      "published_date": "2026-05-23T19:48:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ivanka Trump target of assassination plot tied to Iraqi national: Report",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/ivanka-trump-target-alleged-assassination-plot",
+      "published_date": "2026-05-23T19:25:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro Vancouver expects to move to Stage 3 water restrictions in June",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-tage-3-water-restrictions-june-2026",
+      "published_date": "2026-05-23T19:15:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rain forces Bruno Mars to postpone first of five concerts at Rogers Stadium to May 31",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/rain-bruno-mars-rogers-stadium-concert-may-31",
+      "published_date": "2026-05-23T19:05:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Signs, 'shadow campaigns' give Toronto council's incumbents a leg up",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-councillor-names-signs-before-campaign",
+      "published_date": "2026-05-23T18:32:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire burning out of control near Maple Ridge",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/maple-ridge-wildfire-rock-ridge-area",
+      "published_date": "2026-05-23T17:30:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nanaimo Clippers lose Rogers BCHL Cup final with fourth-straight OT loss",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/22/7-non-profits-come-together-to-form-the-humane-societies-of-bc/",
-      "published_date": "2026-05-22T21:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/23/nanaimo-clippers-lose-rogers-bchl-cup-final-with-fourth-straight-ot-loss/",
+      "published_date": "2026-05-23T17:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative members begin to vote on new leader",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-conservative-members-to-vote-on-leader",
+      "published_date": "2026-05-23T15:46:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iconic plant-stuffed orcas resurface in B.C. capital’s inner harbour",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/23/iconic-plant-stuffed-orcas-resurface-in-b-c-capitals-inner-harbour/",
+      "published_date": "2026-05-23T15:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: A tour through B.C. Interior wine country — with some clever surprises",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/anthony-gismondi-tour-bc-interior-wine-country-surprises",
+      "published_date": "2026-05-23T15:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Broadway Subway street closures: As one stretch reopens to traffic, another one prepares to close",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/broadway-subway-street-closures-as-one-stretch-reopens-to-traffic-another-one-prepares-to-close",
+      "published_date": "2026-05-23T15:00:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver&#039;s century-old, renovated Wilmar mansion for sale for $11 million",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-1925-renovated-wilmar-mansion-for-sale-11-million",
+      "published_date": "2026-05-23T15:00:35Z",
       "category": "Local Events"
     }
   ]
