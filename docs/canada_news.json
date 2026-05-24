@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T00:00:09Z",
+  "generated_at": "2026-05-24T11:56:25Z",
   "country": "Canada",
   "total_stories": 66,
   "categories": [
@@ -333,6 +333,27 @@
       "category": "Economy"
     },
     {
+      "title": "Starlight Stadium roars as B.C. Lions return to Langford",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/23/starlight-stadium-roars-as-b-c-lions-return-to-langford/",
+      "published_date": "2026-05-24T01:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Rise FC celebrates first home victory of the season",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/23/vancouver-rise-fc-celebrates-first-home-victory-of-the-season/",
+      "published_date": "2026-05-24T00:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Secret Service fatally shoot man who fired at them near White House",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/white-house-locked-down-shots-fired",
+      "published_date": "2026-05-23T23:57:45Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Suspect sought after young girl sexually assaulted in Agincourt; woman found dead in Cabbagetown",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/young-girl-sexually-assaulted-agincourt-woman-dead-cabbagetown",
@@ -449,27 +470,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/23/iconic-plant-stuffed-orcas-resurface-in-b-c-capitals-inner-harbour/",
       "published_date": "2026-05-23T15:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: A tour through B.C. Interior wine country — with some clever surprises",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/anthony-gismondi-tour-bc-interior-wine-country-surprises",
-      "published_date": "2026-05-23T15:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Broadway Subway street closures: As one stretch reopens to traffic, another one prepares to close",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/broadway-subway-street-closures-as-one-stretch-reopens-to-traffic-another-one-prepares-to-close",
-      "published_date": "2026-05-23T15:00:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver&#039;s century-old, renovated Wilmar mansion for sale for $11 million",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-1925-renovated-wilmar-mansion-for-sale-11-million",
-      "published_date": "2026-05-23T15:00:35Z",
       "category": "Local Events"
     }
   ]
