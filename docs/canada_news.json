@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T00:03:33Z",
+  "generated_at": "2026-05-25T13:53:14Z",
   "country": "Canada",
   "total_stories": 67,
   "categories": [
@@ -144,13 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Revised Iran peace proposal shared with U.S.",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may-18",
-      "published_date": "2026-05-18T11:33:05Z",
-      "category": "Military"
-    },
-    {
       "title": "Power outages could stretch into Monday for remote areas of GTA: Hydro One",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/power-outages-could-stretch-into-monday-for-remote-areas-of-gta-hydro-one",
@@ -240,6 +233,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/05/18/environmental-advocates-call-pipeline-deal-a-betrayal-of-canadas-climate-goals/",
       "published_date": "2026-05-18T22:00:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Feds invest millions in Sask. steel companies amidst tariff trouble",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/feds-invest-millions-in-sask-steel-companies-amidst-tariff-trouble",
+      "published_date": "2026-05-25T12:00:31Z",
+      "category": "Economy"
     },
     {
       "title": "Metro Vancouver outdoor workers take job action after strike notice",
@@ -340,6 +340,83 @@
       "category": "Economy"
     },
     {
+      "title": "Province breaks ground on new Science Centre on Toronto waterfront",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/province-breaks-ground-science-centre-toronto-waterfront",
+      "published_date": "2026-05-25T13:41:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Critical focus&#039;: Water conservation measures likely for Okanagan, Vancouver Island as summer drought looms",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-south-coast-okanagan-water-conservation-measures-summer-drought-looms",
+      "published_date": "2026-05-25T13:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside a Canadian charity helping women and children flee violent homes with their clothes, toys, pets",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/inside-a-charity-that-helps-women-kids-flee-violent-homes-with-their-clothes-toys-pets",
+      "published_date": "2026-05-25T13:00:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. hikers, campers and pet owners advised to check for ticks after spending time outside",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-hikers-campers-pet-owners-advised-check-for-ticks",
+      "published_date": "2026-05-25T13:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Second coyote attack in Markham prompts police warning",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/second-coyote-attack-markham-prompts-police-warning",
+      "published_date": "2026-05-25T12:23:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Howard Moscoe, ex-Toronto city councillor, TTC chair, dies at 86",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/howard-moscoe-former-toronto-councillor-dies",
+      "published_date": "2026-05-25T12:04:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caroline Mulroney announces she's quitting Ford government",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/caroline-mulroney-quitting-ford-government",
+      "published_date": "2026-05-25T11:30:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leamington Fair draws big crowds for rides, animals and family fun",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/leamington-fair-draws-big-crowds-for-rides-animals-and-family-fun",
+      "published_date": "2026-05-25T11:22:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amherstburg's integrity commissioner dismisses 'frivolous' complaint against deputy mayor, councillor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/amherstburgs-integrity-commissioner-dismisses-frivolous-complaint-against-deputy-mayor-councillor",
+      "published_date": "2026-05-25T11:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nate Erskine-Smith's appeal of Liberal nomination process dismissed",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/nathaniel-erskine-smith-nomination-appeal-dismissed",
+      "published_date": "2026-05-25T02:15:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scuba diver dies in waters off Whytecliff Park in West Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/scuba-diver-dies-in-waters-off-whytecliff-park-in-west-vancouver",
+      "published_date": "2026-05-25T00:24:11Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Three men die after Savary Island clam-fishing boat capsizes",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/three-men-die-after-savary-island-clam-fishing-boat-capsizes",
@@ -400,83 +477,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/investigators-probe-downtown-windsor-fire-that-caused-100k-in-damage",
       "published_date": "2026-05-24T13:03:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: What&#039;s on your bucket reading list?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-whats-on-your-bucket-reading-list",
-      "published_date": "2026-05-24T13:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HANSON: America: The real crouching tiger, hidden dragon",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/america-real-crouching-tiger-hidden-dragon",
-      "published_date": "2026-05-24T13:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: A time to enjoy the garden",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/24/quiz-a-time-to-enjoy-the-garden/",
-      "published_date": "2026-05-24T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starlight Stadium roars as B.C. Lions return to Langford",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/23/starlight-stadium-roars-as-b-c-lions-return-to-langford/",
-      "published_date": "2026-05-24T01:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Rise FC celebrates first home victory of the season",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/23/vancouver-rise-fc-celebrates-first-home-victory-of-the-season/",
-      "published_date": "2026-05-24T00:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Secret Service fatally shoot man who fired at them near White House",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/white-house-locked-down-shots-fired",
-      "published_date": "2026-05-23T23:57:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect sought after young girl sexually assaulted in Agincourt; woman found dead in Cabbagetown",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/young-girl-sexually-assaulted-agincourt-woman-dead-cabbagetown",
-      "published_date": "2026-05-23T23:54:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Use your brain&#039;: Hundreds march in Vancouver against AI data centre expansion",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/ai-data-centre-protest-vancouver",
-      "published_date": "2026-05-23T22:42:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump says Iran ceasefire deal 'largely negotiated'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/donald-trump-iran-ceasefire-deal-largely-negotiated",
-      "published_date": "2026-05-23T22:35:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mine rescue teams take on ‘dramatic, real-life simulations’ at long-running B.C. event",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/23/mine-rescue-teams-take-on-dramatic-real-life-simulations-at-long-running-b-c-event/",
-      "published_date": "2026-05-23T22:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man wanted on Canada-wide warrant for fatal Mississauga stabbing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-wanted-canada-wide-warrant-fatal-mississauga-stabbing",
-      "published_date": "2026-05-23T22:20:20Z",
       "category": "Local Events"
     }
   ]
