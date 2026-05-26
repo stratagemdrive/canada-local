@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-26T00:08:58Z",
+  "generated_at": "2026-05-26T13:43:52Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 66,
   "categories": [
     "Diplomacy",
     "Military",
@@ -44,6 +44,13 @@
       "url": "https://torontosun.com/opinion/columnists/crtc-looks-set-to-kill-off-trade-talks-with-usa",
       "published_date": "2026-05-20T00:08:12Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: U.S. carries out 'self-defence strikes' on Iran",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-may-26",
+      "published_date": "2026-05-26T11:43:48Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Iran hangs another protester",
@@ -120,20 +127,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/snowbirds-grounded-2030s-new-planes",
       "published_date": "2026-05-19T16:22:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Province seeks to seize Surrey home from owner after criminal acts by tenants",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/province-seeks-to-seize-surrey-bc-home-from-owner-after-criminal-acts-by-tenants",
-      "published_date": "2026-05-19T13:00:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Trump calls off planned Iran attack citing 'serious negotiations'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-updates-may-19",
-      "published_date": "2026-05-19T11:45:10Z",
       "category": "Military"
     },
     {
@@ -340,11 +333,81 @@
       "category": "Economy"
     },
     {
-      "title": "Sask. caregivers speak out as national survey shows many are overwhelmed",
+      "title": "Got World Cup tickets? Better read this (surprising) list of rules for stadium entry",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/world-cup-tickets-bc-place-vancouver-list-of-rules-stadium-entry",
+      "published_date": "2026-05-26T13:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oakridge Park opens this week: Here&#039;s what to know before you go",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/oakridge-park-opening-what-to-know",
+      "published_date": "2026-05-26T13:00:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHL star Macklin Celebrini partners with Airbnb for FIFA World Cup experience in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/nhl-star-macklin-celebrini-partners-with-airbnb-for-fifa-world-cup-experience-in-toronto",
+      "published_date": "2026-05-26T13:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Old clothes and accessories get a make-over at Purple Aster Vintage",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/sask-caregivers-speak-out-as-national-survey-shows-many-are-overwhelmed",
-      "published_date": "2026-05-19T12:00:59Z",
-      "category": "Economy"
+      "url": "https://thestarphoenix.com/business/local-business/purple-aster-vintage",
+      "published_date": "2026-05-26T12:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Problematic' or life-saving — Windsor grapples with impact of addiction pharmacies downtown",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/problematic-or-life-saving-windsor-grapples-with-impact-of-addiction-pharmacies-downtown",
+      "published_date": "2026-05-26T11:01:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "French fries are the one thing the world can agree on",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/life/food/french-fries-are-the-one-thing-the-world-can-agree-on",
+      "published_date": "2026-05-26T04:01:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NAVDEEP IN, NATE OUT? Ex-MP adds new wrinkle to Ontario Liberal leadership race",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/navdeep-bains-ontario-liberal-leadership-race",
+      "published_date": "2026-05-26T01:19:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Homicide team called in as woman dies in Mission home",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/homicide-team-called-in-as-woman-dies-in-mission-home",
+      "published_date": "2026-05-26T00:56:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Popular Vancouver brunch spot set to close after this summer",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/popular-vancouver-brunch-spot-set-to-close-after-this-summer",
+      "published_date": "2026-05-26T00:24:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Province to reinstate Victoria school trustees after failing to produce documents for court case",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-to-reinstate-victoria-school-trustees-after-failing-to-produce-documents-for-court-case",
+      "published_date": "2026-05-26T00:16:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Montrose Properties argues B.C. judge should reopen Cowichan land claim lawsuit",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/montrose-properties-argues-b-c-judge-should-reopen-cowichan-land-claim-lawsuit",
+      "published_date": "2026-05-26T00:10:34Z",
+      "category": "Local Events"
     },
     {
       "title": "B.C. fire crew rescues ducklings from storm drain",
@@ -407,83 +470,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/local-news/family-says-concerns-were-dismissed-before-woman-died-giving-birth-in-saskatoon-hospital",
       "published_date": "2026-05-25T21:34:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Olivia Chow is running for mayor again, but Toronto can’t afford more of same",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/olivia-chow-is-running-again-but-toronto-cant-afford-more-of-the-same",
-      "published_date": "2026-05-25T21:22:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservative leadership hopeful Findlay flees own press conference",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/b-c-conservative-leadership-hopeful-findlay-flees-own-press-conference/",
-      "published_date": "2026-05-25T20:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. wildfire documentary hits YouTube",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/b-c-wildfire-documentary-hits-youtube/",
-      "published_date": "2026-05-25T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver police use cutting-edge science to trace last days of woman found dead off Spanish Banks Beach",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-police-trace-last-days-woman-found-dead-spanish-banks-beach",
-      "published_date": "2026-05-25T20:16:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: It’s time to ‘unmask the appeal’ of youth vaping",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-its-time-to-unmask-the-appeal-of-youth-vaping",
-      "published_date": "2026-05-25T20:12:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: From exception to entitlement: What Vancouver’s tower review is really about",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/what-vancouver-tower-review-really-about",
-      "published_date": "2026-05-25T20:10:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rising water levels will engulf New Orleans, study says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/rising-water-levels-will-engulf-new-orleans-study",
-      "published_date": "2026-05-25T19:52:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fired Victoria school board trustees reinstated after province admits error",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/province-quashes-orders-that-lead-to-fired-victoria-school-board/",
-      "published_date": "2026-05-25T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No charges approved in 2023 Vancouver Island police shooting of man driving stolen skid-steer",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/no-charges-approved-in-2023-cowichan-police-shooting-of-man-driving-stolen-skid-steer/",
-      "published_date": "2026-05-25T19:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police identify woman presumed drowned in Kamloops river",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/police-identify-woman-presumed-drowned-in-kamloops-river/",
-      "published_date": "2026-05-25T19:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver arrested following three-vehicle crash in Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/driver-arrested-following-three-vehicle-crash-in-kelowna/",
-      "published_date": "2026-05-25T18:45:00Z",
       "category": "Local Events"
     }
   ]
