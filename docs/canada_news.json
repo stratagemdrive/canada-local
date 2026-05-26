@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-25T13:53:14Z",
+  "generated_at": "2026-05-26T00:08:58Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -46,18 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Former Park Ave. apartment for Canada's consul general in NYC sold: Report",
+      "title": "IRAN WAR: Iran hangs another protester",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/former-park-ave-apartment-for-canadas-consul-general-in-nyc-sold-report",
-      "published_date": "2026-05-18T22:03:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "TTC, union reach tentative deal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ttc-union-reach-tentative-deal",
-      "published_date": "2026-05-18T21:39:28Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-latest-may-25",
+      "published_date": "2026-05-25T13:57:32Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR UPDATES: Donald Trump says U.S. in no rush to reach deal with Iran",
@@ -144,6 +137,20 @@
       "category": "Military"
     },
     {
+      "title": "Metro Vancouver company building a mega factory in Surrey to give new life to used EV batteries",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/metro-vancouver-company-building-surrey-mega-factory-give-new-life-to-used-ev-batteries",
+      "published_date": "2026-05-25T23:58:58Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Opinion: Saskatchewan premier must stand firm against carbon taxes",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-saskatchewan-premier-must-stand-firm-against-carbon-taxes",
+      "published_date": "2026-05-25T16:16:19Z",
+      "category": "Energy"
+    },
+    {
       "title": "Power outages could stretch into Monday for remote areas of GTA: Hydro One",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/power-outages-could-stretch-into-monday-for-remote-areas-of-gta-hydro-one",
@@ -221,18 +228,25 @@
       "category": "Energy"
     },
     {
-      "title": "Legal challenge seeks to block floating hotel in Vancouver&#039;s Coal Harbour",
+      "title": "Vaughn Palmer: World-Cup-boosting B.C. NDP ignores caveats in report on potential economic benefit",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/coal-harbour-floating-hotel-faces-legal-challenge",
-      "published_date": "2026-05-18T22:58:18Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-world-cup-boosting-bc-ndp-ignores-caveats-in-report-on-potential-economic-benefit",
+      "published_date": "2026-05-25T23:11:46Z",
+      "category": "Economy"
     },
     {
-      "title": "Environmental advocates call pipeline deal a ‘betrayal’ of Canada’s climate goals",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/18/environmental-advocates-call-pipeline-deal-a-betrayal-of-canadas-climate-goals/",
-      "published_date": "2026-05-18T22:00:00Z",
-      "category": "Energy"
+      "title": "More potholes, more money: city provides summer road maintenance update",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/more-potholes-more-money-city-provides-summer-road-maintenance-update",
+      "published_date": "2026-05-25T19:28:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Guest column: Making Canada strong economically includes equal access to quality healthcare across the country",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/guest-column-making-canada-strong-economically-includes-equal-access-to-quality-healthcare-across-the-country",
+      "published_date": "2026-05-25T16:47:11Z",
+      "category": "Economy"
     },
     {
       "title": "Feds invest millions in Sask. steel companies amidst tariff trouble",
@@ -333,150 +347,143 @@
       "category": "Economy"
     },
     {
-      "title": "Windsor Freedom Convoy protests federal immigration policies, floor-crossing MPs, more",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-freedom-convoy-protests-federal-immigration-policies-floor-crossing-mps-more",
-      "published_date": "2026-05-18T14:03:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Province breaks ground on new Science Centre on Toronto waterfront",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/province-breaks-ground-science-centre-toronto-waterfront",
-      "published_date": "2026-05-25T13:41:07Z",
+      "title": "B.C. fire crew rescues ducklings from storm drain",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/b-c-fire-crew-rescues-ducklings-from-storm-drain/",
+      "published_date": "2026-05-25T23:50:00Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;Critical focus&#039;: Water conservation measures likely for Okanagan, Vancouver Island as summer drought looms",
+      "title": "Okanagan city councillor returns to the stand for 2nd historic sex crime trial",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/okanagan-city-councillor-returns-to-the-stand-for-2nd-historic-sex-crime-trial/",
+      "published_date": "2026-05-25T22:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspected homicide of &#039;kind and gentle&#039; Vancouver-area actor a shock to friends and colleagues",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-south-coast-okanagan-water-conservation-measures-summer-drought-looms",
-      "published_date": "2026-05-25T13:00:36Z",
+      "url": "https://vancouversun.com/news/suspected-homicide-vancouver-actor-stewart-mclean-shock-to-friends-colleagues",
+      "published_date": "2026-05-25T22:44:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Inside a Canadian charity helping women and children flee violent homes with their clothes, toys, pets",
+      "title": "‘Will miss caring for you’: Clearwater losing 4 doctors, recruitment efforts underway",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/will-miss-caring-for-you-clearwater-losing-4-doctors-recruitment-efforts-underway/",
+      "published_date": "2026-05-25T22:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doctor shortage leads to another ER closure at Mission Memorial Hospital",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/inside-a-charity-that-helps-women-kids-flee-violent-homes-with-their-clothes-toys-pets",
-      "published_date": "2026-05-25T13:00:24Z",
+      "url": "https://vancouversun.com/news/doctor-shortage-leads-to-another-er-closure-at-mission-memorial-hospital",
+      "published_date": "2026-05-25T22:30:16Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. hikers, campers and pet owners advised to check for ticks after spending time outside",
+      "title": "Toronto duo charged with human trafficking; massage therapist accused of sex assault",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-duo-charged-human-trafficking-probe",
+      "published_date": "2026-05-25T22:22:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saanich Police seize $55K worth of fentanyl, cocaine, meth, GHB",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/saanich-police-seize-55k-worth-of-fentanyl-cocaine-meth-ghb/",
+      "published_date": "2026-05-25T22:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Images released as Toronto Police try to identify downtown homicide victim",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/images-released-toronto-police-homicide-victim",
+      "published_date": "2026-05-25T21:51:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family says concerns were 'dismissed' before woman died giving birth in Saskatoon hospital",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/family-says-concerns-were-dismissed-before-woman-died-giving-birth-in-saskatoon-hospital",
+      "published_date": "2026-05-25T21:34:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Olivia Chow is running for mayor again, but Toronto can’t afford more of same",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/olivia-chow-is-running-again-but-toronto-cant-afford-more-of-the-same",
+      "published_date": "2026-05-25T21:22:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative leadership hopeful Findlay flees own press conference",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/b-c-conservative-leadership-hopeful-findlay-flees-own-press-conference/",
+      "published_date": "2026-05-25T20:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. wildfire documentary hits YouTube",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/b-c-wildfire-documentary-hits-youtube/",
+      "published_date": "2026-05-25T20:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver police use cutting-edge science to trace last days of woman found dead off Spanish Banks Beach",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-hikers-campers-pet-owners-advised-check-for-ticks",
-      "published_date": "2026-05-25T13:00:21Z",
+      "url": "https://vancouversun.com/news/vancouver-police-trace-last-days-woman-found-dead-spanish-banks-beach",
+      "published_date": "2026-05-25T20:16:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Second coyote attack in Markham prompts police warning",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/second-coyote-attack-markham-prompts-police-warning",
-      "published_date": "2026-05-25T12:23:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Howard Moscoe, ex-Toronto city councillor, TTC chair, dies at 86",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/howard-moscoe-former-toronto-councillor-dies",
-      "published_date": "2026-05-25T12:04:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caroline Mulroney announces she's quitting Ford government",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/caroline-mulroney-quitting-ford-government",
-      "published_date": "2026-05-25T11:30:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leamington Fair draws big crowds for rides, animals and family fun",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/leamington-fair-draws-big-crowds-for-rides-animals-and-family-fun",
-      "published_date": "2026-05-25T11:22:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amherstburg's integrity commissioner dismisses 'frivolous' complaint against deputy mayor, councillor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/amherstburgs-integrity-commissioner-dismisses-frivolous-complaint-against-deputy-mayor-councillor",
-      "published_date": "2026-05-25T11:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nate Erskine-Smith's appeal of Liberal nomination process dismissed",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/nathaniel-erskine-smith-nomination-appeal-dismissed",
-      "published_date": "2026-05-25T02:15:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scuba diver dies in waters off Whytecliff Park in West Vancouver",
+      "title": "Opinion: It’s time to ‘unmask the appeal’ of youth vaping",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/scuba-diver-dies-in-waters-off-whytecliff-park-in-west-vancouver",
-      "published_date": "2026-05-25T00:24:11Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-its-time-to-unmask-the-appeal-of-youth-vaping",
+      "published_date": "2026-05-25T20:12:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Three men die after Savary Island clam-fishing boat capsizes",
+      "title": "Opinion: From exception to entitlement: What Vancouver’s tower review is really about",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/three-men-die-after-savary-island-clam-fishing-boat-capsizes",
-      "published_date": "2026-05-24T20:46:54Z",
+      "url": "https://vancouversun.com/opinion/op-ed/what-vancouver-tower-review-really-about",
+      "published_date": "2026-05-25T20:10:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Canada's Wonderland ride stalls during Saturday's wet, windy weather",
+      "title": "Rising water levels will engulf New Orleans, study says",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/canadas-wonderland-ride-stalls-during-wet-windy-weather",
-      "published_date": "2026-05-24T18:56:34Z",
+      "url": "https://torontosun.com/news/rising-water-levels-will-engulf-new-orleans-study",
+      "published_date": "2026-05-25T19:52:42Z",
       "category": "Local Events"
     },
     {
-      "title": "One dead in single-vehicle crash in Langley Township",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/one-dead-in-single-vehicle-crash-in-langley-township",
-      "published_date": "2026-05-24T17:56:10Z",
+      "title": "Fired Victoria school board trustees reinstated after province admits error",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/province-quashes-orders-that-lead-to-fired-victoria-school-board/",
+      "published_date": "2026-05-25T19:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tick season is already here: How to protect yourself and pets from disease-ridden bites",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/tick-season-protect-yourself-pets-disease-ridden-bites",
-      "published_date": "2026-05-24T15:09:13Z",
+      "title": "No charges approved in 2023 Vancouver Island police shooting of man driving stolen skid-steer",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/no-charges-approved-in-2023-cowichan-police-shooting-of-man-driving-stolen-skid-steer/",
+      "published_date": "2026-05-25T19:21:00Z",
       "category": "Local Events"
     },
     {
-      "title": "From $6 to $56: Here are the 5 best cream blushes at every price",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/best-cream-blushes-every-price",
-      "published_date": "2026-05-24T15:00:45Z",
+      "title": "Police identify woman presumed drowned in Kamloops river",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/police-identify-woman-presumed-drowned-in-kamloops-river/",
+      "published_date": "2026-05-25T19:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Five steps to avoiding burnout, improving life at work",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/five-steps-to-avoiding-burnout-at-work",
-      "published_date": "2026-05-24T14:59:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Tearing down posters for missing girl new low in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/tearing-down-posters-missing-girl-new-low-toronto",
-      "published_date": "2026-05-24T14:25:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seize firearms, biker gang paraphernalia in Tecumseh raid",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seize-firearms-biker-gang-paraphernalia-in-tecumseh-raid",
-      "published_date": "2026-05-24T13:07:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigators probe downtown Windsor fire that caused $100K in damage",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/investigators-probe-downtown-windsor-fire-that-caused-100k-in-damage",
-      "published_date": "2026-05-24T13:03:20Z",
+      "title": "Driver arrested following three-vehicle crash in Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/25/driver-arrested-following-three-vehicle-crash-in-kelowna/",
+      "published_date": "2026-05-25T18:45:00Z",
       "category": "Local Events"
     }
   ]
