@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-27T14:16:11Z",
+  "generated_at": "2026-05-28T00:02:21Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Vaughn Palmer: NDP drive to change B.C. natural gas royalties faces industry pushback",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-ndp-drive-to-change-bc-natural-gas-royalties-faces-industry-pushback",
+      "published_date": "2026-05-27T23:20:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Liǧʷiłdax̌ʷ members protest against K’ómoks treaty",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/liidax-members-protest-against-kmoks-treaty/",
+      "published_date": "2026-05-27T21:30:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "David Eby and Danielle Smith spar over pipelines, separatism at premiers&#039; meeting",
       "source": "Vancouver Sun",
@@ -39,11 +53,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "With diminished need, Windsor mayor says Gordie Howe bridge shouldn't open at expense of 'bad deal'",
+      "title": "Co-worker: Man accused of Windsor Assembly Plant explosion frustrated by vaccine mandates",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/with-diminished-need-windsor-mayor-says-gordie-howe-bridge-shouldnt-open-at-expense-of-bad-deal",
-      "published_date": "2026-05-20T16:31:37Z",
-      "category": "Diplomacy"
+      "url": "https://windsorstar.com/news/local-news/co-worker-man-accused-of-windsor-assembly-plant-explosion-frustrated-by-vaccine-mandates",
+      "published_date": "2026-05-27T20:35:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "1 dead, 9 feared dead after Washington state chemical tank explosion",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/washington-state-chemical-tank-explosion",
+      "published_date": "2026-05-27T17:04:47Z",
+      "category": "Military"
     },
     {
       "title": "Canada enters into talks to purchase Saab GlobalEye surveillance planes",
@@ -221,18 +242,18 @@
       "category": "Energy"
     },
     {
-      "title": "Eby agrees to enter into ‘negotiations’ with Carney as pipeline talk heats up",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/20/eby-agrees-to-enter-into-negotiations-with-carney-as-pipeline-talk-heats-up/",
-      "published_date": "2026-05-20T19:30:00Z",
-      "category": "Energy"
+      "title": "LILLEY: Mark Carney heads to New York while continuing to avoid Donald Trump",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-avoiding-deal-donald-trump",
+      "published_date": "2026-05-27T23:06:01Z",
+      "category": "Economy"
     },
     {
-      "title": "Prime Minister Mark Carney assures Vancouver business audience B.C. key to &#039;Build Canada Strong&#039; agenda",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/prime-minister-mark-carney-bc-central-build-canada-agenda",
-      "published_date": "2026-05-20T19:07:43Z",
-      "category": "Energy"
+      "title": "Pilot error blamed for 2023 fatal helicopter incident at Smithers airport",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/pilot-error-blamed-for-2023-fatal-helicopter-incident-at-smithers-airport/",
+      "published_date": "2026-05-27T22:16:00Z",
+      "category": "Economy"
     },
     {
       "title": "Kitimat resident attraction campaign earns provincial marketing award",
@@ -354,157 +375,143 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. to release updated FIFA World Cup costs ‘next week,’ minister says",
+      "title": "Man who stabbed Good Samaritan during downtown Vancouver bag snatching found guilty",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-who-stabbed-good-samaritan-during-downtown-vancouver-bag-snatching-found-guilty",
+      "published_date": "2026-05-28T00:02:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Langley councillors drop libel lawsuit against fellow politicians, others",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/20/b-c-to-release-updated-fifa-world-cup-costs-next-week-minister-says/",
-      "published_date": "2026-05-20T23:53:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Opinion: Vancouver Whitecaps owe far more to the fanbase than chasing cross-border dollars",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-vancouver-whitecaps-owe-far-more-to-the-fanbase-than-chasing-cross-border-dollars",
-      "published_date": "2026-05-20T23:00:34Z",
-      "category": "Economy"
-    },
-    {
-      "title": "OPP seize firearms, drugs, cash during two-day sweep of Harrow home",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-seize-firearms-drugs-cash-at-harrow-residence",
-      "published_date": "2026-05-27T14:08:05Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/two-langley-councillors-drop-libel-lawsuit-against-fellow-politicians-others/",
+      "published_date": "2026-05-27T23:55:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Embalmer cut off dead sex fiend's penis and stuck it in his mouth",
+      "title": "Vancouver dance crew tops International Dance League rankings",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-dance-crew-tops-international-dance-league-rankings",
+      "published_date": "2026-05-27T23:49:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BRIONES: When your back gives out, life comes to a standstill",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/briones-when-your-back-gives-out-life-comes-to-a-standstill/",
+      "published_date": "2026-05-27T23:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man stuck in B.C. hospital bed after fire at long-term care home. Who&#039;s responsible for where he goes next?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-stuck-in-bc-hospital-bed-after-fire-at-long-term-care-home-whos-responsible-for-where-he-goes-next",
+      "published_date": "2026-05-27T23:28:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Toronto carjacker only gets house arrest for theft of $1-million Ferrari",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/embalmer-cut-off-dead-sex-fiend-penis-stuck-in-his-mouth",
-      "published_date": "2026-05-27T14:06:09Z",
+      "url": "https://torontosun.com/news/crime/toronto-carjacker-only-gets-house-arrest-for-theft-of-1-million-ferrari",
+      "published_date": "2026-05-27T23:18:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Did a meteor soar through GTA sky on Wednesday morning?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/did-meteor-soar-through-sky-wednesday-morning",
-      "published_date": "2026-05-27T13:56:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One dead in late-night shooting in Langley",
+      "title": "B.C. fugitive in major Manitoba drug case reportedly arrested in Mexico",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/one-dead-in-late-night-shooting-in-langley",
-      "published_date": "2026-05-27T13:53:05Z",
+      "url": "https://vancouversun.com/news/crime/bc-fugitive-major-manitoba-drug-case-reportedly-arrested-mexico",
+      "published_date": "2026-05-27T23:13:53Z",
       "category": "Local Events"
     },
     {
-      "title": "Paul Anka says crime in Canada 'through the roof' amid mass immigration",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/paul-anka-crime-canada-through-the-roof-mass-immigration",
-      "published_date": "2026-05-27T13:45:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five missing villagers found inside Laos cave, two still missing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/five-missing-villagers-found-inside-laos-cave-two-missing",
-      "published_date": "2026-05-27T13:21:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Harrison Hot Springs mayor ordered to pay $160,000 for defaming man",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/former-harrison-hot-springs-mayor-ordered-to-pay-160000-for-defaming-man",
-      "published_date": "2026-05-27T13:00:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Vancouver is a beautiful city, but its people no longer have time to love it",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/vancouver-beautiful-city-people-no-longer-have-time-to-love",
-      "published_date": "2026-05-27T13:00:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey council eases up on illegal construction enforcement with one-year pilot program",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-council-eases-up-on-illegal-construction-enforcement-with-one-year-pilot-program",
-      "published_date": "2026-05-27T13:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tod Fox talks road safety on anniversary of wife's cycling death",
+      "title": "Saskatoon police search for suspects in separate stabbing, carjacking incidents",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/tod-fox-talks-road-safety-on-anniversary-of-wifes-cycling-death",
-      "published_date": "2026-05-27T12:00:11Z",
+      "url": "https://thestarphoenix.com/news/crime/saskatoon-police-search-for-suspects-in-separate-stabbing-carjacking-incidents",
+      "published_date": "2026-05-27T23:05:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor constable demoted for sexual phone calls to colleague",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-constable-demoted-following-disciplinary-hearing",
-      "published_date": "2026-05-27T10:46:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SIU invokes mandate in Kingsville after arrest by OPP",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/siu-invokes-mandate-in-kingsville-after-arrest-by-opp",
-      "published_date": "2026-05-27T10:23:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funding feud between Windsor mayor and women's shelter continues",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/funding-feud-between-windsor-mayor-and-womens-shelter-continues",
-      "published_date": "2026-05-27T10:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landowner seeks to reopen Cowichan case with backing of B.C., federal gov’t",
+      "title": "VIDEO: IHIT looking for links between fatal Langley shooting and previous shooting",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/26/landowner-seeks-to-reopen-cowichan-case-with-backing-of-b-c-federal-govt/",
-      "published_date": "2026-05-27T02:54:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/video-ihit-looking-for-links-between-fatal-langley-shooting-and-previous-shooting/",
+      "published_date": "2026-05-27T23:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Several Fraser Valley drug labs busted, dismantled, in police raids",
+      "title": "More than just a feature wall, gradient painting injects unique personality into a room",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/several-fraser-valley-drug-labs-busted-dismantled-in-police-raids",
-      "published_date": "2026-05-27T00:39:17Z",
+      "url": "https://vancouversun.com/homes/more-than-just-a-feature-wall-gradient-painting-injects-unique-personality-into-a-room",
+      "published_date": "2026-05-27T22:58:16Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;Sharp decline&#039; in auto theft and reported crashes across province, says ICBC",
+      "title": "Campbell River artist designs World Cup loonie",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/campbell-river-artist-designs-world-cup-loonie/",
+      "published_date": "2026-05-27T22:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Louisiana woman found guilty of murdering girl in 'dungeon-like' room",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/louisiana-woman-found-guilty-of-murdering-girl-in-dungeon-like-room",
+      "published_date": "2026-05-27T22:12:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sextortion scheme nets Toronto man 33 years in U.S. prison",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/sextortion-scheme-toronto-man-sentenced-us",
+      "published_date": "2026-05-27T22:04:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CUPE Ontario convention criticized by members over global activism",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/cupe-ontario-convention-criticized-by-members-over-global-activism",
+      "published_date": "2026-05-27T21:56:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recall alert: Nine kids&#039; toys flagged for choking hazards, burn risk, lead",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/icbc-hybrid-more-popular-than-evs-bc",
-      "published_date": "2026-05-27T00:37:19Z",
+      "url": "https://vancouversun.com/news/safety-recall-alert-thekiddoshop-toys-lead-chemical-choking-ingestion-strangulation-hazard-warning",
+      "published_date": "2026-05-27T21:49:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump says medical checkup went 'perfectly'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trump-says-medical-checkup-went-perfectly",
-      "published_date": "2026-05-27T00:22:29Z",
+      "title": "Skipped checklist, pilot distraction in fatal Smithers helicopter accident: TSB",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/fatal-smithers-bc-helicopter-crash-skipped-checklist-pilot-distraction-tsb",
+      "published_date": "2026-05-27T21:47:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Josh Jacobs, Green Bay Packers star, facing domestic abuse charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/football/nfl/josh-jacobs-green-bay-packers-star-facing-domestic-abuse-charges",
-      "published_date": "2026-05-27T00:02:26Z",
+      "title": "Alcohol use in B.C. still above national average despite hitting 20-year low",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/alcohol-use-in-b-c-still-above-national-average-despite-hitting-20-year-low/",
+      "published_date": "2026-05-27T21:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Restrictions placed on travellers from Central Africa amid Ebola outbreak",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-puts-travel-restrictions-ebola-outbreak",
-      "published_date": "2026-05-26T23:48:01Z",
+      "title": "Police arrest 7 people barricaded inside a Saanich home",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/police-arrest-7-people-barricaded-inside-a-saanich-home/",
+      "published_date": "2026-05-27T21:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Anti-noise group cranks up complaints after latest Rogers Stadium concert",
+      "title": "Northern Health asks local communities for help with Strategic Plan",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/northern-health-asks-local-communities-for-help-with-strategic-plan/",
+      "published_date": "2026-05-27T21:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bear-y rare sight in Oshawa neighbourhood",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bruno-mars-first-5-rogers-stadium-shows-heard-vaughan-says-anti-noise-group",
-      "published_date": "2026-05-26T23:39:39Z",
+      "url": "https://torontosun.com/news/local-news/bear-sighting-oshawa-neighbourhood",
+      "published_date": "2026-05-27T20:59:10Z",
       "category": "Local Events"
     }
   ]
