@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-28T14:25:33Z",
+  "generated_at": "2026-05-29T00:13:37Z",
   "country": "Canada",
-  "total_stories": 69,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Controversial treaty and FOI bills pass on last day of B.C. legislative session",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/controversial-treaty-and-foi-bills-pass-on-last-day-of-b-c-legislative-session/",
+      "published_date": "2026-05-28T22:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ahead of Chinese foreign minister's Ottawa visit, Canadian warship transits Taiwan strait",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/chinese-foreign-ministers-ottawa-visit-canadian-warship-transits-taiwan-strait",
+      "published_date": "2026-05-28T21:35:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Vaughn Palmer: NDP drive to change B.C. natural gas royalties faces industry pushback",
       "source": "Vancouver Sun",
@@ -44,6 +58,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/05/22/b-c-extortion-crisis-is-carneys-fault-poilievre/",
       "published_date": "2026-05-22T19:35:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Langley mom donates blood in honour of daughter’s lifesaving transfusions",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/langley-mom-donates-blood-in-honour-of-daughters-lifesaving-transfusions/",
+      "published_date": "2026-05-28T22:35:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "‘Something's going to happen’ – Man allegedly warned co-workers before Windsor Assembly Plant explosion",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/somethings-going-to-happen-man-allegedly-warned-co-workers-before-windsor-assembly-plant-explosion",
+      "published_date": "2026-05-28T15:05:15Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR LATEST: U.S., Iran trade strikes in most serious clash since ceasefire began",
@@ -151,20 +179,6 @@
       "category": "Military"
     },
     {
-      "title": "What's On Windsor: Adult book fair, 90s boat cruise, local theatre and more",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-adult-book-fair-90s-boat-cruise-local-theatre-and-more",
-      "published_date": "2026-05-21T20:00:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Questions remain as Indigenous peacekeepers program starts next week",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/questions-remain-as-indigenous-peacekeepers-program-starts-next-week",
-      "published_date": "2026-05-21T16:22:10Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. ski town faces shorter seasons as climate causes more variable winters",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/27/b-c-ski-town-faces-shorter-seasons-as-climate-causes-more-variable-winters/",
@@ -225,20 +239,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/conversations-that-matter-marrying-solar-and-agriculture",
       "published_date": "2026-05-22T13:00:43Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Opinion: Wind power in B.C. — building more than just turbines",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-wind-power-in-b-c-building-more-than-just-turbines",
-      "published_date": "2026-05-21T23:00:27Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Grassy Plains celebrates return of fuel service to the area",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/21/grassy-plains-celebrates-return-of-fuel-service-to-the-area/",
-      "published_date": "2026-05-21T19:00:00Z",
       "category": "Energy"
     },
     {
@@ -347,150 +347,143 @@
       "category": "Economy"
     },
     {
-      "title": "Chalk River Labs receives $2.2B federal investment",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/chalk-river-labs-receive-2-2b-federal-investment",
-      "published_date": "2026-05-21T19:56:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Award-winning Vancouver&#039;s Restaurant Kavita inspired by India&#039;s diverse street foods",
+      "title": "Vaughn Palmer: NDP love of sneakiness and evasion on display as legislature wraps up",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/local-food-reviews/award-winning-vancouver-restaurant-kavitaindia-street-foods",
-      "published_date": "2026-05-28T14:00:52Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-ndp-love-of-sneakiness-and-evasion-on-display-as-legislature-wraps-up",
+      "published_date": "2026-05-29T00:08:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Victoria school board debacle costs province north of $419K",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/victoria-school-board-debacle-costs-province-north-of-419k/",
-      "published_date": "2026-05-28T14:00:00Z",
+      "title": "Anguished family address court in B.C. double murder trial",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/anguished-family-address-court-in-bc-double-murder-trial",
+      "published_date": "2026-05-28T23:35:41Z",
       "category": "Local Events"
     },
     {
-      "title": "'Celebrating culture' — Downtown Windsor set for return of Jewish film festival",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/celebrating-culture-downtown-windsor-set-for-return-of-jewish-film-festival",
-      "published_date": "2026-05-28T13:40:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Global demand drives province’s mining surge",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/saskatchewan-mining-report/global-demand-drives-provinces-mining-surge",
-      "published_date": "2026-05-28T13:35:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatchewan Mining Association a voice for growth",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/saskatchewan-mining-report/saskatchewan-mining-association-a-voice-for-growth",
-      "published_date": "2026-05-28T13:34:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatchewan’s uranium boom signals new era for global supply",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/saskatchewan-mining-report/saskatchewans-uranium-boom-signals-new-era-for-global-supply",
-      "published_date": "2026-05-28T13:32:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatchewan at the forefront of mining innovation",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/saskatchewan-mining-report/saskatchewan-at-the-forefront-of-mining-innovation",
-      "published_date": "2026-05-28T13:30:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jill Biden admits she thought Joe was having a stroke during disastrous 2024 debate",
+      "title": "'Life changing dog': Lions Foundation hosting Walk For Dog Guides at High Park",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/jill-biden-thought-joe-having-stroke-debate",
-      "published_date": "2026-05-28T13:05:59Z",
+      "url": "https://torontosun.com/news/lions-foundation-hosting-walk-for-dog-guides-high-park",
+      "published_date": "2026-05-28T23:24:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Christopher Gaze casts a look back at his career and founding of Bard on the Beach",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/christopher-gaze-casts-a-look-back-at-his-career-and-founding-of-bard-on-the-beach",
-      "published_date": "2026-05-28T13:00:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could the World Cup bring big business to B.C.? Trade groups aim to network, land deals during games",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/could-the-world-cup-bring-big-business-to-b-c-trade-groups-aim-to-network-land-deals-during-games",
-      "published_date": "2026-05-28T13:00:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;It protects good drivers:&#039; B.C. trucking industry applauds mandatory dash cam bill",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-trucking-industry-applauds-mandatory-dash-cam-bill",
-      "published_date": "2026-05-28T13:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Canada keeps planting seeds. Silicon Valley keeps harvesting them",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-canada-keeps-planting-seeds-silicon-valley-keeps-harvesting-them",
-      "published_date": "2026-05-28T13:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 summer accessories to refresh your style this season",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/5-summer-accessories-to-refresh-your-seasonal-wardrobe",
-      "published_date": "2026-05-28T13:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Nature Nut",
+      "title": "B.C. watches as Canada’s Supreme Court declines New Brunswick Aboriginal title appeal",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/the-nature-nut-18/",
-      "published_date": "2026-05-28T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/b-c-watches-as-canadas-supreme-court-declines-new-brunswick-aboriginal-title-appeal/",
+      "published_date": "2026-05-28T23:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "To adopt or not to adopt: Are you really ready?",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/to-adopt-or-not-to-adopt-are-you-really-ready/",
-      "published_date": "2026-05-28T12:30:00Z",
+      "title": "Coquitlam woman fined $500 for leaving two dogs in hot parked car",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/coquitlam-woman-fined-500-two-dogs-hot-parked-car",
+      "published_date": "2026-05-28T23:08:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Overdoses, construction and potholes: Saskatoon city council updates",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/overdoses-construction-and-potholes-saskatoon-city-council-updates",
-      "published_date": "2026-05-28T12:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chefs' convention delegates take buggy ride in Saskatoon in 1980",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/convention-delegates-buggy-ride-saskatoon-1980",
-      "published_date": "2026-05-28T12:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bruno Mars packs powerful punch with big show at Rogers Stadium",
+      "title": "MANDEL: 'Chef of Death' Kenneth Law to plead guilty to aiding suicide",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bruno-mars-big-show-rogers-stadium",
-      "published_date": "2026-05-28T11:00:23Z",
+      "url": "https://torontosun.com/news/local-news/kenneth-law-chef-of-death-plead-guilty-aiding-suicide",
+      "published_date": "2026-05-28T23:00:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Time for the Pembroke Observer and News weekly Photo Quiz",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/time-for-the-pembroke-observer-and-news-weekly-photo-quiz-46",
-      "published_date": "2026-05-28T10:48:46Z",
+      "title": "B.C. Conservatives prepare to name a new leader as party grapples with division",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/b-c-conservatives-prepare-to-name-a-new-leader-as-party-grapples-with-division/",
+      "published_date": "2026-05-28T23:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Land tribunal overturns Windsor council decision on controversial townhomes",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/land-tribunal-overturns-windsor-council-decision-on-controversial-townhomes",
-      "published_date": "2026-05-28T10:09:41Z",
+      "title": "New president promises to set a stable course for Legion",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/new-president-promises-to-set-a-stable-course-for-legion/",
+      "published_date": "2026-05-28T22:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. doctor guilty of sexual assault agrees to give up practicing for life",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/b-c-doctor-guilty-of-sexual-assault-agrees-to-give-up-practicing-for-life/",
+      "published_date": "2026-05-28T21:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gracie Abrams announces headlining Toronto dates in February 2027",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/gracie-abrams-announces-headlining-dates-toronto",
+      "published_date": "2026-05-28T21:47:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Humboldt RCMP search for man who allegedly pointed gun at children",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/crime/humboldt-rcmp-search-for-man-who-allegedly-pointed-gun-at-children",
+      "published_date": "2026-05-28T21:46:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lakes District Fall Fair receives $8K from Starland Timber Mart",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/lakes-district-fall-fair-receives-8k-from-starland-timber-mart/",
+      "published_date": "2026-05-28T21:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "York cops release photos of items allegedly stolen by crime tourism group",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/york-cops-photos-released-project-towns",
+      "published_date": "2026-05-28T21:17:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Supreme Court backs private property rights against aboriginal claim – for now",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/supreme-court-backs-private-property-rights-against-aboriginal-claim",
+      "published_date": "2026-05-28T21:17:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake mayor pitches Northern Health on work camp response",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/burns-lake-mayor-pitches-northern-health-on-work-camp-response/",
+      "published_date": "2026-05-28T21:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four arrested after regulator flags Vancouver casino cheating",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-casino-alleged-cheating-game-play-scheme-four-arrested",
+      "published_date": "2026-05-28T21:04:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Esther, 14, found safe nearly two weeks after her disappearance",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/esther-14-found-safe-nearly-two-weeks-after-disappearance-north-york",
+      "published_date": "2026-05-28T20:26:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roundup: Saskatoon Valkyries win streak continues; Mamba still seek first victory",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/local-sports/roundup-saskatoon-valkyries-winning-streak-continues-mamba-still-seek-first-victory",
+      "published_date": "2026-05-28T20:18:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A long time coming: What to know about the new MLA washroom for women at the Legislative Building",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/a-long-time-coming-what-to-know-about-the-new-mla-washroom-for-women-at-the-legislative-building",
+      "published_date": "2026-05-28T20:03:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stefanski trial reveals police actions on day slain B.C. mother went missing",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/28/stefanski-trial-reveals-police-actions-on-day-slain-b-c-mother-went-missing/",
+      "published_date": "2026-05-28T20:00:00Z",
       "category": "Local Events"
     }
   ]
