@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T00:11:32Z",
+  "generated_at": "2026-05-30T11:59:26Z",
   "country": "Canada",
   "total_stories": 73,
   "categories": [
@@ -382,6 +382,41 @@
       "category": "Economy"
     },
     {
+      "title": "BATRA’S BURNING QUESTIONS: Poking Americans in the eye",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/batras-burning-questions-poking-americans-in-the-eye",
+      "published_date": "2026-05-30T11:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unifor hopes Stellantis brings new vehicle product to Windsor or Brampton plants",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/unifor-hopes-stellantis-brings-new-vehicle-product-to-windsor-or-brampton-plants",
+      "published_date": "2026-05-30T10:39:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SIU investigating collision after attempted traffic stop in Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/siu-investigating-collision-after-attempted-traffic-stop-in-windsor",
+      "published_date": "2026-05-30T10:35:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna daycare tenancy dispute disrupts care for dozens of families",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/29/kelowna-daycare-tenancy-dispute-disrupts-care-for-dozens-of-families/",
+      "published_date": "2026-05-30T02:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: B.C. leans into ruling on Aboriginal title but experts warn it&#039;s not clearcut",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-leans-into-ruling-on-aboriginal-title-but-experts-warn-its-not-clearcut",
+      "published_date": "2026-05-30T00:40:14Z",
+      "category": "Local Events"
+    },
+    {
       "title": "‘Plan ahead, be prepared’: Rancher near Kamloops warns of drought conditions",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/05/29/plan-ahead-be-prepared-rancher-near-kamloops-warns-of-drought-conditions/",
@@ -484,41 +519,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/getting-emotional-windsor-essex-youth-celebrate-black-history-and-community-at-symposium",
       "published_date": "2026-05-29T20:06:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men arrested after string of vehicle thefts in Walkerville",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/two-men-arrested-after-string-of-vehicle-thefts-in-walkerville",
-      "published_date": "2026-05-29T20:04:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Singha beer heir axed after brother accuses him of sexual abuse",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/billionaire-beer-heir-axed-after-brother-accuses-him-of-sexual-abuse",
-      "published_date": "2026-05-29T19:25:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Domestic assault confession recorded in tattoo shop wasn't a 'Mr. Big sting': Sask. appeal court",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/domestic-assault-confession-recorded-in-tattoo-shop-wasnt-a-mr-big-sting-sask-appeal-court",
-      "published_date": "2026-05-29T19:12:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How would Telus AI factory data centres stack up on sustainability scale?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/how-would-telus-ai-factory-data-centres-stack-up-on-sustainability-scale",
-      "published_date": "2026-05-29T18:49:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hate Crime Unit busts alleged second gunman in synagogue shootings",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hate-crime-unit-busts-alleged-second-gunman-synagogue-shootings",
-      "published_date": "2026-05-29T18:41:30Z",
       "category": "Local Events"
     }
   ]
