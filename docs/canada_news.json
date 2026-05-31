@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-30T11:59:26Z",
+  "generated_at": "2026-05-31T00:03:39Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "WARMINGTON: Extortion by bullet has families wondering if Canada is still for them",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/extortion-by-bullet-families-wondering-if-canada-still-for-them",
+      "published_date": "2026-05-30T15:01:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Opinion: Gabriel Dumont is a legendary figure of Canada’s past",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-gabriel-dumont-is-a-legendary-figure-of-canadas-past",
+      "published_date": "2026-05-30T13:00:42Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Windsor Assembly Plant celebrates Chrysler Pacifica refresh",
       "source": "Windsor Star",
@@ -51,6 +65,13 @@
       "url": "https://vancouversun.com/news/bc-premier-david-eby-alberta-premier-danielle-smith-spar-over-pipelines-separatism-premiers-meeting",
       "published_date": "2026-05-26T22:34:17Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Premier Ford drops new strategy to lock down 43K defence jobs",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/premier-ford-drops-new-strategy-to-lock-down-43k-defence-jobs",
+      "published_date": "2026-05-30T13:45:07Z",
+      "category": "Military"
     },
     {
       "title": "PHOTOS: Saskatoon fire crews battle house fires in Hampton Village",
@@ -179,11 +200,18 @@
       "category": "Military"
     },
     {
-      "title": "GOLDSTEIN: Wars against Israel are wars against Jews",
+      "title": "B.C. climate news: How sustainable are Vancouver&#039;s AI data centres going to be? &#124; Spring heat dome scorches parts of UK, Europe",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-may-31-26",
+      "published_date": "2026-05-30T19:38:56Z",
+      "category": "Energy"
+    },
+    {
+      "title": "GOLDSTEIN: The laughable claims of Justin Trudeau’s climate warriors",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/wars-against-israel-jews",
-      "published_date": "2026-05-23T17:42:07Z",
-      "category": "Military"
+      "url": "https://torontosun.com/news/national/laughable-claims-justin-trudeau-climate-warriors",
+      "published_date": "2026-05-30T19:29:09Z",
+      "category": "Energy"
     },
     {
       "title": "Opinion: The prime minister asked what we are for. Here is one North Shore answer",
@@ -235,11 +263,18 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. climate news: Metro Vancouver anticipates Stage 3 watering restrictions in June &#124; Vancouver council votes to bring back natural gas heating in new buildings",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-may-24-26",
-      "published_date": "2026-05-23T21:33:58Z",
-      "category": "Energy"
+      "title": "EDITORIAL: Trade war shrinking Canada’s economy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/trade-war-shrinking-canadas-economy",
+      "published_date": "2026-05-30T21:00:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "OPINION: CBC must respect taxpayers' rights to demand accountability",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/cbc-must-respect-taxpayers-rights-accountability",
+      "published_date": "2026-05-30T15:30:16Z",
+      "category": "Economy"
     },
     {
       "title": "LILLEY: Canada's economy sputtering into recession with Carney at top",
@@ -368,157 +403,143 @@
       "category": "Economy"
     },
     {
-      "title": "Feds invest millions in Sask. steel companies amidst tariff trouble",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/feds-invest-millions-in-sask-steel-companies-amidst-tariff-trouble",
-      "published_date": "2026-05-25T12:00:31Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Metro Vancouver outdoor workers take job action after strike notice",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-outdoor-workers-take-job-action-after-strike-notice",
-      "published_date": "2026-05-24T23:56:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BATRA’S BURNING QUESTIONS: Poking Americans in the eye",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/batras-burning-questions-poking-americans-in-the-eye",
-      "published_date": "2026-05-30T11:00:40Z",
+      "title": "LIVE BLOG: B.C. Conservative Party leadership convention gets underway",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/30/b-c-conservatives-set-to-name-new-leader-tonight/",
+      "published_date": "2026-05-30T23:37:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Unifor hopes Stellantis brings new vehicle product to Windsor or Brampton plants",
+      "title": "B.C. baller signs with Vancouver Bandits ahead of Kelowna Hoopfest",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/30/b-c-baller-signs-with-vancouver-bandits-ahead-of-kelowna-hoopfest/",
+      "published_date": "2026-05-30T23:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Lions roar into Island city with assist for province wildfire program",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/30/b-c-lions-roar-into-island-city-with-assist-for-province-wildfire-program/",
+      "published_date": "2026-05-30T22:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flood warnings and evacuation alerts issued for B.C.&#039;s Southern Interior",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/flood-warnings-evacuation-alerts-bc-southern-interior",
+      "published_date": "2026-05-30T20:41:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fidel Castro's daughter asked about Trudeau-Castro love child rumour",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/fidel-castro-daughter-asked-about-trudeau-castro-love-child-rumour",
+      "published_date": "2026-05-30T20:27:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man struck and killed on Mississauga highway; man hit by SUV in Scarborough",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-struck-killed-mississauga-highway-man-hit-suv-scarborough",
+      "published_date": "2026-05-30T20:13:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pete McMartin: A disinterested husband falls in love (and awe) with quilts",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/pete-mcmartin-husband-falls-love-awe-quilts",
+      "published_date": "2026-05-30T18:14:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 27, gunned down in North York",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-gunned-down-murder-north-york",
+      "published_date": "2026-05-30T17:05:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man shot by police after two people stabbed, one fatally, in Surrey",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-police-shoot-man",
+      "published_date": "2026-05-30T15:52:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eurovision euphoria in B.C. as Bulgarians cheer Bangaranga win",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/30/eurovision-euphoria-in-b-c-as-bulgarians-cheer-bangaranga-win/",
+      "published_date": "2026-05-30T15:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: Israelis' love for Donald Trump fizzles",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/iraelis-love-donald-trump-fizzles",
+      "published_date": "2026-05-30T15:00:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: A tour of South Okanagan wineries makes you not want to leave",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/anthony-gismondi-tour-south-okanagan-wineries",
+      "published_date": "2026-05-30T15:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Campaign on for low-income transit passes in Metro Vancouver as fares set to rise",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/low-income-transit-passes",
+      "published_date": "2026-05-30T15:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Multimillion-dollar contract for Black Hawk helicopters that patrol B.C. border up for renewal",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/multi-million-dollar-contract-for-black-hawk-helicopters-that-patrol-bc-border-up-for-renewal",
+      "published_date": "2026-05-30T15:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1939: King George VI hits Vancouver, in a glorious light blue newspaper",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1939-king-george-vi-hits-vancouver-in-a-glorious-light-blue-newspaper",
+      "published_date": "2026-05-30T15:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tom Mayenknecht: Strong sports spring reflected in big broadcast numbers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/sports/tom-mayenknecht-strong-sports-spring-reflected-in-big-broadcast-numbers",
+      "published_date": "2026-05-30T15:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Road to Bard: The thrills and challenges of launching Vancouver&#039;s Shakespeare festival",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/books/the-road-to-bard-the-thrills-and-challenges-of-launching-vancouvers-shakespearean-festival",
+      "published_date": "2026-05-30T15:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto City Hall not doing enough on mini-motorcycles: Group",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/abc-toronto-ebike-motorcycle-not-enough",
+      "published_date": "2026-05-30T14:30:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor man gets jail time for string of car thefts that fed international crime ring",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/unifor-hopes-stellantis-brings-new-vehicle-product-to-windsor-or-brampton-plants",
-      "published_date": "2026-05-30T10:39:03Z",
+      "url": "https://windsorstar.com/news/local-news/windsor-man-gets-jail-time-for-string-of-car-thefts-that-fed-international-crime-ring",
+      "published_date": "2026-05-30T14:07:52Z",
       "category": "Local Events"
     },
     {
-      "title": "SIU investigating collision after attempted traffic stop in Windsor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/siu-investigating-collision-after-attempted-traffic-stop-in-windsor",
-      "published_date": "2026-05-30T10:35:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna daycare tenancy dispute disrupts care for dozens of families",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/29/kelowna-daycare-tenancy-dispute-disrupts-care-for-dozens-of-families/",
-      "published_date": "2026-05-30T02:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: B.C. leans into ruling on Aboriginal title but experts warn it&#039;s not clearcut",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-leans-into-ruling-on-aboriginal-title-but-experts-warn-its-not-clearcut",
-      "published_date": "2026-05-30T00:40:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Plan ahead, be prepared’: Rancher near Kamloops warns of drought conditions",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/29/plan-ahead-be-prepared-rancher-near-kamloops-warns-of-drought-conditions/",
-      "published_date": "2026-05-30T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Esther no longer missing but her movements over two weeks remain a mystery",
+      "title": "CRIME HUNTER: Gal pal's twisted plot to murder grieving professor",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/esther-no-longer-missing-but-movements-over-two-weeks-mystery",
-      "published_date": "2026-05-29T23:56:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Walk for Israel disruptors don't scare 98-year-old Holocaust survivor",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/walk-for-israel-disruptors-dont-scare-98-year-old-holocaust-survivor",
-      "published_date": "2026-05-29T23:02:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to the Vancouver Sun: Lives saved by overdose prevention could be lives you care about",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-lives-saved-by-overdose-prevention-could-be-lives-you-care-about",
-      "published_date": "2026-05-29T23:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "I found heart-pounding wildlife moments at this new safari lodge in Botswana",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/travel/african-safari-lodge-in-botswana-sediba-sa-rona",
-      "published_date": "2026-05-29T22:56:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada Post records $205M loss in first quarter of 2026",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/29/canada-post-records-205m-loss-in-first-quarter-of-2026/",
-      "published_date": "2026-05-29T22:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aurora councillor and mayor square off over council salaries",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/aurora-councillor-mayor-square-off-over-council-salaries",
-      "published_date": "2026-05-29T22:38:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Road closures and service adjustments around Toronto this weekend",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/closures-service-adjustments-dvp-gardiner-toronto-weekend",
-      "published_date": "2026-05-29T22:29:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. changing rules to allow restaurants to restock from private liquor stores",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/29/b-c-changing-rules-to-allow-restaurants-to-restock-from-private-liquor-stores/",
-      "published_date": "2026-05-29T22:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. man found guilty in 2023 murder of 70-year-old housemate",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/29/b-c-man-found-guilty-in-2023-murder-of-70-year-old-housemate/",
-      "published_date": "2026-05-29T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Adopt-A-School: Tim Hortons cookies raise $60,300 for schools",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/adopt-a-school-tim-hortons-cookies-raise-60300-for-schools",
-      "published_date": "2026-05-29T21:11:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sooke tech store at risk after being hit by string of break-ins",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/29/sooke-tech-store-at-risk-after-being-hit-by-string-of-break-ins/",
-      "published_date": "2026-05-29T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto pair face gun, drug charges; Richmond Hill man sought for auto sales scheme",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-pair-gun-drug-charges-richmond-hill-man-sought-auto-sales-scheme",
-      "published_date": "2026-05-29T20:53:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "These 3 B.C. restaurants were just named among the 50 best in North America",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/bc-restaurants-50-best-north-america-2026",
-      "published_date": "2026-05-29T20:13:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Getting emotional:’ Windsor-Essex youth celebrate Black history and community at symposium",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/getting-emotional-windsor-essex-youth-celebrate-black-history-and-community-at-symposium",
-      "published_date": "2026-05-29T20:06:01Z",
+      "url": "https://torontosun.com/news/world/crime-hunter-gal-pals-twisted-plot-murder-grieving-professor",
+      "published_date": "2026-05-30T14:00:51Z",
       "category": "Local Events"
     }
   ]
