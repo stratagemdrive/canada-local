@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-01T00:09:42Z",
+  "generated_at": "2026-06-01T16:29:32Z",
   "country": "Canada",
-  "total_stories": 75,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Diplomat says India working with Canada on deal to open its market to Saskatchewan lentils, peas",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/diplomat-says-india-working-with-canada-on-deal-to-open-its-market-to-saskatchewan-lentils-peas",
+      "published_date": "2026-06-01T12:00:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "WARMINGTON: Extortion by bullet has families wondering if Canada is still for them",
       "source": "Toronto Sun",
@@ -65,6 +72,13 @@
       "url": "https://vancouversun.com/news/bc-premier-david-eby-alberta-premier-danielle-smith-spar-over-pipelines-separatism-premiers-meeting",
       "published_date": "2026-05-26T22:34:17Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR LATEST: Iran suspends negotiations with U.S.: 'No dialogue will take place'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-june-1",
+      "published_date": "2026-06-01T11:24:43Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR LATEST: Iranian president reportedly resigns as negotiations with U.S. intensify",
@@ -193,11 +207,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Iran hangs another protester",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may-25",
-      "published_date": "2026-05-25T13:57:32Z",
-      "category": "Military"
+      "title": "How a German buyer could broker its B.C. LNG for fuel closer to home",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/how-german-buyer-could-broker-bc-lng-fuel-closer-to-home",
+      "published_date": "2026-06-01T13:00:03Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. climate news: How sustainable are Vancouver&#039;s AI data centres going to be? &#124; Spring heat dome scorches parts of UK, Europe",
@@ -249,11 +263,11 @@
       "category": "Energy"
     },
     {
-      "title": "Opinion: Saskatchewan premier must stand firm against carbon taxes",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-saskatchewan-premier-must-stand-firm-against-carbon-taxes",
-      "published_date": "2026-05-25T16:16:19Z",
-      "category": "Energy"
+      "title": "Mike Myers thanks Canadian taxpayers for career: 'I'd be nothing without you'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/mike-myers-canada-taxpayers-career",
+      "published_date": "2026-06-01T13:12:49Z",
+      "category": "Economy"
     },
     {
       "title": "UPDATE: Kerry-Lynne Findlay voted new leader of the B.C. Conservative Party",
@@ -389,150 +403,143 @@
       "category": "Economy"
     },
     {
-      "title": "More potholes, more money: city provides summer road maintenance update",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/more-potholes-more-money-city-provides-summer-road-maintenance-update",
-      "published_date": "2026-05-25T19:28:17Z",
-      "category": "Economy"
+      "title": "Windsor man arrested, another sought in Vaughan double homicide",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-man-arrested-another-sought-in-vaughan-double-homicide",
+      "published_date": "2026-06-01T16:06:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tour di Via Italia thrills cycling fans in Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/tour-di-via-italia-thrills-cycling-fans-in-windsor",
+      "published_date": "2026-06-01T15:29:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Patagonia sues drag queen Pattie Gonia for trademark infringement",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/patagonia-sues-drag-queen-pattie-gonia-trademark-infringement",
+      "published_date": "2026-06-01T15:28:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Submarine dope smuggler among trio nabbed in Satan's Choice murders",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/submarine-dope-smuggler-among-trio-nabbed",
+      "published_date": "2026-06-01T15:11:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto police make largest fake soccer jersey seizure in Canadian history",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/toronto-police-largest-fake-soccer-jersey-seizure",
+      "published_date": "2026-06-01T14:32:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 23, charged after infant found dead inside Brampton home",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/woman-charged-infant-found-dead-brampton",
+      "published_date": "2026-06-01T14:21:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pair of impaired drivers charged over the weekend in Essex County",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/pair-of-impaired-drivers-charged-over-the-weekend-in-essex-county",
+      "published_date": "2026-06-01T13:50:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Want to enjoy nightlife? Come to Victoria, recently ranked Canada’s best",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/01/want-to-enjoy-nightlife-come-to-victoria-recently-ranked-canadas-best/",
+      "published_date": "2026-06-01T13:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One way the OHL can help Spitfires and other league teams deal with early player departures",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/one-way-the-ohl-can-help-spitfires-and-other-league-teams-deal-with-early-player-departures",
+      "published_date": "2026-06-01T13:21:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Don&#039;t miss these 10 concerts in Vancouver in June",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-concerts-june-2026",
+      "published_date": "2026-06-01T13:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mumford and Sons in Vancouver: What to know before you go to the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/mumford-and-sons-vancouver-concert-what-to-know",
+      "published_date": "2026-06-01T13:00:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luxury condos at Vancouver&#039;s Oakridge redevelopment sold for &#039;crazy high&#039; prices. What happens now?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/real-estate/oakridge-mall-opens-first-luxury-condos-still-months-away",
+      "published_date": "2026-06-01T13:00:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: What do you collect, and why?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-do-you-collect-and-why",
+      "published_date": "2026-06-01T13:00:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver theatre: These are the 6 best-bets for theatre for June",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-theatre-plays-june-2026",
+      "published_date": "2026-06-01T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Fire damages three homes, displaces 11 on Windsor's west side",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/fire-damages-three-homes-displaces-11-on-windsors-west-side",
+      "published_date": "2026-06-01T11:57:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: One month until CUSMA could blow up if USA walks away",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/cusma-could-blow-up-usa-walks-away",
+      "published_date": "2026-06-01T11:42:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pelissier Street house fire leads to $100K in damage",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/pelissier-street-house-fire-leads-to-100k-in-damage",
+      "published_date": "2026-06-01T11:23:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Affordable housing project unveiled in downtown Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/affordable-housing-project-unveiled",
+      "published_date": "2026-06-01T11:19:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kitchener Rangers win Memorial Cup over Everett, 3rd in franchise history",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/05/31/kitchener-rangers-win-memorial-cup-over-everett-3rd-in-franchise-history/",
+      "published_date": "2026-06-01T04:04:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Vaughn Palmer: For new B.C. Conservative leader Kerry-Lynne Findlay, it&#039;s about &#039;faith, family and freedom&#039;",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-kerry-lynne-findlay-new-bc-conservative-leader",
       "published_date": "2026-05-31T23:22:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ON RED ALERT: Inside geopolitical scramble to scrub Chinese tech from Ontario’s skies",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/inside-geopolitical-scramble-chinese-tech-ontario",
-      "published_date": "2026-05-31T23:08:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Massive void' to fill if Liberals proceed with plan to ground Snowbirds",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/massive-void-liberal-plan-ground-snowbirds",
-      "published_date": "2026-05-31T22:49:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Person critically hurt after being struck on Hwy. 401 amid alleged street race: OPP",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/person-critically-hurt-struck-highway-shoulder",
-      "published_date": "2026-05-31T22:33:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two paddleboarders missing after going under in lake near Squamish",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/paddleboarders-missing-browning-lake-near-squamish",
-      "published_date": "2026-05-31T19:33:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘You want to work with lions?’: How Africa’s first all-female safari guide team reinvented the wheel",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/travel/chobe-angels-africa-safari-guides",
-      "published_date": "2026-05-31T18:07:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$16M winning Lotto 6/49 Gold Ball ticket bought in Peterborough",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/16m-winning-lotto-6-49-gold-ball-ticket-bought-in-peterborough",
-      "published_date": "2026-05-31T17:44:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies after being shot in Surrey, crashing into power pole",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-dies-surrey-shooting-crash-into-power-pole",
-      "published_date": "2026-05-31T17:25:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "North York man dead after garbage truck rollover on Hwy. 401",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/north-york-man-dead-garbage-truck-rollover-hwy401",
-      "published_date": "2026-05-31T16:36:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Review: Mahler’s Third Symphony a grand finish to VSO&#039;s season",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/review-vancouver-symphony-orchestra-vso-mahler-third-season-finale",
-      "published_date": "2026-05-31T16:21:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Appeal Court dismisses female police officers&#039; sexual harassment case",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-appeal-court-dismisses-female-police-officers-bid-to-have-courts-hear-complaints",
-      "published_date": "2026-05-31T15:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meat pies, fondue and mounted TVs: Vancouver food scene bets big on World Cup fan wave",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/meat-pies-fondue-and-mounted-tvs-vancouver-food-scene-bets-big-on-world-cup-fan-wave",
-      "published_date": "2026-05-31T15:00:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mount Seymour eyes major expansion with new attractions, pending B.C. Parks approval",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/mount-seymour-eyes-major-expansion",
-      "published_date": "2026-05-31T15:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quick guide to World Cup fun in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/soccer/quick-guide-to-world-cup-fun-in-toronto",
-      "published_date": "2026-05-31T14:48:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FOREVER FRIEND: Snoopy, the Dwarf rabbit, a 'super cute, playful' companion",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/forever-friend-snoopy-dwarf-rabbit-super-cute-playful-companion",
-      "published_date": "2026-05-31T14:37:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guess Who and Don Felder turn back clock to deliver classic hits in 'big city' Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/the-guess-who-and-don-felder-deliver-worthwhile-night-classic-rock",
-      "published_date": "2026-05-31T14:25:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Helmetless ATV riding continues to cost lives in Ontario",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/helmetless-atv-riding-continues-to-cost-lives-in-ontario",
-      "published_date": "2026-05-31T14:12:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: Are you ready for the Stanley Cup?",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/31/quiz-are-you-ready-for-the-stanley-cup/",
-      "published_date": "2026-05-31T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerry-Lynne Findlay will be the next leader of the B.C. Conservative Party",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/30/kerry-lynne-findlay-will-be-the-next-leader-of-the-b-c-conservative-party/",
-      "published_date": "2026-05-31T03:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Council urges senior levels of government to take steps toward establishing a National Marine Conservation Area in Lake Ontario",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/05/30/council-urges-senior-levels-of-government-to-take-steps-toward-establishing-a-national-marine-conservation-area-in-lake-ontario/",
-      "published_date": "2026-05-31T02:42:03Z",
       "category": "Local Events"
     }
   ]
