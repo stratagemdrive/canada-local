@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T00:16:35Z",
+  "generated_at": "2026-06-02T14:39:55Z",
   "country": "Canada",
   "total_stories": 75,
   "categories": [
@@ -72,6 +72,13 @@
       "url": "https://vancouversun.com/news/bc-premier-david-eby-alberta-premier-danielle-smith-spar-over-pipelines-separatism-premiers-meeting",
       "published_date": "2026-05-26T22:34:17Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Trump says Israel, Hezbollah agree to 'stop all shooting'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-june-2",
+      "published_date": "2026-06-02T12:10:56Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR LATEST: Iran suspends negotiations with U.S.: 'No dialogue will take place'",
@@ -200,13 +207,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: U.S. carries out 'self-defence strikes' on Iran",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may-26",
-      "published_date": "2026-05-26T11:43:48Z",
-      "category": "Military"
-    },
-    {
       "title": "How a German buyer could broker its B.C. LNG for fuel closer to home",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/business/how-german-buyer-could-broker-bc-lng-fuel-closer-to-home",
@@ -254,6 +254,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/05/26/skeena-mla-removed-from-legislature-after-lng-clash-with-premier/",
       "published_date": "2026-05-26T22:07:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Youth unemployment in B.C. is the worst in Canada. Here&#039;s why that&#039;s a problem",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-youth-unemployment-worst-canada",
+      "published_date": "2026-06-02T13:00:33Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cab driver seriously injured after taxi stolen during dispute",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/cab-driver-seriously-injured-after-taxi-stolen-over-dispute-windsor-police-say",
+      "published_date": "2026-06-02T12:16:07Z",
+      "category": "Economy"
     },
     {
       "title": "Council ponders taxi driver safety after separate shootings in Saskatoon, North Battleford",
@@ -382,18 +396,95 @@
       "category": "Economy"
     },
     {
-      "title": "Gig work mostly used to supplement Canadians' household income, studies show",
+      "title": "Fort Erie man pleads guilty to smuggling meth, fentanyl into U.S.",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/gig-work-supplementing-canadian-household-income",
-      "published_date": "2026-05-26T22:45:16Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/fort-erie-man-pleads-guilty-smuggling-meth-fentanyl",
+      "published_date": "2026-06-02T14:18:38Z",
+      "category": "Local Events"
     },
     {
-      "title": "WATCH NOW: How can we unleash B.C.&#039;s economy?",
+      "title": "As OHL offiically turns to new season, Spitfires expected to move cautiously while assembling roster",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/as-ohl-offiically-turns-to-new-season-spitfires-expected-to-move-cautiously-with-assembling-roster",
+      "published_date": "2026-06-02T13:35:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedophile clown Boo Boo jailed 39 years for molesting girl",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/pedophile-clown-boo-boo-jailed-molesting-girl",
+      "published_date": "2026-06-02T13:05:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Is there room for delivery robots on Vancouver&#039;s sidewalks?",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/conversations-live-unleash-bc-economy",
-      "published_date": "2026-05-26T14:27:56Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-delivery-robots-and-the-impact-on-vancouvers-sidewalks",
+      "published_date": "2026-06-02T13:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Provinces blow past deadline to dismantle barriers to cross-border wine, spirits shipments",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/provinces-past-deadline-dismantle-barriers-cross-border-wine-spirits-shipments",
+      "published_date": "2026-06-02T13:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. union ordered to pay $400,000 for defaming Kitimat employer with Indigenous workers claim",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-union-ordered-pay-defaming-kitimat-employer-indigenous-workers-claim",
+      "published_date": "2026-06-02T13:00:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump berates 'crazy' Netanyahu over Lebanon: 'What the f*** are you doing?'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trump-berates-netanyahu-over-lebanon",
+      "published_date": "2026-06-02T12:32:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Expanded tick migration means higher risk for Lyme disease: Windsor-Essex health unit",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/expanded-tick-migration-means-higher-risk-for-lyme-disease-windsor-essex-health-unit",
+      "published_date": "2026-06-02T12:13:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Royal Premium Restaurant in Stonebridge offers the taste of Nigeria",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/local-business/royal-premium-restaurant-in-stonebridge-offers-the-taste-of-nigeria",
+      "published_date": "2026-06-02T12:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Canucks name Manny Malhotra as 23rd head coach in franchise history",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/01/vancouver-canucks-name-manny-malhotra-as-23rd-head-coach-in-franchise-history/",
+      "published_date": "2026-06-02T04:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver dead after hitting parked truck in Etobicoke; 13 hurt after buses collide in York",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/driver-dead-parked-truck-collision-etobicoke",
+      "published_date": "2026-06-02T01:40:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey police board ousts Chief Norm Lipinski as head of force",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-police-board-ousts-chief-norm-lipinski-as-head-of-force",
+      "published_date": "2026-06-02T01:34:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police watchdog closes investigation on February crash in Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/01/police-watchdog-closes-investigation-on-february-crash-in-kelowna/",
+      "published_date": "2026-06-02T01:18:00Z",
+      "category": "Local Events"
     },
     {
       "title": "No pools, no lawn watering: Stage 3 water restrictions start on June 8",
@@ -442,97 +533,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/01/bear-damages-kitimat-humane-society-cat-enclosure/",
       "published_date": "2026-06-01T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U of T remains Canada's top university as the rest drop in world rankings",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/canadian-universities-tumble-new-world-rankings",
-      "published_date": "2026-06-01T22:55:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. rugby squad wins inaugural Western Canadian Championship",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/01/b-c-rugby-squad-wins-inaugural-western-canadian-championship-in-abbotsford/",
-      "published_date": "2026-06-01T22:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mel Zajac, the Vancouver man behind a famed children&#039;s camp charity, dies at 98",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/mel-zajac-obituary",
-      "published_date": "2026-06-01T22:25:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. guides help ski touring app map safer routes in Canadian mountains",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/01/b-c-guides-help-ski-touring-app-map-safer-routes-in-canadian-mountains/",
-      "published_date": "2026-06-01T22:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 more charged in North York anti-Israel protest",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/5-more-arrests-in-north-york-anti-israel-protest",
-      "published_date": "2026-06-01T22:14:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. releases 37 ‘commitments’ in Anti-Racism Action Plan with 2-year timeline",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/01/b-c-releases-37-commitments-in-anti-racism-action-plan-with-2-year-timeline/",
-      "published_date": "2026-06-01T22:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver park board to discuss ways to restrict personal watercraft in Burrard Inlet",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-park-board-discuss-restrictions-personal-watercraft-burrard-inlet",
-      "published_date": "2026-06-01T21:54:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sask. RCMP issue alert for active shooter in Pelican Narrows",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/sask-rcmp-issue-alert-for-active-shooter-in-pelican-narrows",
-      "published_date": "2026-06-01T21:50:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crown argues accused was part of larger conspiracy at B.C. murder trial",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/01/crown-argues-accused-was-part-of-larger-conspiracy-at-b-c-murder-trial/",
-      "published_date": "2026-06-01T21:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto City Hall warns staff: No World Cup freebies",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-city-hall-warns-staff-no-world-cup-freebies",
-      "published_date": "2026-06-01T21:10:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Ottawa pastor to face sex abuse charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/former-ottawa-pastor-to-face-sex-abuse-charges",
-      "published_date": "2026-06-01T20:40:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City seeking public input on redesign of notorious Eglinton-Allen intersection",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/city-seeking-input-eglinton-allen-redesign",
-      "published_date": "2026-06-01T20:36:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. father and son on 7,500-km cross-Canada ride for nurses’ mental health",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/01/b-c-father-and-son-on-7500-km-cross-canada-ride-for-nurses-mental-health/",
-      "published_date": "2026-06-01T20:05:00Z",
       "category": "Local Events"
     }
   ]
