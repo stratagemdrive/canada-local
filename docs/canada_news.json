@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-03T15:22:50Z",
+  "generated_at": "2026-06-04T01:43:40Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Spitfires first off-season move not an unexpected one",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-first-off-season-move-not-an-unexpected-one",
+      "published_date": "2026-06-03T17:14:49Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Diplomat says India working with Canada on deal to open its market to Saskatchewan lentils, peas",
       "source": "The StarPhoenix",
@@ -50,20 +57,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/chinese-foreign-ministers-ottawa-visit-canadian-warship-transits-taiwan-strait",
       "published_date": "2026-05-28T21:35:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vaughn Palmer: NDP drive to change B.C. natural gas royalties faces industry pushback",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-ndp-drive-to-change-bc-natural-gas-royalties-faces-industry-pushback",
-      "published_date": "2026-05-27T23:20:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Liǧʷiłdax̌ʷ members protest against K’ómoks treaty",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/liidax-members-protest-against-kmoks-treaty/",
-      "published_date": "2026-05-27T21:30:00Z",
       "category": "Diplomacy"
     },
     {
@@ -172,18 +165,11 @@
       "category": "Military"
     },
     {
-      "title": "Co-worker: Man accused of Windsor Assembly Plant explosion frustrated by vaccine mandates",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/co-worker-man-accused-of-windsor-assembly-plant-explosion-frustrated-by-vaccine-mandates",
-      "published_date": "2026-05-27T20:35:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "1 dead, 9 feared dead after Washington state chemical tank explosion",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/washington-state-chemical-tank-explosion",
-      "published_date": "2026-05-27T17:04:47Z",
-      "category": "Military"
+      "title": "B.C. Ferries to charge five per cent fuel surcharge starting June 16",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-ferries-five-per-cent-fuel-surcharge-starting-june-16",
+      "published_date": "2026-06-03T17:51:14Z",
+      "category": "Energy"
     },
     {
       "title": "Postmedia welcomes more than a dozen journalist interns across country",
@@ -233,6 +219,20 @@
       "url": "https://vancouversun.com/news/so-alberta-wants-to-build-a-second-oil-pipeline-to-bc-coast-what-will-it-take",
       "published_date": "2026-05-29T13:00:05Z",
       "category": "Energy"
+    },
+    {
+      "title": "Former Surrey police chief Norm Lipinski says ouster was &#039;not the way&#039; he hoped to leave in farewell letter",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/former-surrey-police-chief-norm-lipinski-says-ouster-was-not-the-way-he-hoped-to-leave-in-farewell-letter",
+      "published_date": "2026-06-03T23:31:51Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: Mark Carney government makes right move with streaming decision",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-government-right-move-streaming-decision",
+      "published_date": "2026-06-03T21:56:44Z",
+      "category": "Economy"
     },
     {
       "title": "Ottawa hits pause button on CRTC streaming tax, orders review",
@@ -361,157 +361,143 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: Mark Carney heads to New York while continuing to avoid Donald Trump",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-avoiding-deal-donald-trump",
-      "published_date": "2026-05-27T23:06:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pilot error blamed for 2023 fatal helicopter incident at Smithers airport",
+      "title": "Rossland hill closure linked to search in Trail man’s disappearance",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/27/pilot-error-blamed-for-2023-fatal-helicopter-incident-at-smithers-airport/",
-      "published_date": "2026-05-27T22:16:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/rossland-hill-closure-linked-to-search-in-trail-mans-disappearance/",
+      "published_date": "2026-06-04T01:22:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Lamborghini crashes onto Hwy. 403 in Brantford allegedly after racing motorcycle",
+      "title": "WARMINGTON: Emergencies Act needed as 'organized' attacks on Jews allowed to fester",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/lamborghini-crash-hwy-403-brantford-racing-motorcycle-impaired-opp",
-      "published_date": "2026-06-03T15:13:27Z",
+      "url": "https://torontosun.com/news/local-news/emergencies-act-needed-organized-attacks-jews",
+      "published_date": "2026-06-04T00:23:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor-area home sales drop 18 per cent in May as listings decline",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-area-home-sales-drop-18-per-cent-in-may-as-listings-decline",
-      "published_date": "2026-06-03T15:10:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TTC's King streetcar diverted after truck crash cut off power in Liberty Village",
+      "title": "GO train operator didn't follow signal in 2024 near-crash: TSB",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ttc-king-streetcar-diverted-truck-crash-cut-power-liberty-village",
-      "published_date": "2026-06-03T15:06:45Z",
+      "url": "https://torontosun.com/news/local-news/go-train-operator-didnt-follow-signal-in-2024-near-crash-tsb",
+      "published_date": "2026-06-04T00:11:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Vehicles recalled in Canada over defective airbags, engine problems",
+      "title": "Marineland's beluga whales could be moving to U.S., Spain",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/vehicles-recalled-canada-defective-airbags-engine-problems",
-      "published_date": "2026-06-03T15:01:11Z",
+      "url": "https://torontosun.com/news/provincial/marinelands-beluga-whales-could-be-moving-to-u-s-spain",
+      "published_date": "2026-06-04T00:02:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Pair arrested following early morning Windsor warehouse break-in",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/pair-arrested-following-early-morning-break-in",
-      "published_date": "2026-06-03T14:36:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuation alert issued for out-of-control wildfire in B.C.&#039;s Cariboo",
+      "title": "Man arrested for alleged assault on restaurant worker after multiple reports to Vancouver police in one week",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/evacuation-alert-issued-wildfire-bc-cariboo",
-      "published_date": "2026-06-03T14:14:23Z",
+      "url": "https://vancouversun.com/news/restaurant-worker-dislocates-shoulder-in-alleged-vancouver-assault",
+      "published_date": "2026-06-03T23:32:03Z",
       "category": "Local Events"
     },
     {
-      "title": "U.S. Coast Guard in Bahamas to search for remains of Lynette Hooker",
+      "title": "MANDEL: 'Kindest soul' fatally stabbed by neighbour over loud gospel music",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/u-s-coast-guard-bahamas-search-lynette-hooker",
-      "published_date": "2026-06-03T14:06:19Z",
+      "url": "https://torontosun.com/opinion/columnists/kindest-soul-fatally-stabbed-gospel-radio",
+      "published_date": "2026-06-03T23:28:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Scott Pelley blasts CBS after '60 Minutes' firing: 'Inject falsehoods and bias'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/television/scott-pelley-blasts-cbs-60-minutes-firing",
-      "published_date": "2026-06-03T13:39:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vanilla Ice doubles down on Freedom 250 event tied to Trump: ‘JUST AN ENTERTAINER’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/music/vanilla-ice-freedom-250-event-donald-trump",
-      "published_date": "2026-06-03T13:31:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polish sailor returns to St. Paul&#039;s Hospital, 45 years after staff saved his life",
+      "title": "Opinion: CUSMA review is B.C.&#039;s best chance to resolve the softwood lumber dispute",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/polish-sailor-returns-to-st-pauls-hospital-45-years-after-staff-saved-his-life",
-      "published_date": "2026-06-03T13:00:56Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-cusma-review-is-b-c-s-best-chance-to-resolve-the-softwood-lumber-dispute",
+      "published_date": "2026-06-03T23:00:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: We are living through a crisis in the quality of public information",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-we-are-living-through-a-crisis-in-the-quality-of-public-information",
-      "published_date": "2026-06-03T13:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;It was like a wrecking ball:&#039; B.C. sailor rescued from Pacific Ocean recounts ordeal",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/it-was-like-a-wrecking-ball-bc-sailor-rescued-from-pacific-ocean-recounts-ordeal",
-      "published_date": "2026-06-03T13:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "These are B.C.&#039;s 15 best summer music festivals in 2026",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/best-bc-music-festivals-2026",
-      "published_date": "2026-06-03T13:00:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Volunteers fan out across Windsor for citywide spring cleanup",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/volunteers-fan-out-across-windsor-for-citywide-spring-cleanup",
-      "published_date": "2026-06-03T12:15:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sean Avery claims 'crazy' neighbour tried to frame him with 'two hookers'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/sean-avery-claims-neighbour-shooting-home-two-hookers",
-      "published_date": "2026-06-03T12:05:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada finishes second behind Mexico at Thunderbird Nations Cup",
+      "title": "Canada pumps money into forestry as task force warns of ‘existential risk’",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/canada-finishes-second-behind-mexico-at-thunderbird-nations-cup/",
-      "published_date": "2026-06-03T12:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/canada-pumps-money-into-forestry-as-task-force-warns-of-existential-risk/",
+      "published_date": "2026-06-03T22:46:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Maybe a greenhouse? Windsor councillor floats ideas for former Greyhound bus depot",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/maybe-a-greenhouse-windsor-councillor-floats-ideas-for-former-greyhound-bus-depot",
-      "published_date": "2026-06-03T10:27:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Island school wins third B.C. girls rugby sevens title in 5 years",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/02/vancouver-island-school-wins-third-b-c-girls-rugby-sevens-title-in-5-years/",
-      "published_date": "2026-06-03T04:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamilton man urged to surrender to cops after 2 others charged in shooting",
+      "title": "Andrew's law receives royal assent, bringing stiffer penalties for dangerous driving",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hamilton-man-urged-surrender-shooting-probe",
-      "published_date": "2026-06-03T00:54:14Z",
+      "url": "https://torontosun.com/news/provincial/andrews-law-stiffer-penalties-dangerous-driving",
+      "published_date": "2026-06-03T22:44:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Dan Fumano: ABC Vancouver councillors refuse, again, to reprimand Mayor Ken Sim after investigation",
+      "title": "Three-generation cycling team goes for Guinness World Record in Chilliwack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/three-generation-cycling-team-goes-for-guinness-world-record-in-chilliwack/",
+      "published_date": "2026-06-03T22:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sentence upheld for man guilty of stabbing B.C. cop",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/sentence-upheld-for-man-guilty-of-stabbing-b-c-cop/",
+      "published_date": "2026-06-03T22:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Douglas Dwayne Holliday",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/douglas-dwayne-holliday/",
+      "published_date": "2026-06-03T22:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Constituents 'insulted' by Indigenous icon idea for TTC signs, board told",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/indigenous-wayfinding-ttc-board-lukewarm-reception",
+      "published_date": "2026-06-03T22:19:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. gets a ‘D’ in 2026 poverty report card",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/b-c-gets-a-d-in-2026-poverty-report-card/",
+      "published_date": "2026-06-03T22:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver landlords to face $1,000 fines for prohibiting air conditioners",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/abc-vancouver-refuse-repriment-party-leader-mayor-ken-sim",
-      "published_date": "2026-06-03T00:07:49Z",
+      "url": "https://vancouversun.com/news/local-news/vancouver-landlords-to-face-1000-fines-for-failing-to-allow-air-conditioners",
+      "published_date": "2026-06-03T22:09:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kamloops area cub’s tragic end tempered by rescue of 3 orphaned bears",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/kamloops-area-cubs-tragic-end-tempered-by-rescue-of-3-orphaned-bears/",
+      "published_date": "2026-06-03T22:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP have persons of interest in connection with Terrace bowling alley fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/rcmp-have-persons-of-interest-in-connection-with-terrace-bowling-alley-fire/",
+      "published_date": "2026-06-03T21:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Not guilty' – Former Windsor high school coach acquitted of sex offence charges",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/not-guilty-former-windsor-high-school-coach-acquitted-of-sex-offences",
+      "published_date": "2026-06-03T21:45:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Whitby man accused of sexually exploiting teen girl; cops probing Rexdale shooting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/whitby-man-accused-sexually-exploiting-teen",
+      "published_date": "2026-06-03T21:20:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stefanski trial: Court sees evidence from Lumby area crime scene",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/03/stefanski-trial-court-sees-evidence-from-lumby-area-crime-scene/",
+      "published_date": "2026-06-03T21:15:00Z",
       "category": "Local Events"
     }
   ]
