@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-05T00:13:10Z",
+  "generated_at": "2026-06-05T13:45:51Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -144,13 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR LATEST: Trump has yet to sign off on tentative U.S.-Iran deal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may-29",
-      "published_date": "2026-05-29T11:23:58Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. Hydro cancels plan to phase out gas-powered generation as electricity gap looms",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/bc-hydro-cancels-plan-to-phase-out-gas-generation-as-power-stopgap",
@@ -211,20 +204,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/laughable-claims-justin-trudeau-climate-warriors",
       "published_date": "2026-05-30T19:29:09Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Opinion: The prime minister asked what we are for. Here is one North Shore answer",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-the-prime-minister-asked-what-we-are-for-here-is-one-north-shore-answer",
-      "published_date": "2026-05-29T13:00:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "So, Alberta wants to build a second oil pipeline to B.C.‘s coast. What would it take?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/so-alberta-wants-to-build-a-second-oil-pipeline-to-bc-coast-what-will-it-take",
-      "published_date": "2026-05-29T13:00:05Z",
       "category": "Energy"
     },
     {
@@ -368,143 +347,143 @@
       "category": "Economy"
     },
     {
-      "title": "Savour the docuseries brings Victoria live-fire dining to the screen",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/savour-the-docuseries-brings-victoria-live-fire-dining-to-the-screen/",
-      "published_date": "2026-06-05T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigators probe structure fire near E.C. Row in east Windsor",
+      "title": "East Windsor fire displaces four, causes $750K in damages to two homes",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/investigators-probe-structure-fire-near-e-c-row-in-east-windsor",
-      "published_date": "2026-06-04T23:14:14Z",
+      "url": "https://windsorstar.com/news/local-news/east-windsor-fire-displaces-four-causes-750k-in-damages-to-two-homes",
+      "published_date": "2026-06-05T13:37:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver airport expecting 88,000 passengers daily during FIFA World Cup",
+      "title": "Douglas Todd: Vancouver’s plan for 17 new &#039;villages&#039; will increase uniformity, sterility",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-vancouvers-plan-for-17-new-villages-will-increase-uniformity-sterility",
+      "published_date": "2026-06-05T13:00:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Taking a foul for FIFA",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-taking-foul-fifa",
+      "published_date": "2026-06-05T13:00:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnaby townhouse project under creditor protection as lender says it is owed $59 million",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/burnaby-townhouse-project-under-creditor-protection",
+      "published_date": "2026-06-05T13:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Independence from Canada means losing portable health benefits",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-independence-canada-losing-portable-health-benefits",
+      "published_date": "2026-06-05T13:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City of Vancouver plans &#039;high-risk building inventory&#039; to reduce earthquake hazard",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-plans-high-risk-building-inventory-to-reduce-earthquake-risk",
+      "published_date": "2026-06-05T13:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letters to The Vancouver Sun: Caregivers endure burnout while their loved ones are in waitlist limbo for years",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-caregivers-endure-burnout-while-their-loved-ones-are-in-wait-list-limbo-for-years",
+      "published_date": "2026-06-05T13:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservatives edge ahead of NDP in latest Leger poll",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/bc-conservatives-edge-ahead-of-ndp-in-latest-leger-poll",
+      "published_date": "2026-06-05T13:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can fashion be sustainable? Resale, rental are options for eco-conscious consumers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/sustainable-fashion-resale-renta-options-eco-conscious-consumers",
+      "published_date": "2026-06-05T13:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor doc suspended eight months for accessing newborns' private birth records",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-doc-suspended-eight-months-for-accessing-newborns-private-birth-records",
+      "published_date": "2026-06-05T12:44:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It blew me away’: Ex-colleague of slain Lumby mother supporting family in big way",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/vancouver-airport-expecting-88000-passengers-daily-during-fifa-world-cup/",
-      "published_date": "2026-06-04T23:11:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/it-blew-me-away-ex-colleague-of-slain-lumby-mother-supporting-family-in-big-way/",
+      "published_date": "2026-06-05T12:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "As election looms, does Toronto’s addiction strategy need overhaul?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-addiction-strategy-reform-election",
-      "published_date": "2026-06-04T22:51:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Richmond RCMP officer charged with theft, breach of trust",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/richmond-rcmp-officer-charged-with-theft-breach-of-trust/",
-      "published_date": "2026-06-04T22:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Margaret Commodore, first First Nations woman in Yukon cabinet, dies at 93",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/margaret-commodore-first-first-nations-woman-in-yukon-cabinet-dies-at-93/",
-      "published_date": "2026-06-04T22:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspended Toronto cop charged with sexual offences involving girl",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspended-toronto-cop-charged-sexual-offences-youth",
-      "published_date": "2026-06-04T22:14:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wanted Toronto man accused of sex assault; trio charged after store raided twice",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/wanted-toronto-man-sought-sex-assault",
-      "published_date": "2026-06-04T22:11:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Bail upheld for accused global drug kingpin Ryan Wedding's lawyer",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bail-upheld-accused-global-drug-kingpin-ryan-weddings-lawyer",
-      "published_date": "2026-06-04T22:05:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested for allegedly taking 'inappropriate' photos of women at U of S",
+      "title": "Saskatoon-based plant helps Nutrien test new technology",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/man-arrested-for-allegedly-taking-inappropriate-photos-of-women-at-u-of-s",
-      "published_date": "2026-06-04T21:54:08Z",
+      "url": "https://thestarphoenix.com/news/local-news/saskatoon-based-plant-helps-nutrien-test-new-technology",
+      "published_date": "2026-06-05T12:00:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Harley-Davidson targeted by anti-DEI activist for 'going woke again'",
+      "title": "Explore a local festival: Five things to do this weekend in Saskatoon, June 5-7",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/entertainment/local-arts/five-things-to-do-this-weekend-in-saskatoon-june-5-7",
+      "published_date": "2026-06-05T12:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lytton plays host to emerging leaders from across Canada",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/lytton-plays-host-to-emerging-leaders-from-across-canada/",
+      "published_date": "2026-06-05T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justin Trudeau reportedly wants Katy Perry to live part-time in Montreal and cheer for the Habs",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/harley-davidson-targeted-anti-dei-activist-going-woke-again",
-      "published_date": "2026-06-04T20:52:06Z",
+      "url": "https://torontosun.com/entertainment/celebrity/justin-trudeau-wants-katy-perry-to-live-part-time-in-montreal",
+      "published_date": "2026-06-05T11:30:13Z",
       "category": "Local Events"
     },
     {
-      "title": "What's On Windsor: Art in the Park, roller derby, poutine fest and more",
+      "title": "Windsor's Riverside Drive East ranked fourth-worst road in southwest region",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-art-in-the-park-roller-derby-poutine-fest-and-more",
-      "published_date": "2026-06-04T20:41:44Z",
+      "url": "https://windsorstar.com/news/local-news/windsors-riverside-drive-east-ranked-fourth-worst-road-in-southwest-region",
+      "published_date": "2026-06-05T10:17:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver Goldeneyes submit protected player list ahead of PWHL expansion",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/vancouver-goldeneyes-submit-protected-player-list-ahead-of-pwhl-expansion/",
-      "published_date": "2026-06-04T20:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna grad receives $120K scholarship to pursue engineering",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/kelowna-grad-receives-120k-scholarship-to-pursue-engineering/",
-      "published_date": "2026-06-04T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TransLink rolls out plan to handle FIFA",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/translink-rolls-out-plan-to-handle-fifa-2/",
-      "published_date": "2026-06-04T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BC Chamber of Commerce endorses crime policy shaped by Williams Lake businesses",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/bc-chamber-of-commerce-endorses-crime-policy-shaped-by-williams-lake-businesses/",
-      "published_date": "2026-06-04T19:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "For better or worse: Husband and wife plead guilty to distraction thefts at B.C. jewelry shops",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/husband-wife-plead-guilty-thefts-bc-jewelry-shops",
-      "published_date": "2026-06-04T19:21:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lake Erie to Arctic Ocean: Motorcyclist riding across Canada to raise money for sick kids",
+      "title": "City councillor urges residents to weigh in on future of Sand Point Beach",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/lake-erie-to-arctic-ocean-motorcyclist-riding-across-canada-to-raise-money-for-sick-kids",
-      "published_date": "2026-06-04T19:06:50Z",
+      "url": "https://windsorstar.com/news/local-news/city-councillor-urges-residents-to-weigh-in-on-future-of-sand-point-beach",
+      "published_date": "2026-06-05T09:45:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Another Surrey police board director resigns after chief Norm Lipinski&#039;s ousting",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-police-board-director-resigns-chief-norm-lipinski-ousting",
-      "published_date": "2026-06-04T18:54:34Z",
+      "title": "B.C. hockey icon’s story garners honours on both sides of border",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/b-c-hockey-icons-story-garners-honours-on-both-sides-of-border/",
+      "published_date": "2026-06-05T03:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Seth Rogen and Evan Goldberg reboot the Canadian TV classic The Littlest Hobo",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/seth-rogen-evan-goldberg-reboot-canadian-tv-littlest-hobo",
-      "published_date": "2026-06-04T18:05:40Z",
+      "title": "1 person dead after shooting in Brampton; gun seized during Ajax traffic stop",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/one-person-dead-shooting-brampton",
+      "published_date": "2026-06-05T02:42:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Freedom 250 concerts making way for 'rally to end all rallies,' Donald Trump says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/freedom-250-concerts-replaced-with-rally",
+      "published_date": "2026-06-05T01:03:54Z",
       "category": "Local Events"
     }
   ]
