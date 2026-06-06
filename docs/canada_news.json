@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-05T13:45:51Z",
+  "generated_at": "2026-06-06T00:10:40Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "UFC pay-per-view era in Canada ending with move to Paramount Plus in 2027",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/ufc-pay-per-view-era-in-canada-ending-with-move-to-paramount-plus-in-2027/",
+      "published_date": "2026-06-05T22:13:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Big get’ for Spitfires as newest addition never forgot Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/big-get-for-spitfires-as-newest-addition-never-forgot-windsor",
+      "published_date": "2026-06-05T16:58:10Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nisga’a Nation says Alberta hasn’t consulted about possible pipeline routes in territory",
       "source": "Burns Lake District News",
@@ -53,11 +67,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Windsor Assembly Plant celebrates Chrysler Pacifica refresh",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-assembly-plant-celebrates-chrysler-pacifica-refresh",
-      "published_date": "2026-05-29T15:17:09Z",
-      "category": "Diplomacy"
+      "title": "Iran conflict to cost Canadian families $648 more at the pumps this year",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/iran-conflict-cost-canadian-families-648-more-at-the-pumps-this-year",
+      "published_date": "2026-06-05T20:15:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "Nearly $66,000 in drugs seized from Downtown Eastside SRO",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/drugs-cash-seized-vancouver-dtes-sro",
+      "published_date": "2026-06-05T17:41:04Z",
+      "category": "Military"
     },
     {
       "title": "Postmedia invests in next generation of Canadian journalists",
@@ -130,20 +151,6 @@
       "category": "Military"
     },
     {
-      "title": "PHOTOS: Saskatoon fire crews battle house fires in Hampton Village",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/photos-saskatoon-fire-crews-battle-house-fires-in-hampton-village",
-      "published_date": "2026-05-29T22:53:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "‘Thousands of pills’, weapons seized after 2 B.C. city drug trafficking raids",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/29/thousands-of-pills-weapons-seized-after-2-b-c-city-drug-trafficking-raids/",
-      "published_date": "2026-05-29T19:15:00Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. Hydro cancels plan to phase out gas-powered generation as electricity gap looms",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/bc-hydro-cancels-plan-to-phase-out-gas-generation-as-power-stopgap",
@@ -205,6 +212,27 @@
       "url": "https://torontosun.com/news/national/laughable-claims-justin-trudeau-climate-warriors",
       "published_date": "2026-05-30T19:29:09Z",
       "category": "Energy"
+    },
+    {
+      "title": "B.C. adds 25,000 jobs in May, but still falling behind Canada as a whole",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/b-c-adds-25000-jobs-in-may-but-still-falling-behind-canada-as-a-whole/",
+      "published_date": "2026-06-05T22:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: Mark Carney's grocery payment an admission Canada's economy is failing",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carneys-grocery-payment-admission-canada-economy-failing",
+      "published_date": "2026-06-05T19:47:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Food bank report finds small improvements in Sask., but food bank director says issues persist",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/food-bank-poverty-report-card-takes-a-bite-out-of-canadas-governance",
+      "published_date": "2026-06-05T16:58:39Z",
+      "category": "Economy"
     },
     {
       "title": "Premier David Eby presents a path in B.C.’s fate at Indigenous conference",
@@ -326,164 +354,143 @@
       "category": "Economy"
     },
     {
-      "title": "OPINION: CBC must respect taxpayers' rights to demand accountability",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/cbc-must-respect-taxpayers-rights-accountability",
-      "published_date": "2026-05-30T15:30:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "LILLEY: Canada's economy sputtering into recession with Carney at top",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canadas-economy-sputtering-into-recession-with-carney",
-      "published_date": "2026-05-29T21:50:51Z",
-      "category": "Economy"
-    },
-    {
-      "title": "OPSEU campaigner who tweeted praise for Hitler will keep her job",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/opseu-campaigner-tweeted-praise-hitler-keep-her-job",
-      "published_date": "2026-05-29T21:34:15Z",
-      "category": "Economy"
-    },
-    {
-      "title": "East Windsor fire displaces four, causes $750K in damages to two homes",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/east-windsor-fire-displaces-four-causes-750k-in-damages-to-two-homes",
-      "published_date": "2026-06-05T13:37:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Douglas Todd: Vancouver’s plan for 17 new &#039;villages&#039; will increase uniformity, sterility",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-vancouvers-plan-for-17-new-villages-will-increase-uniformity-sterility",
-      "published_date": "2026-06-05T13:00:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Taking a foul for FIFA",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-taking-foul-fifa",
-      "published_date": "2026-06-05T13:00:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnaby townhouse project under creditor protection as lender says it is owed $59 million",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/burnaby-townhouse-project-under-creditor-protection",
-      "published_date": "2026-06-05T13:00:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Independence from Canada means losing portable health benefits",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-independence-canada-losing-portable-health-benefits",
-      "published_date": "2026-06-05T13:00:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City of Vancouver plans &#039;high-risk building inventory&#039; to reduce earthquake hazard",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-plans-high-risk-building-inventory-to-reduce-earthquake-risk",
-      "published_date": "2026-06-05T13:00:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Vancouver Sun: Caregivers endure burnout while their loved ones are in waitlist limbo for years",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-caregivers-endure-burnout-while-their-loved-ones-are-in-wait-list-limbo-for-years",
-      "published_date": "2026-06-05T13:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives edge ahead of NDP in latest Leger poll",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-conservatives-edge-ahead-of-ndp-in-latest-leger-poll",
-      "published_date": "2026-06-05T13:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can fashion be sustainable? Resale, rental are options for eco-conscious consumers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/sustainable-fashion-resale-renta-options-eco-conscious-consumers",
-      "published_date": "2026-06-05T13:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor doc suspended eight months for accessing newborns' private birth records",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-doc-suspended-eight-months-for-accessing-newborns-private-birth-records",
-      "published_date": "2026-06-05T12:44:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It blew me away’: Ex-colleague of slain Lumby mother supporting family in big way",
+      "title": "Regional government officials brace for further strain on health care facilities",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/it-blew-me-away-ex-colleague-of-slain-lumby-mother-supporting-family-in-big-way/",
-      "published_date": "2026-06-05T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/regional-government-officials-brace-for-further-strain-on-health-care-facilities/",
+      "published_date": "2026-06-06T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Saskatoon-based plant helps Nutrien test new technology",
+      "title": "PHOTOS: B.C.’s Science World fully transforms into FIFA World Cup match ball",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/photos-b-c-s-science-world-fully-transforms-into-fifa-world-cup-match-ball/",
+      "published_date": "2026-06-06T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A third of B.C.’s drowning deaths in 2025 happened in the summer months",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/a-third-of-b-c-s-drowning-deaths-in-2025-happened-in-the-summer-months/",
+      "published_date": "2026-06-05T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Governments here, not Trump, to blame for most forest sector woes",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-governments-here-not-trump-to-blame-for-most-forest-sector-woes",
+      "published_date": "2026-06-05T23:25:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup: Canada&#039;s road ahead, and the reality it&#039;s paved with",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/sports/world-cup-canadas-road-ahead-and-the-reality-its-paved-with",
+      "published_date": "2026-06-05T23:15:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey mayor breaks silence on police chief firing maelstrom",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/surrey-mayor-breaks-silence-on-police-chief-firing-maelstrom/",
+      "published_date": "2026-06-05T22:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Oshawa doctor's medical licence revoked for sexually abusing longtime patient",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/oshawa-doctors-medical-licence-revoked-sexual-abuse-patient",
+      "published_date": "2026-06-05T22:45:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Traffic alert: Massey Tunnel closed for two nights",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/traffic-alert-massey-tunnel-closed-for-two-nights",
+      "published_date": "2026-06-05T22:27:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 mosquito species in B.C. show results for virus that can cause human illness",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/2-mosquito-species-in-b-c-show-results-for-virus-that-can-cause-human-illness/",
+      "published_date": "2026-06-05T22:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BHP inks rail deals to move potash from its new mine to the west coast",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatoon-based-plant-helps-nutrien-test-new-technology",
-      "published_date": "2026-06-05T12:00:37Z",
+      "url": "https://thestarphoenix.com/business/mining/potash-in-our-province/bhp-rail-deals-move-potash-west-coast",
+      "published_date": "2026-06-05T22:10:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Explore a local festival: Five things to do this weekend in Saskatoon, June 5-7",
+      "title": "City of Toronto urges fans to leave car at home during FIFA World Cup",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/city-toronto-urges-fans-leave-car-home-fifa-world-cup",
+      "published_date": "2026-06-05T22:06:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Increased outflow from Gardiner Dam to help launch The Prairie Lily after false start",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/entertainment/local-arts/five-things-to-do-this-weekend-in-saskatoon-june-5-7",
-      "published_date": "2026-06-05T12:00:08Z",
+      "url": "https://thestarphoenix.com/news/local-news/answered-prayer-for-saskatoons-prairie-lily-as-gardiner-dam-set-to-increase-outflow-fill-river",
+      "published_date": "2026-06-05T21:52:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Lytton plays host to emerging leaders from across Canada",
+      "title": "Football Intelligence Officers to help local cops with World Cup crowd control in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/football-intelligence-officers-help-local-cops-fifa-world-cup-crowd-control-toronto",
+      "published_date": "2026-06-05T21:38:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tech pioneer warns Canada must stop 'standing still' on digital sovereignty",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/tech-pioneer-warns-canada-must-stop-standing-still-digital-sovereignty",
+      "published_date": "2026-06-05T21:36:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Defamation suit filed in relation to 2025 shooting of 2 dogs in B.C.",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/lytton-plays-host-to-emerging-leaders-from-across-canada/",
-      "published_date": "2026-06-05T12:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/defamation-suit-filed-in-relation-to-2025-shooting-of-2-dogs-in-b-c/",
+      "published_date": "2026-06-05T21:25:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Justin Trudeau reportedly wants Katy Perry to live part-time in Montreal and cheer for the Habs",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/justin-trudeau-wants-katy-perry-to-live-part-time-in-montreal",
-      "published_date": "2026-06-05T11:30:13Z",
+      "title": "FIFA bans reusable water bottles from World Cup matches",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/fifa-bans-reusable-water-bottles-from-world-cup-matches",
+      "published_date": "2026-06-05T21:18:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor's Riverside Drive East ranked fourth-worst road in southwest region",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsors-riverside-drive-east-ranked-fourth-worst-road-in-southwest-region",
-      "published_date": "2026-06-05T10:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City councillor urges residents to weigh in on future of Sand Point Beach",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/city-councillor-urges-residents-to-weigh-in-on-future-of-sand-point-beach",
-      "published_date": "2026-06-05T09:45:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. hockey icon’s story garners honours on both sides of border",
+      "title": "Williams Lake council backs forum on controversial jail closure proposal",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/04/b-c-hockey-icons-story-garners-honours-on-both-sides-of-border/",
-      "published_date": "2026-06-05T03:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/williams-lake-council-backs-forum-on-controversial-jail-closure-proposal/",
+      "published_date": "2026-06-05T21:17:00Z",
       "category": "Local Events"
     },
     {
-      "title": "1 person dead after shooting in Brampton; gun seized during Ajax traffic stop",
+      "title": "Three Rolling Stones' vinyl album covers due in FIFA World Cup partnership",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/one-person-dead-shooting-brampton",
-      "published_date": "2026-06-05T02:42:13Z",
+      "url": "https://torontosun.com/news/local-news/3-rolling-stones-vinyl-album-covers-due-fifa-world-cup-partnership",
+      "published_date": "2026-06-05T21:04:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Freedom 250 concerts making way for 'rally to end all rallies,' Donald Trump says",
+      "title": "SIU probing Toronto cops' arrest of cyclist; man faces child porn-related charges",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/freedom-250-concerts-replaced-with-rally",
-      "published_date": "2026-06-05T01:03:54Z",
+      "url": "https://torontosun.com/news/local-news/siu-toronto-police-arrest-cyclist-man-child-porn-related-charges",
+      "published_date": "2026-06-05T20:43:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "17 people died while hiking, climbing in B.C. in 2025",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/17-people-died-while-hiking-climbing-in-b-c-in-2025/",
+      "published_date": "2026-06-05T20:27:00Z",
       "category": "Local Events"
     }
   ]
