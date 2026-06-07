@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T00:07:35Z",
+  "generated_at": "2026-06-07T12:14:44Z",
   "country": "Canada",
   "total_stories": 64,
   "categories": [
@@ -319,6 +319,13 @@
       "category": "Economy"
     },
     {
+      "title": "Cops seek to ID suspects after victim stabbed, another assaulted at Woodbine Beach",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/cops-id-suspects-victim-stabbed-another-assaulted-woodbine-beach",
+      "published_date": "2026-06-07T01:02:51Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Former NHLer Link Gaetz wanted after cabbie assaulted in British Columbia",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/sports/hockey/nhl/former-nhler-link-gaetz-wanted-assault-cabbie-british-columbia",
@@ -449,13 +456,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/opinion/letters/letters-debate-old-age-security-with-facts",
       "published_date": "2026-06-06T14:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We desired to find a tunnel’: B.C. wall yields artifacts, no tunnels",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/06/we-desired-to-find-a-tunnel-b-c-wall-yields-artifacts-no-tunnels/",
-      "published_date": "2026-06-06T14:00:00Z",
       "category": "Local Events"
     }
   ]
