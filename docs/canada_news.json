@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-06T12:02:37Z",
+  "generated_at": "2026-06-07T00:07:35Z",
   "country": "Canada",
-  "total_stories": 69,
+  "total_stories": 64,
   "categories": [
     "Diplomacy",
     "Military",
@@ -50,20 +50,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/business/diplomat-says-india-working-with-canada-on-deal-to-open-its-market-to-saskatchewan-lentils-peas",
       "published_date": "2026-06-01T12:00:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WARMINGTON: Extortion by bullet has families wondering if Canada is still for them",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/extortion-by-bullet-families-wondering-if-canada-still-for-them",
-      "published_date": "2026-05-30T15:01:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Opinion: Gabriel Dumont is a legendary figure of Canada’s past",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-gabriel-dumont-is-a-legendary-figure-of-canadas-past",
-      "published_date": "2026-05-30T13:00:42Z",
       "category": "Diplomacy"
     },
     {
@@ -144,11 +130,11 @@
       "category": "Military"
     },
     {
-      "title": "Premier Ford drops new strategy to lock down 43K defence jobs",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/premier-ford-drops-new-strategy-to-lock-down-43k-defence-jobs",
-      "published_date": "2026-05-30T13:45:07Z",
-      "category": "Military"
+      "title": "B.C. climate news: Metro Vancouver moves to stage 3 water restrictions Monday &#124; Out-of-control wildfire in B.C.&#039;s Cariboo prompts alert &#124; Environment Canada forecasts hotter-than-normal summer for B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-june-7-26",
+      "published_date": "2026-06-06T17:28:33Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. Hydro cancels plan to phase out gas-powered generation as electricity gap looms",
@@ -197,20 +183,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/business/how-german-buyer-could-broker-bc-lng-fuel-closer-to-home",
       "published_date": "2026-06-01T13:00:03Z",
-      "category": "Energy"
-    },
-    {
-      "title": "B.C. climate news: How sustainable are Vancouver&#039;s AI data centres going to be? &#124; Spring heat dome scorches parts of UK, Europe",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-may-31-26",
-      "published_date": "2026-05-30T19:38:56Z",
-      "category": "Energy"
-    },
-    {
-      "title": "GOLDSTEIN: The laughable claims of Justin Trudeau’s climate warriors",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/laughable-claims-justin-trudeau-climate-warriors",
-      "published_date": "2026-05-30T19:29:09Z",
       "category": "Energy"
     },
     {
@@ -347,150 +319,143 @@
       "category": "Economy"
     },
     {
-      "title": "EDITORIAL: Trade war shrinking Canada’s economy",
+      "title": "Former NHLer Link Gaetz wanted after cabbie assaulted in British Columbia",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/trade-war-shrinking-canadas-economy",
-      "published_date": "2026-05-30T21:00:22Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/sports/hockey/nhl/former-nhler-link-gaetz-wanted-assault-cabbie-british-columbia",
+      "published_date": "2026-06-06T23:55:05Z",
+      "category": "Local Events"
     },
     {
-      "title": "How Canadian craft distilleries are cleverly filling the American bourbon void",
+      "title": "EDITORIAL: Prime Minister Mark Carney’s growth targets slowed by reality",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/prime-minister-mark-carneys-growth-targets-slowed-by-reality",
+      "published_date": "2026-06-06T22:04:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A week before World Cup kickoff, a small Vancouver pet store gets a big FIFA warning",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-pet-store-fifa-warning",
+      "published_date": "2026-06-06T21:31:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Homeopath life coach' accused of sexually assaulting clients in North York",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/homeopath-life-coach-accused-sexually-assaulting-clients-north-york",
+      "published_date": "2026-06-06T20:43:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. government appoints mediator after 911 communication workers issue strike notice",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-appoints-mediator-911-workers-issue-strike-notice",
+      "published_date": "2026-06-06T20:41:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police seeking arson suspect after Walkerville business fire",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/how-canadian-craft-distilleries-are-cleverly-filling-the-american-bourbon-void",
-      "published_date": "2026-06-06T09:07:37Z",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seeking-arson-suspect-after-walkerville-business-fire",
+      "published_date": "2026-06-06T20:39:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Concerns prompt council to revise arena change room policy",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/06/05/concerns-prompt-council-to-revise-arena-change-room-policy/",
-      "published_date": "2026-06-06T01:07:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One B.C. forced to move venues in Kamloops after $7.7K security bill from city",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/one-b-c-forced-to-move-venues-in-kamloops-after-7-7k-security-bill-from-city/",
-      "published_date": "2026-06-06T00:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here&#039;s a first look inside the new Freedom Mobile Arch in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/heres-a-first-look-inside-the-new-freedom-mobile-arch-in-vancouver",
-      "published_date": "2026-06-06T00:25:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regional government officials brace for further strain on health care facilities",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/regional-government-officials-brace-for-further-strain-on-health-care-facilities/",
-      "published_date": "2026-06-06T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHOTOS: B.C.’s Science World fully transforms into FIFA World Cup match ball",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/photos-b-c-s-science-world-fully-transforms-into-fifa-world-cup-match-ball/",
-      "published_date": "2026-06-06T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A third of B.C.’s drowning deaths in 2025 happened in the summer months",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/a-third-of-b-c-s-drowning-deaths-in-2025-happened-in-the-summer-months/",
-      "published_date": "2026-06-05T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Governments here, not Trump, to blame for most forest sector woes",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-governments-here-not-trump-to-blame-for-most-forest-sector-woes",
-      "published_date": "2026-06-05T23:25:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup: Canada&#039;s road ahead, and the reality it&#039;s paved with",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/sports/world-cup-canadas-road-ahead-and-the-reality-its-paved-with",
-      "published_date": "2026-06-05T23:15:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey mayor breaks silence on police chief firing maelstrom",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/surrey-mayor-breaks-silence-on-police-chief-firing-maelstrom/",
-      "published_date": "2026-06-05T22:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Oshawa doctor's medical licence revoked for sexually abusing longtime patient",
+      "title": "WARMINGTON: Another Toronto synagogue vandalized as city braces for Walk with Israel",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/oshawa-doctors-medical-licence-revoked-sexual-abuse-patient",
-      "published_date": "2026-06-05T22:45:58Z",
+      "url": "https://torontosun.com/news/local-news/toronto-synagogue-vandalized-city-braces-walk-for-israel-antisemtism",
+      "published_date": "2026-06-06T20:05:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Traffic alert: Massey Tunnel closed for two nights",
+      "title": "Luke Combs makes Friday night at Rogers Stadium memorable for the masses",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/luke-combs-rogers-stadium-toronto-memorable",
+      "published_date": "2026-06-06T18:56:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eleventh-hour deal averts strike at Empress Hotel in Victoria",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/traffic-alert-massey-tunnel-closed-for-two-nights",
-      "published_date": "2026-06-05T22:27:07Z",
+      "url": "https://vancouversun.com/news/eleventh-hour-deal-averts-strike-at-empress-hotel-in-victoria",
+      "published_date": "2026-06-06T18:03:03Z",
       "category": "Local Events"
     },
     {
-      "title": "2 mosquito species in B.C. show results for virus that can cause human illness",
+      "title": "Loaded gun and cocaine allegedly seized during Regent Park traffic stop",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/loaded-gun-cocaine-seized-regent-park-traffic-stop",
+      "published_date": "2026-06-06T16:55:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.&#039;s task force co-chair cites urgent action to ensure bright forestry future",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/bc-task-force-bright-future-forestry-urgent-actions",
+      "published_date": "2026-06-06T16:26:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 31, caught 'driving while disqualified' in North York faces gun and drug charges",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-driving-while-disqualified-north-york-gun-drug-charges",
+      "published_date": "2026-06-06T16:20:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maple Ridge pro cyclist wins silver in Italian race",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/2-mosquito-species-in-b-c-show-results-for-virus-that-can-cause-human-illness/",
-      "published_date": "2026-06-05T22:25:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/06/maple-ridge-pro-cyclist-wins-silver-in-italian-race/",
+      "published_date": "2026-06-06T16:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "BHP inks rail deals to move potash from its new mine to the west coast",
+      "title": "This Day In History, 1946: Vancouver&#039;s longest-serving mayor dies at 88",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1946-vancouvers-longest-serving-mayor-dies-at-88",
+      "published_date": "2026-06-06T15:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: Okanagan&#039;s District Wine Village a must-visit destination for tourists and locals",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/anthony-gismondi-okanagans-district-wine-village-a-must-visit-destination-for-tourists-and-locals",
+      "published_date": "2026-06-06T15:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bard on the Beach Shakespeare Festival brings madness, mayhem and merrymaking",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/bard-on-the-beach-shakespeare-festival-brings-madness-mayhem-and-merrymaking",
+      "published_date": "2026-06-06T15:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: Mark Carney acknowledges antisemitism in Canada but fails to meet the moment",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-acknowledges-antisemitism-canada-fails-to-meet-moment",
+      "published_date": "2026-06-06T14:32:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: Antisemitism in Canada more than an awareness problem",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/bnai-brith-carney-antisemitism-canada-more-than-an-awareness-problem",
+      "published_date": "2026-06-06T14:07:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letters: Debate Old Age Security with facts",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/mining/potash-in-our-province/bhp-rail-deals-move-potash-west-coast",
-      "published_date": "2026-06-05T22:10:21Z",
+      "url": "https://thestarphoenix.com/opinion/letters/letters-debate-old-age-security-with-facts",
+      "published_date": "2026-06-06T14:00:06Z",
       "category": "Local Events"
     },
     {
-      "title": "City of Toronto urges fans to leave car at home during FIFA World Cup",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/city-toronto-urges-fans-leave-car-home-fifa-world-cup",
-      "published_date": "2026-06-05T22:06:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Increased outflow from Gardiner Dam to help launch The Prairie Lily after false start",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/answered-prayer-for-saskatoons-prairie-lily-as-gardiner-dam-set-to-increase-outflow-fill-river",
-      "published_date": "2026-06-05T21:52:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Football Intelligence Officers to help local cops with World Cup crowd control in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/football-intelligence-officers-help-local-cops-fifa-world-cup-crowd-control-toronto",
-      "published_date": "2026-06-05T21:38:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tech pioneer warns Canada must stop 'standing still' on digital sovereignty",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/tech-pioneer-warns-canada-must-stop-standing-still-digital-sovereignty",
-      "published_date": "2026-06-05T21:36:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Defamation suit filed in relation to 2025 shooting of 2 dogs in B.C.",
+      "title": "‘We desired to find a tunnel’: B.C. wall yields artifacts, no tunnels",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/defamation-suit-filed-in-relation-to-2025-shooting-of-2-dogs-in-b-c/",
-      "published_date": "2026-06-05T21:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA bans reusable water bottles from World Cup matches",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/fifa-bans-reusable-water-bottles-from-world-cup-matches",
-      "published_date": "2026-06-05T21:18:07Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/06/we-desired-to-find-a-tunnel-b-c-wall-yields-artifacts-no-tunnels/",
+      "published_date": "2026-06-06T14:00:00Z",
       "category": "Local Events"
     }
   ]
