@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-07T12:14:44Z",
+  "generated_at": "2026-06-08T00:12:22Z",
   "country": "Canada",
-  "total_stories": 64,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: Doug Ford goes to Washington amid tense trade talks",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/doug-ford-goes-to-washington-amid-tense-trade-talks",
+      "published_date": "2026-06-07T22:53:23Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "UFC pay-per-view era in Canada ending with move to Paramount Plus in 2027",
       "source": "Burns Lake District News",
@@ -51,6 +58,27 @@
       "url": "https://thestarphoenix.com/business/diplomat-says-india-working-with-canada-on-deal-to-open-its-market-to-saskatchewan-lentils-peas",
       "published_date": "2026-06-01T12:00:32Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "‘Grueling’ – Southwestern Ontario firefighters push endurance to the limit at Tecumseh competition",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/grueling-southwestern-ontario-firefighters-push-endurance-to-the-limit-at-tecumseh-competition",
+      "published_date": "2026-06-07T18:19:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR: Israeli military vows 'powerful' response coming after Iranian missile strikes",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-trump-claims-both-sides-very-close-to-reaching-deal",
+      "published_date": "2026-06-07T17:54:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "HANSON: Iranian endgames?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/iranian-endgames",
+      "published_date": "2026-06-07T15:02:44Z",
+      "category": "Military"
     },
     {
       "title": "Iran conflict to cost Canadian families $648 more at the pumps this year",
@@ -116,18 +144,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR LATEST: Iranian president reportedly resigns as negotiations with U.S. intensify",
+      "title": "AI data centres: What are they and why so controversial in Canada?",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-may-31",
-      "published_date": "2026-05-31T14:31:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Everett Silvertips, Kitchener Rangers ready to battle for the Memorial Cup in Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/05/31/everett-silvertips-kitchener-rangers-ready-to-battle-for-the-memorial-cup-in-kelowna/",
-      "published_date": "2026-05-31T12:45:00Z",
-      "category": "Military"
+      "url": "https://torontosun.com/news/national/ai-data-centres-what-are-they-why-so-controversial",
+      "published_date": "2026-06-07T15:30:42Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. climate news: Metro Vancouver moves to stage 3 water restrictions Monday &#124; Out-of-control wildfire in B.C.&#039;s Cariboo prompts alert &#124; Environment Canada forecasts hotter-than-normal summer for B.C.",
@@ -184,6 +205,13 @@
       "url": "https://vancouversun.com/business/how-german-buyer-could-broker-bc-lng-fuel-closer-to-home",
       "published_date": "2026-06-01T13:00:03Z",
       "category": "Energy"
+    },
+    {
+      "title": "FUSS: Canadian families must work nearly half the year to pay taxes",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canadian-families-must-work-nearly-half-year-to-pay-taxes",
+      "published_date": "2026-06-07T15:15:43Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. adds 25,000 jobs in May, but still falling behind Canada as a whole",
@@ -312,11 +340,109 @@
       "category": "Economy"
     },
     {
-      "title": "UPDATE: Kerry-Lynne Findlay voted new leader of the B.C. Conservative Party",
+      "title": "SFU&#039;s new medical school gets $40 million gift, biggest in university&#039;s history",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/kerry-lynne-findlay-voted-new-leader-of-the-bc-conservative-party",
-      "published_date": "2026-05-31T16:47:23Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/sfu-medical-school-largest-donation",
+      "published_date": "2026-06-07T22:40:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coroner&#039;s inquest into death of 20-year-old Indigenous woman to begin July 2",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/coroners-inquest-death-tatyanna-harrison-begin-july-2",
+      "published_date": "2026-06-07T21:51:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BRIONES: Going cuckoo over photographing birds",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/07/briones-going-cuckoo-over-photographing-birds/",
+      "published_date": "2026-06-07T21:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One fatality in vehicle crash on Highway 5 near McLure: RCMP",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/07/one-fatality-in-vehicle-crash-on-highway-5-near-mclure-rcmp/",
+      "published_date": "2026-06-07T17:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 dead, another injured in Kawartha Lakes crash involving 4 motorcycles and car; driver sought in hit-and-run",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/3-dead-another-injured-in-crash-involving-motorcycles",
+      "published_date": "2026-06-07T16:30:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "After losing brother to brain cancer, Lukas Frlan raising funds to honour his memory",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/brother-brain-cancer-lukas-frlan-raising-funds-honour-memory",
+      "published_date": "2026-06-07T15:30:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Underpainting is one of makeup&#039;s hottest trends. Here&#039;s how to do it",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/underpainting-makeup-how-to-tips",
+      "published_date": "2026-06-07T15:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "COURT JESTERS: Meet some of Canada's nuttiest judges",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/court-jesters-meet-some-of-canadas-nuttiest-judges",
+      "published_date": "2026-06-07T14:47:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Side hustles in Toronto tied to FIFA 2026 could be a risk, as are fraud scams",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/side-hustles-in-toronto-tied-to-fifa-2026-could-be-a-risk-as-are-fraud-scams",
+      "published_date": "2026-06-07T14:25:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Toronto cops make arrests at Walk with Israel",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-cops-make-early-arrest-walk-with-israel",
+      "published_date": "2026-06-07T14:06:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Road work planned in more Windsor neighbourhoods",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/road-work-planned-in-more-windsor-neighbourhoods",
+      "published_date": "2026-06-07T13:03:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/best-beauty-products-we-tried-this-week-2",
+      "published_date": "2026-06-07T13:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.&#039;s rural Quadra Island raised $50,000 to recruit a new doctor, but the search goes on",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-quadra-island-raised-50000-recruit-doctor-search-continues",
+      "published_date": "2026-06-07T13:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saltwater Hank moves in a new direction",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/07/saltwater-hank-moves-in-a-new-direction/",
+      "published_date": "2026-06-07T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Museum Society announces new artwork for permanent collection",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/07/museum-society-announces-new-artwork-for-permanent-collection/",
+      "published_date": "2026-06-07T12:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Cops seek to ID suspects after victim stabbed, another assaulted at Woodbine Beach",
@@ -351,111 +477,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/homeopath-life-coach-accused-sexually-assaulting-clients-north-york",
       "published_date": "2026-06-06T20:43:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. government appoints mediator after 911 communication workers issue strike notice",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-appoints-mediator-911-workers-issue-strike-notice",
-      "published_date": "2026-06-06T20:41:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seeking arson suspect after Walkerville business fire",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seeking-arson-suspect-after-walkerville-business-fire",
-      "published_date": "2026-06-06T20:39:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Another Toronto synagogue vandalized as city braces for Walk with Israel",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-synagogue-vandalized-city-braces-walk-for-israel-antisemtism",
-      "published_date": "2026-06-06T20:05:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luke Combs makes Friday night at Rogers Stadium memorable for the masses",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/luke-combs-rogers-stadium-toronto-memorable",
-      "published_date": "2026-06-06T18:56:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eleventh-hour deal averts strike at Empress Hotel in Victoria",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/eleventh-hour-deal-averts-strike-at-empress-hotel-in-victoria",
-      "published_date": "2026-06-06T18:03:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Loaded gun and cocaine allegedly seized during Regent Park traffic stop",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/loaded-gun-cocaine-seized-regent-park-traffic-stop",
-      "published_date": "2026-06-06T16:55:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.&#039;s task force co-chair cites urgent action to ensure bright forestry future",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/bc-task-force-bright-future-forestry-urgent-actions",
-      "published_date": "2026-06-06T16:26:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 31, caught 'driving while disqualified' in North York faces gun and drug charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-driving-while-disqualified-north-york-gun-drug-charges",
-      "published_date": "2026-06-06T16:20:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maple Ridge pro cyclist wins silver in Italian race",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/06/maple-ridge-pro-cyclist-wins-silver-in-italian-race/",
-      "published_date": "2026-06-06T16:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day In History, 1946: Vancouver&#039;s longest-serving mayor dies at 88",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1946-vancouvers-longest-serving-mayor-dies-at-88",
-      "published_date": "2026-06-06T15:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: Okanagan&#039;s District Wine Village a must-visit destination for tourists and locals",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-okanagans-district-wine-village-a-must-visit-destination-for-tourists-and-locals",
-      "published_date": "2026-06-06T15:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bard on the Beach Shakespeare Festival brings madness, mayhem and merrymaking",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/bard-on-the-beach-shakespeare-festival-brings-madness-mayhem-and-merrymaking",
-      "published_date": "2026-06-06T15:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Mark Carney acknowledges antisemitism in Canada but fails to meet the moment",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-acknowledges-antisemitism-canada-fails-to-meet-moment",
-      "published_date": "2026-06-06T14:32:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Antisemitism in Canada more than an awareness problem",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/bnai-brith-carney-antisemitism-canada-more-than-an-awareness-problem",
-      "published_date": "2026-06-06T14:07:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters: Debate Old Age Security with facts",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/letters/letters-debate-old-age-security-with-facts",
-      "published_date": "2026-06-06T14:00:06Z",
       "category": "Local Events"
     }
   ]
