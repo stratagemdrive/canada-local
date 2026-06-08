@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T00:12:22Z",
+  "generated_at": "2026-06-08T14:41:05Z",
   "country": "Canada",
   "total_stories": 67,
   "categories": [
@@ -53,11 +53,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Diplomat says India working with Canada on deal to open its market to Saskatchewan lentils, peas",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/diplomat-says-india-working-with-canada-on-deal-to-open-its-market-to-saskatchewan-lentils-peas",
-      "published_date": "2026-06-01T12:00:32Z",
-      "category": "Diplomacy"
+      "title": "IRAN WAR: Trump demands Israel, Iran 'stop shooting' as countries exchange first attacks since ceasefire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-june-8",
+      "published_date": "2026-06-08T11:16:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "Air Force backs decision to keep Snowbirds grounded after 2026 season",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/air-force-backs-decision-snowbirds-grounding",
+      "published_date": "2026-06-08T10:00:51Z",
+      "category": "Military"
     },
     {
       "title": "‘Grueling’ – Southwestern Ontario firefighters push endurance to the limit at Tecumseh competition",
@@ -137,11 +144,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR LATEST: Iran suspends negotiations with U.S.: 'No dialogue will take place'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-1",
-      "published_date": "2026-06-01T11:24:43Z",
-      "category": "Military"
+      "title": "The fastest growing market for Canada's canola is energy",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/the-fastest-growing-market-for-canadas-canola-is-energy",
+      "published_date": "2026-06-08T11:00:32Z",
+      "category": "Energy"
     },
     {
       "title": "AI data centres: What are they and why so controversial in Canada?",
@@ -200,11 +207,11 @@
       "category": "Energy"
     },
     {
-      "title": "How a German buyer could broker its B.C. LNG for fuel closer to home",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/how-german-buyer-could-broker-bc-lng-fuel-closer-to-home",
-      "published_date": "2026-06-01T13:00:03Z",
-      "category": "Energy"
+      "title": "GOLDSTEIN: Tax Freedom Day helps Canadians understand total burden",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/tax-freedom-day-helps-canadians-understand-total-burden",
+      "published_date": "2026-06-08T09:00:32Z",
+      "category": "Economy"
     },
     {
       "title": "FUSS: Canadian families must work nearly half the year to pay taxes",
@@ -333,11 +340,81 @@
       "category": "Economy"
     },
     {
-      "title": "Mike Myers thanks Canadian taxpayers for career: 'I'd be nothing without you'",
+      "title": "BLIZZARD: Welcome to the new Toronto, soccer fans",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/mike-myers-canada-taxpayers-career",
-      "published_date": "2026-06-01T13:12:49Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/opinion/columnists/welcome-to-new-toronto-soccer-fans",
+      "published_date": "2026-06-08T14:32:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Body of missing boater recovered from Lake St. Clair in Lakeshore",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/body-of-missing-boater-recovered-from-lake-st-clair-in-lakeshore",
+      "published_date": "2026-06-08T13:37:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "William Nylander smashes beers with Kevin Gausman and Patrick Corbin at Luke Combs concert",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/william-nylander-beers-kevin-gausman-patrick-corbin-luke-combs-concert",
+      "published_date": "2026-06-08T13:27:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Mayor Chow as World Cup scalper is nothing but hypocrisy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mayor-chow-world-cup-scalper-hypocrisy",
+      "published_date": "2026-06-08T13:15:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. couple that refused to evacuate during wildfires sued for $200,000 by retirement community",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-couple-refused-evacuate-wildfires-sued-retirement-community",
+      "published_date": "2026-06-08T13:00:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver actor stars in highly anticipated romance drama Every Year After",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/every-year-after-prime-video-vancouver-joseph-chiu",
+      "published_date": "2026-06-08T13:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Good for business or a &#039;gong show&#039;? Metro Vancouver businesses, residents brace for World Cup&#039;s arrival",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/sports/soccer/metro-vancouver-businesses-residents-brace-for-world-cup",
+      "published_date": "2026-06-08T13:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rihanna praises 'very special' gift from Mohawk flight attendant on Toronto-Montreal route",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/kahnawake-mohawk-flight-attendant-rihanna-gift",
+      "published_date": "2026-06-08T12:26:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus ban bylaw aims to remove problematic people from Saskatoon's public transit",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/bus-ban-bylaw-aims-to-remove-problematic-people-from-saskatoons-public-transit",
+      "published_date": "2026-06-08T12:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 32 dead after 7.8 magnitude earthquake rocks Philippines",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/earthquake-rocks-southern-philippines",
+      "published_date": "2026-06-08T11:51:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor’s Art in the Park draws thousands for arts-and-craft filled weekend",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsors-art-in-the-park-draws-thousands-for-arts-and-craft-filled-weekend",
+      "published_date": "2026-06-08T10:22:30Z",
+      "category": "Local Events"
     },
     {
       "title": "SFU&#039;s new medical school gets $40 million gift, biggest in university&#039;s history",
@@ -400,83 +477,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/side-hustles-in-toronto-tied-to-fifa-2026-could-be-a-risk-as-are-fraud-scams",
       "published_date": "2026-06-07T14:25:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Toronto cops make arrests at Walk with Israel",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-cops-make-early-arrest-walk-with-israel",
-      "published_date": "2026-06-07T14:06:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Road work planned in more Windsor neighbourhoods",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/road-work-planned-in-more-windsor-neighbourhoods",
-      "published_date": "2026-06-07T13:03:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/best-beauty-products-we-tried-this-week-2",
-      "published_date": "2026-06-07T13:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.&#039;s rural Quadra Island raised $50,000 to recruit a new doctor, but the search goes on",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-quadra-island-raised-50000-recruit-doctor-search-continues",
-      "published_date": "2026-06-07T13:00:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saltwater Hank moves in a new direction",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/07/saltwater-hank-moves-in-a-new-direction/",
-      "published_date": "2026-06-07T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Museum Society announces new artwork for permanent collection",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/07/museum-society-announces-new-artwork-for-permanent-collection/",
-      "published_date": "2026-06-07T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops seek to ID suspects after victim stabbed, another assaulted at Woodbine Beach",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/cops-id-suspects-victim-stabbed-another-assaulted-woodbine-beach",
-      "published_date": "2026-06-07T01:02:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former NHLer Link Gaetz wanted after cabbie assaulted in British Columbia",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/hockey/nhl/former-nhler-link-gaetz-wanted-assault-cabbie-british-columbia",
-      "published_date": "2026-06-06T23:55:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Prime Minister Mark Carney’s growth targets slowed by reality",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/prime-minister-mark-carneys-growth-targets-slowed-by-reality",
-      "published_date": "2026-06-06T22:04:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A week before World Cup kickoff, a small Vancouver pet store gets a big FIFA warning",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-pet-store-fifa-warning",
-      "published_date": "2026-06-06T21:31:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Homeopath life coach' accused of sexually assaulting clients in North York",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/homeopath-life-coach-accused-sexually-assaulting-clients-north-york",
-      "published_date": "2026-06-06T20:43:03Z",
       "category": "Local Events"
     }
   ]
