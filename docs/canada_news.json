@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T14:41:05Z",
+  "generated_at": "2026-06-09T00:09:26Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Rio Tinto expands Canada fund with new support for northern B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/rio-tinto-expands-canada-fund-with-new-support-for-northern-b-c/",
+      "published_date": "2026-06-08T22:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "LILLEY: Canada's failed covenant is leading to quiet Jewish exodus",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canadas-failed-covenant-is-leading-to-a-quiet-jewish-exodus",
+      "published_date": "2026-06-08T19:52:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Heiltsuk Nation reaches $12-million settlement over Inside Passage fuel spill",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/heiltsuk-nation-settlement-inside-passage-fuel-spill",
+      "published_date": "2026-06-08T19:10:57Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Doug Ford goes to Washington amid tense trade talks",
       "source": "Toronto Sun",
@@ -51,6 +72,13 @@
       "url": "https://windsorstar.com/sports/spitfires-first-off-season-move-not-an-unexpected-one",
       "published_date": "2026-06-03T17:14:49Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "China's Xi visits Pyongyang to meet with North Korea's Kim",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/chinas-xi-visits-pyongyang-to-meet-with-north-koreas-kim",
+      "published_date": "2026-06-08T20:36:57Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Trump demands Israel, Iran 'stop shooting' as countries exchange first attacks since ceasefire",
@@ -207,6 +235,13 @@
       "category": "Energy"
     },
     {
+      "title": "Grouse Grind behind picket line as Metro Vancouver strike escalates",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/grouse-grind-picket-line-metro-vancouver-strike-escalates",
+      "published_date": "2026-06-08T14:50:18Z",
+      "category": "Economy"
+    },
+    {
       "title": "GOLDSTEIN: Tax Freedom Day helps Canadians understand total burden",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/tax-freedom-day-helps-canadians-understand-total-burden",
@@ -333,150 +368,143 @@
       "category": "Economy"
     },
     {
-      "title": "Council ponders taxi driver safety after separate shootings in Saskatoon, North Battleford",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/council-ponders-taxi-driver-safety-after-separate-shootings-in-saskatoon-north-battleford",
-      "published_date": "2026-06-01T18:12:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BLIZZARD: Welcome to the new Toronto, soccer fans",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/welcome-to-new-toronto-soccer-fans",
-      "published_date": "2026-06-08T14:32:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body of missing boater recovered from Lake St. Clair in Lakeshore",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/body-of-missing-boater-recovered-from-lake-st-clair-in-lakeshore",
-      "published_date": "2026-06-08T13:37:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "William Nylander smashes beers with Kevin Gausman and Patrick Corbin at Luke Combs concert",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/music/william-nylander-beers-kevin-gausman-patrick-corbin-luke-combs-concert",
-      "published_date": "2026-06-08T13:27:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Mayor Chow as World Cup scalper is nothing but hypocrisy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mayor-chow-world-cup-scalper-hypocrisy",
-      "published_date": "2026-06-08T13:15:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. couple that refused to evacuate during wildfires sued for $200,000 by retirement community",
+      "title": "Vancouver World Cup match-day spectator route: Here&#039;s what to expect",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-couple-refused-evacuate-wildfires-sued-retirement-community",
-      "published_date": "2026-06-08T13:00:56Z",
+      "url": "https://vancouversun.com/news/vancouver-fifa-world-cup-match-day-spectator-route-what-to-expect",
+      "published_date": "2026-06-08T23:56:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver actor stars in highly anticipated romance drama Every Year After",
+      "title": "Prince George boy, 17, missing after boat capsizes on Stony Lake",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/every-year-after-prime-video-vancouver-joseph-chiu",
-      "published_date": "2026-06-08T13:00:18Z",
+      "url": "https://vancouversun.com/news/prince-george-teenager-missing-boat-capsizes-stony-lake",
+      "published_date": "2026-06-08T23:29:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Good for business or a &#039;gong show&#039;? Metro Vancouver businesses, residents brace for World Cup&#039;s arrival",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/sports/soccer/metro-vancouver-businesses-residents-brace-for-world-cup",
-      "published_date": "2026-06-08T13:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rihanna praises 'very special' gift from Mohawk flight attendant on Toronto-Montreal route",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/kahnawake-mohawk-flight-attendant-rihanna-gift",
-      "published_date": "2026-06-08T12:26:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus ban bylaw aims to remove problematic people from Saskatoon's public transit",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/bus-ban-bylaw-aims-to-remove-problematic-people-from-saskatoons-public-transit",
-      "published_date": "2026-06-08T12:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 32 dead after 7.8 magnitude earthquake rocks Philippines",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/earthquake-rocks-southern-philippines",
-      "published_date": "2026-06-08T11:51:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor’s Art in the Park draws thousands for arts-and-craft filled weekend",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsors-art-in-the-park-draws-thousands-for-arts-and-craft-filled-weekend",
-      "published_date": "2026-06-08T10:22:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFU&#039;s new medical school gets $40 million gift, biggest in university&#039;s history",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/sfu-medical-school-largest-donation",
-      "published_date": "2026-06-07T22:40:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coroner&#039;s inquest into death of 20-year-old Indigenous woman to begin July 2",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/coroners-inquest-death-tatyanna-harrison-begin-july-2",
-      "published_date": "2026-06-07T21:51:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BRIONES: Going cuckoo over photographing birds",
+      "title": "Stab wounds detailed in Lumby woman’s murder trial",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/07/briones-going-cuckoo-over-photographing-birds/",
-      "published_date": "2026-06-07T21:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/stab-wounds-detailed-in-lumby-womans-murder-trial/",
+      "published_date": "2026-06-08T23:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "One fatality in vehicle crash on Highway 5 near McLure: RCMP",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/07/one-fatality-in-vehicle-crash-on-highway-5-near-mclure-rcmp/",
-      "published_date": "2026-06-07T17:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 dead, another injured in Kawartha Lakes crash involving 4 motorcycles and car; driver sought in hit-and-run",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/3-dead-another-injured-in-crash-involving-motorcycles",
-      "published_date": "2026-06-07T16:30:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After losing brother to brain cancer, Lukas Frlan raising funds to honour his memory",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brother-brain-cancer-lukas-frlan-raising-funds-honour-memory",
-      "published_date": "2026-06-07T15:30:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Underpainting is one of makeup&#039;s hottest trends. Here&#039;s how to do it",
+      "title": "Vaughn Palmer: New B.C. Conservative leader&#039;s anti-Liberal rhetoric prompts call to resurrect centrist party",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/underpainting-makeup-how-to-tips",
-      "published_date": "2026-06-07T15:00:17Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-conservative-leader-kerry-lynne-findlay-anti-bc-liberal-rhetoric-prompts-call-resurrect-party",
+      "published_date": "2026-06-08T22:49:58Z",
       "category": "Local Events"
     },
     {
-      "title": "COURT JESTERS: Meet some of Canada's nuttiest judges",
+      "title": "Etobicoke man slapped with gun, drug charges; Toronto man charged with sexual assault",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/court-jesters-meet-some-of-canadas-nuttiest-judges",
-      "published_date": "2026-06-07T14:47:36Z",
+      "url": "https://torontosun.com/news/crime/etobicoke-man-facing-gun-drug-charges",
+      "published_date": "2026-06-08T22:48:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Side hustles in Toronto tied to FIFA 2026 could be a risk, as are fraud scams",
+      "title": "deadmau5 donates $30K to cover medical costs for 36 rescued cats at Oakville shelter",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/side-hustles-in-toronto-tied-to-fifa-2026-could-be-a-risk-as-are-fraud-scams",
-      "published_date": "2026-06-07T14:25:27Z",
+      "url": "https://torontosun.com/news/local-news/deadmau5-donates-30000-cover-medical-costs-36-rescued-cats-oakville-shelter",
+      "published_date": "2026-06-08T22:36:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teen presumed drowned after boating incident northeast of Quesnel",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/teen-presumed-drowned-after-boating-incident-northeast-of-quesnel/",
+      "published_date": "2026-06-08T22:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Swiss Brexit' vote capping population at 10 million divides alpine nation",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/swiss-brexit-vote-capping-population-explainer",
+      "published_date": "2026-06-08T22:34:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abbotsford man charged with manslaughter in fatal stabbing last December",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/abbotsford-man-charged-with-manslaughter-in-fatal-stabbing-last-december",
+      "published_date": "2026-06-08T22:13:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ottawa Valley OPP charge five in series of traffic Investigations",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/ottawa-valley-opp-charge-five-in-series-of-traffic-investigations",
+      "published_date": "2026-06-08T21:32:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 women charged in Etobicoke distraction theft and robbery probe",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/two-women-charged-etobicoke-distraction-theft-robbery-probe",
+      "published_date": "2026-06-08T21:28:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Blocked northwestern B.C. highway re-opened",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/blocked-northwestern-b-c-highway-re-opened/",
+      "published_date": "2026-06-08T21:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gordie Howe bridge ribbon-cutting ceremony expected later this week: sources",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/gordie-howe-bridge-ribbon-cutting-ceremony-expected-later-this-week-sources",
+      "published_date": "2026-06-08T20:38:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA World Cup games, fan festival may disrupt mail service in nearby Toronto areas",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/fifa-world-cup-games-fan-festival-may-disrupt-mail-service-nearby-toronto-areas",
+      "published_date": "2026-06-08T20:12:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada Post won&#039;t deliver to these spots during FIFA Fan Fest, World Cup game days",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/canada-post-some-spots-no-delivery-fifa-fan-fest-world-cup-game-days",
+      "published_date": "2026-06-08T20:05:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. commits nearly $20 million on projects to reduce wildfire risk",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/b-c-commits-nearly-20-million-on-projects-to-reduce-wildfire-risk/",
+      "published_date": "2026-06-08T19:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. doctors ratify new 4-year deal, get more pay for rural and maternity care",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/b-c-doctors-ratify-new-4-year-deal-get-more-pay-for-rural-and-maternity-care/",
+      "published_date": "2026-06-08T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior Health warns of rising pertussis cases ahead of summer in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/interior-health-warns-of-rising-pertussis-cases-ahead-of-summer-in-b-c/",
+      "published_date": "2026-06-08T19:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "$110K raised as Kelowna fundraiser for autism grows into national movement",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/110k-raised-as-kelowna-fundraiser-for-autism-grows-into-national-movement/",
+      "published_date": "2026-06-08T19:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. golfer qualifies for first PGA Tour start at RBC Canadian Open",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/b-c-golfer-qualifies-for-first-pga-tour-start-at-rbc-canadian-open/",
+      "published_date": "2026-06-08T18:30:00Z",
       "category": "Local Events"
     }
   ]
