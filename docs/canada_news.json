@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T00:17:57Z",
+  "generated_at": "2026-06-10T14:13:03Z",
   "country": "Canada",
-  "total_stories": 69,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Douglas Todd: Will higher density make Metro Vancouver residents happier? Studies say: Not likely",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-higher-density-may-be-making-metro-vancouver-residents-less-happy-say-studies",
+      "published_date": "2026-06-10T13:00:53Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rio Tinto expands Canada fund with new support for northern B.C.",
       "source": "Burns Lake District News",
@@ -72,6 +79,13 @@
       "url": "https://windsorstar.com/sports/spitfires-first-off-season-move-not-an-unexpected-one",
       "published_date": "2026-06-03T17:14:49Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Iran retaliates after American strikes over downed U.S. helicopter",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-iran-retaliates-after-american-strikes-over-downed-u-s-helicopter",
+      "published_date": "2026-06-10T10:49:46Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Ceasefire tested again as Israel attacks southern Lebanon",
@@ -158,11 +172,18 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Kuwait airport, U.S. forces targeted in Iran attack",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-3",
-      "published_date": "2026-06-03T11:41:32Z",
-      "category": "Military"
+      "title": "Ksi Lisims LNG racks up additional First Nation support, new potential sales",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/ksi-lisims-lng-first-nation-support-new-potential-sales",
+      "published_date": "2026-06-10T13:00:55Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Opinion: Growing air traffic means growing lead-exposure risk for Pitt Meadows",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-growing-air-traffic-means-growing-lead-exposure-risk-for-pitt-meadows",
+      "published_date": "2026-06-10T13:00:53Z",
+      "category": "Energy"
     },
     {
       "title": "The fastest growing market for Canada's canola is energy",
@@ -354,143 +375,143 @@
       "category": "Economy"
     },
     {
+      "title": "Costco recalls popular milk over possible 'food safety risk'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/costco-recalls-popular-milk-food-safety-risk",
+      "published_date": "2026-06-10T14:12:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barbados man allegedly fled from cops after stealing car in Bowmanville",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/barbados-man-fled-cops-stole-car-bowmanville",
+      "published_date": "2026-06-10T14:01:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Spitfires' road to the OHL far different from the path taken by son",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/former-spitfires-road-to-the-ohl-far-different-from-the-path-taken-by-son",
+      "published_date": "2026-06-10T13:55:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michael Rapaport rips NYC Mayor Zohran Mamdani over ‘embarrassing’ violence after Knicks loss",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/michael-rapaport-rips-zohran-mamdani-violence-knicks-loss",
+      "published_date": "2026-06-10T13:36:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup Vancouver: 20 restaurants within a 10-minute walk of B.C. Place",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/vancouver-restaurants-bc-place-walking-distance",
+      "published_date": "2026-06-10T13:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICBC settles class-action lawsuits for $13 million, but 5.6 million drivers get nothing",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/icbc-settles-class-action-lawsuits-13-million",
+      "published_date": "2026-06-10T13:00:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here are the new places to eat and drink in Vancouver this June",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/vancouver-restaurants-june-2026",
+      "published_date": "2026-06-10T13:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stop-work order issued against property linked to Surrey city councillor",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/stop-work-order-property-linked-surrey-city-councillors",
+      "published_date": "2026-06-10T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Katy Perry and Justin Trudeau debate cats and rats in viral video",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/katy-perry-justin-trudeau-debate-cats-and-rats-in-viral-video",
+      "published_date": "2026-06-10T12:51:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman charged after driving into ambulance in Amherstburg, nearly hitting paramedic",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/woman-charged-after-driving-into-ambulance-in-amherstburg-nearly-hitting-paramedic",
+      "published_date": "2026-06-10T12:33:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KF Aerospace restores Canadian history putting Odyssey 86 on display in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/10/kf-aerospace-restores-canadian-history-putting-odyssey-86-on-display-in-b-c/",
+      "published_date": "2026-06-10T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 21, charged in alleged sex assault of 15-year-old girl in Windsor park",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/man-21-charged-in-alleged-sex-assault-of-15-year-old-girl-in-windsor-park",
+      "published_date": "2026-06-10T12:00:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tecumseh unveils new splash pad, bocce courts and firepit at Lakewood Park South",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/tecumseh-unveils-new-splash-pad-bocce-courts-and-firepit-at-lakewood-park-south",
+      "published_date": "2026-06-10T11:38:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke hospital foundation launches public phase of $10M campaign",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-hospital-foundation-launches-public-phase-of-10m-campaign",
+      "published_date": "2026-06-10T10:55:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor cooks up pizza festival, citywide activities with $500K in event spending",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-pizza-festival-among-500k-in-planned-summer-fall-events",
+      "published_date": "2026-06-10T10:55:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LaSalle man allegedly murdered Lakeshore victim over affair with wife",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/lasalle-man-allegedly-murdered-lakeshore-victim-over-affair-with-wife",
+      "published_date": "2026-06-10T10:43:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Collaboration makes Tour de BeaverTails in Ottawa Valley unique",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/collaboration-makes-tour-de-beavertails-in-ottawa-valley-unique",
+      "published_date": "2026-06-10T08:34:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Accused in Lumby murder case offers murky account of day ex-wife was killed",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/accused-in-lumby-murder-case-offers-murky-account-of-day-ex-wife-was-killed/",
+      "published_date": "2026-06-10T01:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spencer Pratt knocked out of race for L.A. mayor",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/spencer-pratt-knocked-out-of-race-for-l-a-mayor",
+      "published_date": "2026-06-10T00:54:33Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Surrey shooting damages two homes",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/shooting-in-surrey-damages-two-homes",
       "published_date": "2026-06-09T23:53:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Worthy of rebuke:’ Damages awarded to investigator fired after B.C. Misfire report",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/worthy-of-rebuke-damages-awarded-to-investigator-fired-after-b-c-misfire-report/",
-      "published_date": "2026-06-09T23:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "7 more men wanted in deadly Toronto shooting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/seven-additional-men-wanted-deadly-toronto-shooting",
-      "published_date": "2026-06-09T23:30:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anna Kepner's cellphone led investigators to slain teen's stepbrother",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/anna-kepners-cellphone-led-investigators-to-slain-teens-stepbrother",
-      "published_date": "2026-06-09T23:16:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga man charged after firearm seized; Firearm, cash seized in Courtice",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/mississauga-man-charged-firearm-seized",
-      "published_date": "2026-06-09T23:07:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A vast majority of Metro Vancouver residents think hosting World Cup not worth cost",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/world-cup-poll-metro-vancouver-residents-not-worth-cost",
-      "published_date": "2026-06-09T23:02:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Unfortunately, little chance 'Bernardo's Law' will pass",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/unfortunately-little-chance-bernardos-law-will-pass",
-      "published_date": "2026-06-09T22:36:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver sets date for single-night fireworks show this summer",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-fireworks-date-summer-lights-2026",
-      "published_date": "2026-06-09T22:18:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feds extend firearm amnesty amid Supreme Court challenge",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/feds-extend-firearm-amnesty-amid-supreme-court-challenge",
-      "published_date": "2026-06-09T22:07:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Okanagan man guilty of historical sexual offences against minor",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/former-okanagan-man-guilty-of-historical-sexual-offences-against-minor/",
-      "published_date": "2026-06-09T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cruise line lays down the dress code for beachgoers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/cruise-line-lays-down-the-dress-code-for-beachgoers",
-      "published_date": "2026-06-09T21:58:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penn Station stabbing suspect was previously sentenced for slashing man",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/penn-station-stabbing-suspect-was-previously-sentenced-for-slashing-man",
-      "published_date": "2026-06-09T21:51:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: OPP officer killed in line of duty — 'every police and family member’s worst nightmare'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/warmington-opp-officer-killed-in-line-of-duty-every-police-and-family-members-worst-nightmare",
-      "published_date": "2026-06-09T21:46:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The buzz around Oakridge Park continues as Chanel joins the mix",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/oakridge-park-chanel-boutique-opening",
-      "published_date": "2026-06-09T21:43:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stefanski trial: Accused in Lumby murder case takes the stand",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/stefanski-trial-accused-in-lumby-murder-case-takes-the-stand/",
-      "published_date": "2026-06-09T21:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Just announced: Impractical Jokers star brings standup tour to Vancouver this fall",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/just-announced-impractical-jokers-star-brings-standup-tour-to-vancouver-this-fall",
-      "published_date": "2026-06-09T20:45:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. private school teacher banned 15 years for sexual relationship with former student",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-private-school-teacher-banned-15-years-for-sexual-relationship-with-former-student",
-      "published_date": "2026-06-09T20:38:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Patkau Studio transforms architectural material into sculptural furniture",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/patkau-studio-creates-maitake-with-cosentino-eclos",
-      "published_date": "2026-06-09T20:34:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. rolls out online home tests for learner licence tests",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/b-c-rolls-out-online-home-tests-for-learner-licence-tests/",
-      "published_date": "2026-06-09T20:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hall of Fame NHL’er Iginla skates with youth hockey team at Kelowna’s Memorial Cup",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/hall-of-fame-nhler-iginla-skates-with-youth-hockey-team-at-kelownas-memorial-cup/",
-      "published_date": "2026-06-09T20:30:00Z",
       "category": "Local Events"
     }
   ]
