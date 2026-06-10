@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-09T13:34:33Z",
+  "generated_at": "2026-06-10T00:17:57Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -165,20 +165,6 @@
       "category": "Military"
     },
     {
-      "title": "BC Ferries announces 5% fuel surcharge in response to Middle East conflict",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/02/bc-ferries-announces-5-fuel-surcharge-in-response-to-middle-east-conflict/",
-      "published_date": "2026-06-02T21:24:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea's Hanwha signs MOU to build military vehicles using Canadian steel",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/business/south-koreas-hanwha-signs-mou-to-build-military-vehicles-using-canadian-steel",
-      "published_date": "2026-06-02T14:51:32Z",
-      "category": "Military"
-    },
-    {
       "title": "The fastest growing market for Canada's canola is energy",
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/business/the-fastest-growing-market-for-canadas-canola-is-energy",
@@ -228,18 +214,25 @@
       "category": "Energy"
     },
     {
-      "title": "Postmedia welcomes more than a dozen journalist interns across country",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/postmedia-welcomes-more-than-a-dozen-journalist-interns-across-country",
-      "published_date": "2026-06-02T22:23:17Z",
-      "category": "Energy"
+      "title": "Yukon’s Northern Vision Development enters B.C. market with Prince Rupert hotels",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/yukons-northern-vision-development-enters-b-c-market-with-prince-rupert-hotels/",
+      "published_date": "2026-06-09T20:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "New solar farm starts up in 'bright and sunny' Saskatoon",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/new-solar-farm-starts-up-in-bright-and-sunny-saskatoon",
-      "published_date": "2026-06-02T20:27:09Z",
-      "category": "Energy"
+      "title": "Stop kowtowing to Albertans's costly demands",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/stop-kowtowing-to-albertanss-costly-demands",
+      "published_date": "2026-06-09T15:05:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Spitfires bring three new prospects into the fold in OHL Under-18 Draft",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-bring-three-new-prospects-into-the-fold-in-ohl-under-18-draft",
+      "published_date": "2026-06-09T14:07:06Z",
+      "category": "Economy"
     },
     {
       "title": "Here&#039;s how to save money on your next staycation",
@@ -361,157 +354,143 @@
       "category": "Economy"
     },
     {
-      "title": "Ottawa hits pause button on CRTC streaming tax, orders review",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/ottawa-hits-pause-button-crtc-streaming-tax-orders-review",
-      "published_date": "2026-06-03T14:56:52Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C. Securities Commission pays whistleblower $25,000",
+      "title": "Surrey shooting damages two homes",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-securities-commission-pays-whistleblower-25000",
-      "published_date": "2026-06-03T13:00:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kinky OnlyFans model whose fetish stunt killed man caged for four years",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/onlyfans-model-fetish-stunt-killed-man-caged-four-years",
-      "published_date": "2026-06-09T13:31:56Z",
+      "url": "https://vancouversun.com/news/shooting-in-surrey-damages-two-homes",
+      "published_date": "2026-06-09T23:53:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Teacher stabbed in neck while trying to save students from alleged 14-year-old-attacker",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/teacher-stabbed-by-alleged-14-year-old-attacker",
-      "published_date": "2026-06-09T13:16:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Playing by the rules&#039;: How Vancouver businesses are tapping (officially and unofficially) into World Cup fever",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-businesses-officially-unofficially-world-cup-fever",
-      "published_date": "2026-06-09T13:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Buried in Fred Herzog&#039;s archives for years, a true gem is unveiled for a new Vancouver exhibit",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/unknown-fred-herzog-photo-gems-show-colour-legacy",
-      "published_date": "2026-06-09T13:00:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beyond room service: 5 unique Vancouver hotel restaurants to try",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/5-vancouver-hotel-restaurants-to-try",
-      "published_date": "2026-06-09T13:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump loudly booed at Madison Square Garden as Knicks lose Game 3 of NBA Finals",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/donald-trump-booed-madison-square-garden-knicks-game-3-spurs",
-      "published_date": "2026-06-09T12:24:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rebellion Brewing expands from Regina to Saskatoon's Gather Local Market",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/local-business/rebellion-brewing-expands-from-regina-to-saskatoons-gather-local-market",
-      "published_date": "2026-06-09T12:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Whitewater Region enters recovery phase after flooding",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/whitewater-region-enters-recovery-phase-after-flooding",
-      "published_date": "2026-06-09T10:51:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unconscious driver, collisions, police pursuit: Windsor police charge four impaired drivers",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/unconscious-driver-collisions-and-police-pursuit-in-four-windsor-impaired-driving-incidents",
-      "published_date": "2026-06-09T10:16:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor raises flooding concerns with Essex development plan",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/mayor-raises-flooding-concerns-with-essex-development-plan",
-      "published_date": "2026-06-09T10:08:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lost ATV driver found safe after overnight search in Laurentian Hills",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/lost-atv-driver-found-safe-after-overnight-search-in-laurentian-hills",
-      "published_date": "2026-06-09T10:06:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke Night Markets return with expanded summer season",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-night-markets-return-with-expanded-summer-season",
-      "published_date": "2026-06-09T09:14:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Langley City responds in legal fight with sitting councillor",
+      "title": "‘Worthy of rebuke:’ Damages awarded to investigator fired after B.C. Misfire report",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/langley-city-responds-in-legal-fight-with-sitting-councillor/",
-      "published_date": "2026-06-09T03:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/worthy-of-rebuke-damages-awarded-to-investigator-fired-after-b-c-misfire-report/",
+      "published_date": "2026-06-09T23:41:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Third man charged with murder in 2025 slaying of Toronto senior Jolan Kun",
+      "title": "7 more men wanted in deadly Toronto shooting",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/another-man-charged-murder-jolan-kun",
-      "published_date": "2026-06-09T02:51:31Z",
+      "url": "https://torontosun.com/news/crime/seven-additional-men-wanted-deadly-toronto-shooting",
+      "published_date": "2026-06-09T23:30:03Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C.&#039;s first hantavirus patient has recovered, discharged from hospital",
+      "title": "Anna Kepner's cellphone led investigators to slain teen's stepbrother",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/anna-kepners-cellphone-led-investigators-to-slain-teens-stepbrother",
+      "published_date": "2026-06-09T23:16:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mississauga man charged after firearm seized; Firearm, cash seized in Courtice",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/mississauga-man-charged-firearm-seized",
+      "published_date": "2026-06-09T23:07:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A vast majority of Metro Vancouver residents think hosting World Cup not worth cost",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-first-hantavirus-patient-recovered-discharged-from-hospital",
-      "published_date": "2026-06-09T00:42:29Z",
+      "url": "https://vancouversun.com/news/world-cup-poll-metro-vancouver-residents-not-worth-cost",
+      "published_date": "2026-06-09T23:02:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Revelstoke railroaders among 300 CPKC staff on strike",
+      "title": "MANDEL: Unfortunately, little chance 'Bernardo's Law' will pass",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/unfortunately-little-chance-bernardos-law-will-pass",
+      "published_date": "2026-06-09T22:36:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver sets date for single-night fireworks show this summer",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-fireworks-date-summer-lights-2026",
+      "published_date": "2026-06-09T22:18:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feds extend firearm amnesty amid Supreme Court challenge",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/feds-extend-firearm-amnesty-amid-supreme-court-challenge",
+      "published_date": "2026-06-09T22:07:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Okanagan man guilty of historical sexual offences against minor",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/revelstoke-railroaders-among-300-cpkc-staff-on-strike/",
-      "published_date": "2026-06-09T00:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/former-okanagan-man-guilty-of-historical-sexual-offences-against-minor/",
+      "published_date": "2026-06-09T22:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver World Cup match-day spectator route: Here&#039;s what to expect",
+      "title": "Cruise line lays down the dress code for beachgoers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/cruise-line-lays-down-the-dress-code-for-beachgoers",
+      "published_date": "2026-06-09T21:58:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penn Station stabbing suspect was previously sentenced for slashing man",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/penn-station-stabbing-suspect-was-previously-sentenced-for-slashing-man",
+      "published_date": "2026-06-09T21:51:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: OPP officer killed in line of duty — 'every police and family member’s worst nightmare'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/warmington-opp-officer-killed-in-line-of-duty-every-police-and-family-members-worst-nightmare",
+      "published_date": "2026-06-09T21:46:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The buzz around Oakridge Park continues as Chanel joins the mix",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-fifa-world-cup-match-day-spectator-route-what-to-expect",
-      "published_date": "2026-06-08T23:56:50Z",
+      "url": "https://vancouversun.com/life/fashion-beauty/oakridge-park-chanel-boutique-opening",
+      "published_date": "2026-06-09T21:43:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Prince George boy, 17, missing after boat capsizes on Stony Lake",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/prince-george-teenager-missing-boat-capsizes-stony-lake",
-      "published_date": "2026-06-08T23:29:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stab wounds detailed in Lumby woman’s murder trial",
+      "title": "Stefanski trial: Accused in Lumby murder case takes the stand",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/stab-wounds-detailed-in-lumby-womans-murder-trial/",
-      "published_date": "2026-06-08T23:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/stefanski-trial-accused-in-lumby-murder-case-takes-the-stand/",
+      "published_date": "2026-06-09T21:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: New B.C. Conservative leader&#039;s anti-Liberal rhetoric prompts call to resurrect centrist party",
+      "title": "Just announced: Impractical Jokers star brings standup tour to Vancouver this fall",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-conservative-leader-kerry-lynne-findlay-anti-bc-liberal-rhetoric-prompts-call-resurrect-party",
-      "published_date": "2026-06-08T22:49:58Z",
+      "url": "https://vancouversun.com/entertainment/just-announced-impractical-jokers-star-brings-standup-tour-to-vancouver-this-fall",
+      "published_date": "2026-06-09T20:45:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. private school teacher banned 15 years for sexual relationship with former student",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-private-school-teacher-banned-15-years-for-sexual-relationship-with-former-student",
+      "published_date": "2026-06-09T20:38:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Patkau Studio transforms architectural material into sculptural furniture",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/patkau-studio-creates-maitake-with-cosentino-eclos",
+      "published_date": "2026-06-09T20:34:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. rolls out online home tests for learner licence tests",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/b-c-rolls-out-online-home-tests-for-learner-licence-tests/",
+      "published_date": "2026-06-09T20:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hall of Fame NHL’er Iginla skates with youth hockey team at Kelowna’s Memorial Cup",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/hall-of-fame-nhler-iginla-skates-with-youth-hockey-team-at-kelownas-memorial-cup/",
+      "published_date": "2026-06-09T20:30:00Z",
       "category": "Local Events"
     }
   ]
