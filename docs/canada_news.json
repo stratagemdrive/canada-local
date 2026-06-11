@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T00:18:42Z",
+  "generated_at": "2026-06-11T14:26:42Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "WARMINGTON: Toronto Police officer dies after shot executing search warrant",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-officer-shot-search-warrant",
+      "published_date": "2026-06-11T11:23:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Around the county: Lakeshore opens online portal for bylaw complaints",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/around-the-county-lakeshore-opens-online-portal-for-bylaw-complaints",
+      "published_date": "2026-06-11T10:23:59Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Judge orders review of key approval for $5-billion KSM mine over First Nation consultation failures",
       "source": "Vancouver Sun",
@@ -74,11 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IRAN WAR: Hezbollah rejects latest Israel-Lebanon ceasefire agreement",
+      "title": "IRAN WAR: Iran says Strait of Hormuz closed as U.S. launches second day of strikes",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-4",
-      "published_date": "2026-06-04T11:53:10Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-latest-june-11",
+      "published_date": "2026-06-11T11:40:13Z",
+      "category": "Military"
     },
     {
       "title": "Toronto Mayor Olivia Chow’s 'welcome' referee has terror ties, U.S. officials allege",
@@ -179,13 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Israeli attack kills peacekeeper after renewed Lebanon ceasefire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-4",
-      "published_date": "2026-06-04T11:53:10Z",
-      "category": "Military"
-    },
-    {
       "title": "Ksi Lisims LNG racks up additional First Nation support, new potential sales",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/business/ksi-lisims-lng-first-nation-support-new-potential-sales",
@@ -221,25 +228,18 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. Hydro cancels plan to phase out gas-powered generation as electricity gap looms",
+      "title": "Vancouver hotel bookings picking up ahead of World Cup",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-hydro-cancels-plan-to-phase-out-gas-generation-as-power-stopgap",
-      "published_date": "2026-06-04T13:00:56Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/vancouver-hotel-bookings-world-cup",
+      "published_date": "2026-06-11T13:00:50Z",
+      "category": "Economy"
     },
     {
-      "title": "Opinion: Trading oil for orcas is a bargain Canada can&#039;t afford",
+      "title": "B.C. facing a deteriorating business environment despite World Cup optimism",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-trading-oil-orcas-bargain-canada-cant-afford",
-      "published_date": "2026-06-04T13:00:44Z",
-      "category": "Energy"
-    },
-    {
-      "title": "New signs emerging that LNG Canada 2 investment decision in works",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/signs-lng-canada-2-investment-decision",
-      "published_date": "2026-06-04T13:00:05Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/bc-deteriorating-business-environment-despite-world-cup-optimism",
+      "published_date": "2026-06-11T13:00:36Z",
+      "category": "Economy"
     },
     {
       "title": "Vaughn Palmer: Judge roasts Christy Clark government for last-minute hit job in 2017",
@@ -368,157 +368,143 @@
       "category": "Economy"
     },
     {
-      "title": "Toronto Pearson Airport ready to welcome international football crowd for World Cup",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-pearson-airport-ready-welcome-international-football-crowd-fifa-world-cup",
-      "published_date": "2026-06-04T18:53:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Leamington temp agency, director fined $150K for failing to pay workers",
+      "title": "Gordie Howe bridge opening delayed, ribbon-cutting ceremony called off",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/leamington-temp-agency-director-fined-150k-for-failing-to-pay-workers",
-      "published_date": "2026-06-04T16:03:56Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/gordie-howe-bridge-opening-delayed-ribbon-cutting-ceremony-called-off",
+      "published_date": "2026-06-11T14:23:48Z",
+      "category": "Local Events"
     },
     {
-      "title": "FIFA Fan Festival in Vancouver: What to know before you go",
+      "title": "Here&#039;s how the Vancouver-founded beauty brand ILIA has taken over the clean beauty world",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/fifa-fan-festival-in-vancouver-what-to-know-before-you-go",
-      "published_date": "2026-06-11T00:03:28Z",
+      "url": "https://vancouversun.com/life/fashion-beauty/how-vancouver-founded-beauty-brand-ilia-taken-over-world",
+      "published_date": "2026-06-11T13:00:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Forests minister talks saw mills, old-growth and caribou in B.C. Interior",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/10/forests-minister-talks-saw-mills-old-growth-and-caribou-in-b-c-interior/",
-      "published_date": "2026-06-11T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHIN Radio-TV celebrates 60th anniversary of 'multi-culturalism' this weekend in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/chin-radio-tv-celebrates-60th-anniversary-multi-culturalism-this-weekend-in-toronto",
-      "published_date": "2026-06-10T23:39:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bill Gates says meetings with Jeffrey Epstein were 'grave error in judgment'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/bill-gates-epstein-meetings-grave-error",
-      "published_date": "2026-06-10T23:32:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup watch party planned at site of contentious Moss Park high-rise",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/world-cup-party-contentious-moss-park-highrise",
-      "published_date": "2026-06-10T23:06:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Young guns plead to their role in helping teen involved in GTA tow-truck murder",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/young-guns-plead-to-their-role-in-helping-teen-involved-in-gta-tow-truck-murder",
-      "published_date": "2026-06-10T23:05:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. man fined $6,000 for illegally transporting protected snapping turtle",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/10/b-c-man-fined-6000-for-illegally-transporting-protected-snapping-turtle/",
-      "published_date": "2026-06-10T23:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Represent Canada’: Barriere woman wins custodian rights to Swedish island",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/10/represent-canada-barriere-woman-wins-custodian-rights-to-swedish-island/",
-      "published_date": "2026-06-10T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRPAWS volunteers conduct three-day stakeout to rescue cat family",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/10/crpaws-volunteers-conduct-three-day-stakeout-to-rescue-cat-family/",
-      "published_date": "2026-06-10T22:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 home goods that make perfect Father’s Day gifts",
+      "title": "Hero, villain or both? Bard on the Beach reimagines Macbeth for an anxious future",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/5-homewares-that-make-perfect-fathers-day-gifts",
-      "published_date": "2026-06-10T22:35:01Z",
+      "url": "https://vancouversun.com/entertainment/bard-on-the-beach-2026-macbeth-preview",
+      "published_date": "2026-06-11T13:00:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Sask. NDP raising concerns about broken elevators, mould at RUH",
+      "title": "New Vancouver signs prompt question: How to present Downtown Eastside to World Cup visitors?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-downtown-eastside-world-cup-visitors",
+      "published_date": "2026-06-11T13:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA 2026: Here&#039;s a list of 16 free World Cup watch parties in Metro Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/fifa-world-cup-2026-watch-parties-events-metro-vancouver",
+      "published_date": "2026-06-11T13:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Get a first look at the Vancouver-shot Legally Blonde prequel series Elle",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-shot-legally-blonde-prequel-trailer",
+      "published_date": "2026-06-11T13:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: I paid $1.50 for a World Cup final ticket in 1966 (that&#039;s $15 today). The experience changed my life",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-i-paid-1-50-for-a-world-cup-final-ticket-in-1966-thats-15-today-the-experience-changed-my-life",
+      "published_date": "2026-06-11T13:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police seek help identifying burglars in east end apartment break-ins",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-help-identifying-burglars-in-east-end-apartment-break-ins",
+      "published_date": "2026-06-11T13:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rowdy Knicks fans arrested outside MSG after Game 4 of NBA Finals",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/rowdy-knicks-fans-arrested-game-4-nba-finals",
+      "published_date": "2026-06-11T12:49:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bill C-34: Canada under-16 social media ban draws privacy red flags",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/under-16-social-media-ban-draws-privacy-red-flags",
+      "published_date": "2026-06-11T12:47:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Your dog is not broken; it’s a teenager",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/11/your-dog-is-not-broken-its-a-teenager/",
+      "published_date": "2026-06-11T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Nature Nut",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/11/the-nature-nut-19/",
+      "published_date": "2026-06-11T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "It’s the things we don’t know we don’t know",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/11/its-the-things-we-dont-know-we-dont-know/",
+      "published_date": "2026-06-11T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Northwest would benefit from another Bulkley River crossing",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/11/the-northwest-would-benefit-from-another-bulkley-river-crossing/",
+      "published_date": "2026-06-11T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indigenous guests attend Saskatoon pancake event in 1962",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/sask-ndp-raising-concerns-about-broken-elevators-mould-at-ruh",
-      "published_date": "2026-06-10T22:32:56Z",
+      "url": "https://thestarphoenix.com/news/local-news/indigenous-saskatoon-pancake-1969",
+      "published_date": "2026-06-11T12:00:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Four men busted by South Simcoe police convicted of human trafficking",
+      "title": "Heat warning continues across Windsor-Essex as temperatures climb",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/heat-warning-continues-across-windsor-essex-as-temperatures-climb",
+      "published_date": "2026-06-11T11:54:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor-Essex municipalities scramble to cut fees, chase millions in federal housing funds",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-region-municipalities-scrambling-to-take-advantage-of-development-charge-fund",
+      "published_date": "2026-06-11T10:00:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke Observer and News weekly community calendar listings",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-observer-and-news-weekly-community-calendar-listings-49",
+      "published_date": "2026-06-11T09:49:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renfrew County Catholic school board announces leadership appointments",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/renfrew-county-catholic-school-board-announces-leadership-appointments",
+      "published_date": "2026-06-11T09:22:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man accused of luring youth; underage victims allegedly sextorted",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/men-guilty-south-simcoe-trafficking-trial",
-      "published_date": "2026-06-10T22:21:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Aquatic Centre to close June 28 before demolition",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/vancouver-aquatic-centre-to-close-june-28-before-demolition",
-      "published_date": "2026-06-10T22:21:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do West Fest organizers looking to clean up event after Saturday night chaos",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/do-west-fest-organizers-looking-to-clean-up-chaos",
-      "published_date": "2026-06-10T22:12:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. woman guilty of giving fentanyl to cat in euthanasia attempt",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-woman-guilty-giving-fentanyl-cat-euthanasia-attempt",
-      "published_date": "2026-06-10T21:40:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New bill introduces social media age restrictions for Canadians under 16",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/10/new-bill-introduces-social-media-age-restrictions-for-canadians-under-16/",
-      "published_date": "2026-06-10T21:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna absent from Indigenous-led Okanagan water alliance",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/10/kelowna-absent-from-indigenous-led-okanagan-water-alliance/",
-      "published_date": "2026-06-10T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 FIFA World Cup: An in-depth look at Canada’s midfielders and forwards",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/10/2026-fifa-world-cup-an-in-depth-look-at-canadas-midfielders-and-forwards/",
-      "published_date": "2026-06-10T21:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Donald Trump hedges his bets on CUSMA renewal despite hints of progress",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/donald-trump-casts-doubt-cusma-renewal",
-      "published_date": "2026-06-10T21:11:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In a surprise move, Vancouver parts ways with chief official responsible for building safety",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/in-a-surprise-move-vancouver-parts-ways-with-chief-official-responsible-for-building-safety",
-      "published_date": "2026-06-10T20:45:25Z",
+      "url": "https://torontosun.com/news/local-news/toronto-man-accused-sexually-assaulting-youth",
+      "published_date": "2026-06-11T02:50:29Z",
       "category": "Local Events"
     }
   ]
