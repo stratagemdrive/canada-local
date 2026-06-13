@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-12T13:56:04Z",
+  "generated_at": "2026-06-13T00:21:21Z",
   "country": "Canada",
-  "total_stories": 79,
+  "total_stories": 77,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "WARMINGTON: Man, 18, arrested for shooting up U.S. consulate in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-18-arrested-shooting-up-u-s-consulate-toronto",
+      "published_date": "2026-06-12T23:49:13Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "VUONG: Inaction is a choice. Thursday, a good man paid for ours.",
       "source": "Toronto Sun",
@@ -123,24 +130,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UFC pay-per-view era in Canada ending with move to Paramount Plus in 2027",
+      "title": "Former Langley Mountie convicted of assault should be jailed for three months: Crown",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/ufc-pay-per-view-era-in-canada-ending-with-move-to-paramount-plus-in-2027/",
-      "published_date": "2026-06-05T22:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Big get’ for Spitfires as newest addition never forgot Windsor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/big-get-for-spitfires-as-newest-addition-never-forgot-windsor",
-      "published_date": "2026-06-05T16:58:10Z",
-      "category": "Diplomacy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/former-langley-mountie-convicted-of-assault-should-be-jailed-for-three-months-crown/",
+      "published_date": "2026-06-12T23:36:00Z",
+      "category": "Military"
     },
     {
       "title": "Department of National Defence eyes selling buildings, land",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/department-of-national-defence-eyes-selling-buildings-land",
       "published_date": "2026-06-11T22:07:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Snakes, rabbits and cats, oh my: Pets on city buses concern councillors",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/snakes-rabbits-and-cats-oh-my-pets-on-city-buses-concern-councillors",
+      "published_date": "2026-06-11T20:11:00Z",
       "category": "Military"
     },
     {
@@ -242,18 +249,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran conflict to cost Canadian families $648 more at the pumps this year",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/iran-conflict-cost-canadian-families-648-more-at-the-pumps-this-year",
-      "published_date": "2026-06-05T20:15:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nearly $66,000 in drugs seized from Downtown Eastside SRO",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/drugs-cash-seized-vancouver-dtes-sro",
-      "published_date": "2026-06-05T17:41:04Z",
-      "category": "Military"
+      "title": "World Cup, heat wave could lead to record-setting electricity usage: BC Hydro",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/world-cup-heat-wave-could-lead-to-record-setting-electricity-usage-bc-hydro/",
+      "published_date": "2026-06-12T22:19:00Z",
+      "category": "Energy"
     },
     {
       "title": "Ksi Lisims LNG racks up additional First Nation support, new potential sales",
@@ -289,6 +289,13 @@
       "url": "https://vancouversun.com/news/climate-change-news-to-june-7-26",
       "published_date": "2026-06-06T17:28:33Z",
       "category": "Energy"
+    },
+    {
+      "title": "Metro Vancouver union ramps up job action with full strike planned for Monday",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/metro-vancouver-union-ramps-up-job-action-with-full-strike-planned-for-monday",
+      "published_date": "2026-06-12T22:55:38Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: What we want for our kids is here in B.C.",
@@ -403,164 +410,143 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. adds 25,000 jobs in May, but still falling behind Canada as a whole",
+      "title": "A world-class Tudor treasure: B.C. hotel reigns as Canada’s best",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/05/b-c-adds-25000-jobs-in-may-but-still-falling-behind-canada-as-a-whole/",
-      "published_date": "2026-06-05T22:30:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/a-world-class-tudor-treasure-b-c-hotel-reigns-as-canadas-best/",
+      "published_date": "2026-06-13T00:02:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "LILLEY: Mark Carney's grocery payment an admission Canada's economy is failing",
+      "title": "B.C. seeks national rules to rein in gambling advertising",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/b-c-seeks-national-rules-to-rein-in-gambling-advertising/",
+      "published_date": "2026-06-13T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PHOTOS: Fraser Valley Bosnians catch World Cup fever",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/photos-fraser-valley-bosnians-catch-world-cup-fever/",
+      "published_date": "2026-06-12T23:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Okanagan world champion martial artist home for a rest",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/okanagan-world-champion-martial-artist-home-for-a-rest/",
+      "published_date": "2026-06-12T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Charges upgraded in Vancouver vehicle-ramming incident that left 1 dead: police",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/charges-upgraded-in-vancouver-vehicle-ramming-incident-that-left-1-dead-police/",
+      "published_date": "2026-06-12T23:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thornhill woman accused of rental fraud in North York; boy, 14, charged in home invasions",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carneys-grocery-payment-admission-canada-economy-failing",
-      "published_date": "2026-06-05T19:47:43Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/thornhill-woman-rental-fraud-north-york-boy-charged-home-invasions",
+      "published_date": "2026-06-12T23:13:44Z",
+      "category": "Local Events"
     },
     {
-      "title": "Food bank report finds small improvements in Sask., but food bank director says issues persist",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/food-bank-poverty-report-card-takes-a-bite-out-of-canadas-governance",
-      "published_date": "2026-06-05T16:58:39Z",
-      "category": "Economy"
+      "title": "Vaughn Palmer: Politicians charged with crimes should resign, says Eby",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vaughn-palmer-politicians-charged-with-crimes-should-resign-says-eby",
+      "published_date": "2026-06-12T23:08:38Z",
+      "category": "Local Events"
     },
     {
-      "title": "Soon-to-be-trillionaire Elon Musk's SpaceX set for market debut with record-breaking IPO",
+      "title": "FBI reveals fake Alabama town for cyber warfare training",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/money-news/elon-musk-spacex-market-debut-ipo",
-      "published_date": "2026-06-12T13:15:34Z",
+      "url": "https://torontosun.com/news/world/fbi-fake-alabama-town-cyber-warfare-training",
+      "published_date": "2026-06-12T22:51:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Harbour Air and boaters each file suits over 2024 crash in Vancouver harbour",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/harbour-air-boaters-sue-2024-crash-vancouver-harbour",
-      "published_date": "2026-06-12T13:00:46Z",
+      "title": "Courts strike down challenge against City of Victoria park sheltering ban",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/courts-strike-down-challenge-against-city-of-victoria-park-sheltering-ban/",
+      "published_date": "2026-06-12T22:40:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: When FIFA comes to your city it’s short-term gain, long-term pain",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-when-fifa-comes-to-your-city-its-short-term-gain-long-term-pain",
-      "published_date": "2026-06-12T13:00:44Z",
+      "title": "MANDEL: Just 3.5 years in prison for Toronto woman who killed domestic partner",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/3-5-years-prison-toronto-woman-killed-domestic-partner",
+      "published_date": "2026-06-12T22:30:08Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;Without treatment, my son will die:&#039; B.C. mom asks for help after denied funding for son&#039;s treatment in Germany",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-mom-denied-funding-son-treatment-germany",
-      "published_date": "2026-06-12T13:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Someone will turn on you&#039;: The short life and violent death of an alleged Surrey gang hitman",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/short-life-violent-death-of-alleged-surrey-gang-hitman",
-      "published_date": "2026-06-12T13:00:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Douglas Todd: Vancouver’s &#039;exclusive&#039; Oakridge Park mall evokes aura of an international airport",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-vancouvers-exclusive-oakridge-park-mall-evokes-aura-of-an-international-airport",
-      "published_date": "2026-06-12T13:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avoiding FIFA chaos in Vancouver? Here&#039;s a list of traffic closures and when to skip downtown",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/fifa-vancouver-world-cup-traffic-closures-downtown-vancouver",
-      "published_date": "2026-06-12T13:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "There&#039;s a Vancouver tie to the KPop Demon Hunters and Spider-Verse films",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/kpop-demon-hunters-and-spider-verse-films-top-sony-pictures-imageworks-resume",
-      "published_date": "2026-06-12T13:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor man beaten with bat in targeted alleyway ambush",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/man-beaten-with-bat-struck-by-vehicle-in-targeted-alleyway-ambush",
-      "published_date": "2026-06-12T12:26:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explore the arts in the city: Five things to do this weekend in Saskatoon, June 12-14",
+      "title": "'We have to do better': Province admits improvement needed after release of wildfire report",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/entertainment/local-arts/five-things-to-do-this-weekend-in-saskatoon-june-12-14",
-      "published_date": "2026-06-12T12:00:54Z",
+      "url": "https://thestarphoenix.com/news/local-news/we-have-to-do-better-province-admits-improvement-needed-after-release-of-wildfire-report",
+      "published_date": "2026-06-12T22:17:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Neighbours say LaSalle man accused of murder confessed to 2024 homicide",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/neighbours-say-lasalle-man-accused-of-murder-confessed-to-2024-homicide",
-      "published_date": "2026-06-12T10:59:20Z",
+      "title": "Canada's World Cup 'coming out party' gets patriotic opening ceremony in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/canadas-world-cup-patriotic-opening-ceremony-toronto",
+      "published_date": "2026-06-12T21:44:11Z",
       "category": "Local Events"
     },
     {
-      "title": "East Windsor scores brand new FIFA-certified soccer field",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/east-windsor-scores-brand-new-fifa-certified-soccer-field",
-      "published_date": "2026-06-12T10:26:53Z",
+      "title": "Woman charged with manslaughter, abandoning child in Beardy's and Okemasis death",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/woman-charged-with-manslaughter-abandoning-child-in-beardys-and-okemasis-death",
+      "published_date": "2026-06-12T21:21:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor council backs transitional housing for women fleeing violence",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-council-backs-transitional-housing-for-women-fleeing-violence",
-      "published_date": "2026-06-12T10:24:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor mayor tops Ontario in use of strong mayor powers, new database reveals",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-mayor-tops-ontario-in-use-of-strong-mayor-powers-new-database-reveals",
-      "published_date": "2026-06-12T10:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Review: Vancouver&#039;s free FIFA Fan Festival kicks off with a full-on Mexican fiesta",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/review-vancouver-free-fifa-fan-festival-day-1",
-      "published_date": "2026-06-12T01:07:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbotsford Canucks name Richard Seeley as new general manager",
+      "title": "Condolences pour in following death of longtime Salmon Arm Councillor Kevin Flynn",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/11/abbotsford-canucks-name-richard-seeley-as-new-general-manager/",
-      "published_date": "2026-06-12T00:59:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/condolences-pour-in-following-death-of-longtime-city-of-salmon-arm-councillor-kevin-flynn/",
+      "published_date": "2026-06-12T21:17:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver&#039;s homeless residents get World Cup screenings but supports unchanged",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-homeless-world-cup-screenings",
-      "published_date": "2026-06-12T00:33:24Z",
+      "title": "Senator blasts health department for 'hiding' $3.4B in dental costs",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/senator-blasts-health-department-hiding-billions-dental-costs",
+      "published_date": "2026-06-12T21:12:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Soccer fans descend on Vancouver as World Cup festivities kick off",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/world-cup-vancouver-opening-day-events",
-      "published_date": "2026-06-12T00:09:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former resident donates $200K to Lakes District Senior Housing Association",
+      "title": "Widow alleges negligence by Oliver motorsports track in West Kelowna man’s death",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/11/former-resident-donates-200k-to-lakes-district-senior-housing-association/",
-      "published_date": "2026-06-12T00:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/widow-alleges-negligence-by-oliver-motorsports-track-in-west-kelowna-mans-death/",
+      "published_date": "2026-06-12T21:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver City Hall refuses to reveal cost of surge in severance payouts",
+      "title": "Five American cruise ship passengers arrested in Bahamas after port brawl, cop attack",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/five-american-cruise-ship-passengers-arrested-bahamas-port-brawl-cop-attack",
+      "published_date": "2026-06-12T20:58:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke Regional Hospital opens new main entrance, gift shop and pharmacy",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-regional-hospital-opens-new-main-entrance-gift-shop-and-pharmacy",
+      "published_date": "2026-06-12T20:17:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letters to The Vancouver Sun: Septuagenarian in support of proposals that benefit gen Z",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vancouver-city-hall-refuses-to-reveal-cost-of-surge-in-severance-payouts",
-      "published_date": "2026-06-11T23:59:23Z",
+      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-as-a-septuagenarian-i-happily-support-proposals-that-support-gen-z",
+      "published_date": "2026-06-12T20:00:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New FIFA leaders make poor decisions heading into World Cup: Kormish",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/soccer/new-fifa-leaders-make-poor-decisions-heading-into-world-cup-kormish",
+      "published_date": "2026-06-12T18:18:38Z",
       "category": "Local Events"
     }
   ]
