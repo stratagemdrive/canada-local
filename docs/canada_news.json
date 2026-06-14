@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T12:18:42Z",
+  "generated_at": "2026-06-14T00:11:16Z",
   "country": "Canada",
-  "total_stories": 77,
+  "total_stories": 81,
   "categories": [
     "Diplomacy",
     "Military",
@@ -249,6 +249,27 @@
       "category": "Military"
     },
     {
+      "title": "B.C. climate news: NOAA says El Niño expected to grow to &#039;historic strength&#039; &#124; Climate scientists say 2025 reached 1.37 C above pre-industrial levels",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-june-14-26",
+      "published_date": "2026-06-13T22:14:55Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy reaches a fever pitch downtown Vancouver ahead of first World Cup match at B.C. Place",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/soccer-fans-downtown-vancouver-first-world-cup-match",
+      "published_date": "2026-06-13T20:52:48Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Opinion: Why Saskatchewan must phase out coal by 2030",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-why-saskatchewan-must-phase-out-coal-by-2030",
+      "published_date": "2026-06-13T13:30:03Z",
+      "category": "Energy"
+    },
+    {
       "title": "World Cup, heat wave could lead to record-setting electricity usage: BC Hydro",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/12/world-cup-heat-wave-could-lead-to-record-setting-electricity-usage-bc-hydro/",
@@ -284,11 +305,18 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. climate news: Metro Vancouver moves to stage 3 water restrictions Monday &#124; Out-of-control wildfire in B.C.&#039;s Cariboo prompts alert &#124; Environment Canada forecasts hotter-than-normal summer for B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-june-7-26",
-      "published_date": "2026-06-06T17:28:33Z",
-      "category": "Energy"
+      "title": "GOLDSTEIN: Canadians want bread not FIFA circuses",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canada-economy-cost-host-fifa-world-cup-soccer-toronto-vancouver",
+      "published_date": "2026-06-13T20:21:55Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: Saskatoon deserves better oversight of its own services",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-saskatoon-deserves-better-oversight-of-its-own-services",
+      "published_date": "2026-06-13T13:00:55Z",
+      "category": "Economy"
     },
     {
       "title": "Metro Vancouver union ramps up job action with full strike planned for Monday",
@@ -410,143 +438,143 @@
       "category": "Economy"
     },
     {
+      "title": "'Person of interest' sought in alleged sex assault at RBC Canadian Open in Caledon",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/person-of-interest-sought-sex-assault-rbc-canadian-open-golf-caledon",
+      "published_date": "2026-06-13T22:03:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man accused of uttering antisemitic threats",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-charged-antisemitic-threats",
+      "published_date": "2026-06-13T21:13:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Absurd secrecy in our youth crime law",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/editorial-absurd-secrecy-youth-criminal-justice-act",
+      "published_date": "2026-06-13T20:42:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro Vancouver says employee expenses down in 2025",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-says-employee-expenses-down-in-2025",
+      "published_date": "2026-06-13T19:31:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five kids killed in horrific two-vehicle crash north of Kitchener",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/five-kids-killed-two-vehicle-crash-mapleton-kitchener",
+      "published_date": "2026-06-13T17:52:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Fallen Firefighter Memorial ceremony delay a 'punch in gut' for widow",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-fallen-firefighter-memorial-ceremony-delay-punch-in-gut-widow",
+      "published_date": "2026-06-13T17:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: Toronto Police Const. Marc Pinizzotto's life stolen while protecting us – and Canadian Jews",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/toronto-police-marc-pinizzotto-gave-his-life-protect-us-canadian-jews",
+      "published_date": "2026-06-13T15:31:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MURDER ALUMNI: What happened to 2001 class of cold-blooded killers?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/what-happened-to-2001-cold-blooded-killers",
+      "published_date": "2026-06-13T15:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brian Minter: How can your garden survive extreme heat? First look to the soil",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/gardening/brian-minter-garden-survive-extreme-heat",
+      "published_date": "2026-06-13T15:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: More places to visit on a wine tour of the South Okanagan and Similkameen Valleys",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/anthony-gismondi-south-okanadan-similkameen-valley-wine-tour",
+      "published_date": "2026-06-13T15:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, June 13: Show time in Vancouver tonight; Canada ties opener",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/13/world-cup-daily-june-13-show-time-in-vancouver-tonight-canada-ties-opener/",
+      "published_date": "2026-06-13T15:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Cops honoured, Germans busted, wallet returned, protest stunt, ticket save",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/fifa-world-cup-soccer-toronto-cops-honoured-germans-busted-wallet-returned-protest-stunt-ticket-save",
+      "published_date": "2026-06-13T14:16:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;It&#039;s international&#039;: Vancouver and Toronto gangs gain reach through social media, rap and crime, expert says",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/vancouver-toronto-gangs-collaborate-rap-crime-expert-says",
+      "published_date": "2026-06-13T14:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1892: Vancouver&#039;s first spa and a Cosmopolitan Hotel of vice and moral depravity",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1892-vancouvers-first-spa-and-a-cosmopolitan-hotel-of-vice-and-moral-depravity",
+      "published_date": "2026-06-13T14:00:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Saskatchewan setting the tone for international collaboration",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-saskatchewan-setting-the-tone-for-international-collaboration",
+      "published_date": "2026-06-13T14:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Not negotiable’: Syilx Okanagan Nation says Brodie, One B.C. not welcome",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/13/not-negotiable-syilx-okanagan-nation-says-brodie-one-b-c-not-welcome/",
+      "published_date": "2026-06-13T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Spitfires turn top pick Whelan into Windsor fan long before the club drafted him",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/former-spitfires-turn-top-pick-whelan-into-windsor-fan-long-before-the-club-drafted-him",
+      "published_date": "2026-06-13T13:41:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man faces sexual assault charges over historical incidents",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/man-faces-sexual-assault-charges-over-historical-incidents",
+      "published_date": "2026-06-13T12:56:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RDBN offers free civic signage to rural residents",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/13/rdbn-offers-free-civic-signage-to-rural-residents/",
+      "published_date": "2026-06-13T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Unique Spirit of Tomorrow car drives to inspire at Vancouver Island museum",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/13/unique-spirit-of-tomorrow-car-drives-to-inspire-at-vancouver-island-museum/",
       "published_date": "2026-06-13T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LaSalle man intoxicated on day of alleged murder, relatives say",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/lasalle-man-intoxicated-on-day-of-alleged-murder-relatives-say",
-      "published_date": "2026-06-13T10:11:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How are ticket prices looking in Vancouver on FIFA World Cup Eve?",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/how-are-ticket-prices-looking-in-vancouver-on-fifa-world-cup-eve/",
-      "published_date": "2026-06-13T06:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven more arrests in deadly Rexdale shooting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/seven-more-arrests-deadly-rexdale-shooting",
-      "published_date": "2026-06-13T01:12:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fans turn up at Canada Soccer House in North Vancouver to cheer on Canadian team",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/fans-turn-up-at-canada-soccer-house-in-north-vancouver-to-cheer-on-canadian-team",
-      "published_date": "2026-06-13T00:19:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A world-class Tudor treasure: B.C. hotel reigns as Canada’s best",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/a-world-class-tudor-treasure-b-c-hotel-reigns-as-canadas-best/",
-      "published_date": "2026-06-13T00:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. seeks national rules to rein in gambling advertising",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/b-c-seeks-national-rules-to-rein-in-gambling-advertising/",
-      "published_date": "2026-06-13T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHOTOS: Fraser Valley Bosnians catch World Cup fever",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/photos-fraser-valley-bosnians-catch-world-cup-fever/",
-      "published_date": "2026-06-12T23:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Okanagan world champion martial artist home for a rest",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/okanagan-world-champion-martial-artist-home-for-a-rest/",
-      "published_date": "2026-06-12T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charges upgraded in Vancouver vehicle-ramming incident that left 1 dead: police",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/charges-upgraded-in-vancouver-vehicle-ramming-incident-that-left-1-dead-police/",
-      "published_date": "2026-06-12T23:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thornhill woman accused of rental fraud in North York; boy, 14, charged in home invasions",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/thornhill-woman-rental-fraud-north-york-boy-charged-home-invasions",
-      "published_date": "2026-06-12T23:13:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Politicians charged with crimes should resign, says Eby",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vaughn-palmer-politicians-charged-with-crimes-should-resign-says-eby",
-      "published_date": "2026-06-12T23:08:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI reveals fake Alabama town for cyber warfare training",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/fbi-fake-alabama-town-cyber-warfare-training",
-      "published_date": "2026-06-12T22:51:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Courts strike down challenge against City of Victoria park sheltering ban",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/courts-strike-down-challenge-against-city-of-victoria-park-sheltering-ban/",
-      "published_date": "2026-06-12T22:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Just 3.5 years in prison for Toronto woman who killed domestic partner",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/3-5-years-prison-toronto-woman-killed-domestic-partner",
-      "published_date": "2026-06-12T22:30:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We have to do better': Province admits improvement needed after release of wildfire report",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/we-have-to-do-better-province-admits-improvement-needed-after-release-of-wildfire-report",
-      "published_date": "2026-06-12T22:17:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada's World Cup 'coming out party' gets patriotic opening ceremony in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/canadas-world-cup-patriotic-opening-ceremony-toronto",
-      "published_date": "2026-06-12T21:44:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman charged with manslaughter, abandoning child in Beardy's and Okemasis death",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/woman-charged-with-manslaughter-abandoning-child-in-beardys-and-okemasis-death",
-      "published_date": "2026-06-12T21:21:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Condolences pour in following death of longtime Salmon Arm Councillor Kevin Flynn",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/condolences-pour-in-following-death-of-longtime-city-of-salmon-arm-councillor-kevin-flynn/",
-      "published_date": "2026-06-12T21:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senator blasts health department for 'hiding' $3.4B in dental costs",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/senator-blasts-health-department-hiding-billions-dental-costs",
-      "published_date": "2026-06-12T21:12:38Z",
       "category": "Local Events"
     }
   ]
