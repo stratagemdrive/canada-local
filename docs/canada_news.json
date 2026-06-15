@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-14T12:30:30Z",
+  "generated_at": "2026-06-15T00:15:10Z",
   "country": "Canada",
-  "total_stories": 81,
+  "total_stories": 80,
   "categories": [
     "Diplomacy",
     "Military",
@@ -123,11 +123,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: Doug Ford goes to Washington amid tense trade talks",
+      "title": "IRAN WAR: Donald Trump says deal to end fighting 'now complete' despite Israeli concerns",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/doug-ford-goes-to-washington-amid-tense-trade-talks",
-      "published_date": "2026-06-07T22:53:23Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-latest-trump-says-deal-complete",
+      "published_date": "2026-06-14T23:43:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "Bowler 'really happy' as Spitfires' general manager breaks down all 15 picks by club in OHL Draft",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/bowler-really-happy-as-spitfires-general-manager-breaks-down-all-15-picks-by-club-in-ohl-draft",
+      "published_date": "2026-06-14T13:36:58Z",
+      "category": "Military"
     },
     {
       "title": "Former Langley Mountie convicted of assault should be jailed for three months: Crown",
@@ -228,25 +235,11 @@
       "category": "Military"
     },
     {
-      "title": "‘Grueling’ – Southwestern Ontario firefighters push endurance to the limit at Tecumseh competition",
+      "title": "LaSalle's McNally leads the charge as Guelph's top pick the first of eight locals taken in OHL Draft",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/grueling-southwestern-ontario-firefighters-push-endurance-to-the-limit-at-tecumseh-competition",
-      "published_date": "2026-06-07T18:19:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Israeli military vows 'powerful' response coming after Iranian missile strikes",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-trump-claims-both-sides-very-close-to-reaching-deal",
-      "published_date": "2026-06-07T17:54:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "HANSON: Iranian endgames?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/iranian-endgames",
-      "published_date": "2026-06-07T15:02:44Z",
-      "category": "Military"
+      "url": "https://windsorstar.com/sports/lasalles-mcnally-leads-the-charge-as-guelphs-top-pick-the-first-of-eight-locals-taken-in-ohl-draft",
+      "published_date": "2026-06-14T13:12:45Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. climate news: NOAA says El Niño expected to grow to &#039;historic strength&#039; &#124; Climate scientists say 2025 reached 1.37 C above pre-industrial levels",
@@ -298,11 +291,18 @@
       "category": "Energy"
     },
     {
-      "title": "AI data centres: What are they and why so controversial in Canada?",
+      "title": "STAR PARKER: Mike Pence's important new book about the United States",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/ai-data-centres-what-are-they-why-so-controversial",
-      "published_date": "2026-06-07T15:30:42Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/opinion/columnists/mike-pence-important-new-book-united-states",
+      "published_date": "2026-06-14T15:13:11Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The 4 best flatirons for every budget and hair type",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/best-flatirons-hair-type-budget",
+      "published_date": "2026-06-14T15:00:41Z",
+      "category": "Economy"
     },
     {
       "title": "GOLDSTEIN: Canadians want bread not FIFA circuses",
@@ -431,11 +431,123 @@
       "category": "Economy"
     },
     {
-      "title": "FUSS: Canadian families must work nearly half the year to pay taxes",
+      "title": "Metro Vancouver strike: What to know as 700+ workers hit the picket lines",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-strike-what-to-know",
+      "published_date": "2026-06-14T22:36:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Const. Marc Pinizzotto saluted during procession to Thornhill funeral home",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canadian-families-must-work-nearly-half-year-to-pay-taxes",
-      "published_date": "2026-06-07T15:15:43Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/marc-pinizzotto-procession-thornhill-funeral-home",
+      "published_date": "2026-06-14T22:36:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Staffing issues close ER at Mission Memorial Hospital overnight Sunday",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/mission-er-hospital-sunday-overnight",
+      "published_date": "2026-06-14T22:11:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, woman shot during Brampton home invasion; victim struck, killed by vehicle at brawl",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-woman-shot-brampton-home-invasion",
+      "published_date": "2026-06-14T20:50:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup: Just one arrest, one ejection on busy match day in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/fifa-2026-world-cup-vancouver-police-june-13-2026",
+      "published_date": "2026-06-14T20:49:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "JONAH GOLDBERG: America was more of a mess at bicentennial than today",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/america-more-mess-bicentennial-than-today",
+      "published_date": "2026-06-14T19:22:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justin Trudeau defends going to U.S. World Cup opener after backlash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/justin-trudeau-responds-u-s-world-cup-opener-backlash",
+      "published_date": "2026-06-14T16:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Big Brother’s following you on social media",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/editorial-big-brothers-following-you-on-social-media",
+      "published_date": "2026-06-14T15:37:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HANSON: Stop destroying civilization!",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/stop-destroying-civilization",
+      "published_date": "2026-06-14T15:01:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICBC request to adjourn trial due to World Cup&#039;s impact on jury cases denied by judge",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/icbc-request-to-adjourn-trial-due-to-world-cups-impact-on-jury-cases-denied-by-judge",
+      "published_date": "2026-06-14T15:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;I learned diligence, perseverance&#039;: How a 90-year-old Vancouver man found comfort and purpose in running",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/90-year-old-vancouver-man-found-purpose-running",
+      "published_date": "2026-06-14T15:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beer dropped by one-third of Canadians trying to shed pounds: Study",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/brewskis-dropped-one-third-of-canadians-trying-shed-pounds-says-new-survey",
+      "published_date": "2026-06-14T14:35:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justin Trudeau's appearance at U.S. World Cup match sparks anger",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/soccer/justin-trudeau-appearance-us-world-cup-match-sparks-anger",
+      "published_date": "2026-06-14T14:16:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman in critical condition after being struck by vehicle crossing Ouellette Ave.",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/woman-in-critical-condition-after-being-struck-by-vehicle-crossing-ouellette-ave",
+      "published_date": "2026-06-14T14:13:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, June 14: ‘Socceroos’ win historic match in Vancouver; 4 games Sunday",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/14/world-cup-daily-june-14-socceroos-win-historic-match-in-vancouver-4-games-sunday/",
+      "published_date": "2026-06-14T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: Any stories from your graduations?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-any-stories-from-your-graduations",
+      "published_date": "2026-06-14T13:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: A celebration of summer sports",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/14/quiz-a-celebration-of-summer-sports/",
+      "published_date": "2026-06-14T12:20:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Cabers, kilts and haggis: Kingsville Highland Games return to Essex County",
@@ -456,125 +568,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/13/harris-tosses-3-tds-as-roughriders-trip-b-c-lions-31-27-in-cfl-thriller/",
       "published_date": "2026-06-14T02:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Person of interest' sought in alleged sex assault at RBC Canadian Open in Caledon",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/person-of-interest-sought-sex-assault-rbc-canadian-open-golf-caledon",
-      "published_date": "2026-06-13T22:03:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto man accused of uttering antisemitic threats",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-charged-antisemitic-threats",
-      "published_date": "2026-06-13T21:13:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Absurd secrecy in our youth crime law",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-absurd-secrecy-youth-criminal-justice-act",
-      "published_date": "2026-06-13T20:42:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metro Vancouver says employee expenses down in 2025",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-says-employee-expenses-down-in-2025",
-      "published_date": "2026-06-13T19:31:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five kids killed in horrific two-vehicle crash north of Kitchener",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/five-kids-killed-two-vehicle-crash-mapleton-kitchener",
-      "published_date": "2026-06-13T17:52:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Fallen Firefighter Memorial ceremony delay a 'punch in gut' for widow",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-fallen-firefighter-memorial-ceremony-delay-punch-in-gut-widow",
-      "published_date": "2026-06-13T17:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Toronto Police Const. Marc Pinizzotto's life stolen while protecting us – and Canadian Jews",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/toronto-police-marc-pinizzotto-gave-his-life-protect-us-canadian-jews",
-      "published_date": "2026-06-13T15:31:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MURDER ALUMNI: What happened to 2001 class of cold-blooded killers?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/what-happened-to-2001-cold-blooded-killers",
-      "published_date": "2026-06-13T15:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Minter: How can your garden survive extreme heat? First look to the soil",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/gardening/brian-minter-garden-survive-extreme-heat",
-      "published_date": "2026-06-13T15:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: More places to visit on a wine tour of the South Okanagan and Similkameen Valleys",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-south-okanadan-similkameen-valley-wine-tour",
-      "published_date": "2026-06-13T15:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, June 13: Show time in Vancouver tonight; Canada ties opener",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/13/world-cup-daily-june-13-show-time-in-vancouver-tonight-canada-ties-opener/",
-      "published_date": "2026-06-13T15:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Cops honoured, Germans busted, wallet returned, protest stunt, ticket save",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/fifa-world-cup-soccer-toronto-cops-honoured-germans-busted-wallet-returned-protest-stunt-ticket-save",
-      "published_date": "2026-06-13T14:16:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;It&#039;s international&#039;: Vancouver and Toronto gangs gain reach through social media, rap and crime, expert says",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/vancouver-toronto-gangs-collaborate-rap-crime-expert-says",
-      "published_date": "2026-06-13T14:00:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1892: Vancouver&#039;s first spa and a Cosmopolitan Hotel of vice and moral depravity",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1892-vancouvers-first-spa-and-a-cosmopolitan-hotel-of-vice-and-moral-depravity",
-      "published_date": "2026-06-13T14:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Saskatchewan setting the tone for international collaboration",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-saskatchewan-setting-the-tone-for-international-collaboration",
-      "published_date": "2026-06-13T14:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Not negotiable’: Syilx Okanagan Nation says Brodie, One B.C. not welcome",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/13/not-negotiable-syilx-okanagan-nation-says-brodie-one-b-c-not-welcome/",
-      "published_date": "2026-06-13T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Spitfires turn top pick Whelan into Windsor fan long before the club drafted him",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/former-spitfires-turn-top-pick-whelan-into-windsor-fan-long-before-the-club-drafted-him",
-      "published_date": "2026-06-13T13:41:47Z",
       "category": "Local Events"
     }
   ]
