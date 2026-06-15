@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T00:15:10Z",
+  "generated_at": "2026-06-15T16:10:37Z",
   "country": "Canada",
-  "total_stories": 80,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "IRAN WAR: Peace deal already under strain as Israel vows to remain in Lebanon",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-peace-deal-already-under-strain-as-israel-vows-to-remain-in-lebanon",
+      "published_date": "2026-06-15T15:11:15Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "WARMINGTON: Man, 18, arrested for shooting up U.S. consulate in Toronto",
       "source": "Toronto Sun",
@@ -221,20 +228,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Trump demands Israel, Iran 'stop shooting' as countries exchange first attacks since ceasefire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-8",
-      "published_date": "2026-06-08T11:16:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Air Force backs decision to keep Snowbirds grounded after 2026 season",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/air-force-backs-decision-snowbirds-grounding",
-      "published_date": "2026-06-08T10:00:51Z",
-      "category": "Military"
-    },
-    {
       "title": "LaSalle's McNally leads the charge as Guelph's top pick the first of eight locals taken in OHL Draft",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/sports/lasalles-mcnally-leads-the-charge-as-guelphs-top-pick-the-first-of-eight-locals-taken-in-ohl-draft",
@@ -281,13 +274,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-growing-air-traffic-means-growing-lead-exposure-risk-for-pitt-meadows",
       "published_date": "2026-06-10T13:00:53Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The fastest growing market for Canada's canola is energy",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/the-fastest-growing-market-for-canadas-canola-is-energy",
-      "published_date": "2026-06-08T11:00:32Z",
       "category": "Energy"
     },
     {
@@ -417,18 +403,109 @@
       "category": "Economy"
     },
     {
-      "title": "Grouse Grind behind picket line as Metro Vancouver strike escalates",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/grouse-grind-picket-line-metro-vancouver-strike-escalates",
-      "published_date": "2026-06-08T14:50:18Z",
-      "category": "Economy"
+      "title": "OPP targets deadly intersection crashes with new safety program",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/opp-launches-stop-look-live-campaign",
+      "published_date": "2026-06-15T15:48:21Z",
+      "category": "Local Events"
     },
     {
-      "title": "GOLDSTEIN: Tax Freedom Day helps Canadians understand total burden",
+      "title": "Ridership for World Cup opener was busiest Saturday since Olympics: TransLink",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/translink-ridership-world-cup-opener",
+      "published_date": "2026-06-15T15:44:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hunt for Nancy Guthrie underway in Mexico after anonymous ‘grave’ tip",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/tax-freedom-day-helps-canadians-understand-total-burden",
-      "published_date": "2026-06-08T09:00:32Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/entertainment/celebrity/hunt-for-nancy-guthrie-underway-in-mexico-after-tip",
+      "published_date": "2026-06-15T15:38:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Municipal election races take shape across Windsor-Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/municipal-election-races-take-shape-across-windsor-essex",
+      "published_date": "2026-06-15T15:38:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish OnlyFans stars face decade in prison over obscenity charges",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/turkish-onlyfans-stars-face-decade-in-prison-over-obscenity-charges",
+      "published_date": "2026-06-15T15:20:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto police officer run down by 12-year-old allegedly driving stolen car",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/tps-officer-run-down-by-12yo-allegedly-driving-stolen-car",
+      "published_date": "2026-06-15T14:57:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jumper plummets to her death after she’s thrown off bridge with no rope attached",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/jumper-plummets-to-her-death-after-shes-thrown-off-bridge",
+      "published_date": "2026-06-15T14:18:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crew at scene of fire east of Terrace",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/crew-at-scene-of-fire-east-of-terrace/",
+      "published_date": "2026-06-15T14:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Will Ron MacLean's apology for 'roofies' joke become lasting Hangover?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/will-ron-macleans-apology-for-roofies-joke-become-lasting-hangover",
+      "published_date": "2026-06-15T14:01:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, June 15: Germany, Sweden win big Sunday; 4 matches today",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/world-cup-daily-june-15-germany-sweden-win-big-sunday-4-matches-today/",
+      "published_date": "2026-06-15T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. First Nations Justice Council launches a &#039;police accountability&#039; unit",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-first-nations-justice-council-launches-a-police-accountability-unit",
+      "published_date": "2026-06-15T13:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver actor Samantha Coughlan faces killer hippo in horror film Hungry",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-actor-samantha-coughlan-faces-killer-hippo-in-horror-film-hungry",
+      "published_date": "2026-06-15T13:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;He died all by himself&#039;: Why have deaths among B.C.’s homeless population more than tripled in a decade?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-homeless-deaths-triple-decade-hit-record-high",
+      "published_date": "2026-06-15T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caldwell First Nation pushes for changes to Indian Act status rules",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/caldwell-first-nation-joins-appeal-to-end-enfranchisement-in-the-indian-act",
+      "published_date": "2026-06-15T11:37:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From samba to street food, new villages spice up Carrousel of Nations",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/carrousel-of-the-nations-kicks-off-in-style",
+      "published_date": "2026-06-15T10:54:32Z",
+      "category": "Local Events"
     },
     {
       "title": "Metro Vancouver strike: What to know as 700+ workers hit the picket lines",
@@ -463,111 +540,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/fifa-2026-world-cup-vancouver-police-june-13-2026",
       "published_date": "2026-06-14T20:49:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "JONAH GOLDBERG: America was more of a mess at bicentennial than today",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/america-more-mess-bicentennial-than-today",
-      "published_date": "2026-06-14T19:22:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Justin Trudeau defends going to U.S. World Cup opener after backlash",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/justin-trudeau-responds-u-s-world-cup-opener-backlash",
-      "published_date": "2026-06-14T16:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Big Brother’s following you on social media",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-big-brothers-following-you-on-social-media",
-      "published_date": "2026-06-14T15:37:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HANSON: Stop destroying civilization!",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/stop-destroying-civilization",
-      "published_date": "2026-06-14T15:01:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICBC request to adjourn trial due to World Cup&#039;s impact on jury cases denied by judge",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/icbc-request-to-adjourn-trial-due-to-world-cups-impact-on-jury-cases-denied-by-judge",
-      "published_date": "2026-06-14T15:00:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;I learned diligence, perseverance&#039;: How a 90-year-old Vancouver man found comfort and purpose in running",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/90-year-old-vancouver-man-found-purpose-running",
-      "published_date": "2026-06-14T15:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beer dropped by one-third of Canadians trying to shed pounds: Study",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/brewskis-dropped-one-third-of-canadians-trying-shed-pounds-says-new-survey",
-      "published_date": "2026-06-14T14:35:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Justin Trudeau's appearance at U.S. World Cup match sparks anger",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/soccer/justin-trudeau-appearance-us-world-cup-match-sparks-anger",
-      "published_date": "2026-06-14T14:16:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman in critical condition after being struck by vehicle crossing Ouellette Ave.",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/woman-in-critical-condition-after-being-struck-by-vehicle-crossing-ouellette-ave",
-      "published_date": "2026-06-14T14:13:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, June 14: ‘Socceroos’ win historic match in Vancouver; 4 games Sunday",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/14/world-cup-daily-june-14-socceroos-win-historic-match-in-vancouver-4-games-sunday/",
-      "published_date": "2026-06-14T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Any stories from your graduations?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-any-stories-from-your-graduations",
-      "published_date": "2026-06-14T13:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: A celebration of summer sports",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/14/quiz-a-celebration-of-summer-sports/",
-      "published_date": "2026-06-14T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cabers, kilts and haggis: Kingsville Highland Games return to Essex County",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/cabers-kilts-and-haggis-kingsville-highland-games-return-to-essex-county",
-      "published_date": "2026-06-14T10:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cribley named deputy chief of the Windsor Police Service",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/cribley-named-deputy-chief-of-the-windsor-police-service",
-      "published_date": "2026-06-14T02:37:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harris tosses 3 TDs as Roughriders trip B.C. Lions 31-27 in CFL thriller",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/13/harris-tosses-3-tds-as-roughriders-trip-b-c-lions-31-27-in-cfl-thriller/",
-      "published_date": "2026-06-14T02:10:00Z",
       "category": "Local Events"
     }
   ]
