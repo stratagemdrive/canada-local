@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T16:10:37Z",
+  "generated_at": "2026-06-16T01:42:30Z",
   "country": "Canada",
   "total_stories": 76,
   "categories": [
@@ -109,25 +109,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rio Tinto expands Canada fund with new support for northern B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/08/rio-tinto-expands-canada-fund-with-new-support-for-northern-b-c/",
-      "published_date": "2026-06-08T22:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LILLEY: Canada's failed covenant is leading to quiet Jewish exodus",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canadas-failed-covenant-is-leading-to-a-quiet-jewish-exodus",
-      "published_date": "2026-06-08T19:52:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Heiltsuk Nation reaches $12-million settlement over Inside Passage fuel spill",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/heiltsuk-nation-settlement-inside-passage-fuel-spill",
-      "published_date": "2026-06-08T19:10:57Z",
-      "category": "Diplomacy"
+      "title": "Moe talks nuclear power, defence and agriculture in trade mission through Europe",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/czech-it-out-moe-signs-memorandum-with-czechia-during-euro-trade-mission",
+      "published_date": "2026-06-15T16:54:00Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Donald Trump says deal to end fighting 'now complete' despite Israeli concerns",
@@ -221,11 +207,18 @@
       "category": "Military"
     },
     {
-      "title": "China's Xi visits Pyongyang to meet with North Korea's Kim",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/chinas-xi-visits-pyongyang-to-meet-with-north-koreas-kim",
-      "published_date": "2026-06-08T20:36:57Z",
-      "category": "Military"
+      "title": "B.C. looking at revisiting Site E and Homathko dams",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/b-c-looking-at-revisiting-site-e-and-homathko-dams/",
+      "published_date": "2026-06-16T00:54:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "B.C. eyes new hydro megadams to meet soaring power demands",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/bc-eyes-new-hydro-megadams-soaring-power-demands",
+      "published_date": "2026-06-16T00:09:43Z",
+      "category": "Energy"
     },
     {
       "title": "LaSalle's McNally leads the charge as Guelph's top pick the first of eight locals taken in OHL Draft",
@@ -275,6 +268,13 @@
       "url": "https://vancouversun.com/opinion/op-ed/opinion-growing-air-traffic-means-growing-lead-exposure-risk-for-pitt-meadows",
       "published_date": "2026-06-10T13:00:53Z",
       "category": "Energy"
+    },
+    {
+      "title": "UPDATE: Metro Vancouver outside workers&#039; one-day strike has ended",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-strike-what-to-know",
+      "published_date": "2026-06-14T22:36:47Z",
+      "category": "Economy"
     },
     {
       "title": "STAR PARKER: Mike Pence's important new book about the United States",
@@ -403,143 +403,143 @@
       "category": "Economy"
     },
     {
-      "title": "OPP targets deadly intersection crashes with new safety program",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-launches-stop-look-live-campaign",
-      "published_date": "2026-06-15T15:48:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ridership for World Cup opener was busiest Saturday since Olympics: TransLink",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/translink-ridership-world-cup-opener",
-      "published_date": "2026-06-15T15:44:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hunt for Nancy Guthrie underway in Mexico after anonymous ‘grave’ tip",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/hunt-for-nancy-guthrie-underway-in-mexico-after-tip",
-      "published_date": "2026-06-15T15:38:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Municipal election races take shape across Windsor-Essex",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/municipal-election-races-take-shape-across-windsor-essex",
-      "published_date": "2026-06-15T15:38:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish OnlyFans stars face decade in prison over obscenity charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/turkish-onlyfans-stars-face-decade-in-prison-over-obscenity-charges",
-      "published_date": "2026-06-15T15:20:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto police officer run down by 12-year-old allegedly driving stolen car",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/tps-officer-run-down-by-12yo-allegedly-driving-stolen-car",
-      "published_date": "2026-06-15T14:57:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jumper plummets to her death after she’s thrown off bridge with no rope attached",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/jumper-plummets-to-her-death-after-shes-thrown-off-bridge",
-      "published_date": "2026-06-15T14:18:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crew at scene of fire east of Terrace",
+      "title": "1 dead after car drives wrong way on northbound lanes of Coquihalla Highway",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/crew-at-scene-of-fire-east-of-terrace/",
-      "published_date": "2026-06-15T14:15:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/1-dead-after-car-drives-wrong-way-on-northbound-lanes-of-coquihalla-highway/",
+      "published_date": "2026-06-16T01:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: Will Ron MacLean's apology for 'roofies' joke become lasting Hangover?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/will-ron-macleans-apology-for-roofies-joke-become-lasting-hangover",
-      "published_date": "2026-06-15T14:01:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, June 15: Germany, Sweden win big Sunday; 4 matches today",
+      "title": "Canada sees a 23% reduction in opioid deaths in 2025",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/world-cup-daily-june-15-germany-sweden-win-big-sunday-4-matches-today/",
-      "published_date": "2026-06-15T14:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/canada-sees-a-23-reduction-in-opioid-deaths-in-2025/",
+      "published_date": "2026-06-16T00:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. First Nations Justice Council launches a &#039;police accountability&#039; unit",
+      "title": "$66M proposed settlement reached in B.C. birth alert class-action lawsuit",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/66m-proposed-settlement-reached-in-b-c-birth-alert-class-action-lawsuit/",
+      "published_date": "2026-06-16T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Dropping opioid death toll hints B.C. NDP retreat on harm-reduction may be working",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-first-nations-justice-council-launches-a-police-accountability-unit",
-      "published_date": "2026-06-15T13:00:43Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-dropping-opioid-death-toll-hints-bc-ndp-retreat-on-harm-reduction-may-be-working",
+      "published_date": "2026-06-15T23:42:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver actor Samantha Coughlan faces killer hippo in horror film Hungry",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vancouver-actor-samantha-coughlan-faces-killer-hippo-in-horror-film-hungry",
-      "published_date": "2026-06-15T13:00:10Z",
+      "title": "Elder abuse incidents increasing in B.C., senior’s advocate says",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/elder-abuse-incidents-increasing-in-b-c-seniors-advocate-says/",
+      "published_date": "2026-06-15T23:40:00Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;He died all by himself&#039;: Why have deaths among B.C.’s homeless population more than tripled in a decade?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-homeless-deaths-triple-decade-hit-record-high",
-      "published_date": "2026-06-15T13:00:01Z",
+      "title": "B.C.’s Rod Brind’Amour lifts the Stanley Cup again",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/b-c-s-rod-brindamour-lifts-the-stanley-cup-again/",
+      "published_date": "2026-06-15T23:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Caldwell First Nation pushes for changes to Indian Act status rules",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/caldwell-first-nation-joins-appeal-to-end-enfranchisement-in-the-indian-act",
-      "published_date": "2026-06-15T11:37:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From samba to street food, new villages spice up Carrousel of Nations",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/carrousel-of-the-nations-kicks-off-in-style",
-      "published_date": "2026-06-15T10:54:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metro Vancouver strike: What to know as 700+ workers hit the picket lines",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-strike-what-to-know",
-      "published_date": "2026-06-14T22:36:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Const. Marc Pinizzotto saluted during procession to Thornhill funeral home",
+      "title": "WARMINGTON: Toronto cop pinned by vehicle 'very upset'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/marc-pinizzotto-procession-thornhill-funeral-home",
-      "published_date": "2026-06-14T22:36:01Z",
+      "url": "https://torontosun.com/news/local-news/warmington-toronto-cop-pinned-by-vehicle-very-upset",
+      "published_date": "2026-06-15T22:53:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Staffing issues close ER at Mission Memorial Hospital overnight Sunday",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/mission-er-hospital-sunday-overnight",
-      "published_date": "2026-06-14T22:11:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, woman shot during Brampton home invasion; victim struck, killed by vehicle at brawl",
+      "title": "Suspected pepper spray unleashed on TTC travellers at Runnymede Station",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-woman-shot-brampton-home-invasion",
-      "published_date": "2026-06-14T20:50:08Z",
+      "url": "https://torontosun.com/news/crime/suspected-pepper-spray-unleashed-on-ttc-travellers-at-runnymede-station",
+      "published_date": "2026-06-15T22:17:14Z",
       "category": "Local Events"
     },
     {
-      "title": "World Cup: Just one arrest, one ejection on busy match day in Vancouver",
+      "title": "4 people charged after drug, firearm bust; Toronto cops nab accused murderers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/gta-people-arrested-drug-firearm-bust",
+      "published_date": "2026-06-15T22:08:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saskatoon man accused of abusing dog in Evergreen apartment",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/crime/saskatoon-man-accused-of-abusing-dog-in-evergreen-apartment",
+      "published_date": "2026-06-15T21:49:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "1 removed from BC Place during FIFA match for intoxication, refusing to leave",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/1-removed-from-bc-place-during-fifa-match-for-intoxication-refusing-to-leave/",
+      "published_date": "2026-06-15T21:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toxic drug deaths down, but feds warn opioid crisis 'far from over'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/toxic-drug-deaths-down-but-feds-warn-opioid-crisis-far-from-over",
+      "published_date": "2026-06-15T21:36:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada to host NCAA champion UCLA Bruins in Victoria summer exhibition",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/canada-to-host-ncaa-champion-ucla-bruins-in-victoria-summer-exhibition/",
+      "published_date": "2026-06-15T21:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Cultus Lake Waterpark closes temporarily after 12 children injured",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/fifa-2026-world-cup-vancouver-police-june-13-2026",
-      "published_date": "2026-06-14T20:49:55Z",
+      "url": "https://vancouversun.com/news/cultus-lake-waterpark-injuries-children",
+      "published_date": "2026-06-15T21:13:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Semi-truck driver fined for travelling wrong way on B.C. highway",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/semi-truck-driver-fined-for-travelling-wrong-way-on-b-c-highway/",
+      "published_date": "2026-06-15T20:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bard on the Beach founder awarded British Empire honours for Vancouver work",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/christopher-gaze-awarded-member-order-british-empire",
+      "published_date": "2026-06-15T20:09:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPP charge Sudbury suspect in Calabogie killing, Winnipeg threat",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/opp-charge-sudbury-suspect-in-calabogie-killing-winnipeg-threat",
+      "published_date": "2026-06-15T19:37:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Cultus Lake Waterpark to close for 48 hours after incident that burned several patrons",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/9-people-suffer-burns-at-cultus-lake-waterpark-after-incident-involving-electricity/",
+      "published_date": "2026-06-15T19:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor man charged with dangerous, impaired driving following Kingsville collision",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/driver-arrested-following-kingsville-collision",
+      "published_date": "2026-06-15T19:08:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tecumseh Mayor Gary McNamara challenged by deputy mayor in upcoming municipal election",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/tecumseh-mayor-gary-mcnamara-challenged-by-deputy-mayor-in-upcoming-municipal-election",
+      "published_date": "2026-06-15T18:04:25Z",
       "category": "Local Events"
     }
   ]
