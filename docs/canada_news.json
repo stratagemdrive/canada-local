@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T01:42:30Z",
+  "generated_at": "2026-06-16T15:46:11Z",
   "country": "Canada",
   "total_stories": 76,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "WARMINGTON: All eyes on Toronto Police headquarters for update on U.S. consulate shooting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/warmington-all-eyes-on-toronto-police-headquarters-for-update-on-u-s-consulate-shooting",
+      "published_date": "2026-06-16T13:23:13Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "IRAN WAR: Peace deal already under strain as Israel vows to remain in Lebanon",
       "source": "Toronto Sun",
@@ -109,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "IRAN WAR: Iran's foreign minister says Israeli troops must leave Lebanon under deal",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-irans-foreign-minister-says-israeli-troops-must-leave-lebanon-under-deal",
+      "published_date": "2026-06-16T15:14:38Z",
+      "category": "Military"
+    },
+    {
       "title": "Moe talks nuclear power, defence and agriculture in trade mission through Europe",
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/czech-it-out-moe-signs-memorandum-with-czechia-during-euro-trade-mission",
@@ -193,18 +207,18 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Ceasefire tested again as Israel attacks southern Lebanon",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-9",
-      "published_date": "2026-06-09T11:32:06Z",
-      "category": "Military"
+      "title": "Dine above the crowds: Here are 5 Vancouver rooftop restaurants to check out",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/vancouver-restaurants-rooftop",
+      "published_date": "2026-06-16T13:00:58Z",
+      "category": "Energy"
     },
     {
-      "title": "CSIS mum on Nancy Grewal murder case, but warns 'violent extremist' activity poses a threat",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/csis-mum-on-nancy-grewal-murder-case-but-warns-violent-extremist-activity-poses-a-threat",
-      "published_date": "2026-06-09T10:06:43Z",
-      "category": "Military"
+      "title": "Opinion: B.C.&#039;s rental supply pipeline is thinning, and that&#039;s a crisis in the making",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-rental-supply-pipeline-thinning-crisis",
+      "published_date": "2026-06-16T13:00:06Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. looking at revisiting Site E and Homathko dams",
@@ -268,6 +282,20 @@
       "url": "https://vancouversun.com/opinion/op-ed/opinion-growing-air-traffic-means-growing-lead-exposure-risk-for-pitt-meadows",
       "published_date": "2026-06-10T13:00:53Z",
       "category": "Energy"
+    },
+    {
+      "title": "Bell Canada cutting nearly 700 jobs, with one-third being unionized employees",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/bell-canada-cutting-nearly-700-jobs",
+      "published_date": "2026-06-16T13:50:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "UWindsor spent $40K on India recruitment trip despite cap on international enrolment",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/uwindsor-spent-40k-on-india-recruitment-trip-despite-cap-on-international-enrolment",
+      "published_date": "2026-06-16T10:10:26Z",
+      "category": "Economy"
     },
     {
       "title": "UPDATE: Metro Vancouver outside workers&#039; one-day strike has ended",
@@ -375,32 +403,109 @@
       "category": "Economy"
     },
     {
-      "title": "Stop kowtowing to Albertans's costly demands",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/stop-kowtowing-to-albertanss-costly-demands",
-      "published_date": "2026-06-09T15:05:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Spitfires bring three new prospects into the fold in OHL Under-18 Draft",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/spitfires-bring-three-new-prospects-into-the-fold-in-ohl-under-18-draft",
-      "published_date": "2026-06-09T14:07:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Here&#039;s how to save money on your next staycation",
+      "title": "&#039;Hands down, the best meal of my life&#039;: Richard Branson shouts out B.C. restaurant",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/how-to-save-money-on-staycation",
-      "published_date": "2026-06-09T13:00:52Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/life/food/richard-branson-shouts-out-b-c-restaurant",
+      "published_date": "2026-06-16T15:42:49Z",
+      "category": "Local Events"
     },
     {
-      "title": "Mike Harcourt: Apocalypse postponed? Signs that B.C.’s housing crisis may be beginning to ease",
+      "title": "Manslaughter charge laid in fatal shooting at Abbotsford encampment",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/mike-harcourt-bc-housing-crisis-beginning-ease",
-      "published_date": "2026-06-09T13:00:18Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/manslaughter-charge-shooting-abbotsford-encampment",
+      "published_date": "2026-06-16T14:43:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young cyclist hit by motor vehicle, sustains minor injuries",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/young-cyclist-hit-by-motor-vehicle-sustains-minor-injuries",
+      "published_date": "2026-06-16T14:41:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, June 16: France, Argentina among 8 teams in action Tuesday",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/world-cup-daily-june-16-france-argentina-among-8-teams-in-action-tuesday/",
+      "published_date": "2026-06-16T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro Vancouver outside workers agree to mediation after Monday strike",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-outside-workers-agree-mediation",
+      "published_date": "2026-06-16T13:47:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disgraced Hedley frontman Jacob Hoggard wins day parole",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/disgraced-hedley-frontman-jacob-hoggard-wins-day-parole",
+      "published_date": "2026-06-16T13:42:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marchand among locals hoping to hear named called at PWHL Draft",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/marchand-among-locals-hoping-to-hear-named-called-at-pwhl-draft",
+      "published_date": "2026-06-16T13:14:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Backup plan:&#039; Vancouver woman opens Mexican egg-freezing retreat for fertility patients",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/health/vancouver-woman-egg-freezing-retreat-mexico-fertility-patients",
+      "published_date": "2026-06-16T13:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "E-scooters injuries in Metro Vancouver children more than double in a year",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/e-scooters-injuries-metro-vancouver-children-double",
+      "published_date": "2026-06-16T13:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man sent to hospital with head injuries after fight outside Downtown Windsor bar",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/downtown-windsor-assault-leads-to-one-arrest",
+      "published_date": "2026-06-16T12:11:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saskatoon couple opens Good Earth Coffeehouse in RUH hospital area",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/local-business/saskatoon-couple-opens-good-earth-coffeehouse-in-ruh-hospital-area",
+      "published_date": "2026-06-16T12:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Assumption University awards diplomas, honours leaders at convocation",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/assumption-university-awards-diplomas-honours-leaders-at-convocation",
+      "published_date": "2026-06-16T10:27:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From mentorship to medicine, Windsor doctors earn top honours",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/from-mentorship-to-medicine-windsor-doctors-earn-top-honours",
+      "published_date": "2026-06-16T10:17:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHARLEBOIS: Canada's most wasteful generation? The answer may surprise you",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/most-wasteful-generations-for-food-canada",
+      "published_date": "2026-06-16T10:00:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local councils to consider renaming parks after Tarun Bali, Marc Pinizzotto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/park-renamings-considered-tarun-bali-marc-pinizzotto",
+      "published_date": "2026-06-16T02:25:12Z",
+      "category": "Local Events"
     },
     {
       "title": "1 dead after car drives wrong way on northbound lanes of Coquihalla Highway",
@@ -435,111 +540,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/15/elder-abuse-incidents-increasing-in-b-c-seniors-advocate-says/",
       "published_date": "2026-06-15T23:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.’s Rod Brind’Amour lifts the Stanley Cup again",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/b-c-s-rod-brindamour-lifts-the-stanley-cup-again/",
-      "published_date": "2026-06-15T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Toronto cop pinned by vehicle 'very upset'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/warmington-toronto-cop-pinned-by-vehicle-very-upset",
-      "published_date": "2026-06-15T22:53:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspected pepper spray unleashed on TTC travellers at Runnymede Station",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/suspected-pepper-spray-unleashed-on-ttc-travellers-at-runnymede-station",
-      "published_date": "2026-06-15T22:17:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 people charged after drug, firearm bust; Toronto cops nab accused murderers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/gta-people-arrested-drug-firearm-bust",
-      "published_date": "2026-06-15T22:08:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatoon man accused of abusing dog in Evergreen apartment",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/saskatoon-man-accused-of-abusing-dog-in-evergreen-apartment",
-      "published_date": "2026-06-15T21:49:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 removed from BC Place during FIFA match for intoxication, refusing to leave",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/1-removed-from-bc-place-during-fifa-match-for-intoxication-refusing-to-leave/",
-      "published_date": "2026-06-15T21:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toxic drug deaths down, but feds warn opioid crisis 'far from over'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/toxic-drug-deaths-down-but-feds-warn-opioid-crisis-far-from-over",
-      "published_date": "2026-06-15T21:36:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada to host NCAA champion UCLA Bruins in Victoria summer exhibition",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/canada-to-host-ncaa-champion-ucla-bruins-in-victoria-summer-exhibition/",
-      "published_date": "2026-06-15T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Cultus Lake Waterpark closes temporarily after 12 children injured",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/cultus-lake-waterpark-injuries-children",
-      "published_date": "2026-06-15T21:13:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Semi-truck driver fined for travelling wrong way on B.C. highway",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/semi-truck-driver-fined-for-travelling-wrong-way-on-b-c-highway/",
-      "published_date": "2026-06-15T20:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bard on the Beach founder awarded British Empire honours for Vancouver work",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/christopher-gaze-awarded-member-order-british-empire",
-      "published_date": "2026-06-15T20:09:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP charge Sudbury suspect in Calabogie killing, Winnipeg threat",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/opp-charge-sudbury-suspect-in-calabogie-killing-winnipeg-threat",
-      "published_date": "2026-06-15T19:37:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Cultus Lake Waterpark to close for 48 hours after incident that burned several patrons",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/9-people-suffer-burns-at-cultus-lake-waterpark-after-incident-involving-electricity/",
-      "published_date": "2026-06-15T19:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor man charged with dangerous, impaired driving following Kingsville collision",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/driver-arrested-following-kingsville-collision",
-      "published_date": "2026-06-15T19:08:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tecumseh Mayor Gary McNamara challenged by deputy mayor in upcoming municipal election",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/tecumseh-mayor-gary-mcnamara-challenged-by-deputy-mayor-in-upcoming-municipal-election",
-      "published_date": "2026-06-15T18:04:25Z",
       "category": "Local Events"
     }
   ]
