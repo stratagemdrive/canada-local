@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-16T15:46:11Z",
+  "generated_at": "2026-06-17T00:20:20Z",
   "country": "Canada",
-  "total_stories": 76,
+  "total_stories": 80,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Hot mic catches Mark Carney, Donald Trump discussing Chinese EVs",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/hot-mic-mark-carney-donald-trump",
+      "published_date": "2026-06-16T21:59:53Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "WARMINGTON: All eyes on Toronto Police headquarters for update on U.S. consulate shooting",
       "source": "Toronto Sun",
@@ -116,6 +123,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "LILLEY: Carney set to buy Swedish Gripen jet, and then what?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-set-to-buy-the-swedish-gripen-jet-and-then-what",
+      "published_date": "2026-06-16T22:21:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "MANDEL: High school hitman hired by 'influential adults' waging Toronto's tow-truck war",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/high-school-hitman-hired-by-influential-adults-waging-torontos-tow-truck-war",
+      "published_date": "2026-06-16T21:08:21Z",
+      "category": "Military"
+    },
+    {
+      "title": "Windsor Hindu temple celebrates Tamil chariot festival",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-hindu-temple-celebrates-tamil-chariot-festival",
+      "published_date": "2026-06-16T17:46:48Z",
+      "category": "Military"
+    },
+    {
       "title": "IRAN WAR: Iran's foreign minister says Israeli troops must leave Lebanon under deal",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-irans-foreign-minister-says-israeli-troops-must-leave-lebanon-under-deal",
@@ -205,6 +233,13 @@
       "url": "https://torontosun.com/news/world/iran-war-iran-retaliates-after-american-strikes-over-downed-u-s-helicopter",
       "published_date": "2026-06-10T10:49:46Z",
       "category": "Military"
+    },
+    {
+      "title": "Vaughn Palmer: B.C. Hydro dam ideas a blast from the past",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-hydro-dam-ideas-a-blast-from-the-past",
+      "published_date": "2026-06-16T23:36:23Z",
+      "category": "Energy"
     },
     {
       "title": "Dine above the crowds: Here are 5 Vancouver rooftop restaurants to check out",
@@ -396,150 +431,143 @@
       "category": "Economy"
     },
     {
-      "title": "Yukon’s Northern Vision Development enters B.C. market with Prince Rupert hotels",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/09/yukons-northern-vision-development-enters-b-c-market-with-prince-rupert-hotels/",
-      "published_date": "2026-06-09T20:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "&#039;Hands down, the best meal of my life&#039;: Richard Branson shouts out B.C. restaurant",
+      "title": "Cultus Lake Waterpark: Dad recounts ordeal after daughter electrocuted during field trip",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/richard-branson-shouts-out-b-c-restaurant",
-      "published_date": "2026-06-16T15:42:49Z",
+      "url": "https://vancouversun.com/news/cultus-lake-waterpark-father-recounts-ordeal-daughter-injuries-field-trip",
+      "published_date": "2026-06-16T23:51:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Manslaughter charge laid in fatal shooting at Abbotsford encampment",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/manslaughter-charge-shooting-abbotsford-encampment",
-      "published_date": "2026-06-16T14:43:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young cyclist hit by motor vehicle, sustains minor injuries",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/young-cyclist-hit-by-motor-vehicle-sustains-minor-injuries",
-      "published_date": "2026-06-16T14:41:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, June 16: France, Argentina among 8 teams in action Tuesday",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/world-cup-daily-june-16-france-argentina-among-8-teams-in-action-tuesday/",
-      "published_date": "2026-06-16T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metro Vancouver outside workers agree to mediation after Monday strike",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-outside-workers-agree-mediation",
-      "published_date": "2026-06-16T13:47:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disgraced Hedley frontman Jacob Hoggard wins day parole",
+      "title": "6 charged with murder in Aurora; Barrie ride-share driver charged with sex assault",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/disgraced-hedley-frontman-jacob-hoggard-wins-day-parole",
-      "published_date": "2026-06-16T13:42:40Z",
+      "url": "https://torontosun.com/news/crime/6-charged-with-murder-aurora-barrie-ride-share-driver-charged-sex-assault",
+      "published_date": "2026-06-16T22:44:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Marchand among locals hoping to hear named called at PWHL Draft",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/marchand-among-locals-hoping-to-hear-named-called-at-pwhl-draft",
-      "published_date": "2026-06-16T13:14:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Backup plan:&#039; Vancouver woman opens Mexican egg-freezing retreat for fertility patients",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/health/vancouver-woman-egg-freezing-retreat-mexico-fertility-patients",
-      "published_date": "2026-06-16T13:00:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "E-scooters injuries in Metro Vancouver children more than double in a year",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/e-scooters-injuries-metro-vancouver-children-double",
-      "published_date": "2026-06-16T13:00:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man sent to hospital with head injuries after fight outside Downtown Windsor bar",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/downtown-windsor-assault-leads-to-one-arrest",
-      "published_date": "2026-06-16T12:11:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatoon couple opens Good Earth Coffeehouse in RUH hospital area",
+      "title": "Northern Sask. leader 'surprisingly' pleased with 2025 wildfire report; MLA calls for accountability",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/local-business/saskatoon-couple-opens-good-earth-coffeehouse-in-ruh-hospital-area",
-      "published_date": "2026-06-16T12:00:04Z",
+      "url": "https://thestarphoenix.com/news/saskatchewan/northern-sask-leader-surprisingly-pleased-with-2025-wildfire-report-mla-calls-for-accountability",
+      "published_date": "2026-06-16T22:08:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Assumption University awards diplomas, honours leaders at convocation",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/assumption-university-awards-diplomas-honours-leaders-at-convocation",
-      "published_date": "2026-06-16T10:27:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From mentorship to medicine, Windsor doctors earn top honours",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/from-mentorship-to-medicine-windsor-doctors-earn-top-honours",
-      "published_date": "2026-06-16T10:17:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHARLEBOIS: Canada's most wasteful generation? The answer may surprise you",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/most-wasteful-generations-for-food-canada",
-      "published_date": "2026-06-16T10:00:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local councils to consider renaming parks after Tarun Bali, Marc Pinizzotto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/park-renamings-considered-tarun-bali-marc-pinizzotto",
-      "published_date": "2026-06-16T02:25:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 dead after car drives wrong way on northbound lanes of Coquihalla Highway",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/1-dead-after-car-drives-wrong-way-on-northbound-lanes-of-coquihalla-highway/",
-      "published_date": "2026-06-16T01:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada sees a 23% reduction in opioid deaths in 2025",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/canada-sees-a-23-reduction-in-opioid-deaths-in-2025/",
-      "published_date": "2026-06-16T00:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$66M proposed settlement reached in B.C. birth alert class-action lawsuit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/66m-proposed-settlement-reached-in-b-c-birth-alert-class-action-lawsuit/",
-      "published_date": "2026-06-16T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Dropping opioid death toll hints B.C. NDP retreat on harm-reduction may be working",
+      "title": "New underground music festival sails into North Vancouver this fall: What you need to know",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-dropping-opioid-death-toll-hints-bc-ndp-retreat-on-harm-reduction-may-be-working",
-      "published_date": "2026-06-15T23:42:58Z",
+      "url": "https://vancouversun.com/entertainment/new-underground-music-festival-sails-into-north-vancouver-this-fall-what-you-need-to-know",
+      "published_date": "2026-06-16T22:03:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Elder abuse incidents increasing in B.C., senior’s advocate says",
+      "title": "‘Extremely concerning’: B.C. environmentalists outraged by minister’s caribou comments",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/elder-abuse-incidents-increasing-in-b-c-seniors-advocate-says/",
-      "published_date": "2026-06-15T23:40:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/extremely-concerning-b-c-environmentalists-outraged-by-ministers-caribou-comments/",
+      "published_date": "2026-06-16T21:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Private funeral for slain Const. Marc Pinizzotto set for next Wednesday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/private-funeral-marc-pinizzotto-next-week",
+      "published_date": "2026-06-16T21:34:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aurora man charged in 2 alleged indecent acts; Pair charged in Toronto homicide",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/aurora-man-charged-alleged-indecent-acts",
+      "published_date": "2026-06-16T21:24:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. health officials to expand mosquito study on North Shore",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-health-officials-to-expand-mosquito-study-on-north-shore",
+      "published_date": "2026-06-16T21:15:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What to know about Canada's potential social media ban for kids under 16",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/saskatchewan/what-to-know-about-canadas-potential-social-media-ban-for-kids-under-16",
+      "published_date": "2026-06-16T21:13:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Kelowna wildfire: Evacuations ordered near Kalamoir Regional Park",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/west-kelowna-wildfire-evacuation-order-near-kalamoir-regional-park",
+      "published_date": "2026-06-16T21:01:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jenny Bucholtz leaves lasting mark on Pembroke's waterfront gardens",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/jenny-bucholtz-leaves-lasting-mark-on-pembrokes-waterfront-gardens",
+      "published_date": "2026-06-16T20:58:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Property Watch: Sumas Prairie property includes optional revenue-generating commercial space",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/sumas-prairie-property-revenue-generating-commercial-space",
+      "published_date": "2026-06-16T20:30:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cliff jumper injured near Lions Bay prompts safety warning",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/cliff-jumper-injured-near-lions-bay-prompts-safety-warning",
+      "published_date": "2026-06-16T20:05:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. crime news: Shots fired in Surrey City Centre &#124; VPD report death of man in city jail",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-crime-news-june-16-2026",
+      "published_date": "2026-06-16T19:26:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 25% of B.C. is at elevated drought levels",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/more-than-25-of-b-c-is-at-elevated-drought-levels/",
+      "published_date": "2026-06-16T19:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More weekend games at home on tap for Spitfires in 2026-27",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/more-weekend-games-at-home-on-tap-for-spitfires-in-2026-27",
+      "published_date": "2026-06-16T19:09:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Love the movie Jurassic Park? You won&#039;t want to miss this live music event in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vso-dinosaur-cinema-special-concert",
+      "published_date": "2026-06-16T19:07:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Toronto cops say numerous shootings part of 'complex' guns-for-hire scheme",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-cops-say-shootings-part-of-complex-guns-for-hire-scheme",
+      "published_date": "2026-06-16T18:56:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight-year Pitt Meadows homicide investigation leads to first-degree murder charge: IHIT",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/eight-year-pitt-meadows-homicide-investigation-murder-charge-ihit",
+      "published_date": "2026-06-16T18:35:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Distracted driving believed to be cause of FedEx crash near Sicamous",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/distracted-driving-believed-to-be-cause-of-fedex-crash-near-sicamous/",
+      "published_date": "2026-06-16T18:15:00Z",
       "category": "Local Events"
     }
   ]
