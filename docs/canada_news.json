@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T00:20:20Z",
+  "generated_at": "2026-06-17T14:23:35Z",
   "country": "Canada",
   "total_stories": 80,
   "categories": [
@@ -116,11 +116,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Douglas Todd: Will higher density make Metro Vancouver residents happier? Studies say: Not likely",
+      "title": "IRAN WAR: Draft U.S.-Iran deal includes $300B development fund, reports say",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/draft-u-s-iran-deal-includes-300b-development-fund",
+      "published_date": "2026-06-17T13:45:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Poolside Jaws screening, riverfront drone show among Windsor's $500K summer series",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/poolside-jaws-screening-riverfront-drone-show-among-windsors-500k-summer-series",
+      "published_date": "2026-06-17T13:22:31Z",
+      "category": "Military"
+    },
+    {
+      "title": "Douglas Todd: Canadians grew more dispirited in past 50 years, says veteran pollster",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-higher-density-may-be-making-metro-vancouver-residents-less-happy-say-studies",
-      "published_date": "2026-06-10T13:00:53Z",
-      "category": "Diplomacy"
+      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-canadians-grew-more-dispirited-in-past-50-years-says-veteran-pollster",
+      "published_date": "2026-06-17T13:00:05Z",
+      "category": "Military"
     },
     {
       "title": "LILLEY: Carney set to buy Swedish Gripen jet, and then what?",
@@ -228,13 +242,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Iran retaliates after American strikes over downed U.S. helicopter",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-iran-retaliates-after-american-strikes-over-downed-u-s-helicopter",
-      "published_date": "2026-06-10T10:49:46Z",
-      "category": "Military"
-    },
-    {
       "title": "Vaughn Palmer: B.C. Hydro dam ideas a blast from the past",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-hydro-dam-ideas-a-blast-from-the-past",
@@ -305,18 +312,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ksi Lisims LNG racks up additional First Nation support, new potential sales",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/ksi-lisims-lng-first-nation-support-new-potential-sales",
-      "published_date": "2026-06-10T13:00:55Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Opinion: Growing air traffic means growing lead-exposure risk for Pitt Meadows",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-growing-air-traffic-means-growing-lead-exposure-risk-for-pitt-meadows",
-      "published_date": "2026-06-10T13:00:53Z",
-      "category": "Energy"
+      "title": "JARVIS: Taxpayers foot bill for FIFA’s perks while it makes billions",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/taxpayers-foot-bill-for-fifa-perks-while-it-makes-billions",
+      "published_date": "2026-06-17T10:00:36Z",
+      "category": "Economy"
     },
     {
       "title": "Bell Canada cutting nearly 700 jobs, with one-third being unionized employees",
@@ -431,143 +431,143 @@
       "category": "Economy"
     },
     {
+      "title": "Two suspects arrested in bank fraud investigations",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/two-suspects-arrested-in-bank-fraud-investigation",
+      "published_date": "2026-06-17T14:16:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, June 17: Stars shine for France, Argentina and Norway; England vs. Croatia today",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/world-cup-daily-june-17-stars-shine-for-france-argentina-and-norway-england-vs-croatia-today/",
+      "published_date": "2026-06-17T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "THE MOJ: B.C. Lions need win over Ticats to avoid falling into 0-2 hole",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/the-moj-b-c-lions-need-win-over-ticats-to-avoid-falling-into-0-2-hole/",
+      "published_date": "2026-06-17T13:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "38-storey residential tower project with a new mosque moving ahead in Surrey",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/real-estate/residential-tower-in-surrey-with-mosque",
+      "published_date": "2026-06-17T13:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Really good &#039;beach food:&#039; Tacofino still serving up a taste of Tofino 17 years later",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/really-good-beach-food-tacofino-still-serving-up-a-taste-of-tofino-17-years-later",
+      "published_date": "2026-06-17T13:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Try these 5 delicious BBQ side dishes for Father&#039;s Day",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/recipes/fathers-day-barbecue-bbq-side-dishes",
+      "published_date": "2026-06-17T13:00:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Number of patients waiting to see a specialist in B.C. climbs 10% in one year: survey",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/health/bc-specialist-waiting-list-increase",
+      "published_date": "2026-06-17T13:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attempt to reduce charges in Mount Polley gold-and-copper mine dam collapse fails",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/attempt-to-reduce-charges-in-mount-polley-gold-and-copper-mine-dam-collapse-fails",
+      "published_date": "2026-06-17T13:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crews to mop up hot spots at held West Kelowna wildfire, evacuation alert still in place",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/kalamoir-park-wildfire-in-west-kelowna-remains-held-evacuation-alert-still-in-place/",
+      "published_date": "2026-06-17T12:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saanich paddlers tackle Race to Alaska for 3rd time 10 years after meeting there",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/saanich-paddlers-tackle-race-to-alaska-for-3rd-time-10-years-after-meeting-there/",
+      "published_date": "2026-06-17T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigate 'suspicious' fire near Windsor Eats Food Hall",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/police-investigate-suspicious-fire-near-windsor-eats-food-hall",
+      "published_date": "2026-06-17T12:11:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Final info session in June for Phase 3 of Saskatoon Freeway Project",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/final-info-session-in-june-for-phase-3-of-saskatoon-freeway-project",
+      "published_date": "2026-06-17T12:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor man gets 12.5 years in one of city's largest fentanyl trafficking cases",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-man-gets-12-5-years-in-one-of-citys-largest-fentanyl-trafficking-cases",
+      "published_date": "2026-06-17T10:01:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Carney passed bail reform, now it's up to Ford to enact change",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-passed-bail-reform-now-its-up-to-ford-to-enact-change",
+      "published_date": "2026-06-17T10:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flags fly high as Windsor super fan goes all in on World Cup",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/flags-fly-high-as-windsor-super-fan-goes-all-in-on-world-cup",
+      "published_date": "2026-06-17T09:58:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sports roundup: Saskatoon Mamba riding two-game win streak",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/weekend-roundup-saskatoon-mamba-hold-off-the-surge",
+      "published_date": "2026-06-17T06:37:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evacuation alert issued after wildfire grows to 22 hectares west of Princeton",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/evacuation-alert-issued-after-wildfire-grows-to-22-hectares-west-of-princeton/",
+      "published_date": "2026-06-17T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bailey’s Law, on intimate partner violence, passes third reading in Senate",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/baileys-law-on-intimate-partner-violence-passes-third-reading-in-senate/",
+      "published_date": "2026-06-17T01:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New well-being plan for children aims for better coordination in B.C. government",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/new-well-being-plan-for-children-aims-for-better-coordination-in-b-c-government/",
+      "published_date": "2026-06-17T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Cultus Lake Waterpark: Dad recounts ordeal after daughter electrocuted during field trip",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/cultus-lake-waterpark-father-recounts-ordeal-daughter-injuries-field-trip",
       "published_date": "2026-06-16T23:51:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "6 charged with murder in Aurora; Barrie ride-share driver charged with sex assault",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/6-charged-with-murder-aurora-barrie-ride-share-driver-charged-sex-assault",
-      "published_date": "2026-06-16T22:44:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Sask. leader 'surprisingly' pleased with 2025 wildfire report; MLA calls for accountability",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/saskatchewan/northern-sask-leader-surprisingly-pleased-with-2025-wildfire-report-mla-calls-for-accountability",
-      "published_date": "2026-06-16T22:08:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New underground music festival sails into North Vancouver this fall: What you need to know",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/new-underground-music-festival-sails-into-north-vancouver-this-fall-what-you-need-to-know",
-      "published_date": "2026-06-16T22:03:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Extremely concerning’: B.C. environmentalists outraged by minister’s caribou comments",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/extremely-concerning-b-c-environmentalists-outraged-by-ministers-caribou-comments/",
-      "published_date": "2026-06-16T21:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Private funeral for slain Const. Marc Pinizzotto set for next Wednesday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/private-funeral-marc-pinizzotto-next-week",
-      "published_date": "2026-06-16T21:34:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aurora man charged in 2 alleged indecent acts; Pair charged in Toronto homicide",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/aurora-man-charged-alleged-indecent-acts",
-      "published_date": "2026-06-16T21:24:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. health officials to expand mosquito study on North Shore",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-health-officials-to-expand-mosquito-study-on-north-shore",
-      "published_date": "2026-06-16T21:15:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to know about Canada's potential social media ban for kids under 16",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/saskatchewan/what-to-know-about-canadas-potential-social-media-ban-for-kids-under-16",
-      "published_date": "2026-06-16T21:13:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Kelowna wildfire: Evacuations ordered near Kalamoir Regional Park",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/west-kelowna-wildfire-evacuation-order-near-kalamoir-regional-park",
-      "published_date": "2026-06-16T21:01:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jenny Bucholtz leaves lasting mark on Pembroke's waterfront gardens",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/jenny-bucholtz-leaves-lasting-mark-on-pembrokes-waterfront-gardens",
-      "published_date": "2026-06-16T20:58:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Property Watch: Sumas Prairie property includes optional revenue-generating commercial space",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/sumas-prairie-property-revenue-generating-commercial-space",
-      "published_date": "2026-06-16T20:30:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cliff jumper injured near Lions Bay prompts safety warning",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/cliff-jumper-injured-near-lions-bay-prompts-safety-warning",
-      "published_date": "2026-06-16T20:05:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. crime news: Shots fired in Surrey City Centre &#124; VPD report death of man in city jail",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-crime-news-june-16-2026",
-      "published_date": "2026-06-16T19:26:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 25% of B.C. is at elevated drought levels",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/more-than-25-of-b-c-is-at-elevated-drought-levels/",
-      "published_date": "2026-06-16T19:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More weekend games at home on tap for Spitfires in 2026-27",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/more-weekend-games-at-home-on-tap-for-spitfires-in-2026-27",
-      "published_date": "2026-06-16T19:09:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Love the movie Jurassic Park? You won&#039;t want to miss this live music event in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vso-dinosaur-cinema-special-concert",
-      "published_date": "2026-06-16T19:07:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Toronto cops say numerous shootings part of 'complex' guns-for-hire scheme",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-cops-say-shootings-part-of-complex-guns-for-hire-scheme",
-      "published_date": "2026-06-16T18:56:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight-year Pitt Meadows homicide investigation leads to first-degree murder charge: IHIT",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/eight-year-pitt-meadows-homicide-investigation-murder-charge-ihit",
-      "published_date": "2026-06-16T18:35:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Distracted driving believed to be cause of FedEx crash near Sicamous",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/16/distracted-driving-believed-to-be-cause-of-fedex-crash-near-sicamous/",
-      "published_date": "2026-06-16T18:15:00Z",
       "category": "Local Events"
     }
   ]
