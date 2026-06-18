@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T00:17:43Z",
+  "generated_at": "2026-06-18T13:53:32Z",
   "country": "Canada",
   "total_stories": 79,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "WARMINGTON: Toronto Police now have wanted suspect Zara Jabbi in custody",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/warmington-toronto-police-now-have-wanted-suspect-zara-jabbi-in-custody",
+      "published_date": "2026-06-18T12:45:48Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "IRAN WAR: Ceasefire in effect after U.S., Iran remotely sign interim agreement",
       "source": "Toronto Sun",
@@ -102,18 +109,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "WARMINGTON: Toronto Police officer dies after shot executing search warrant",
+      "title": "IRAN WAR: Trump, Pezeshkian sign deal to end war",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-officer-shot-search-warrant",
-      "published_date": "2026-06-11T11:23:56Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-trump-pezeshkian-sign-deal-to-end-war",
+      "published_date": "2026-06-18T13:43:31Z",
+      "category": "Military"
     },
     {
-      "title": "Around the county: Lakeshore opens online portal for bylaw complaints",
+      "title": "Photos: Fire crews battle blaze at boarded up west Windsor house",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/around-the-county-lakeshore-opens-online-portal-for-bylaw-complaints",
-      "published_date": "2026-06-11T10:23:59Z",
-      "category": "Diplomacy"
+      "url": "https://windsorstar.com/news/local-news/photos-fire-crews-battle-blaze-at-boarded-up-west-windsor-house",
+      "published_date": "2026-06-18T04:06:40Z",
+      "category": "Military"
     },
     {
       "title": "Man charged in attempted child abduction in Surrey",
@@ -228,13 +235,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Iran says Strait of Hormuz closed as U.S. launches second day of strikes",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-11",
-      "published_date": "2026-06-11T11:40:13Z",
-      "category": "Military"
-    },
-    {
       "title": "US$15.7 billion floating LNG facility proposed for Prince Rupert",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/17/us15-7-billion-floating-lng-facility-proposed-for-prince-rupert/",
@@ -310,6 +310,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/06/12/world-cup-heat-wave-could-lead-to-record-setting-electricity-usage-bc-hydro/",
       "published_date": "2026-06-12T22:19:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Opinion: B.C. is running dry. Provincial leadership urgently needed",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-is-running-dry-provincial-leadership-urgently-needed",
+      "published_date": "2026-06-18T13:00:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "GOLDSTEIN: Prime Minister Mark Carney's accounting tricks won't save taxpayers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/prime-minister-mark-carney-accounting-tricks-wont-save-taxpayers",
+      "published_date": "2026-06-18T09:00:40Z",
+      "category": "Economy"
     },
     {
       "title": "B.C.’s Jim Hiller lands Toronto Maple Leafs head coaching job",
@@ -410,18 +424,130 @@
       "category": "Economy"
     },
     {
-      "title": "Vancouver hotel bookings picking up ahead of World Cup",
+      "title": "Vancouver Jazz Festival battles challenges to make a comeback for 41st season",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-hotel-bookings-world-cup",
-      "published_date": "2026-06-11T13:00:50Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/entertainment/vancouver-jazz-festival-2026-challenges-comeback",
+      "published_date": "2026-06-18T13:00:57Z",
+      "category": "Local Events"
     },
     {
-      "title": "B.C. facing a deteriorating business environment despite World Cup optimism",
+      "title": "Opinion: Note to B.C. schools: You don’t have to use generative AI",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-deteriorating-business-environment-despite-world-cup-optimism",
-      "published_date": "2026-06-11T13:00:36Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-note-to-b-c-schools-you-dont-have-to-use-generative-ai",
+      "published_date": "2026-06-18T13:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Massey Tunnel replacement could cost as much as $11 billion, local official says",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/massey-tunnel-replacement-could-cost-as-much-as-11-billion-local-official-says",
+      "published_date": "2026-06-18T13:00:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;A betrayal&#039;: Swimmers head to court seeking to block Aquatic Centre downsizing",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/a-betrayal-swimmers-head-to-court-seeking-to-block-aquatic-centre-downsizing",
+      "published_date": "2026-06-18T13:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA: How to get around Vancouver by transit for Canada vs. Qatar game on June 18",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/fifa-vancouver-transit-wayfinding-canada-vs-qatar-june-18",
+      "published_date": "2026-06-18T13:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Case study: Olive’s path to a new confident life",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/case-study-olives-path-to-a-new-confident-life/",
+      "published_date": "2026-06-18T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Nature Nut",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/the-nature-nut-20/",
+      "published_date": "2026-06-18T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northwest B.C. be jammin’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/northwest-b-c-be-jammin/",
+      "published_date": "2026-06-18T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Alberta separatism must not be ignored",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/editorial-alberta-separatism-must-not-be-ignored/",
+      "published_date": "2026-06-18T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four finalists named in search for Windsor Symphony's next music director",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/four-finalists-named-in-search-for-windsor-symphonys-next-music-director",
+      "published_date": "2026-06-18T12:18:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Saskatoon airport terminal nears completion in 1955",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/saskatoon-airport-terminal-completion-1955",
+      "published_date": "2026-06-18T12:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor slashes building fees by 70 per cent to unlock $50M housing fund",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-willing-to-slash-build-fees-by-70-per-cent-for-millions-from-feds-province",
+      "published_date": "2026-06-18T11:41:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Windsor will spend $500K on summer and fall events this year",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/how-windsor-will-spend-500k-on-summer-and-fall-events-this-year",
+      "published_date": "2026-06-18T11:24:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "University of Windsor to run $7.4 million deficit in 2026-27",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/university-of-windsor-to-run-7-4-million-deficit-in-2026-27",
+      "published_date": "2026-06-18T11:17:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Time for the Pembroke Observer and News weekly Photo Quiz!",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/time-for-the-pembroke-observer-and-news-weekly-photo-quiz-47",
+      "published_date": "2026-06-18T09:59:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man charged with assault after suspected hate-motivated attack inside bus",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-charged-hate-motivated-incident",
+      "published_date": "2026-06-18T02:35:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. researchers add pancreatic cancer to list of alcohol-related cancers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-researchers-add-pancreatic-cancer-to-list-of-alcohol-related-cancers",
+      "published_date": "2026-06-18T01:59:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey police board votes to &#039;gag&#039; chief; bans comments on local, B.C. government decisions",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-police-board-votes-to-gag-chief-bans-comments-on-local-bc-government-decisions",
+      "published_date": "2026-06-18T01:11:22Z",
+      "category": "Local Events"
     },
     {
       "title": "MANDEL: No, it's too soon for Toronto killer dad to seek freedom",
@@ -435,132 +561,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/17/b-c-s-medical-specialist-waitlists-up-10-and-doctors-say-pressure-is-mounting/",
       "published_date": "2026-06-18T00:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Workday or World Cup? Employers jump on the bandwagon in Metro Vancouver offices",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/workday-or-world-cup-employers-jump-on-the-bandwagon-in-metro-vancouver-offices",
-      "published_date": "2026-06-18T00:04:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rock n’ roll at the Key-oh Pub with Chillwack’s Sanctuary X",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/rock-n-roll-at-the-key-oh-pub-with-chillwacks-sanctuary-x/",
-      "published_date": "2026-06-18T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City of Toronto ended a World Cup watch party early over 'public safety concern'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/world-cup-watch-party-cancelled-safety-concern",
-      "published_date": "2026-06-17T23:59:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto man who killed mom sentenced to life with no parole for 11 years",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-who-killed-mom-sentenced-to-life-with-no-parole-for-11-years",
-      "published_date": "2026-06-17T23:48:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A cut above the rest: Kelowna barber shop helps senior after wheelchair breaks",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/a-cut-above-the-rest-kelowna-barber-shop-helps-senior-after-wheelchair-breaks/",
-      "published_date": "2026-06-17T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Unidentified substance’ poured on to Port Coquitlam Terry Fox statue: RCMP",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/unidentified-substance-poured-on-to-port-coquitlam-terry-fox-statue-rcmp/",
-      "published_date": "2026-06-17T23:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Addressing an epidemic: Bailey’s Law on intimate partner violence becomes official",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/addressing-an-epidemic-baileys-law-on-intimate-partner-violence-becomes-official/",
-      "published_date": "2026-06-17T23:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cultus Lake Waterpark: &#039;Electrical non-compliances&#039; found by safety investigators",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/cultus-lake-waterpark-electrical-non-compliances-found-by-safety-investigators",
-      "published_date": "2026-06-17T22:33:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Committee calls for indefinite halt to federal government's MAID expansion",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/committee-seeks-indefinite-halt-maid-expansion",
-      "published_date": "2026-06-17T22:15:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "School board approves name for newest Saskatoon high school",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/school-board-approves-name-for-newest-saskatoon-high-school",
-      "published_date": "2026-06-17T22:07:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caltrops found in dirt on popular Comox Valley trail",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/caltrops-found-in-dirt-on-popular-comox-valley-trail/",
-      "published_date": "2026-06-17T22:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celebrating Indigenous History: Chief Tessouat and the Algonquin Nation",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/celebrating-indigenous-history-chief-tessouat-and-the-algonquin-nation",
-      "published_date": "2026-06-17T22:03:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Community Calendar: Pembroke and area upcoming events",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/community-calendar-pembroke-and-area-upcoming-events-2",
-      "published_date": "2026-06-17T21:47:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former U.S. homeland security secretary Noem joins B.C. mining company’s board",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/former-u-s-homeland-security-secretary-noem-joins-b-c-mining-companys-board/",
-      "published_date": "2026-06-17T21:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Jamil Jivani campaigning to end 'Liberal racism' in public service",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/jamil-jivani-campaigning-against-liberal-racism",
-      "published_date": "2026-06-17T21:28:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 more youths charged after Toronto Police officer allegedly hit by stolen car",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/males-12-14-latest-charged-toronto-police-officer-allegedly-hit-stolen-car",
-      "published_date": "2026-06-17T20:46:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. upzoning rules still a contentious issue as municipal deadline looms",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/real-estate/bc-upzoning-rules-municipal-deadline",
-      "published_date": "2026-06-17T20:13:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Toronto guns-for-hire scheme included $1,000-per-shooting payday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-guns-for-hire-scheme-included-1000-per-shooting-payday",
-      "published_date": "2026-06-17T20:08:39Z",
       "category": "Local Events"
     }
   ]
