@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T13:53:32Z",
+  "generated_at": "2026-06-19T01:45:12Z",
   "country": "Canada",
-  "total_stories": 79,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Canada has its own list of demands for U.S. trade talks: Goodale",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/canada-has-its-own-list-of-demands-for-u-s-trade-talks-goodale",
+      "published_date": "2026-06-18T17:34:27Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "WARMINGTON: Toronto Police now have wanted suspect Zara Jabbi in custody",
       "source": "Toronto Sun",
@@ -71,41 +78,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-june-12",
       "published_date": "2026-06-12T11:29:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "TROZZO: What a doctor on Canada’s bench in ’86 bench taught me about the World Cup",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/11/trozzo-what-a-doctor-on-canadas-bench-in-86-bench-taught-me-about-the-world-cup/",
-      "published_date": "2026-06-12T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Toronto cop's murder comes after two-and-a-half years of festering hate and terror",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-cop-marc-pinizzotto-murder-comes-after-years-festering-hate-terror",
-      "published_date": "2026-06-11T23:26:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Doug Ford, Danielle Smith and David Eby hit personal lows in new premier poll",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/doug-ford-danielle-smith-david-eby-personal-lows-new-premier-poll",
-      "published_date": "2026-06-11T20:17:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Red Wings’ prospect finally lands with Spitfires after year-long pursuit",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/red-wings-prospect-finally-lands-with-spitfires-after-year-long-pursuit",
-      "published_date": "2026-06-11T16:03:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thai woman arrested after slain U.S. diplomat found in Myanmar",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/thai-woman-arrested-slain-u-s-diplomat-myanmar",
-      "published_date": "2026-06-11T14:23:11Z",
       "category": "Diplomacy"
     },
     {
@@ -207,34 +179,6 @@
       "category": "Military"
     },
     {
-      "title": "Department of National Defence eyes selling buildings, land",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/department-of-national-defence-eyes-selling-buildings-land",
-      "published_date": "2026-06-11T22:07:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Snakes, rabbits and cats, oh my: Pets on city buses concern councillors",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/snakes-rabbits-and-cats-oh-my-pets-on-city-buses-concern-councillors",
-      "published_date": "2026-06-11T20:11:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Drone helps capture suspect in California palm tree arson case",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/drone-helps-capture-suspect-in-california-palm-tree-arson-case",
-      "published_date": "2026-06-11T19:27:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "Leamington man faces assault, firearm charges",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/leamington-man-faces-assault-firearm-charges",
-      "published_date": "2026-06-11T15:30:43Z",
-      "category": "Military"
-    },
-    {
       "title": "US$15.7 billion floating LNG facility proposed for Prince Rupert",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/17/us15-7-billion-floating-lng-facility-proposed-for-prince-rupert/",
@@ -310,6 +254,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/06/12/world-cup-heat-wave-could-lead-to-record-setting-electricity-usage-bc-hydro/",
       "published_date": "2026-06-12T22:19:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "JAY GOLDBERG: Canada's economic engine running on empty",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canada-economic-engine-running-empty",
+      "published_date": "2026-06-18T23:35:47Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: B.C. is running dry. Provincial leadership urgently needed",
@@ -410,157 +361,143 @@
       "category": "Economy"
     },
     {
-      "title": "'Poaching' of police officers by Saskatchewan Marshals alleged by NDP",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/sask-party-poaching-police-officers-rather-than-hiring-new-recruits-alleges-ndp",
-      "published_date": "2026-06-11T21:21:09Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Opinion: Beyond the summer job: Why mentorship matters for B.C.&#039;s future workforce",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-beyond-the-summer-job-why-mentorship-matters-for-b-c-s-future-workforce",
-      "published_date": "2026-06-11T21:00:15Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Vancouver Jazz Festival battles challenges to make a comeback for 41st season",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vancouver-jazz-festival-2026-challenges-comeback",
-      "published_date": "2026-06-18T13:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Note to B.C. schools: You don’t have to use generative AI",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-note-to-b-c-schools-you-dont-have-to-use-generative-ai",
-      "published_date": "2026-06-18T13:00:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Massey Tunnel replacement could cost as much as $11 billion, local official says",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/massey-tunnel-replacement-could-cost-as-much-as-11-billion-local-official-says",
-      "published_date": "2026-06-18T13:00:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;A betrayal&#039;: Swimmers head to court seeking to block Aquatic Centre downsizing",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/a-betrayal-swimmers-head-to-court-seeking-to-block-aquatic-centre-downsizing",
-      "published_date": "2026-06-18T13:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA: How to get around Vancouver by transit for Canada vs. Qatar game on June 18",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/fifa-vancouver-transit-wayfinding-canada-vs-qatar-june-18",
-      "published_date": "2026-06-18T13:00:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Case study: Olive’s path to a new confident life",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/case-study-olives-path-to-a-new-confident-life/",
-      "published_date": "2026-06-18T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Nature Nut",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/the-nature-nut-20/",
-      "published_date": "2026-06-18T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northwest B.C. be jammin’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/northwest-b-c-be-jammin/",
-      "published_date": "2026-06-18T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Alberta separatism must not be ignored",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/editorial-alberta-separatism-must-not-be-ignored/",
-      "published_date": "2026-06-18T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four finalists named in search for Windsor Symphony's next music director",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/four-finalists-named-in-search-for-windsor-symphonys-next-music-director",
-      "published_date": "2026-06-18T12:18:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Saskatoon airport terminal nears completion in 1955",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatoon-airport-terminal-completion-1955",
-      "published_date": "2026-06-18T12:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor slashes building fees by 70 per cent to unlock $50M housing fund",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-willing-to-slash-build-fees-by-70-per-cent-for-millions-from-feds-province",
-      "published_date": "2026-06-18T11:41:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Windsor will spend $500K on summer and fall events this year",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/how-windsor-will-spend-500k-on-summer-and-fall-events-this-year",
-      "published_date": "2026-06-18T11:24:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "University of Windsor to run $7.4 million deficit in 2026-27",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/university-of-windsor-to-run-7-4-million-deficit-in-2026-27",
-      "published_date": "2026-06-18T11:17:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Time for the Pembroke Observer and News weekly Photo Quiz!",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/time-for-the-pembroke-observer-and-news-weekly-photo-quiz-47",
-      "published_date": "2026-06-18T09:59:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto man charged with assault after suspected hate-motivated attack inside bus",
+      "title": "Manhunt underway for 'armed and dangerous' man after 2 hurt in Mississauga",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-charged-hate-motivated-incident",
-      "published_date": "2026-06-18T02:35:03Z",
+      "url": "https://torontosun.com/news/local-news/man-woman-seriously-hurt-mississauga-incident",
+      "published_date": "2026-06-19T01:36:03Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. researchers add pancreatic cancer to list of alcohol-related cancers",
+      "title": "Soccer fans rejoice as Canada delivers 6-0 win vs. Qatar",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-researchers-add-pancreatic-cancer-to-list-of-alcohol-related-cancers",
-      "published_date": "2026-06-18T01:59:29Z",
+      "url": "https://vancouversun.com/news/local-news/soccer-fans-rejoice-as-canada-delivers-6-0-win-vs-qatar",
+      "published_date": "2026-06-19T01:25:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Surrey police board votes to &#039;gag&#039; chief; bans comments on local, B.C. government decisions",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-police-board-votes-to-gag-chief-bans-comments-on-local-bc-government-decisions",
-      "published_date": "2026-06-18T01:11:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: No, it's too soon for Toronto killer dad to seek freedom",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/too-soon-for-toronto-killer-dad-to-seek-freedom",
-      "published_date": "2026-06-18T00:09:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.’s medical specialist waitlists up 10%, and doctors say pressure is mounting",
+      "title": "WORLD CUP: Canada overpowers Qatar with massive 6-0 victory",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/17/b-c-s-medical-specialist-waitlists-up-10-and-doctors-say-pressure-is-mounting/",
-      "published_date": "2026-06-18T00:05:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/world-cup-canada-overpowers-qatar-with-massive-6-0-victory/",
+      "published_date": "2026-06-19T00:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Durham cops plead for info on 2023 homicide; federal offender nabbed in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/durham-cops-make-appeal-2023-homicide",
+      "published_date": "2026-06-19T00:32:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey police board&#039;s vote to &#039;muzzle&#039; chief draws backlash",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-police-boards-vote-to-muzzle-chief-draws-backlash",
+      "published_date": "2026-06-19T00:08:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Sun columnist Vaughn Palmer accepts 2026 Michener-Baxter Award",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-sun-columnist-vaughn-palmer-accepts-2026-michener-baxter-award",
+      "published_date": "2026-06-18T23:57:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal government kicks in $5 billion for B.C. housing, infrastructure",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/federal-government-kicks-in-5-billion-for-b-c-housing-infrastructure/",
+      "published_date": "2026-06-18T23:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I love Vernon’: Prime Minister tells visiting family",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/i-love-vernon-prime-minister-tells-visiting-family/",
+      "published_date": "2026-06-18T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carney, Eby announce $5 billion for B.C. housing and related infrastructure",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/carney-eby-announce-5-billion-for-bc-housing-and-related-infrastructure",
+      "published_date": "2026-06-18T23:20:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Here's what Doug Ford needs to do to make bail reform work",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/doug-ford-bail-reform-work",
+      "published_date": "2026-06-18T23:08:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Slaying of Pickering's Eleanor Doney left broken lives in its wake",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/victim-impact-statements-eleanor-doney-murder",
+      "published_date": "2026-06-18T22:59:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: This World Cup is proving once again that beer and soccer are a match",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/world-cup-beer-soccer-match",
+      "published_date": "2026-06-18T22:30:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surge Copper presents RDBN board with details on a new proposed mine",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/surge-copper-presents-rdbn-board-with-details-on-a-new-proposed-mine/",
+      "published_date": "2026-06-18T22:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tumbler Ridge to get $200 million for new school, renovated health centre",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/tumbler-ridge-to-get-200-million-for-new-school-renovated-health-centre",
+      "published_date": "2026-06-18T22:21:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elijah Wood  stops by Vancouver pizza place",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/lord-of-the-rings-star-stops-by-vancouver-pizza-place",
+      "published_date": "2026-06-18T22:14:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deepak Khandelwal will never forget Air India bombing",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/deepak-khandelwal-never-forget-air-india-bombing",
+      "published_date": "2026-06-18T21:59:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saskatoon philanthropist Irene Dubé leaves lasting legacy in health care and education",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/saskatoon-philanthropist-irene-dube-leaves-lasting-legacy-in-health-care-and-education",
+      "published_date": "2026-06-18T21:55:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kid Cudi in Vancouver this week: What to know before you go to the Rebel Ragers Tour",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/kid-cudi-in-vancouver-this-week-what-to-know-before-you-go-to-the-rebel-ragers-tour",
+      "published_date": "2026-06-18T21:39:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riding into royalty: Burns Lake teen named Kispiox Rodeo Queen",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/riding-into-royalty-burns-lake-teen-named-kispiox-rodeo-queen/",
+      "published_date": "2026-06-18T21:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FBI assists RCMP on threat directed at Salmon Arm school",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/fbi-assists-rcmp-on-threat-directed-at-salmon-arm-school-school-district-83/",
+      "published_date": "2026-06-18T20:56:00Z",
       "category": "Local Events"
     }
   ]
