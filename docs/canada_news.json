@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T01:45:12Z",
+  "generated_at": "2026-06-19T13:57:22Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -60,25 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "VUONG: Inaction is a choice. Thursday, a good man paid for ours.",
+      "title": "IRAN WAR: Talks in Switzerland called off",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/inaction-a-choice-good-man-paid-for-ours",
-      "published_date": "2026-06-12T13:52:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'We need potash’: Agriculture a key asset – and possible liability – for Canada in U.S. trade talks",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/we-need-potash-agriculture-a-key-asset-and-possible-liability-for-canada-in-u-s-trade-talks",
-      "published_date": "2026-06-12T12:00:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IRAN WAR: Trump says peace deal approved, Iran says otherwise",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-12",
-      "published_date": "2026-06-12T11:29:39Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-talks-in-switzerland-called-off",
+      "published_date": "2026-06-19T12:45:29Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Trump, Pezeshkian sign deal to end war",
@@ -177,6 +163,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/06/12/former-langley-mountie-convicted-of-assault-should-be-jailed-for-three-months-crown/",
       "published_date": "2026-06-12T23:36:00Z",
       "category": "Military"
+    },
+    {
+      "title": "B.C. giving Site E a second look, to backup solar and wind power production",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/site-e-bc-power-what-know",
+      "published_date": "2026-06-19T13:00:36Z",
+      "category": "Energy"
     },
     {
       "title": "US$15.7 billion floating LNG facility proposed for Prince Rupert",
@@ -354,11 +347,67 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: What we want for our kids is here in B.C.",
+      "title": "Teacher accused of sex with six students blackmailed over OnlyFans page",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/teacher-accused-of-sex-with-six-students-blackmailed-over-onlyfans-page",
+      "published_date": "2026-06-19T13:52:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Are provincial health systems stacked against immigrants?",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/what-we-want-for-our-kids-is-here-in-bc",
-      "published_date": "2026-06-12T13:00:44Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-are-provincial-health-systems-stacked-against-immigrants",
+      "published_date": "2026-06-19T13:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police seek man running from area of suspicious Via Italia fire",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-man-running-from-area-of-suspicious-via-italia-fire",
+      "published_date": "2026-06-19T12:56:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kamloops man to celebrate 29th birthday 10 years after near-fatal attack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/kamloops-man-to-celebrate-29th-birthday-10-years-after-near-fatal-attack/",
+      "published_date": "2026-06-19T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Proximity matters': Saskatoon residents concerned about shelter buffer zones",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/proximity-matters-saskatoon-residents-concerned-about-shelter-buffer-zones",
+      "published_date": "2026-06-19T12:00:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Learn about the city and its history: Five things to do this weekend in Saskatoon, June 19-21",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/entertainment/local-arts/five-things-to-do-this-weekend-in-saskatoon-june-19-21",
+      "published_date": "2026-06-19T12:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lakeshore homicide victim suffered five gunshot wounds, court hears",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/crime/murdered-lakeshore-man-suffered-five-gunshot-wounds-court-hears",
+      "published_date": "2026-06-19T10:25:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funding deal clears way for Essex County OPP Board South to resume meetings",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/opp-detachment-board-south",
+      "published_date": "2026-06-19T10:04:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: Fans party into the night in Vancouver after Canada&#039;s 6-0 World Cup victory",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/world-cup-2026-fans-party-into-the-night-in-vancouver-after-canadas-6-0-world-cup-victory",
+      "published_date": "2026-06-19T03:44:20Z",
+      "category": "Local Events"
     },
     {
       "title": "Manhunt underway for 'armed and dangerous' man after 2 hurt in Mississauga",
@@ -435,69 +484,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/victim-impact-statements-eleanor-doney-murder",
       "published_date": "2026-06-18T22:59:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: This World Cup is proving once again that beer and soccer are a match",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/world-cup-beer-soccer-match",
-      "published_date": "2026-06-18T22:30:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surge Copper presents RDBN board with details on a new proposed mine",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/surge-copper-presents-rdbn-board-with-details-on-a-new-proposed-mine/",
-      "published_date": "2026-06-18T22:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tumbler Ridge to get $200 million for new school, renovated health centre",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/tumbler-ridge-to-get-200-million-for-new-school-renovated-health-centre",
-      "published_date": "2026-06-18T22:21:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elijah Wood  stops by Vancouver pizza place",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/lord-of-the-rings-star-stops-by-vancouver-pizza-place",
-      "published_date": "2026-06-18T22:14:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deepak Khandelwal will never forget Air India bombing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/deepak-khandelwal-never-forget-air-india-bombing",
-      "published_date": "2026-06-18T21:59:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saskatoon philanthropist Irene Dubé leaves lasting legacy in health care and education",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/saskatoon-philanthropist-irene-dube-leaves-lasting-legacy-in-health-care-and-education",
-      "published_date": "2026-06-18T21:55:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kid Cudi in Vancouver this week: What to know before you go to the Rebel Ragers Tour",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/kid-cudi-in-vancouver-this-week-what-to-know-before-you-go-to-the-rebel-ragers-tour",
-      "published_date": "2026-06-18T21:39:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riding into royalty: Burns Lake teen named Kispiox Rodeo Queen",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/riding-into-royalty-burns-lake-teen-named-kispiox-rodeo-queen/",
-      "published_date": "2026-06-18T21:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI assists RCMP on threat directed at Salmon Arm school",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/fbi-assists-rcmp-on-threat-directed-at-salmon-arm-school-school-district-83/",
-      "published_date": "2026-06-18T20:56:00Z",
       "category": "Local Events"
     }
   ]
