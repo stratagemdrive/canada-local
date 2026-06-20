@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T13:57:22Z",
+  "generated_at": "2026-06-20T00:12:23Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "B.C. nurses vote 67% to reject recently negotiated tentative collective agreement",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/b-c-nurses-vote-67-to-reject-recently-negotiated-tentative-collective-agreement/",
+      "published_date": "2026-06-19T22:05:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canada has its own list of demands for U.S. trade talks: Goodale",
       "source": "The StarPhoenix",
@@ -53,11 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "WARMINGTON: Man, 18, arrested for shooting up U.S. consulate in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-18-arrested-shooting-up-u-s-consulate-toronto",
-      "published_date": "2026-06-12T23:49:13Z",
-      "category": "Diplomacy"
+      "title": "Youth under 12-month terrorism peace bond in Salmon Arm school threat case",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/youth-under-12-month-terrorism-peace-bond-in-salmon-arm-school-threat-case/",
+      "published_date": "2026-06-20T00:04:00Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Talks in Switzerland called off",
@@ -158,11 +165,18 @@
       "category": "Military"
     },
     {
-      "title": "Former Langley Mountie convicted of assault should be jailed for three months: Crown",
+      "title": "Site E, Homathko dam proposals divide B.C. First Nations, confound Site C critics",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/former-langley-mountie-convicted-of-assault-should-be-jailed-for-three-months-crown/",
-      "published_date": "2026-06-12T23:36:00Z",
-      "category": "Military"
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/site-e-homathko-dam-proposals-divide-b-c-first-nations-confound-site-c-critics/",
+      "published_date": "2026-06-20T00:02:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Mandy’s salads may not be open yet in Vancouver, but they’re delivering",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/mandys-salads-isnt-open-yet-in-vancouver-but-theyve-already-launched-delivery",
+      "published_date": "2026-06-19T21:14:32Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. giving Site E a second look, to backup solar and wind power production",
@@ -242,11 +256,11 @@
       "category": "Energy"
     },
     {
-      "title": "World Cup, heat wave could lead to record-setting electricity usage: BC Hydro",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/12/world-cup-heat-wave-could-lead-to-record-setting-electricity-usage-bc-hydro/",
-      "published_date": "2026-06-12T22:19:00Z",
-      "category": "Energy"
+      "title": "Detroit automakers enter consequential round of bargaining with union",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/detroit-automakers-enter-consequential-round-of-bargaining-with-union",
+      "published_date": "2026-06-19T14:38:38Z",
+      "category": "Economy"
     },
     {
       "title": "JAY GOLDBERG: Canada's economic engine running on empty",
@@ -340,150 +354,143 @@
       "category": "Economy"
     },
     {
-      "title": "Metro Vancouver union ramps up job action with full strike planned for Monday",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/metro-vancouver-union-ramps-up-job-action-with-full-strike-planned-for-monday",
-      "published_date": "2026-06-12T22:55:38Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Teacher accused of sex with six students blackmailed over OnlyFans page",
+      "title": "Toronto woman wanted for second-degree murder in death of Erik Safar",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/teacher-accused-of-sex-with-six-students-blackmailed-over-onlyfans-page",
-      "published_date": "2026-06-19T13:52:09Z",
+      "url": "https://torontosun.com/news/local-news/toronto-woman-wanted-second-degree-murder-death-erik-safar",
+      "published_date": "2026-06-19T23:57:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Are provincial health systems stacked against immigrants?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-are-provincial-health-systems-stacked-against-immigrants",
-      "published_date": "2026-06-19T13:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seek man running from area of suspicious Via Italia fire",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-man-running-from-area-of-suspicious-via-italia-fire",
-      "published_date": "2026-06-19T12:56:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kamloops man to celebrate 29th birthday 10 years after near-fatal attack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/kamloops-man-to-celebrate-29th-birthday-10-years-after-near-fatal-attack/",
-      "published_date": "2026-06-19T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Proximity matters': Saskatoon residents concerned about shelter buffer zones",
+      "title": "'Driving like a bat out of hell': Wylie Vermette gets two years for fatal Saskatoon crash",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/proximity-matters-saskatoon-residents-concerned-about-shelter-buffer-zones",
-      "published_date": "2026-06-19T12:00:39Z",
+      "url": "https://thestarphoenix.com/news/crime/driving-like-a-bat-out-of-hell-wylie-vermette-gets-two-years-for-fatal-saskatoon-crash",
+      "published_date": "2026-06-19T23:56:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Learn about the city and its history: Five things to do this weekend in Saskatoon, June 19-21",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/entertainment/local-arts/five-things-to-do-this-weekend-in-saskatoon-june-19-21",
-      "published_date": "2026-06-19T12:00:31Z",
+      "title": "LILLEY: Don't cry for CBC as they drop 'Hockey Night in Canada'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/dont-cry-for-cbc-hockey-night-in-canada",
+      "published_date": "2026-06-19T23:29:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Lakeshore homicide victim suffered five gunshot wounds, court hears",
+      "title": "Todd Mayenknecht: Canada’s national men’s soccer program is the biggest winner this week",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/sports/soccer/international-soccer/todd-mayenknecht-canadas-national-mens-soccer-program-is-the-biggest-winner-this-week",
+      "published_date": "2026-06-19T23:24:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Billionaire Frank Stronach convicted of being a lecherous abuser — but not a rapist",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/billionaire-frank-stronach-convicted-lecherous-abuser-not-rapist",
+      "published_date": "2026-06-19T23:08:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada Shore to begin filming in Kelowna’s McKinley Landing this month",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/canada-shore-to-begin-filming-in-kelownas-mckinley-landing-this-month/",
+      "published_date": "2026-06-19T23:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "TransLink reports highest ridership since 2020 for Canada-Qatar match",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/translink-reports-highest-ridership-since-2020-for-canada-qatar-match/",
+      "published_date": "2026-06-19T22:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vernon woman charged with murdering her mother",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/vernon-woman-charged-with-murdering-her-mother/",
+      "published_date": "2026-06-19T22:41:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Alleged cop killer now officially charged with first degree murder in Const. Marc Pinizzotto's slaying",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/alleged-cop-killer-charged-first-degree-murder-const-marc-pinizzotto",
+      "published_date": "2026-06-19T22:30:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada-wide warrant issued for son of senior couple murdered in Mississauga home",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/canada-wide-warrant-son-senior-couple-murdered-mississauga",
+      "published_date": "2026-06-19T22:03:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PHOTOS: B.C. photographer captures rare moment of herons raised by eagle",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/photos-b-c-photographer-captures-rare-moment-of-herons-raised-by-eagle/",
+      "published_date": "2026-06-19T22:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP PHOTOS: B.C. celebrates Canada’s historic 6-0 win over Qatar",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/world-cup-photos-b-c-celebrates-canadas-historic-6-0-win-over-qatar/",
+      "published_date": "2026-06-19T21:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Company sues B.C., says it was stripped of mining rights for First Nation deal",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/company-sues-bc-government-for-allegedly-stripping-mining-rights-over-first-nations-deal",
+      "published_date": "2026-06-19T20:58:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria sees largest increase in available rentals in Canada’s top 10 markets",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/victoria-sees-largest-increase-in-available-rentals-in-canadas-top-10-markets/",
+      "published_date": "2026-06-19T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Langley ice rink closed due to ammonia leak",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/langley-ice-rink-closed-ammonia-leak",
+      "published_date": "2026-06-19T19:52:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Monster sturgeon landed by Chilliwack fishing guide weighs estimated 1,200 pounds",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/monster-sturgeon-landed-by-chilliwack-fishing-guide-weighs-estimated-1200-pounds/",
+      "published_date": "2026-06-19T19:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tourists chasing this viral B.C. beach are blowing tires on remote logging roads",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/tourists-viral-bc-beach-are-blowing-tires-on-remote-logging-roads",
+      "published_date": "2026-06-19T19:38:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seniors explore local resources at expo in LaSalle",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/crime/murdered-lakeshore-man-suffered-five-gunshot-wounds-court-hears",
-      "published_date": "2026-06-19T10:25:58Z",
+      "url": "https://windsorstar.com/news/local-news/seniors-expo-in-lasalle",
+      "published_date": "2026-06-19T19:32:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Funding deal clears way for Essex County OPP Board South to resume meetings",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-detachment-board-south",
-      "published_date": "2026-06-19T10:04:22Z",
+      "title": "Section of Pembroke Street West closed to allow for infrastructure work",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/section-of-pembroke-street-west-closed-to-allow-for-infrastructure-work",
+      "published_date": "2026-06-19T19:25:18Z",
       "category": "Local Events"
     },
     {
-      "title": "World Cup 2026: Fans party into the night in Vancouver after Canada&#039;s 6-0 World Cup victory",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/world-cup-2026-fans-party-into-the-night-in-vancouver-after-canadas-6-0-world-cup-victory",
-      "published_date": "2026-06-19T03:44:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manhunt underway for 'armed and dangerous' man after 2 hurt in Mississauga",
+      "title": "'All My Children' actor Paul Avery and his wife Sheila perish in house fire",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-woman-seriously-hurt-mississauga-incident",
-      "published_date": "2026-06-19T01:36:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soccer fans rejoice as Canada delivers 6-0 win vs. Qatar",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/soccer-fans-rejoice-as-canada-delivers-6-0-win-vs-qatar",
-      "published_date": "2026-06-19T01:25:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP: Canada overpowers Qatar with massive 6-0 victory",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/world-cup-canada-overpowers-qatar-with-massive-6-0-victory/",
-      "published_date": "2026-06-19T00:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Durham cops plead for info on 2023 homicide; federal offender nabbed in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/durham-cops-make-appeal-2023-homicide",
-      "published_date": "2026-06-19T00:32:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey police board&#039;s vote to &#039;muzzle&#039; chief draws backlash",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-police-boards-vote-to-muzzle-chief-draws-backlash",
-      "published_date": "2026-06-19T00:08:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Sun columnist Vaughn Palmer accepts 2026 Michener-Baxter Award",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-sun-columnist-vaughn-palmer-accepts-2026-michener-baxter-award",
-      "published_date": "2026-06-18T23:57:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal government kicks in $5 billion for B.C. housing, infrastructure",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/federal-government-kicks-in-5-billion-for-b-c-housing-infrastructure/",
-      "published_date": "2026-06-18T23:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I love Vernon’: Prime Minister tells visiting family",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/18/i-love-vernon-prime-minister-tells-visiting-family/",
-      "published_date": "2026-06-18T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carney, Eby announce $5 billion for B.C. housing and related infrastructure",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/carney-eby-announce-5-billion-for-bc-housing-and-related-infrastructure",
-      "published_date": "2026-06-18T23:20:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Here's what Doug Ford needs to do to make bail reform work",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/doug-ford-bail-reform-work",
-      "published_date": "2026-06-18T23:08:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Slaying of Pickering's Eleanor Doney left broken lives in its wake",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/victim-impact-statements-eleanor-doney-murder",
-      "published_date": "2026-06-18T22:59:14Z",
+      "url": "https://torontosun.com/entertainment/television/all-my-children-actor-paul-avery-wife-sheila-perish-house-fire",
+      "published_date": "2026-06-19T19:20:51Z",
       "category": "Local Events"
     }
   ]
