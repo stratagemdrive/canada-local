@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T00:14:58Z",
+  "generated_at": "2026-06-22T15:46:09Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "IRAN WAR LATEST: Mediators praise 'progress' in peace talks after Trump warns Iran about 'proxies'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-june-22",
+      "published_date": "2026-06-22T11:13:51Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "IRAN WAR: U.S.-Iran peace talks stalled after Donald Trump threatens Iranian negotiators",
       "source": "Toronto Sun",
@@ -64,13 +71,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/warmington-all-eyes-on-toronto-police-headquarters-for-update-on-u-s-consulate-shooting",
       "published_date": "2026-06-16T13:23:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IRAN WAR: Peace deal already under strain as Israel vows to remain in Lebanon",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-peace-deal-already-under-strain-as-israel-vows-to-remain-in-lebanon",
-      "published_date": "2026-06-15T15:11:15Z",
       "category": "Diplomacy"
     },
     {
@@ -270,6 +270,20 @@
       "category": "Energy"
     },
     {
+      "title": "Alan Greenspan, former U.S. Federal Reserve chairman, dies at 100",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/alan-greenspan-former-fed-chairman-dies",
+      "published_date": "2026-06-22T13:11:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Winsdor experts warn social media ban could push teens into riskier behaviour",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/experts-warn-social-media-ban-could-push-teens-into-riskier-behaviour",
+      "published_date": "2026-06-22T10:17:35Z",
+      "category": "Economy"
+    },
+    {
       "title": "More can be done to tackle 'abhorrent' food bank usage rate: Daily Bread CEO",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/food-bank-usage-rate-abhorrent-ceo",
@@ -361,143 +375,143 @@
       "category": "Economy"
     },
     {
-      "title": "Sunscreen misinformation spreading on TikTok: Researchers",
+      "title": "LILLEY: Fixing rising food prices isn't a priority to Mark Carney",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/health/sunscreen-misinformation-spreading-on-tiktok-researchers",
-      "published_date": "2026-06-21T22:15:48Z",
+      "url": "https://torontosun.com/opinion/columnists/rising-inflation-food-prices-mark-carney",
+      "published_date": "2026-06-22T15:30:35Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: GTA barely avoids another police funeral after Peel officer shot at",
+      "title": "Measles warning over possible exposure on two flights at Pearson",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/gta-barely-avoids-another-cop-funeral",
-      "published_date": "2026-06-21T21:20:22Z",
+      "url": "https://torontosun.com/news/local-news/measles-warning-possible-exposure-flights-pearson-airport",
+      "published_date": "2026-06-22T15:17:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Petawawa backs call for fire funding",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/petawawa-backs-call-for-fire-funding",
-      "published_date": "2026-06-21T20:09:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saw Creek wildfire near Lytton reported as 704 hectares",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/21/saw-creek-wildfire-near-lytton-reported-as-704-hectares/",
-      "published_date": "2026-06-21T19:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ottawa driver charged after turtle-related Highway 60 crash",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/ottawa-driver-charged-after-turtle-related-highway-60-crash",
-      "published_date": "2026-06-21T19:42:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New parking meter installation completed in downtown Pembroke",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/new-parking-meter-installation-completed-in-downtown-pembroke",
-      "published_date": "2026-06-21T19:32:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Freddy, the anonymous World Cup fan, sneaks into Toronto undetected",
+      "title": "Arby's customer claims restaurant employee's spit gave her herpes",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/fredd-anonymous-world-cup-fan-toronto",
-      "published_date": "2026-06-21T17:44:12Z",
+      "url": "https://torontosun.com/news/world/arbys-customer-claims-employee-spit-herpes",
+      "published_date": "2026-06-22T14:55:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Chilliwack author releases memoir about surviving mother’s ‘web of lies’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/21/chilliwack-author-releases-memoir-about-surviving-mothers-web-of-lies/",
-      "published_date": "2026-06-21T16:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver developer goes all-in on office-to-hotel conversions",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/real-estate/vancouver-reliance-properties-all-in-office-hotel-conversions",
-      "published_date": "2026-06-21T15:23:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. environmental group&#039;s ad campaign during World Cup puts spotlight on old-growth logging",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-environmental-groups-ad-campaign-during-world-cup-puts-spotlight-on-old-growth-logging",
-      "published_date": "2026-06-21T15:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is a root smudge or a root drop the right hair colour technique for you?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/root-smudge-root-drop-hair-colour-technique",
-      "published_date": "2026-06-21T15:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bookless Club: Frugal or wasteful — where do you stand?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/bookless-club-frugality-reigns",
-      "published_date": "2026-06-21T15:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Vancouver&#039;s instantly iconic Science World soccer ball came to be",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/how-vancouvers-instantly-iconic-science-world-soccer-ball-came-to-be",
-      "published_date": "2026-06-21T15:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kingston going all-out to honour The Tragically Hip's farewell concert",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/kingston-commemorates-tragically-hip-goodbye-concert",
-      "published_date": "2026-06-21T14:22:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, June 21: Vancouver hosts New Zealand vs. Egypt today at 6 p.m.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/21/world-cup-daily-june-21-vancouver-hosts-new-zealand-vs-egypt-today-at-6-p-m/",
-      "published_date": "2026-06-21T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senior cyclist critically injured in South Windsor collision",
+      "title": "Windsor police seize fentanyl, cash and pills in downtown investigation",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/cyclist-critically-injured",
-      "published_date": "2026-06-21T13:34:24Z",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seize-fentanyl-cash-and-pills-in-downtown-investigation",
+      "published_date": "2026-06-22T14:20:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Three in 10 Ontario couples say grocery spending has strained their relationships: Poll",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/three-in-10-ontario-couples-say-grocery-spending-has-strained-their-relationships-poll",
-      "published_date": "2026-06-21T13:30:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Q+A: New Catholic bishop on his move to London, the challenges ahead",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/qa-new-catholic-bishop-on-his-move-to-london-the-challenges-ahead",
-      "published_date": "2026-06-21T13:27:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fiery crash briefly closes stretch of eastbound 401; Toronto man accused of assault, robbery",
+      "title": "Rowdy aircraft passenger bites fellow flyer on flight to Philadelphia: ‘HE’S TRYING TO FIGHT EVERYBODY’",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/fiery-crash-closes-stretch-eastbound-401",
-      "published_date": "2026-06-21T13:05:22Z",
+      "url": "https://torontosun.com/news/world/american-airlines-passenger-bites-fellow-flyer-flight-philadelphia",
+      "published_date": "2026-06-22T14:09:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Former Burns Lake resident releases debut album",
+      "title": "HST rebate boosted new GTA home sales but not condo: Report",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hst-rebate-boosted-new-home-sales-report",
+      "published_date": "2026-06-22T14:05:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Petawawa developing unstructured play areas for all ages",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/petawawa-developing-unstructured-play-areas-for-all-ages",
+      "published_date": "2026-06-22T14:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Getting high-scoring centre Hanutke into the rink can only be seen as a positive for Spitfires",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/getting-high-scoring-centre-hanutke-into-the-rink-can-only-bee-seen-as-a-positive-for-spitfires",
+      "published_date": "2026-06-22T14:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, June 22: Egypt scores historic win in Vancouver; Argentina plays this morning",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/21/former-burns-lake-resident-releases-debut-album/",
-      "published_date": "2026-06-21T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/world-cup-daily-june-22-egypt-scores-historic-win-in-vancouver-argentina-plays-this-morning/",
+      "published_date": "2026-06-22T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clapp takes rightful place in Canadian Baseball Hall of Fame",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/clapp-takes-rightful-place-in-canadian-baseball-hall-of-fame",
+      "published_date": "2026-06-22T13:54:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-Olympian canoeist denies vandalizing Lincoln Memorial Reflecting Pool",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/ex-olympian-david-hearn-arrested-washington-reflecting-pool",
+      "published_date": "2026-06-22T13:30:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Filmmakers fundraise to finish late friend’s West Coast story of resilience",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/filmmakers-fundraise-to-finish-late-friends-west-coast-story-of-resilience/",
+      "published_date": "2026-06-22T13:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police seek video after string of attempted vehicle thefts in east Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/police-seek-video-after-string-of-attempted-vehicle-thefts-in-east-windsor",
+      "published_date": "2026-06-22T13:03:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Something big is brewing at Vancouver&#039;s old Molson site beside Burrard Bridge",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/neighbourhood-transforming-plans-brewing-at-the-former-molson-site-beside-the-burrard-bridge",
+      "published_date": "2026-06-22T13:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver&#039;s new police drones raise questions about privacy and oversight",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-police-drones-raise-questions-about-privacy-oversight",
+      "published_date": "2026-06-22T13:00:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor woman charged with impaired driving after 10-year-old critically injured in Hwy. 401 crash",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-woman-charged-with-impaired-driving-after-10-year-old-critically-injured-in-hwy-401-crash",
+      "published_date": "2026-06-22T12:58:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surveillance footage shows moments before anti-Muslim attacks in Scotland",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/footage-anti-muslim-attacks-edinburgh-scotland",
+      "published_date": "2026-06-22T12:36:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muskeg Lake Cree Nation approaches city about DEED partnership",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/muskeg-lake-cree-nation-approaches-city-about-deed-partnership",
+      "published_date": "2026-06-22T12:00:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "With bike-theft season upon us, Windsor police urge precaution",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-offer-tips-on-keeping-bikes-from-thieves",
+      "published_date": "2026-06-22T10:48:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carrousel of the Nations wraps up second weekend of festivities",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/carrousel-of-nations-wraps-up",
+      "published_date": "2026-06-22T10:26:12Z",
       "category": "Local Events"
     }
   ]
