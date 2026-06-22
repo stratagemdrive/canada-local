@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T12:59:17Z",
+  "generated_at": "2026-06-22T00:14:58Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "IRAN WAR: U.S.-Iran peace talks stalled after Donald Trump threatens Iranian negotiators",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-june-21-2026",
+      "published_date": "2026-06-21T19:50:09Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "WARMINGTON: Donald Trump and Giorgia Meloni trade barbs as war of words heats up",
       "source": "Toronto Sun",
@@ -65,6 +72,20 @@
       "url": "https://torontosun.com/news/world/iran-war-peace-deal-already-under-strain-as-israel-vows-to-remain-in-lebanon",
       "published_date": "2026-06-15T15:11:15Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Pembroke man charged after alleged weapon-related altercation",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-man-charged-after-alleged-weapon-related-altercation",
+      "published_date": "2026-06-21T19:59:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "Jet-skier goes over weir in Saskatoon's South Saskatchewan River",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/jet-skier-goes-over-weir-in-saskatoons-south-saskatchewan-river",
+      "published_date": "2026-06-21T19:44:43Z",
+      "category": "Military"
     },
     {
       "title": "Youth under 12-month terrorism peace bond in Salmon Arm school threat case",
@@ -158,18 +179,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Donald Trump says deal to end fighting 'now complete' despite Israeli concerns",
+      "title": "The Amateur Investor: Pump up your portfolio with Canadian oil and gas",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-latest-trump-says-deal-complete",
-      "published_date": "2026-06-14T23:43:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Bowler 'really happy' as Spitfires' general manager breaks down all 15 picks by club in OHL Draft",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/bowler-really-happy-as-spitfires-general-manager-breaks-down-all-15-picks-by-club-in-ohl-draft",
-      "published_date": "2026-06-14T13:36:58Z",
-      "category": "Military"
+      "url": "https://torontosun.com/business/amateur-investor-canadian-oil-and-gas",
+      "published_date": "2026-06-21T18:31:12Z",
+      "category": "Energy"
     },
     {
       "title": "Solar storms: one thing less to worry about?",
@@ -256,11 +270,11 @@
       "category": "Energy"
     },
     {
-      "title": "LaSalle's McNally leads the charge as Guelph's top pick the first of eight locals taken in OHL Draft",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/lasalles-mcnally-leads-the-charge-as-guelphs-top-pick-the-first-of-eight-locals-taken-in-ohl-draft",
-      "published_date": "2026-06-14T13:12:45Z",
-      "category": "Energy"
+      "title": "More can be done to tackle 'abhorrent' food bank usage rate: Daily Bread CEO",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/food-bank-usage-rate-abhorrent-ceo",
+      "published_date": "2026-06-21T23:52:53Z",
+      "category": "Economy"
     },
     {
       "title": "GOLDSTEIN: No accountability for record federal spending on Indigenous issues",
@@ -347,164 +361,143 @@
       "category": "Economy"
     },
     {
-      "title": "UPDATE: Metro Vancouver outside workers&#039; one-day strike has ended",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-strike-what-to-know",
-      "published_date": "2026-06-14T22:36:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "STAR PARKER: Mike Pence's important new book about the United States",
+      "title": "Sunscreen misinformation spreading on TikTok: Researchers",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mike-pence-important-new-book-united-states",
-      "published_date": "2026-06-14T15:13:11Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/health/sunscreen-misinformation-spreading-on-tiktok-researchers",
+      "published_date": "2026-06-21T22:15:48Z",
+      "category": "Local Events"
     },
     {
-      "title": "The 4 best flatirons for every budget and hair type",
+      "title": "WARMINGTON: GTA barely avoids another police funeral after Peel officer shot at",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/gta-barely-avoids-another-cop-funeral",
+      "published_date": "2026-06-21T21:20:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Petawawa backs call for fire funding",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/petawawa-backs-call-for-fire-funding",
+      "published_date": "2026-06-21T20:09:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saw Creek wildfire near Lytton reported as 704 hectares",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/21/saw-creek-wildfire-near-lytton-reported-as-704-hectares/",
+      "published_date": "2026-06-21T19:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ottawa driver charged after turtle-related Highway 60 crash",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/ottawa-driver-charged-after-turtle-related-highway-60-crash",
+      "published_date": "2026-06-21T19:42:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New parking meter installation completed in downtown Pembroke",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/new-parking-meter-installation-completed-in-downtown-pembroke",
+      "published_date": "2026-06-21T19:32:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Freddy, the anonymous World Cup fan, sneaks into Toronto undetected",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/fredd-anonymous-world-cup-fan-toronto",
+      "published_date": "2026-06-21T17:44:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chilliwack author releases memoir about surviving mother’s ‘web of lies’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/21/chilliwack-author-releases-memoir-about-surviving-mothers-web-of-lies/",
+      "published_date": "2026-06-21T16:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver developer goes all-in on office-to-hotel conversions",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/best-flatirons-hair-type-budget",
-      "published_date": "2026-06-14T15:00:41Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/business/real-estate/vancouver-reliance-properties-all-in-office-hotel-conversions",
+      "published_date": "2026-06-21T15:23:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. environmental group&#039;s ad campaign during World Cup puts spotlight on old-growth logging",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-environmental-groups-ad-campaign-during-world-cup-puts-spotlight-on-old-growth-logging",
+      "published_date": "2026-06-21T15:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is a root smudge or a root drop the right hair colour technique for you?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/root-smudge-root-drop-hair-colour-technique",
+      "published_date": "2026-06-21T15:00:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bookless Club: Frugal or wasteful — where do you stand?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/bookless-club-frugality-reigns",
+      "published_date": "2026-06-21T15:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Vancouver&#039;s instantly iconic Science World soccer ball came to be",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/how-vancouvers-instantly-iconic-science-world-soccer-ball-came-to-be",
+      "published_date": "2026-06-21T15:00:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kingston going all-out to honour The Tragically Hip's farewell concert",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/kingston-commemorates-tragically-hip-goodbye-concert",
+      "published_date": "2026-06-21T14:22:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, June 21: Vancouver hosts New Zealand vs. Egypt today at 6 p.m.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/21/world-cup-daily-june-21-vancouver-hosts-new-zealand-vs-egypt-today-at-6-p-m/",
+      "published_date": "2026-06-21T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senior cyclist critically injured in South Windsor collision",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/cyclist-critically-injured",
+      "published_date": "2026-06-21T13:34:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three in 10 Ontario couples say grocery spending has strained their relationships: Poll",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/three-in-10-ontario-couples-say-grocery-spending-has-strained-their-relationships-poll",
+      "published_date": "2026-06-21T13:30:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Q+A: New Catholic bishop on his move to London, the challenges ahead",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/qa-new-catholic-bishop-on-his-move-to-london-the-challenges-ahead",
+      "published_date": "2026-06-21T13:27:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fiery crash briefly closes stretch of eastbound 401; Toronto man accused of assault, robbery",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/fiery-crash-closes-stretch-eastbound-401",
+      "published_date": "2026-06-21T13:05:22Z",
+      "category": "Local Events"
     },
     {
       "title": "Former Burns Lake resident releases debut album",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/21/former-burns-lake-resident-releases-debut-album/",
       "published_date": "2026-06-21T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: A salute to fathers and fatherhood",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/21/quiz-a-salute-to-fathers-and-fatherhood/",
-      "published_date": "2026-06-21T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Resilient people’: Stories from Lytton on the second day of 2026 wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/20/stories-from-the-people-of-lytton-on-the-second-day-of-2026-wildfire/",
-      "published_date": "2026-06-21T03:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'NOT SAVED': Delays, developer drama raise concerns about Weston arena's future",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/delays-weston-lions-arena-hockey-ice",
-      "published_date": "2026-06-20T21:43:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "As a growing wildfire forces new evacuations, Lytton&#039;s recovery remains unfinished",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/wildfire-evacuations-lytton-recovery-unfinished",
-      "published_date": "2026-06-20T19:53:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Obit: Former UWindsor president Alan Wildeman dies at age 72",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/former-uwindsor-president-alan-wildeman-dies-age-72",
-      "published_date": "2026-06-20T19:03:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HERBERT: Black Hills Nota Bene an icon on the B.C. wine scene",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/20/herbert-black-hills-nota-bene-an-icon-on-the-b-c-wine-scene/",
-      "published_date": "2026-06-20T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International: 30 bestselling books of the week for June 13",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/international-30-bestselling-books-of-the-week-for-june-13",
-      "published_date": "2026-06-20T18:00:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuation order expanded in Lytton in response to Saw Creek wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/20/lytton-wildfire-grows-to-600-hectares-on-second-day-of-blaze/",
-      "published_date": "2026-06-20T16:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letter: Bandshell would be a positive attraction",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/letter-bandshell-would-be-a-positive-attraction",
-      "published_date": "2026-06-20T16:32:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman dies after downtown Toronto apartment shooting; man arrested for Brampton ATM robberies",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/woman-shot-downtown-toronto-apartment-man-arrested-brampton-atm-robberies",
-      "published_date": "2026-06-20T16:29:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Staying Rooted to Human Rights During Times of Political Inconvenience",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/col-staying-rooted-to-human-rights-during-times-of-political-inconvenience",
-      "published_date": "2026-06-20T16:22:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letter: Location not ideal for new bus depot",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/letter-location-not-ideal-for-new-bus-depot",
-      "published_date": "2026-06-20T16:21:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Canada Royal Milk story Ottawa doesn't want to explain",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/the-canada-royal-milk-story-ottawa-doesnt-want-to-explain",
-      "published_date": "2026-06-20T15:56:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letter: Gordie Howe bridge will brighten Windsor's future",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/letter-gordie-howe-bridge-will-brighten-windsors-future",
-      "published_date": "2026-06-20T15:42:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Typical teen Penny 'Bad Penny' Bjorkland wanted to kill",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/typical-teen-penny-bjorkland-wanted-to-kill",
-      "published_date": "2026-06-20T15:34:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. woman awarded almost $400,000 after off-leash dog attack left her severely injured",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-woman-awarded-almost-400000-after-off-leash-dog-attack-left-her-severely-injured",
-      "published_date": "2026-06-20T15:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: B.C.&#039;s wild, windy Similkameen Valley offers up wines that turn heads",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-similikameen-wines",
-      "published_date": "2026-06-20T15:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Doctor held hostage by Hamas says Iran's vision is 'global Islamic state'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/doctor-hostage-hamas-iran-global-islamic-state",
-      "published_date": "2026-06-20T14:36:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Vancouver Sun: Kristi Noem a shocking choice for Vancouver company&#039;s advisory board",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-kristi-noem-a-shocking-choice-for-vancouver-companys-advisory-board",
-      "published_date": "2026-06-20T14:00:19Z",
       "category": "Local Events"
     }
   ]
