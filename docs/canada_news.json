@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23T00:10:44Z",
+  "generated_at": "2026-06-23T13:32:51Z",
   "country": "Canada",
-  "total_stories": 76,
+  "total_stories": 75,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Rare records unearthed as U.S. consulate in Vancouver marks 165-year history",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/rare-records-unearthed-as-u-s-consulate-in-vancouver-marks-165-year-history",
+      "published_date": "2026-06-23T13:00:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Iran won't allow UN inspectors at bombed nuclear sites",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-june-23",
+      "published_date": "2026-06-23T11:49:36Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Vancouver-shot horror movie Backrooms continues to break box office records",
       "source": "Vancouver Sun",
@@ -81,11 +95,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "WARMINGTON: All eyes on Toronto Police headquarters for update on U.S. consulate shooting",
+      "title": "WARMINGTON: Montreal officers in crosshairs amid nationwide war on cops",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/warmington-all-eyes-on-toronto-police-headquarters-for-update-on-u-s-consulate-shooting",
-      "published_date": "2026-06-16T13:23:13Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/national/montreal-officers-in-crosshairs-war-on-cops",
+      "published_date": "2026-06-23T00:32:07Z",
+      "category": "Military"
     },
     {
       "title": "Majority of Canadians see China as 'significant threat,' poll shows",
@@ -263,25 +277,11 @@
       "category": "Energy"
     },
     {
-      "title": "Dine above the crowds: Here are 5 Vancouver rooftop restaurants to check out",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/vancouver-restaurants-rooftop",
-      "published_date": "2026-06-16T13:00:58Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Opinion: B.C.&#039;s rental supply pipeline is thinning, and that&#039;s a crisis in the making",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-rental-supply-pipeline-thinning-crisis",
-      "published_date": "2026-06-16T13:00:06Z",
-      "category": "Energy"
-    },
-    {
-      "title": "B.C. looking at revisiting Site E and Homathko dams",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/15/b-c-looking-at-revisiting-site-e-and-homathko-dams/",
-      "published_date": "2026-06-16T00:54:00Z",
-      "category": "Energy"
+      "title": "Windsor-Essex residents see housing affordability as top challenge: survey",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-essex-residents-see-housing-affordability-as-top-challenge-survey",
+      "published_date": "2026-06-23T11:12:07Z",
+      "category": "Economy"
     },
     {
       "title": "$3-billion Red Chris copper and gold mine approval advances B.C.&#039;s critical mineral strategy",
@@ -396,11 +396,95 @@
       "category": "Economy"
     },
     {
-      "title": "UWindsor spent $40K on India recruitment trip despite cap on international enrolment",
+      "title": "Pembroke's transit service pilot project earns regional project award",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembrokes-transit-service-pilot-project-earns-regional-project-award",
+      "published_date": "2026-06-23T13:05:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ticketmaster ruling: Should there be a &#039;Canada first&#039; approach to ticket selling?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/ticketmater-us-antitrust-ruling-canada-first",
+      "published_date": "2026-06-23T13:00:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Dementia care starts in the family doctor’s office. B.C. isn’t ready",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/dementia-care-starts-in-the-family-doctors-office-b-c-isnt-ready",
+      "published_date": "2026-06-23T13:00:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. and Ottawa plan to snap up vacant condos: Feasible path to affordable housing or &#039;bailout&#039; for developers?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-ottawa-plan-buy-vacant-condos-feasible-path-to-affordable-housing-or-bailout-for-developers",
+      "published_date": "2026-06-23T13:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Vancouver’s villages debate in plain English",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-vancouvers-villages-debate-in-plain-english",
+      "published_date": "2026-06-23T13:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cruise ship arrives in Alaska with dead pregnant endangered fin whale on bow",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/alaska-cruise-ship-dead-endangered-fin-whale",
+      "published_date": "2026-06-23T12:22:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cameco welcomes nuclear strategy to make Canada a ‘global powerhouse’",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/cameco-welcomes-nuclear-strategy-to-make-canada-a-global-powerhouse",
+      "published_date": "2026-06-23T12:16:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strawberries, music and history at Heritage Centre in Pembroke",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/strawberries-music-and-history-at-heritage-centre-in-pembroke",
+      "published_date": "2026-06-23T11:00:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsorites flock to explosive Ford Fireworks show",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/uwindsor-spent-40k-on-india-recruitment-trip-despite-cap-on-international-enrolment",
-      "published_date": "2026-06-16T10:10:26Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/windsorites-flock-to-explosive-ford-fireworks-show",
+      "published_date": "2026-06-23T10:53:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madawaska driver charged with stunt driving on Highway 60",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/madawaska-driver-charged-with-stunt-driving-on-highway-60",
+      "published_date": "2026-06-23T10:37:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sports Roundup: Saskatoon Valkyries heading back to WWCFL championship",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/sports/local-sports/sports-roundup-saskatoon-valkyries-heading-back-to-wwcfl-championship",
+      "published_date": "2026-06-23T06:01:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heinz releases 'unofficial' ketchup in response to FIFA brand blackout",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/fifa_world_cup_2026/heinz-releases-unofficial-ketchup-fifa-blackout",
+      "published_date": "2026-06-23T01:29:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATED: Two Melville RCMP officers shot, suspect charged with attempted murder",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/two-melville-rcmp-officers-shot-suspect-arrested",
+      "published_date": "2026-06-23T00:19:53Z",
+      "category": "Local Events"
     },
     {
       "title": "Lead officer on B.C. drug search hit by bullet fragments as colleague shot dead, court hears",
@@ -449,97 +533,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/man-fights-with-cricketers-at-kitsilano-park-breaks-players-arm-vpd",
       "published_date": "2026-06-22T22:25:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops seeking suspect ID after child sex assault; woman accused of murder surrenders",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/cops-seeking-suspect-child-sex-assault",
-      "published_date": "2026-06-22T22:16:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.’s Carey Price among 2026 Hockey Hall of Fame inductees",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/b-c-s-carey-price-among-2026-hockey-hall-of-fame-inductees/",
-      "published_date": "2026-06-22T21:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bill C-14 receives royal assent, 'shepherding' in sweeping justice system reforms",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/feds-getting-tougher-on-crime-c14",
-      "published_date": "2026-06-22T21:50:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Property control probe expanded Canada-wide to parent company of Safeway, IGA",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/property-control-probe-expanded-canada-wide-to-parent-company-of-safeway-iga/",
-      "published_date": "2026-06-22T21:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke council rejects transit fare hike, keeps ORTC fares at $5",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-council-rejects-transit-fare-hike-keeps-ortc-fares-at-5",
-      "published_date": "2026-06-22T21:00:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Were Jews the targets in Montreal shootings?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/were-jews-targets-montreal-shootings",
-      "published_date": "2026-06-22T20:59:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air support called in as wildfire flares-up at Kalamoir Park in West Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/air-support-called-in-as-wildfire-flares-up-at-kalamoir-park-in-west-kelowna/",
-      "published_date": "2026-06-22T20:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How West Coast Modern architecture went from demolition bait to one of B.C.’s most sought-after home styles",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/preserving-west-coast-modern-architecture",
-      "published_date": "2026-06-22T20:39:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor-area doctor who had sex with patient cleared to return to practice",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-area-doctor-who-had-sex-with-patient-cleared-to-return-to-practice",
-      "published_date": "2026-06-22T20:38:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 structure confirmed lost in Lytton wildfire, evacuation orders, alerts remain in place",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/1-structure-confirmed-lost-in-lytton-wildfire-evacuation-orders-alerts-remain-in-place/",
-      "published_date": "2026-06-22T20:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke and Laurentian Valley Handi-Bus adds new vehicle",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-and-laurentian-valley-handi-bus-adds-new-vehicle",
-      "published_date": "2026-06-22T20:07:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Community leaders gather to tackle Renfrew County challenges",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/community-leaders-gather-to-tackle-renfrew-county-challenges",
-      "published_date": "2026-06-22T19:54:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga man gets life in prison for fatal double shooting at Vaughan nightclub",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mississauga-man-life-sentences-vaughan-murders",
-      "published_date": "2026-06-22T19:50:52Z",
       "category": "Local Events"
     }
   ]
