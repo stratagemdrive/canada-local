@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T15:46:09Z",
+  "generated_at": "2026-06-23T00:10:44Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Vancouver-shot horror movie Backrooms continues to break box office records",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/backrooms-box-office-records",
+      "published_date": "2026-06-22T18:15:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canadian singer Charlotte Cardin shares her summer beauty favourites",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/canadian-singer-charlotte-cardin-shares-her-summer-beauty-favourites",
+      "published_date": "2026-06-22T18:00:23Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "IRAN WAR LATEST: Mediators praise 'progress' in peace talks after Trump warns Iran about 'proxies'",
       "source": "Toronto Sun",
@@ -72,6 +86,20 @@
       "url": "https://torontosun.com/news/local-news/warmington-all-eyes-on-toronto-police-headquarters-for-update-on-u-s-consulate-shooting",
       "published_date": "2026-06-16T13:23:13Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Majority of Canadians see China as 'significant threat,' poll shows",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/majority-canadians-china-significant-threat-poll",
+      "published_date": "2026-06-22T23:20:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Man charged after downtown Windsor stabbing leaves victim seriously injured",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/man-charged-after-downtown-windsor-stabbing-leaves-victim-seriously-injured",
+      "published_date": "2026-06-22T18:30:43Z",
+      "category": "Military"
     },
     {
       "title": "Pembroke man charged after alleged weapon-related altercation",
@@ -172,13 +200,6 @@
       "category": "Military"
     },
     {
-      "title": "Moe talks nuclear power, defence and agriculture in trade mission through Europe",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/czech-it-out-moe-signs-memorandum-with-czechia-during-euro-trade-mission",
-      "published_date": "2026-06-15T16:54:00Z",
-      "category": "Military"
-    },
-    {
       "title": "The Amateur Investor: Pump up your portfolio with Canadian oil and gas",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/business/amateur-investor-canadian-oil-and-gas",
@@ -263,11 +284,18 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. eyes new hydro megadams to meet soaring power demands",
+      "title": "$3-billion Red Chris copper and gold mine approval advances B.C.&#039;s critical mineral strategy",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/bc-eyes-new-hydro-megadams-soaring-power-demands",
-      "published_date": "2026-06-16T00:09:43Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/business/3-billion-red-chris-copper-and-gold-mine-approval-advances-b-c-s-critical-mineral-strategy",
+      "published_date": "2026-06-22T22:39:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: Anti-American sentiment helped push Brady Tkachuk out of Ottawa",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/brady-tkachuk-exit-anti-american-sentiment",
+      "published_date": "2026-06-22T20:28:22Z",
+      "category": "Economy"
     },
     {
       "title": "Alan Greenspan, former U.S. Federal Reserve chairman, dies at 100",
@@ -375,143 +403,143 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: Fixing rising food prices isn't a priority to Mark Carney",
+      "title": "Lead officer on B.C. drug search hit by bullet fragments as colleague shot dead, court hears",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/lead-officer-coquitlam-search-hit-by-bullet-fragments-as-colleague-shot-dead-court-hears",
+      "published_date": "2026-06-23T00:04:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada Post paid bonuses last year despite record losses; Looking at stamp cost increase",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/rising-inflation-food-prices-mark-carney",
-      "published_date": "2026-06-22T15:30:35Z",
+      "url": "https://torontosun.com/news/national/canada-post-paid-bonuses-last-year-despite-record-losses-looking-at-stamp-cost-increase",
+      "published_date": "2026-06-22T23:50:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Measles warning over possible exposure on two flights at Pearson",
+      "title": "Interior Wildlife Rehabilitation Society in B.C. developing framework for beaver translocation",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/interior-wildlife-rehabilitation-society-in-b-c-developing-framework-for-beaver-translocation/",
+      "published_date": "2026-06-22T23:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muslim call to prayer rings out in downtown Regina",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/measles-warning-possible-exposure-flights-pearson-airport",
-      "published_date": "2026-06-22T15:17:28Z",
+      "url": "https://torontosun.com/news/national/muslim-prayer-call-rings-out-regina",
+      "published_date": "2026-06-22T22:52:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Arby's customer claims restaurant employee's spit gave her herpes",
+      "title": "105-year-old dies of smoke inhalation days after fire at B.C. seniors complex",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/105-year-old-dies-of-smoke-inhalation-days-after-fire-at-b-c-seniors-complex/",
+      "published_date": "2026-06-22T22:41:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man allegedly bear sprays cricketers, breaks player’s arm in Vancouver: Police",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/man-allegedly-bear-sprays-cricketers-breaks-players-arm-in-vancouver-police/",
+      "published_date": "2026-06-22T22:39:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man fights with cricketers at Kitsilano park, breaks player&#039;s arm: VPD",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-fights-with-cricketers-at-kitsilano-park-breaks-players-arm-vpd",
+      "published_date": "2026-06-22T22:25:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops seeking suspect ID after child sex assault; woman accused of murder surrenders",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/arbys-customer-claims-employee-spit-herpes",
-      "published_date": "2026-06-22T14:55:52Z",
+      "url": "https://torontosun.com/news/local-news/cops-seeking-suspect-child-sex-assault",
+      "published_date": "2026-06-22T22:16:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor police seize fentanyl, cash and pills in downtown investigation",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seize-fentanyl-cash-and-pills-in-downtown-investigation",
-      "published_date": "2026-06-22T14:20:15Z",
+      "title": "B.C.’s Carey Price among 2026 Hockey Hall of Fame inductees",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/b-c-s-carey-price-among-2026-hockey-hall-of-fame-inductees/",
+      "published_date": "2026-06-22T21:58:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Rowdy aircraft passenger bites fellow flyer on flight to Philadelphia: ‘HE’S TRYING TO FIGHT EVERYBODY’",
+      "title": "Bill C-14 receives royal assent, 'shepherding' in sweeping justice system reforms",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/american-airlines-passenger-bites-fellow-flyer-flight-philadelphia",
-      "published_date": "2026-06-22T14:09:55Z",
+      "url": "https://torontosun.com/news/provincial/feds-getting-tougher-on-crime-c14",
+      "published_date": "2026-06-22T21:50:33Z",
       "category": "Local Events"
     },
     {
-      "title": "HST rebate boosted new GTA home sales but not condo: Report",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hst-rebate-boosted-new-home-sales-report",
-      "published_date": "2026-06-22T14:05:03Z",
+      "title": "Property control probe expanded Canada-wide to parent company of Safeway, IGA",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/property-control-probe-expanded-canada-wide-to-parent-company-of-safeway-iga/",
+      "published_date": "2026-06-22T21:17:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Petawawa developing unstructured play areas for all ages",
+      "title": "Pembroke council rejects transit fare hike, keeps ORTC fares at $5",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/petawawa-developing-unstructured-play-areas-for-all-ages",
-      "published_date": "2026-06-22T14:00:43Z",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-council-rejects-transit-fare-hike-keeps-ortc-fares-at-5",
+      "published_date": "2026-06-22T21:00:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Getting high-scoring centre Hanutke into the rink can only be seen as a positive for Spitfires",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/getting-high-scoring-centre-hanutke-into-the-rink-can-only-bee-seen-as-a-positive-for-spitfires",
-      "published_date": "2026-06-22T14:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, June 22: Egypt scores historic win in Vancouver; Argentina plays this morning",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/world-cup-daily-june-22-egypt-scores-historic-win-in-vancouver-argentina-plays-this-morning/",
-      "published_date": "2026-06-22T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clapp takes rightful place in Canadian Baseball Hall of Fame",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/clapp-takes-rightful-place-in-canadian-baseball-hall-of-fame",
-      "published_date": "2026-06-22T13:54:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-Olympian canoeist denies vandalizing Lincoln Memorial Reflecting Pool",
+      "title": "KINSELLA: Were Jews the targets in Montreal shootings?",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/ex-olympian-david-hearn-arrested-washington-reflecting-pool",
-      "published_date": "2026-06-22T13:30:30Z",
+      "url": "https://torontosun.com/opinion/columnists/were-jews-targets-montreal-shootings",
+      "published_date": "2026-06-22T20:59:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Filmmakers fundraise to finish late friend’s West Coast story of resilience",
+      "title": "Air support called in as wildfire flares-up at Kalamoir Park in West Kelowna",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/filmmakers-fundraise-to-finish-late-friends-west-coast-story-of-resilience/",
-      "published_date": "2026-06-22T13:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/air-support-called-in-as-wildfire-flares-up-at-kalamoir-park-in-west-kelowna/",
+      "published_date": "2026-06-22T20:59:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Police seek video after string of attempted vehicle thefts in east Windsor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/police-seek-video-after-string-of-attempted-vehicle-thefts-in-east-windsor",
-      "published_date": "2026-06-22T13:03:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Something big is brewing at Vancouver&#039;s old Molson site beside Burrard Bridge",
+      "title": "How West Coast Modern architecture went from demolition bait to one of B.C.’s most sought-after home styles",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/neighbourhood-transforming-plans-brewing-at-the-former-molson-site-beside-the-burrard-bridge",
-      "published_date": "2026-06-22T13:00:46Z",
+      "url": "https://vancouversun.com/homes/preserving-west-coast-modern-architecture",
+      "published_date": "2026-06-22T20:39:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver&#039;s new police drones raise questions about privacy and oversight",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-police-drones-raise-questions-about-privacy-oversight",
-      "published_date": "2026-06-22T13:00:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor woman charged with impaired driving after 10-year-old critically injured in Hwy. 401 crash",
+      "title": "Windsor-area doctor who had sex with patient cleared to return to practice",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-woman-charged-with-impaired-driving-after-10-year-old-critically-injured-in-hwy-401-crash",
-      "published_date": "2026-06-22T12:58:37Z",
+      "url": "https://windsorstar.com/news/local-news/windsor-area-doctor-who-had-sex-with-patient-cleared-to-return-to-practice",
+      "published_date": "2026-06-22T20:38:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Surveillance footage shows moments before anti-Muslim attacks in Scotland",
+      "title": "1 structure confirmed lost in Lytton wildfire, evacuation orders, alerts remain in place",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/22/1-structure-confirmed-lost-in-lytton-wildfire-evacuation-orders-alerts-remain-in-place/",
+      "published_date": "2026-06-22T20:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke and Laurentian Valley Handi-Bus adds new vehicle",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-and-laurentian-valley-handi-bus-adds-new-vehicle",
+      "published_date": "2026-06-22T20:07:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Community leaders gather to tackle Renfrew County challenges",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/community-leaders-gather-to-tackle-renfrew-county-challenges",
+      "published_date": "2026-06-22T19:54:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mississauga man gets life in prison for fatal double shooting at Vaughan nightclub",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/footage-anti-muslim-attacks-edinburgh-scotland",
-      "published_date": "2026-06-22T12:36:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muskeg Lake Cree Nation approaches city about DEED partnership",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/muskeg-lake-cree-nation-approaches-city-about-deed-partnership",
-      "published_date": "2026-06-22T12:00:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "With bike-theft season upon us, Windsor police urge precaution",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-offer-tips-on-keeping-bikes-from-thieves",
-      "published_date": "2026-06-22T10:48:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carrousel of the Nations wraps up second weekend of festivities",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/carrousel-of-nations-wraps-up",
-      "published_date": "2026-06-22T10:26:12Z",
+      "url": "https://torontosun.com/news/local-news/mississauga-man-life-sentences-vaughan-murders",
+      "published_date": "2026-06-22T19:50:52Z",
       "category": "Local Events"
     }
   ]
