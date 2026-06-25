@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T00:15:59Z",
+  "generated_at": "2026-06-25T13:08:29Z",
   "country": "Canada",
-  "total_stories": 69,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,11 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "WARMINGTON: Toronto Police now have wanted suspect Zara Jabbi in custody",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/warmington-toronto-police-now-have-wanted-suspect-zara-jabbi-in-custody",
-      "published_date": "2026-06-18T12:45:48Z",
-      "category": "Diplomacy"
+      "title": "Opinion: Time to change Granville Street for good",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-time-to-change-granville-street-for-good",
+      "published_date": "2026-06-25T13:00:02Z",
+      "category": "Military"
     },
     {
       "title": "VUONG: TDSB tolerates assault, but has zero tolerance for self-defence",
@@ -172,13 +172,6 @@
       "category": "Military"
     },
     {
-      "title": "Photos: Fire crews battle blaze at boarded up west Windsor house",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/photos-fire-crews-battle-blaze-at-boarded-up-west-windsor-house",
-      "published_date": "2026-06-18T04:06:40Z",
-      "category": "Military"
-    },
-    {
       "title": "3 B.C. clean-energy projects among $16M announced from feds",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/23/3-b-c-clean-energy-projects-among-16m-announced-from-feds/",
@@ -233,6 +226,13 @@
       "url": "https://vancouversun.com/business/site-e-bc-power-what-know",
       "published_date": "2026-06-19T13:00:36Z",
       "category": "Energy"
+    },
+    {
+      "title": "EDITORIAL: Canada offers a place for everyone",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/editorial-canada-offers-a-place-for-everyone/",
+      "published_date": "2026-06-25T12:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "Canadian trips to U.S. increase slightly, while overseas visitors decline: Report",
@@ -340,24 +340,108 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: B.C. is running dry. Provincial leadership urgently needed",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-is-running-dry-provincial-leadership-urgently-needed",
-      "published_date": "2026-06-18T13:00:39Z",
-      "category": "Economy"
+      "title": "Travelling with dogs is fun; make it safe as well",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/travelling-with-dogs-is-fun-make-it-safe-as-well/",
+      "published_date": "2026-06-25T12:30:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "GOLDSTEIN: Prime Minister Mark Carney's accounting tricks won't save taxpayers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/prime-minister-mark-carney-accounting-tricks-wont-save-taxpayers",
-      "published_date": "2026-06-18T09:00:40Z",
-      "category": "Economy"
+      "title": "The Nature Nut",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/the-nature-nut-21/",
+      "published_date": "2026-06-25T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farmers lament severe water cuts as historic drought grips North Okanagan",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/farmers-lament-severe-water-cuts-as-historic-drought-grips-north-okanagan/",
+      "published_date": "2026-06-25T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woolworth store opens on Second Avenue in Saskatoon in 1964",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/local-news/woolworth-saskatoon-second-avenue-1964",
+      "published_date": "2026-06-25T12:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What’s Happening in Pembroke: Your updated weekly community event guide",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/whats-happening-in-pembroke-your-updated-weekly-community-event-guide",
+      "published_date": "2026-06-25T11:10:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leamington high school student awarded $100K Schulich scholarship",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/leamington-high-school-student-awarded-100k-schulich-scholarship",
+      "published_date": "2026-06-25T10:55:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCDSB bringing outdoor learning spaces to 19 Renfrew County schools",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/rcdsb-bringing-outdoor-learning-spaces-to-19-renfrew-county-schools",
+      "published_date": "2026-06-25T10:50:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Up to 110 km/h: Ontario to hike highway speed limits",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/province-to-hike-highway-speed-limits",
+      "published_date": "2026-06-25T10:49:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Private meeting with Windsor mayor fuels Amherstburg policing dispute",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/private-meeting-with-windsor-mayor-fuels-amherstburg-policing-dispute",
+      "published_date": "2026-06-25T10:46:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ottawa Valley ice cream events raise funds for CHEO in Kendyl's memory",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/ottawa-valley-ice-cream-events-raise-funds-for-cheo-in-kendyls-memory",
+      "published_date": "2026-06-25T10:11:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Another B.C. youth injured in e-scooter crash",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/another-bc-youth-injured-e-scooter-crash",
+      "published_date": "2026-06-25T02:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kitimat RCMP investigating reported gunfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/24/kitimat-rcmp-investigating-reported-gunfire/",
+      "published_date": "2026-06-25T01:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. firefighters battling 11 new out-of-control wildfires Wednesday",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-firefighters-battling-13-new-out-of-control-wildfires-wednesday",
+      "published_date": "2026-06-25T01:02:37Z",
+      "category": "Local Events"
     },
     {
       "title": "This Ontario MPP is happy to officiate your wedding, even without his kilt",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/mpp-dave-smith-happy-officiating-weddings",
       "published_date": "2026-06-25T00:06:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilot project hopes to speed construction of small apartments with B.C.-made modular components",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/pilot-project-hopes-to-speed-construction-of-small-apartments-with-bc-made-modular-components",
+      "published_date": "2026-06-24T23:43:21Z",
       "category": "Local Events"
     },
     {
@@ -393,104 +477,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/24/wildfire-south-of-lillooet-sized-at-50-hectares-on-wednesday/",
       "published_date": "2026-06-24T23:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Massage therapist charged with sexually assaulting a teen in Maple Ridge",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/massage-therapist-charged-sexually-assaulting-teen-maple-ridge",
-      "published_date": "2026-06-24T23:07:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Pickering husband, hit man he hired to kill wife lose murder appeal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/pickering-husband-hit-man-lose-appeal",
-      "published_date": "2026-06-24T22:48:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Sask. care aide who assaulted residents gets unescorted leaves to attend church",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/crime/former-sask-care-aide-who-assaulted-residents-gets-unescorted-leaves-to-attend-church",
-      "published_date": "2026-06-24T22:30:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oshawa group home staffer faces child sex charges; new photo in suspicious fire probe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/group-home-staffer-child-sex-charges",
-      "published_date": "2026-06-24T22:14:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: The bungled Massey crossing — a generation wasted",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-the-bungled-massey-crossing-a-generation-wasted",
-      "published_date": "2026-06-24T21:00:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HealthIM digital crisis response tool for RCMP expands across northeastern B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/24/healthim-digital-crisis-response-tool-for-rcmp-expands-across-northeastern-b-c/",
-      "published_date": "2026-06-24T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke woman charged following altercation near marina",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-woman-charged-following-altercation-near-marina",
-      "published_date": "2026-06-24T20:39:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Slain Toronto cop Marc Pinizzotto hailed as a hero, the 'best dad' ever",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/slain-hero-cop-marc-pinizzotto-best-dad",
-      "published_date": "2026-06-24T20:37:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Mark Carney's outrageous condo bailout plan for Vancouver",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carney-outrageous-condo-bailout-plan-vancouver",
-      "published_date": "2026-06-24T20:22:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP: Canada loses 2-1 and top spot in Group B to Switzerland",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/24/world-cup-canada-battles-switzerland-for-top-spot-in-group-b/",
-      "published_date": "2026-06-24T19:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ultimate Father’s Day: 2 holes-in-one at B.C. course",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/24/ultimate-fathers-day-2-holes-in-one-at-b-c-course/",
-      "published_date": "2026-06-24T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lumby murder suspect’s trial evidence ‘an insult to logic,’ says Crown lawyer",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/24/lumby-murder-suspects-trial-evidence-an-insult-to-to-logic-says-crown-lawyer/",
-      "published_date": "2026-06-24T18:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Closure of section of Pembroke Street West extended",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/closure-of-section-of-pembroke-street-west-extended",
-      "published_date": "2026-06-24T18:54:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'SPEED KILLS:' Olivia Chow calls for return of automated enforcement cameras",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/olivia-chow-wants-automated-speed-cameras",
-      "published_date": "2026-06-24T18:43:35Z",
       "category": "Local Events"
     }
   ]
