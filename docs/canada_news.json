@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T00:12:40Z",
+  "generated_at": "2026-06-26T13:01:06Z",
   "country": "Canada",
   "total_stories": 67,
   "categories": [
@@ -79,6 +79,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/06/19/b-c-nurses-vote-67-to-reject-recently-negotiated-tentative-collective-agreement/",
       "published_date": "2026-06-19T22:05:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Self-defence or murder — Jury hears final arguments in Lakeshore killing",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/self-defence-or-murder-jury-hears-final-arguments-in-lakeshore-killing",
+      "published_date": "2026-06-26T11:13:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Man who killed B.C. RCMP officer during raid was defending himself against &#039;armed intruders&#039;: Defence",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/man-who-killed-b-c-rcmp-officer-during-raid-was-defending-himself-against-armed-intruders-defence",
+      "published_date": "2026-06-26T00:38:14Z",
+      "category": "Military"
     },
     {
       "title": "Opinion: Time to change Granville Street for good",
@@ -165,13 +179,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Talks in Switzerland called off",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-talks-in-switzerland-called-off",
-      "published_date": "2026-06-19T12:45:29Z",
-      "category": "Military"
-    },
-    {
       "title": "Data centres as 'good citizens?' Toronto councillor’s motion shot down",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/good-citizens-data-centres-toronto-city-council-hydro",
@@ -225,13 +232,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/life/food/mandys-salads-isnt-open-yet-in-vancouver-but-theyve-already-launched-delivery",
       "published_date": "2026-06-19T21:14:32Z",
-      "category": "Energy"
-    },
-    {
-      "title": "B.C. giving Site E a second look, to backup solar and wind power production",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/site-e-bc-power-what-know",
-      "published_date": "2026-06-19T13:00:36Z",
       "category": "Energy"
     },
     {
@@ -340,6 +340,83 @@
       "category": "Economy"
     },
     {
+      "title": "Support the local community: Five things to do this weekend in Saskatoon, June 26-28",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/entertainment/local-arts/five-things-to-do-this-weekend-in-saskatoon-june-26-28",
+      "published_date": "2026-06-26T12:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "She's a winner: Saskatoon author gets Leacock prize for 'She's a Lamb!'",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/news/shes-a-winner-saskatoon-author-gets-big-prize-for-shes-a-lamb",
+      "published_date": "2026-06-26T12:00:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CONCERT REVIEW: Paul Simon's Quiet Celebration Tour returns to Toronto with enduring songs",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/paul-simons-quiet-celebration-tour-returns-toronto-enduring-songs-display",
+      "published_date": "2026-06-26T11:30:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lakeshore launching beach bus to popular West Beach",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/lakeshore-launching-beach-bus-to-popular-west-beach",
+      "published_date": "2026-06-26T10:24:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The world is changing' – Diane Shoes eyeing closure after 135 years in business",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/the-world-is-changing-diane-shoes-eyeing-closure-after-135-years-in-business",
+      "published_date": "2026-06-26T10:08:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transit link between Pembroke and Petawawa being explored",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/ottawa-river-transit-pembroke-petawawa-link-explored",
+      "published_date": "2026-06-26T10:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Accused in B.C. horse bestiality elects trial by judge",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/accused-in-b-c-horse-bestiality-elects-trial-by-judge/",
+      "published_date": "2026-06-26T05:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verdict on its way: Jurors in deliberation as Lumby murder trial wraps up",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/verdict-on-its-way-jurors-in-deliberation-as-lumby-murder-trial-wraps-up/",
+      "published_date": "2026-06-26T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dies in motorcycle collision with car in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-dies-in-motorcycle-collision-with-car-in-vancouver",
+      "published_date": "2026-06-26T01:45:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup: Hard to score tickets for Canada&#039;s big game this Sunday in Los Angeles",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/sports/soccer/world-cup-hard-to-score-tickets-for-canadas-big-game-this-sunday-in-los-angeles",
+      "published_date": "2026-06-26T00:27:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man serving time for double murder in Yukon dies in Abbotsford",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/man-serving-time-for-double-murder-in-yukon-dies-in-abbotsford/",
+      "published_date": "2026-06-26T00:14:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Premier says condo-buy program will offer tenants a rent-to-own opportunity",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/premier-says-condo-buy-program-will-offer-tenants-a-rent-to-own-opportunity",
@@ -400,83 +477,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/evacuation-order-issued-for-properties-near-pemberton-because-of-potential-glacier-flooding",
       "published_date": "2026-06-25T22:08:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Shockingly, Carney says he didn't talk to Trump about CUSMA",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carney-didnt-talk-trump-cusma",
-      "published_date": "2026-06-25T21:56:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna Right to Life protests abortions, while pro-choice group begins ad campaign",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/kelowna-right-to-life-protests-abortions-while-pro-choice-group-begins-ad-campaign/",
-      "published_date": "2026-06-25T21:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Groundbreaking on Ring of Fire road took years of determination from Doug Ford",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/groundbreaking-ring-of-fire-road-years-determination-doug-ford",
-      "published_date": "2026-06-25T21:18:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After a two-year wait, Spitfires finally land U.S. NTDP defenceman Wathier",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/after-a-two-year-wait-spitfires-finally-land-u-s-ntdp-defenceman-wathier",
-      "published_date": "2026-06-25T21:15:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OH HONEY: CFIA says it blocked 150,000 kg of food fraud",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/honey-cfia-food-fraud-report",
-      "published_date": "2026-06-25T20:56:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Plane fighting wildfires in Northwest Territories goes down with three on board",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/plane-fighting-wildfires-northwest-territories-goes-down-three-on-board",
-      "published_date": "2026-06-25T20:35:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I’m not guilty’: Lumby murder suspect makes final arguments in his own trial",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/im-not-guilty-lumby-murder-suspect-makes-final-arguments-in-his-own-trial/",
-      "published_date": "2026-06-25T20:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aurora Recreation Complex dumps Stronach name after sex assault, indecent assault convictions",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/aurora-recreation-complex-dumps-stronach-name-sex-assault-indecent-assault-convictions",
-      "published_date": "2026-06-25T20:15:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Without one, the whole network falls’: Princeton joins multi-city flood partnership",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/without-one-the-whole-network-falls-princeton-joins-multi-city-flood-partnership/",
-      "published_date": "2026-06-25T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nanaimo RCMP ask kids to stop following criminal TikTok trend",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/25/nanaimo-rcmp-ask-kids-to-stop-following-criminal-tiktok-trend/",
-      "published_date": "2026-06-25T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspicious vehicle investigation in Eganville area leads to drug charges",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/suspicious-vehicle-investigation-in-eganville-area-leads-to-drug-charges",
-      "published_date": "2026-06-25T19:47:07Z",
       "category": "Local Events"
     }
   ]
