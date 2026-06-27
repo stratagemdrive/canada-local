@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T00:11:42Z",
+  "generated_at": "2026-06-27T12:05:07Z",
   "country": "Canada",
-  "total_stories": 66,
+  "total_stories": 65,
   "categories": [
     "Diplomacy",
     "Military",
@@ -221,13 +221,6 @@
       "category": "Energy"
     },
     {
-      "title": "Wildfire of note near Lytton grows to 200 hectares, evacuation order issued",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/19/10-hectare-wildfire-discovered-4-km-south-of-lytton/",
-      "published_date": "2026-06-20T01:15:00Z",
-      "category": "Energy"
-    },
-    {
       "title": "Provincial government announces $1.2M funding for Erie Shores Healthcare",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/provincial-government-announces-1-2m-funding-for-erie-shores-healthcare",
@@ -331,6 +324,34 @@
       "url": "https://windsorstar.com/opinion/columnists/the-missing-ingredient-in-ottawas-ai-strategy",
       "published_date": "2026-06-20T15:44:59Z",
       "category": "Economy"
+    },
+    {
+      "title": "Windsor unions protest Costco construction, say local workers passed over",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-unions-protest-costco-construction-say-local-workers-passed-over",
+      "published_date": "2026-06-27T10:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Award-winning author David Alexander Robertson receives honorary doctorate from Queen’s University",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/06/27/award-winning-author-david-alexander-robertson-receives-honorary-doctorate-from-queens-university/",
+      "published_date": "2026-06-27T04:02:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Independent review of North Shore wastewater treatment plant approved",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/independent-review-of-north-shore-wastewater-treatment-plant-approved",
+      "published_date": "2026-06-27T01:15:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vandals damage headstones at historic Sooke cemetery",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/vandals-damage-headstones-at-historic-sooke-cemetery/",
+      "published_date": "2026-06-27T01:10:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Wildfire near Lillooet still out of control, sees minimal growth",
@@ -442,34 +463,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/26/malahat-collision-snarls-traffic-near-goldstream-provincial-park/",
       "published_date": "2026-06-26T20:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "K9 CACHE TO THE RESCUE: Halton cops add new member to their policing family",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/halton-cops-add-new-k9-member-cache-to-policing-family",
-      "published_date": "2026-06-26T20:41:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. man, woman busted at Canada border with guns, drugs",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/u-s-man-woman-busted-canada-border-guns-drugs",
-      "published_date": "2026-06-26T20:29:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BC Lions practice at Kelowna’s Apple Bowl ahead of Saturday’s game",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/bc-lions-practice-at-kelownas-apple-bowl-ahead-of-saturdays-game/",
-      "published_date": "2026-06-26T20:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies in escalator fall; two Hamilton women charged in alleged assault over parking",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-dies-escalator-hamilton-women-charged-assault-parking",
-      "published_date": "2026-06-26T20:12:22Z",
       "category": "Local Events"
     }
   ]
