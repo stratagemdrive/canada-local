@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T12:05:07Z",
+  "generated_at": "2026-06-28T00:05:31Z",
   "country": "Canada",
-  "total_stories": 65,
+  "total_stories": 64,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "GOLDSTEIN: Mark Carney lays groundwork for restoring relations with Iran",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-lays-groundwork-restoring-relations-iran",
+      "published_date": "2026-06-27T17:56:21Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gordie Howe bridge a factor in CUSMA review but not key to outcome, head of auto parts industry group says",
       "source": "Windsor Star",
@@ -71,13 +78,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-june-21-2026",
       "published_date": "2026-06-21T19:50:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WARMINGTON: Donald Trump and Giorgia Meloni trade barbs as war of words heats up",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/donald-trump-giorgia-meloni-war-of-words-heats-up",
-      "published_date": "2026-06-20T19:34:38Z",
       "category": "Diplomacy"
     },
     {
@@ -172,6 +172,20 @@
       "category": "Military"
     },
     {
+      "title": "B.C. climate news: Province funds Youth Climate Corps B.C. &#124; Europe heat dome pushes temperatures over 40 C",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-to-june-28-26",
+      "published_date": "2026-06-27T17:50:35Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Expect Alberta to file vague plan for oil pipeline to B.C. by July 1: observers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/alberta-oil-pipeline-bc-coast-plan-deadline",
+      "published_date": "2026-06-27T15:00:19Z",
+      "category": "Energy"
+    },
+    {
       "title": "Researchers say Kitimat LNG facility’s flare problems causing massive pollution plume",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/26/researchers-say-kitimat-lng-facilitys-flare-problems-causing-massive-pollution-plume/",
@@ -207,18 +221,18 @@
       "category": "Energy"
     },
     {
-      "title": "Solar storms: one thing less to worry about?",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/solar-storms-one-thing-less-to-worry-about",
-      "published_date": "2026-06-20T15:50:58Z",
-      "category": "Energy"
+      "title": "Opinion: Canada needs petitions with power",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/opinion/opinion-canada-needs-petitions-with-power",
+      "published_date": "2026-06-27T13:30:51Z",
+      "category": "Economy"
     },
     {
-      "title": "Opinion: Saskatchewan can’t take its wealth for granted",
+      "title": "Opinion: Food security investments need to happen in Saskatchewan",
       "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-saskatchewan-cant-take-its-wealth-for-granted",
-      "published_date": "2026-06-20T13:00:46Z",
-      "category": "Energy"
+      "url": "https://thestarphoenix.com/opinion/opinion-food-security-investments-need-to-happen-in-saskatchewan",
+      "published_date": "2026-06-27T13:00:50Z",
+      "category": "Economy"
     },
     {
       "title": "Provincial government announces $1.2M funding for Erie Shores Healthcare",
@@ -305,164 +319,143 @@
       "category": "Economy"
     },
     {
-      "title": "GOLDSTEIN: No accountability for record federal spending on Indigenous issues",
+      "title": "EDITORIAL: Non-Jewish Canadians condemn antisemitism",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/no-accountability-record-federal-spending-indigenous-issues",
-      "published_date": "2026-06-20T20:15:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "China-Canada co-operation on energy is growing quickly",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/china-canada-co-operation-on-energy-is-growing-quickly",
-      "published_date": "2026-06-20T15:46:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The missing ingredient in Ottawa's AI strategy",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/the-missing-ingredient-in-ottawas-ai-strategy",
-      "published_date": "2026-06-20T15:44:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Windsor unions protest Costco construction, say local workers passed over",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-unions-protest-costco-construction-say-local-workers-passed-over",
-      "published_date": "2026-06-27T10:00:52Z",
+      "url": "https://torontosun.com/opinion/editorials/non-jewish-canadians-condemn-antisemitism",
+      "published_date": "2026-06-27T20:41:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Award-winning author David Alexander Robertson receives honorary doctorate from Queen’s University",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/06/27/award-winning-author-david-alexander-robertson-receives-honorary-doctorate-from-queens-university/",
-      "published_date": "2026-06-27T04:02:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Independent review of North Shore wastewater treatment plant approved",
+      "title": "Youth arrested in Port Moody for illegally riding electric dirt bike",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/independent-review-of-north-shore-wastewater-treatment-plant-approved",
-      "published_date": "2026-06-27T01:15:45Z",
+      "url": "https://vancouversun.com/news/youth-arrested-port-moody-electric-dirt-bike",
+      "published_date": "2026-06-27T19:52:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Vandals damage headstones at historic Sooke cemetery",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/vandals-damage-headstones-at-historic-sooke-cemetery/",
-      "published_date": "2026-06-27T01:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire near Lillooet still out of control, sees minimal growth",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/wildfire-near-lillooet-still-out-of-control-sees-minimal-growth/",
-      "published_date": "2026-06-27T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Canucks select Caleb Malhotra with No. 3 pick in 2026 NHL draft",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/vancouver-canucks-select-caleb-malhotra-with-no-3-pick-in-2026-nhl-draft/",
-      "published_date": "2026-06-26T23:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Ontario Review Board grants absolute discharge to wife killer still struggling mentally",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ontario-review-board-grants-absolute-discharge-wife-killer-still-struggling-mentally",
-      "published_date": "2026-06-26T23:26:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. man gets consecutive life sentences for failed murder plot in California",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/b-c-man-gets-consecutive-life-sentences-for-failed-murder-plot-in-california/",
-      "published_date": "2026-06-26T23:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New study backs B.C. harm reduction measures",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/new-study-backs-b-c-harm-reduction-measures/",
-      "published_date": "2026-06-26T22:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto cops say watch out for pickpockets during Pride festivities",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-cops-say-watch-out-pickpockets-during-pride-festivities",
-      "published_date": "2026-06-26T22:40:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Premier Eby leaving Saturday on trade mission to China",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/b-c-premier-eby-leaving-saturday-on-trade-mission-to-china/",
-      "published_date": "2026-06-26T22:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judge denies jury trial bid for Kelowna man accused of sexual assault",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/judge-denies-jury-trial-bid-for-kelowna-man-accused-of-sexual-assault/",
-      "published_date": "2026-06-26T22:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario trio fixing one pothole at a time as millions watch",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ontario-trio-fixing-one-pothole-at-a-time-millions-watch",
-      "published_date": "2026-06-26T22:17:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Everybody has the soccer fever&#039;: Canada jersey frenzy clears out Metro Vancouver stores",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/canada-soccer-jerseys-sell-out-metro-vancouver-stores",
-      "published_date": "2026-06-26T22:15:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga volunteer for FIFA World Cup in Toronto gets 'amazing' unsung hero award",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mississauga-volunteer-fifa-world-cup-toronto-unsung-hero-award",
-      "published_date": "2026-06-26T21:43:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Complaints about StubHub World Cup tickets under investigation in B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/world-cup-tickets-stubhub-investigation-bc",
-      "published_date": "2026-06-26T21:37:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Phenomenal’ Salmon Arm veterinarian awarded for elevating standard in community care",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/phenomenal-salmon-arm-veterinarian-awarded-for-elevating-standard-in-community-care/",
-      "published_date": "2026-06-26T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Despite shortfall, City Hall says no talks about Pride Toronto bailout",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/pride-toronto-funding-shortfall-city-hall",
-      "published_date": "2026-06-26T21:17:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayer guilty of first-degree murder",
+      "title": "Who is the billionaire donor family said to be behind Trump's delay in opening Gordie Howe bridge?",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/mayer-guilty-of-first-degree-murder",
-      "published_date": "2026-06-26T21:06:05Z",
+      "url": "https://windsorstar.com/news/who-is-the-billionaire-donor-family-said-to-be-behind-trumps-delay-in-opening-gordie-howe-bridge",
+      "published_date": "2026-06-27T19:46:47Z",
       "category": "Local Events"
     },
     {
-      "title": "UPDATE: Traffic slowly resumes after Malahat collision near Goldstream Park",
+      "title": "Vancouver swim brand offers a solo solution for keeping your stuff safe at the beach",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/vancouver-swim-brand-offers-a-solo-solution-for-keeping-your-stuff-safe-at-the-beach",
+      "published_date": "2026-06-27T18:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SMOL: Remember Richard Bilkszto’s brave stand against woke decolonizing indoctrination on Canada Day",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/remember-richard-bilkszto-brave-stand-against-woke-decolonizing-indoctrination-canada-day",
+      "published_date": "2026-06-27T17:02:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. twins drafted by same NHL team",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/26/malahat-collision-snarls-traffic-near-goldstream-provincial-park/",
-      "published_date": "2026-06-26T20:51:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/27/b-c-twins-drafted-by-same-nhl-team/",
+      "published_date": "2026-06-27T16:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnaby search and rescue members on way to Venezuela to help with earthquake recovery",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/burnaby-search-rescue-venezuela-earthquake-recovery",
+      "published_date": "2026-06-27T16:10:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Canucks select 2 forwards in second round of 2026 NHL Draft",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/27/vancouver-canucks-select-two-forwards-in-second-round-of-2026-nhl-draft/",
+      "published_date": "2026-06-27T16:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor non-profits create newcomer service 'hub' at adult high school",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-non-profits-create-newcomer-service-hub-at-adult-high-school",
+      "published_date": "2026-06-27T15:45:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: Is Prime Minister Mark Carney antisemitic?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/is-prime-minister-mark-carney-antisemitic",
+      "published_date": "2026-06-27T15:12:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: This is now the most-planted grape in B.C.&#039;s wine country",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/anthony-gismondi-this-is-now-the-most-planted-grape-in-bc-wine-country",
+      "published_date": "2026-06-27T15:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerry-Lynne Findlay needs a seat in the B.C. legislature. How can she get one?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-conservative-leader-kerry-lynne-findlay-needs-seat-bc-legislature-how-can-she-get-one",
+      "published_date": "2026-06-27T15:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brian Minter: Now is the perfect time to plant for late summer colour and harvests",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/brian-minter-now-perfect-time-to-plant-for-late-summer-colour-and-harvests",
+      "published_date": "2026-06-27T15:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poet George Bowering&#039;s home library comes to UBC, Kerouac and Hello Kitty included",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/poet-george-bowering-home-library-ubc",
+      "published_date": "2026-06-27T15:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1952: A pickpocket tries to fleece Vancouver&#039;s crooked police chief",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1952-a-pickpocket-tries-to-fleece-vancouvers-crooked-police-chief",
+      "published_date": "2026-06-27T15:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Justin Bieber was the right pick to introduce Gavin McKenna to Maple Leafs fans",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/justin-bieber-gavin-mckenna-maple-leafs-nhl-draft",
+      "published_date": "2026-06-27T14:42:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHAUDHRI: Swipe-and-go workplace policies under scrutiny",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/ontario-lawsuit-swipe-go-workplace-policies-under-scrutiny",
+      "published_date": "2026-06-27T14:32:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Family prepares to bury Mississauga couple as son wanted for double slaying eludes capture",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/family-prepares-bury-mississauga-couple-son-wanted-double-slaying-eludes-capture",
+      "published_date": "2026-06-27T14:13:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Did online sex chats drive wife to first internet murder?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-did-online-sex-chats-drive-wife-to-first-internet-murder",
+      "published_date": "2026-06-27T14:01:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, June 27: More teams make Round of 32, which Canada kicks off Sunday",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/27/world-cup-daily-june-27-more-teams-make-round-of-32-which-starts-sunday-with-canada-in-action/",
+      "published_date": "2026-06-27T14:00:00Z",
       "category": "Local Events"
     }
   ]
