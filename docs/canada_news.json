@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T12:11:21Z",
+  "generated_at": "2026-06-29T00:11:51Z",
   "country": "Canada",
-  "total_stories": 64,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Canada&#039;s big World Cup win well worth the wait for Vancouver fans",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-granville-island-fan-fest-canada-south-africa-world-cup",
+      "published_date": "2026-06-28T23:52:10Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "GOLDSTEIN: Mark Carney lays groundwork for restoring relations with Iran",
       "source": "Toronto Sun",
@@ -74,11 +81,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IRAN WAR: U.S.-Iran peace talks stalled after Donald Trump threatens Iranian negotiators",
+      "title": "IRAN WAR: Continued U.S. and Iran airstrikes threaten fragile truce",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-21-2026",
-      "published_date": "2026-06-21T19:50:09Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-latest-airstrikes-again-threaten-truce",
+      "published_date": "2026-06-28T18:01:23Z",
+      "category": "Military"
     },
     {
       "title": "Self-defence or murder — Jury hears final arguments in Lakeshore killing",
@@ -158,20 +165,6 @@
       "category": "Military"
     },
     {
-      "title": "Pembroke man charged after alleged weapon-related altercation",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-man-charged-after-alleged-weapon-related-altercation",
-      "published_date": "2026-06-21T19:59:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Jet-skier goes over weir in Saskatoon's South Saskatchewan River",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/jet-skier-goes-over-weir-in-saskatoons-south-saskatchewan-river",
-      "published_date": "2026-06-21T19:44:43Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. climate news: Province funds Youth Climate Corps B.C. &#124; Europe heat dome pushes temperatures over 40 C",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/climate-change-news-to-june-28-26",
@@ -214,11 +207,18 @@
       "category": "Energy"
     },
     {
-      "title": "The Amateur Investor: Pump up your portfolio with Canadian oil and gas",
+      "title": "Jobs still up for grabs for students seeking summer employment",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/amateur-investor-canadian-oil-and-gas",
-      "published_date": "2026-06-21T18:31:12Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/news/local-news/hope-for-students-seeking-summer-job",
+      "published_date": "2026-06-28T18:43:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Examining the job-related health issue many working men ignore",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/health/job-related-health-issue-working-men-ignore",
+      "published_date": "2026-06-28T18:24:01Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: Canada needs petitions with power",
@@ -312,11 +312,95 @@
       "category": "Economy"
     },
     {
-      "title": "More can be done to tackle 'abhorrent' food bank usage rate: Daily Bread CEO",
+      "title": "Violent sex offender and Yukon double murderer die days apart in B.C. jails",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/violent-sex-offender-and-yukon-double-murderer-die-days-apart-in-bc-jails",
+      "published_date": "2026-06-28T21:06:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FOREVER FRIEND: 'Playful, smart, loyal' Lola looking for loving, active owner",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/food-bank-usage-rate-abhorrent-ceo",
-      "published_date": "2026-06-21T23:52:53Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/playful-smart-loyal-lola-ready-adoption",
+      "published_date": "2026-06-28T20:11:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pierre Poilievre seeks 'urgent' ethics committee probe of B.C. 'condo bailout'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/poilievre-seeks-ethics-probe-condo-bailout",
+      "published_date": "2026-06-28T19:30:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Canadian heroes’: Canada beats South Africa 1-0 to reach World Cup round of 16",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/28/world-cup-canada-meets-south-africa-in-round-of-32/",
+      "published_date": "2026-06-28T18:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Canada, other countries approach protecting youth with social media bans",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/social-media-ban-protecting-youth-canada",
+      "published_date": "2026-06-28T17:48:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP seek dashcam footage related to deadly crash near Chase",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/28/rcmp-seek-dashcam-footage-related-to-deadly-crash-near-chase/",
+      "published_date": "2026-06-28T16:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "1 dead in North York apartment fire hours after fatal Brampton crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/fatal-north-york-fire-brampton-crashes",
+      "published_date": "2026-06-28T16:05:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bookless Club: Which city is the friendliest (hint: It&#039;s not Vancouver)",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/bookless-club-which-city-is-the-friendliest-hint-its-not-vancouver",
+      "published_date": "2026-06-28T15:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. government seeks to seize $12,000 it alleges was made through cannabis and magic mushrooms",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/bc-government-seeks-to-seize-12000-it-alleges-was-made-through-cannabis-and-magic-mushrooms",
+      "published_date": "2026-06-28T15:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here&#039;s how to use the viral eyeshadow sticks",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/how-to-use-ilia-eyeshadow-sticks",
+      "published_date": "2026-06-28T15:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Fugitive wanted for murder of Port Credit parents arrested in Etobicoke",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/fugitive-wanted-murder-parents-arrested-etobicoke",
+      "published_date": "2026-06-28T14:24:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, June 28: Round of 32 schedule set; All eyes on Canada vs. South Africa today",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/28/world-cup-daily-june-28-round-of-32-schedule-set-all-eyes-on-canada-vs-south-africa-today/",
+      "published_date": "2026-06-28T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup: Canada vs. South Africa, everything you need to know",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/sports/soccer/international-soccer/world-cup-primer-canada-south-africa",
+      "published_date": "2026-06-28T13:00:47Z",
+      "category": "Local Events"
     },
     {
       "title": "B.C. Lions remain winless after falling 41-33 to Calgary Stampeders in Kelowna",
@@ -365,97 +449,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/27/b-c-twins-drafted-by-same-nhl-team/",
       "published_date": "2026-06-27T16:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnaby search and rescue members on way to Venezuela to help with earthquake recovery",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/burnaby-search-rescue-venezuela-earthquake-recovery",
-      "published_date": "2026-06-27T16:10:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Canucks select 2 forwards in second round of 2026 NHL Draft",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/27/vancouver-canucks-select-two-forwards-in-second-round-of-2026-nhl-draft/",
-      "published_date": "2026-06-27T16:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor non-profits create newcomer service 'hub' at adult high school",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-non-profits-create-newcomer-service-hub-at-adult-high-school",
-      "published_date": "2026-06-27T15:45:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Is Prime Minister Mark Carney antisemitic?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/is-prime-minister-mark-carney-antisemitic",
-      "published_date": "2026-06-27T15:12:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: This is now the most-planted grape in B.C.&#039;s wine country",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-this-is-now-the-most-planted-grape-in-bc-wine-country",
-      "published_date": "2026-06-27T15:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerry-Lynne Findlay needs a seat in the B.C. legislature. How can she get one?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservative-leader-kerry-lynne-findlay-needs-seat-bc-legislature-how-can-she-get-one",
-      "published_date": "2026-06-27T15:00:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Minter: Now is the perfect time to plant for late summer colour and harvests",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/brian-minter-now-perfect-time-to-plant-for-late-summer-colour-and-harvests",
-      "published_date": "2026-06-27T15:00:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poet George Bowering&#039;s home library comes to UBC, Kerouac and Hello Kitty included",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/poet-george-bowering-home-library-ubc",
-      "published_date": "2026-06-27T15:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1952: A pickpocket tries to fleece Vancouver&#039;s crooked police chief",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1952-a-pickpocket-tries-to-fleece-vancouvers-crooked-police-chief",
-      "published_date": "2026-06-27T15:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Justin Bieber was the right pick to introduce Gavin McKenna to Maple Leafs fans",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/justin-bieber-gavin-mckenna-maple-leafs-nhl-draft",
-      "published_date": "2026-06-27T14:42:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHAUDHRI: Swipe-and-go workplace policies under scrutiny",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/ontario-lawsuit-swipe-go-workplace-policies-under-scrutiny",
-      "published_date": "2026-06-27T14:32:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Family prepares to bury Mississauga couple as son wanted for double slaying eludes capture",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/family-prepares-bury-mississauga-couple-son-wanted-double-slaying-eludes-capture",
-      "published_date": "2026-06-27T14:13:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Did online sex chats drive wife to first internet murder?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-did-online-sex-chats-drive-wife-to-first-internet-murder",
-      "published_date": "2026-06-27T14:01:53Z",
       "category": "Local Events"
     }
   ]
