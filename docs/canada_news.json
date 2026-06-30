@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T00:07:53Z",
+  "generated_at": "2026-06-30T13:00:47Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 57,
   "categories": [
     "Diplomacy",
     "Military",
@@ -46,18 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rare records unearthed as U.S. consulate in Vancouver marks 165-year history",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/rare-records-unearthed-as-u-s-consulate-in-vancouver-marks-165-year-history",
-      "published_date": "2026-06-23T13:00:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IRAN WAR: Iran won't allow UN inspectors at bombed nuclear sites",
+      "title": "IRAN WAR: Iran will not meet with U.S. for talks, Qatar says",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-23",
-      "published_date": "2026-06-23T11:49:36Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-latest-june-30",
+      "published_date": "2026-06-30T11:29:12Z",
+      "category": "Military"
     },
     {
       "title": "PROGRESS 2026: Coulson Aviation’s night vision firefighting helped battle summer fires on Vancouver Island",
@@ -134,13 +127,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/accused-claims-self-defence-in-fatal-lakeshore-shooting-after-victim-allegedly-charged-with-knife",
       "published_date": "2026-06-23T16:45:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "WARMINGTON: Montreal officers in crosshairs amid nationwide war on cops",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/montreal-officers-in-crosshairs-war-on-cops",
-      "published_date": "2026-06-23T00:32:07Z",
       "category": "Military"
     },
     {
@@ -284,11 +270,39 @@
       "category": "Economy"
     },
     {
-      "title": "Windsor-Essex residents see housing affordability as top challenge: survey",
+      "title": "Sunken vehicle surfaces surprise for rafters in B.C. Interior river",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/sunken-vehicle-surfaces-surprise-for-rafters-in-b-c-interior-river/",
+      "published_date": "2026-06-30T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Let's get Canadian! Canada Day activities abound in Windsor-Essex",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-essex-residents-see-housing-affordability-as-top-challenge-survey",
-      "published_date": "2026-06-23T11:12:07Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/lets-get-canadian-canada-day-activities-abound-in-windsor-essex",
+      "published_date": "2026-06-30T11:10:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna riding coach’s fate left to jury for alleged sex crimes, child luring",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/29/kelowna-riding-coachs-fate-left-to-jury-for-alleged-sex-crimes-child-luring/",
+      "published_date": "2026-06-30T01:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man who protested National Guards with Imperial March receives settlement",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/imperial-march-protester-national-guard-settlement",
+      "published_date": "2026-06-30T00:50:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire south of Lillooet burns in dangerous terrain, being monitored: BCWS",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/06/29/wildfire-south-of-lillooet-burns-in-dangerous-terrain-being-monitored-bcws/",
+      "published_date": "2026-06-30T00:35:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Court declines to reopen Cowichan Tribes case to add private landowner Montrose",
@@ -393,41 +407,6 @@
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/local-news/unprecedented-gift-aims-to-advance-pediatric-research-in-saskatchewan",
       "published_date": "2026-06-29T21:14:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Petition launched to keep Snowbirds airborne before new planes arrive in 2030s",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/push-to-keep-snowbirds-airborne-with-petition",
-      "published_date": "2026-06-29T20:55:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor-Essex is in for another extreme heat wave this week",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-essex-is-in-for-another-extreme-heat-wave-this-week",
-      "published_date": "2026-06-29T20:47:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brad Bradford vows to rename Sankofa Square if elected Toronto's mayor",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brad-bradford-wants-sankofa-square-renamed",
-      "published_date": "2026-06-29T20:41:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. judge throws out property owner&#039;s bid to reopen Cowichan lands decision",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-judge-throws-out-property-owners-bid-to-reopen-cowichan-lands-decision",
-      "published_date": "2026-06-29T20:37:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal funding backs Tahltan role in critical minerals decisions",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/29/federal-funding-backs-tahltan-role-in-critical-minerals-decisions/",
-      "published_date": "2026-06-29T20:30:00Z",
       "category": "Local Events"
     }
   ]
