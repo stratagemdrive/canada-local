@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T00:09:38Z",
+  "generated_at": "2026-07-01T13:29:11Z",
   "country": "Canada",
-  "total_stories": 64,
+  "total_stories": 62,
   "categories": [
     "Diplomacy",
     "Military",
@@ -58,6 +58,13 @@
       "url": "https://vancouversun.com/business/canadas-high-court-wont-hear-appeal-of-b-c-man-facing-us29-million-stock-fraud-penalties",
       "published_date": "2026-06-25T20:13:27Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Indirect talks between U.S., Iran being held in Qatar",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-1",
+      "published_date": "2026-07-01T11:34:08Z",
+      "category": "Military"
     },
     {
       "title": "Florida boy, dad facing legal trouble over jet ski incident",
@@ -123,27 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "VUONG: TDSB tolerates assault, but has zero tolerance for self-defence",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/vuong-tdsb-tolerates-assault-but-has-zero-tolerance-for-self-defence",
-      "published_date": "2026-06-24T12:58:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Defence argues mental illness in long-running Kelowna homicide trial",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/24/defence-argues-mental-illness-in-long-running-kelowna-homicide-trial/",
-      "published_date": "2026-06-24T12:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Iran says deal to end war 'declaration of America's defeat'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-24",
-      "published_date": "2026-06-24T11:32:24Z",
-      "category": "Military"
-    },
-    {
       "title": "Idea of data centre outside Saskatoon concerns some residents",
       "source": "The StarPhoenix",
       "url": "https://thestarphoenix.com/news/local-news/idea-of-data-centre-outside-saskatoon-concerns-some-residents",
@@ -198,6 +184,13 @@
       "url": "https://torontosun.com/news/local-news/good-citizens-data-centres-toronto-city-council-hydro",
       "published_date": "2026-06-25T19:07:37Z",
       "category": "Energy"
+    },
+    {
+      "title": "Spitfires will once again exercise patience after selecting Russian forward Yakushevsky in CHL Import Draft",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-will-once-again-exercise-patience-after-selecting-russian-forward-yakushevsky-in-chl-import-draft",
+      "published_date": "2026-07-01T12:28:39Z",
+      "category": "Economy"
     },
     {
       "title": "Federal funding boosts Okanagan food rescue project",
@@ -312,11 +305,88 @@
       "category": "Economy"
     },
     {
-      "title": "At &#039;the frontest of front lines&#039; of Canada&#039;s overdose crisis, new efforts at getting people off drugs",
+      "title": "What&#039;s open and closed in Metro Vancouver on Canada Day",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-front-lines-canada-overdose-crisis-new-efforts-at-getting-people-off-drugs",
-      "published_date": "2026-06-24T00:32:14Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/canada-day-2026-what-open-closed-metro-vancouver",
+      "published_date": "2026-07-01T13:00:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey looks to explore affordable housing &#039;to retain and recruit&#039; essential workers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/to-retain-and-recruit-surrey-looks-to-explore-affordable-housing-for-essential-workers",
+      "published_date": "2026-07-01T13:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Summertime and the living is hot… for your pets",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/summertime-and-the-living-is-hot-for-your-pets/",
+      "published_date": "2026-07-01T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Couple cares for pets left behind during Fort Simpson, NWT wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/couple-cares-for-pets-left-behind-during-fort-simpson-nwt-wildfire/",
+      "published_date": "2026-07-01T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: A time to celebrate Canada",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/quiz-a-time-to-celebrate-canada/",
+      "published_date": "2026-07-01T12:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dry Supply offers non-alcoholic drinks of all varieties on Broadway",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/business/local-business/dry-supply-offers-non-alcoholic-drinks-of-all-varieties-on-broadway",
+      "published_date": "2026-07-01T12:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cheer up, Hamlet! Goofy Shakespeare mashup hits Windsor stage",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/kordas-shakespearean-mash-up-takes-the-outdoor-stage",
+      "published_date": "2026-07-01T10:36:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What Canada's flag means to Windsor more than 60 years after Maple Leaf adopted",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/what-canadas-flag-means-to-windsor-more-than-60-years-after-maple-leaf-adopted",
+      "published_date": "2026-07-01T10:00:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Most provinces fall short on expanding alcohol sales across their borders, CFIB says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/provinces-fall-short-alcohol-sales-borders-cfib",
+      "published_date": "2026-07-01T10:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hunter banned after illegal duck hunt near Golden Lake",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/hunter-banned-after-illegal-duck-hunt-near-golden-lake",
+      "published_date": "2026-07-01T09:56:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;We did what was required&#039;: How a B.C. couple turned their dinghy into a liferaft to save trio in deadly boat accident",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/charter-boat-accident-richmond-bc-couple-turned-dinghy-into-liferaft-saved-trio-six-presumed-drowned",
+      "published_date": "2026-07-01T01:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olivia Chow's 'flippant' Palestine comment at Pride sparks more backlash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/more-public-backlash-olivia-chow-pride",
+      "published_date": "2026-07-01T00:20:45Z",
+      "category": "Local Events"
     },
     {
       "title": "Yukon minerals work still under review despite federal announcement",
@@ -372,90 +442,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/30/fisherman-rescued-after-overnight-ordeal-on-upper-kitimat-river/",
       "published_date": "2026-06-30T22:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man accused in string of Vancouver stranger assaults faces new charge",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-accused-in-string-of-vancouver-stranger-assaults-faces-new-charge",
-      "published_date": "2026-06-30T22:11:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fast and furious B.C. motorcyclist wins appeal in dangerous driving sentence",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/fast-and-furious-b-c-motorcyclist-wins-appeal-in-dangerous-driving-sentence/",
-      "published_date": "2026-06-30T21:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New poll reveals generational divide over national pride ahead of Canada Day",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/new-poll-reveals-divide-national-pride",
-      "published_date": "2026-06-30T21:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New 10,000-seat arena, Vancouver Giants poised to come to Surrey in 2030",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/new-10000-seat-arena-vancouver-giants-poised-to-come-to-surrey-in-2030",
-      "published_date": "2026-06-30T21:07:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Integrity' guiding principle for York's new top cop Paulo Da Silva",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/paulo-da-silva-york-police-chief",
-      "published_date": "2026-06-30T21:05:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Insanity': Bus riders share experiences as city works to improve safety",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/insanity-bus-riders-share-experiences-as-city-works-to-improve-safety",
-      "published_date": "2026-06-30T20:43:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crown delivers closing submissions in B.C. double-murder trial",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/crown-delivers-closing-submissions-in-b-c-double-murder-trial/",
-      "published_date": "2026-06-30T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terrace woman killed in head-on crash on Hwy 37 north of Kitimat",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/terrace-woman-killed-in-head-on-crash-on-hwy-37-north-of-kitimat/",
-      "published_date": "2026-06-30T20:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Downtown Windsor hosts first-ever powwow",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/downtown-windsor-hosts-first-ever-powwow",
-      "published_date": "2026-06-30T19:47:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foundation V17.0 in Vancouver: What you need to know about the EDM festival",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/foundation-v17-in-vancouver-what-you-need-to-know-about-this-edm-festival",
-      "published_date": "2026-06-30T19:09:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake Show N’ Shine showcases local gems in fundraising event",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/burns-lake-show-n-shine-showcases-local-gems-in-fundraising-event/",
-      "published_date": "2026-06-30T18:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New map of B.C.&#039;s publicly owned land is designed to boost housing development",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/new-map-bc-publicly-owned-land-is-designed-to-boost-housing-development",
-      "published_date": "2026-06-30T18:30:17Z",
       "category": "Local Events"
     }
   ]
