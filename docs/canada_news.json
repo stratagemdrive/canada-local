@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T13:29:11Z",
+  "generated_at": "2026-07-02T00:11:51Z",
   "country": "Canada",
-  "total_stories": 62,
+  "total_stories": 61,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "CUSMA not being renewed in its 'current form,' U.S. trade rep says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/cusma-not-being-renewed-current-form",
+      "published_date": "2026-07-01T19:45:40Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "B.C. nurses could be on strike this week after issuing 72-hour notice",
       "source": "Vancouver Sun",
@@ -291,157 +298,143 @@
       "category": "Economy"
     },
     {
-      "title": "Canadian trips to U.S. increase slightly, while overseas visitors decline: Report",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-travel-to-us-has-increased",
-      "published_date": "2026-06-24T21:07:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "New WECAR president: lower development charges could spur 'missing middle' home sales",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/new-wecar-president-lower-development-charges-could-spur-missing-middle-home-sales",
-      "published_date": "2026-06-24T17:56:08Z",
-      "category": "Economy"
-    },
-    {
-      "title": "What&#039;s open and closed in Metro Vancouver on Canada Day",
+      "title": "Vancouver park board jacks up dispute against City Hall with letter to mayor",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/canada-day-2026-what-open-closed-metro-vancouver",
-      "published_date": "2026-07-01T13:00:56Z",
+      "url": "https://vancouversun.com/news/local-news/vancouver-park-board-jacks-up-dispute-against-city-hall-letter-mayor-ken-sim",
+      "published_date": "2026-07-01T23:47:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Surrey looks to explore affordable housing &#039;to retain and recruit&#039; essential workers",
+      "title": "&#039;This is an honour&#039;: Plenty of Canada Day cheer at citizenship ceremony in Vancouver",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/to-retain-and-recruit-surrey-looks-to-explore-affordable-housing-for-essential-workers",
-      "published_date": "2026-07-01T13:00:26Z",
+      "url": "https://vancouversun.com/news/local-news/canada-day-citizenship-ceremony-vancouver",
+      "published_date": "2026-07-01T23:06:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Summertime and the living is hot… for your pets",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/summertime-and-the-living-is-hot-for-your-pets/",
-      "published_date": "2026-07-01T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Couple cares for pets left behind during Fort Simpson, NWT wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/couple-cares-for-pets-left-behind-during-fort-simpson-nwt-wildfire/",
-      "published_date": "2026-07-01T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: A time to celebrate Canada",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/quiz-a-time-to-celebrate-canada/",
-      "published_date": "2026-07-01T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dry Supply offers non-alcoholic drinks of all varieties on Broadway",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/business/local-business/dry-supply-offers-non-alcoholic-drinks-of-all-varieties-on-broadway",
-      "published_date": "2026-07-01T12:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cheer up, Hamlet! Goofy Shakespeare mashup hits Windsor stage",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/kordas-shakespearean-mash-up-takes-the-outdoor-stage",
-      "published_date": "2026-07-01T10:36:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What Canada's flag means to Windsor more than 60 years after Maple Leaf adopted",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/what-canadas-flag-means-to-windsor-more-than-60-years-after-maple-leaf-adopted",
-      "published_date": "2026-07-01T10:00:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Most provinces fall short on expanding alcohol sales across their borders, CFIB says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/provinces-fall-short-alcohol-sales-borders-cfib",
-      "published_date": "2026-07-01T10:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hunter banned after illegal duck hunt near Golden Lake",
+      "title": "Your Pembroke and Ottawa Valley Community Calendar: Local fun, music, markets and more",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/hunter-banned-after-illegal-duck-hunt-near-golden-lake",
-      "published_date": "2026-07-01T09:56:03Z",
+      "url": "https://www.pembrokeobserver.com/news/your-pembroke-and-ottawa-valley-community-calendar-local-fun-music-markets-and-more",
+      "published_date": "2026-07-01T22:27:34Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;We did what was required&#039;: How a B.C. couple turned their dinghy into a liferaft to save trio in deadly boat accident",
+      "title": "Canada will make Eurovision Song Contest debut in 2027, Mark Carney says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/canada-making-eurovision-debut-next-year",
+      "published_date": "2026-07-01T20:48:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The wilder West Coast garden",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/charter-boat-accident-richmond-bc-couple-turned-dinghy-into-liferaft-saved-trio-six-presumed-drowned",
-      "published_date": "2026-07-01T01:00:04Z",
+      "url": "https://vancouversun.com/homes/west-coast-gardeners-embrace-the-wild",
+      "published_date": "2026-07-01T20:29:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Olivia Chow's 'flippant' Palestine comment at Pride sparks more backlash",
+      "title": "Couple arrested after scaling top of Empire State Building",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/more-public-backlash-olivia-chow-pride",
-      "published_date": "2026-07-01T00:20:45Z",
+      "url": "https://torontosun.com/news/world/couple-arrested-climbing-empire-state-building",
+      "published_date": "2026-07-01T19:56:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Yukon minerals work still under review despite federal announcement",
+      "title": "Charges pending after car shot up in Georgetown; dead cyclist found near Brantford",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-arrested-after-car-shot-georgetown",
+      "published_date": "2026-07-01T19:28:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newborn found dead inside portable toilet at Michigan music festival",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/newborn-dead-portable-toilet-music-festival",
+      "published_date": "2026-07-01T19:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hands Across the Border: B.C. resident co-writes song honouring Canada-U.S. bond",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/yukon-minerals-work-still-under-review-despite-federal-announcement/",
-      "published_date": "2026-07-01T00:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/hands-across-the-border-b-c-resident-co-writes-song-honouring-canada-u-s-bond/",
+      "published_date": "2026-07-01T18:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Two men charged in separate historical sexual assault investigations",
+      "title": "Former Kelowna Rocket back for 3rd stint with Vancouver Canucks",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/former-kelowna-rocket-back-for-3rd-stint-with-vancouver-canucks/",
+      "published_date": "2026-07-01T18:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brother of Baltimore Ravens star Calais Campbell charged with mother’s murder",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-charged-in-historical-under-age-sex-assault-toronto-police-seek-a-man-in-sex-assault",
-      "published_date": "2026-06-30T23:56:23Z",
+      "url": "https://torontosun.com/sports/football/nfl/baltimore-ravens-calais-campbells-brother-murder",
+      "published_date": "2026-07-01T18:29:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Glacial lake outburst triggers flooding northeast of Pemberton",
+      "title": "Canadian salon brand Chatters turns 35",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/glacial-lake-outburst-triggers-flooding-northeast-of-pemberton",
-      "published_date": "2026-06-30T23:38:03Z",
+      "url": "https://vancouversun.com/life/fashion-beauty/canadian-salon-brand-chatters-turns-35",
+      "published_date": "2026-07-01T18:00:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Kelowna riding coach found guilty of sex crimes, child luring",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/kelowna-riding-coach-found-guilty-of-sex-crimes-child-luring/",
-      "published_date": "2026-06-30T23:30:00Z",
+      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/product-reviews-uriage-clarins-watier",
+      "published_date": "2026-07-01T18:00:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Marc Pinizzotto being honoured during Port Credit Canada Day parade",
+      "title": "Boy, 10, accused of murder after infant girl fatally shot in head in St. Louis",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/marc-pinizzotto-port-credit-canada-day-parade",
-      "published_date": "2026-06-30T23:22:12Z",
+      "url": "https://torontosun.com/news/world/boy-10-murder-infant-girl-fatally-shot-head-st-louis",
+      "published_date": "2026-07-01T17:02:28Z",
       "category": "Local Events"
     },
     {
-      "title": "17K hotdogs consumed: Vancouver by the numbers as FIFA World Cup hits halfway mark",
+      "title": "Blue Jays pitcher, future hall of famer, to make start for Vancouver Canadians: report",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/17k-hotdogs-consumed-vancouver-by-the-numbers-as-fifa-world-cup-hits-halfway-mark/",
-      "published_date": "2026-06-30T23:05:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/blue-jays-pitcher-future-hall-of-famer-to-make-start-for-vancouver-canadians-report/",
+      "published_date": "2026-07-01T16:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "New Halton Regional Police building responding to 'needs of tomorrow'",
+      "title": "'We need to stop the blood,' boyfriend of fatal alligator attack victim tells 911",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/halton-police-building-opens-district-1",
-      "published_date": "2026-06-30T22:30:23Z",
+      "url": "https://torontosun.com/news/world/boyfriend-fatal-alligator-attack-victim-911",
+      "published_date": "2026-07-01T16:23:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Fisherman rescued after overnight ordeal on upper Kitimat River",
+      "title": "Vancouver theatre: Here are 6 plays to see in July",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-theatre-plays-july-2026",
+      "published_date": "2026-07-01T15:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 10 must-see Vancouver concerts in July",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-concerts-july-2026",
+      "published_date": "2026-07-01T15:00:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria golfer captures pair of B.C. championship titles in Chilliwack",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/fisherman-rescued-after-overnight-ordeal-on-upper-kitimat-river/",
-      "published_date": "2026-06-30T22:15:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/victoria-golfer-captures-pair-of-b-c-championship-titles-in-chilliwack/",
+      "published_date": "2026-07-01T14:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fatal Highway 17 collision under investigation by Upper Ottawa Valley OPP",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/fatal-highway-17-collision-under-investigation-by-upper-ottawa-valley-opp",
+      "published_date": "2026-07-01T13:39:57Z",
       "category": "Local Events"
     }
   ]
