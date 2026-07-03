@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T00:10:04Z",
+  "generated_at": "2026-07-03T12:50:07Z",
   "country": "Canada",
-  "total_stories": 65,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -60,6 +60,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "IRAN WAR: Millions expected to attend Ali Khamenei funeral",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-3",
+      "published_date": "2026-07-03T11:26:43Z",
+      "category": "Military"
+    },
+    {
       "title": "IRAN WAR: Qatar says 'positive progress' made in U.S.-Iran talks conclude",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-july-2",
@@ -116,18 +123,11 @@
       "category": "Military"
     },
     {
-      "title": "Self-defence or murder — Jury hears final arguments in Lakeshore killing",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/self-defence-or-murder-jury-hears-final-arguments-in-lakeshore-killing",
-      "published_date": "2026-06-26T11:13:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Man who killed B.C. RCMP officer during raid was defending himself against &#039;armed intruders&#039;: Defence",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/man-who-killed-b-c-rcmp-officer-during-raid-was-defending-himself-against-armed-intruders-defence",
-      "published_date": "2026-06-26T00:38:14Z",
-      "category": "Military"
+      "title": "Alberta government submits West Coast pipeline application",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/albert-government-submits-west-coast-pipeline-application/",
+      "published_date": "2026-07-03T00:58:00Z",
+      "category": "Energy"
     },
     {
       "title": "Alberta expected to announce &#039;exciting&#039; proposal for southern route for new oil pipeline",
@@ -198,6 +198,20 @@
       "url": "https://windsorstar.com/news/local-news/nextstar-energy-adds-new-production-line-to-meet-global-ess-battery-demand",
       "published_date": "2026-06-26T13:28:41Z",
       "category": "Energy"
+    },
+    {
+      "title": "GTA home sales saw another jump in June, but new listings continue decline",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/gta-home-sales-jump-june-new-listings-decline",
+      "published_date": "2026-07-03T12:15:18Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Wrecking ball coming for former Hudson's Bay store at Windsor's Devonshire Mall",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/wrecking-ball-coming-for-former-hudsons-bay-store-at-windsors-devonshire-mall",
+      "published_date": "2026-07-03T10:51:04Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. nurses begin job action following 72-hour strike notice",
@@ -326,6 +340,62 @@
       "category": "Economy"
     },
     {
+      "title": "Lakes Learning Centre receives funding for new building",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/lakes-learning-centre-receives-funding-for-new-building/",
+      "published_date": "2026-07-03T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman wanted in Monaco bombing that targeted Ukrainian tycoon",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/interpol-woman-wanted-monaco-bombing",
+      "published_date": "2026-07-03T12:05:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Killaloe gallery plants first seed of Ottawa Valley arts vision",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/killaloe-gallery-plants-first-seed-of-ottawa-valley-arts-vision",
+      "published_date": "2026-07-03T11:32:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explore local history: Five things to do this weekend in Saskatoon, July 3-5",
+      "source": "The StarPhoenix",
+      "url": "https://thestarphoenix.com/entertainment/local-arts/explore-local-history-five-things-to-do-this-weekend-in-saskatoon-july-3-5",
+      "published_date": "2026-07-03T11:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "After nearly a century, Windsor's D. Pearl and Sons Produce closes its doors",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/after-nearly-a-century-windsors-d-pearl-and-sons-produce-closes-its-doors",
+      "published_date": "2026-07-03T10:45:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor's Brumpton Park stormwater dry pond aims to curb Riverside flooding",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsors-brumpton-park-stormwater-dry-pond-aims-to-curb-riverside-flooding",
+      "published_date": "2026-07-03T10:41:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bonnechere Caves owner thanks paramedics who saved his life",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/bonnechere-caves-owner-thanks-paramedics-who-saved-his-life",
+      "published_date": "2026-07-03T10:06:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Put on the map’: Blue Jays gift $50K to Victoria baseball, softball academy",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/put-on-the-map-blue-jays-gift-50k-to-victoria-baseball-softball-academy/",
+      "published_date": "2026-07-03T02:08:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Vessel that sank off B.C. coast had been impounded last year for illegal fishing, former owner says",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/vessel-that-sank-off-bc-coast-had-been-impounded-last-year-for-illegal-fishing-former-owner-says",
@@ -407,62 +477,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/driver-behaviour-issue-not-new-highway-speeds-of-110-km-h",
       "published_date": "2026-07-02T21:42:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bryan Adams just released the most political single of his career for Canada Day",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/bryan-adams-new-song-51st-state-canada",
-      "published_date": "2026-07-02T21:37:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.’s Teresa Kleindienst to be inducted into Canada Basketball Hall of Fame",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/b-c-s-teresa-kleindienst-to-be-inducted-into-canada-basketball-hall-of-fame/",
-      "published_date": "2026-07-02T21:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Civil Forfeiture seeks to seize vehicle linked to Surrey extortion shooting",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/b-c-civil-forfeiture-seeks-to-seize-vehicle-linked-to-surrey-extortion-shooting/",
-      "published_date": "2026-07-02T21:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Search continues for boat that capsized of coast of Richmond, leaving 6 dead",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/search-continues-for-boat-that-capsized-of-coast-of-richmond-leaving-6-dead/",
-      "published_date": "2026-07-02T20:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cannabis use led to more psychiatric disorders, psychosis and addiction: Study",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/cannabis-use-psychiatric-disorders-psychosis-addiction-study",
-      "published_date": "2026-07-02T20:31:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The wood and stones that built the Ottawa Valley",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/the-wood-and-stones-that-built-the-ottawa-valley",
-      "published_date": "2026-07-02T20:23:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's on Windsor: Roller blades, movies in the morning and Hamlet with a smile",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-roller-blades-movies-in-the-morning-and-hamlet-with-a-smile",
-      "published_date": "2026-07-02T19:56:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Whitewater council asked to lower speed limit",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/whitewater-council-asked-to-lower-speed-limit",
-      "published_date": "2026-07-02T19:55:17Z",
       "category": "Local Events"
     }
   ]
