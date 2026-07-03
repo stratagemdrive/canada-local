@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T12:51:30Z",
+  "generated_at": "2026-07-03T00:10:04Z",
   "country": "Canada",
-  "total_stories": 61,
+  "total_stories": 65,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "B.C. Premier David Eby reveals few details about trade mission to China after trip cut short",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-premier-china-trip-few-details",
+      "published_date": "2026-07-02T22:30:46Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "CUSMA not being renewed in its 'current form,' U.S. trade rep says",
       "source": "Toronto Sun",
@@ -50,20 +57,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/gordie-howe-bridge-a-factor-in-cusma-review-but-not-key-to-outcome-head-of-auto-parts-industry-group-says",
       "published_date": "2026-06-26T13:51:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EDITORIAL: Carney’s dangerous flip-flop on Iran",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-carney-dangerous-flip-flop-iran",
-      "published_date": "2026-06-25T23:13:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada&#039;s high court won&#039;t hear appeal of B.C. man facing US$29 million stock fraud penalties",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/canadas-high-court-wont-hear-appeal-of-b-c-man-facing-us29-million-stock-fraud-penalties",
-      "published_date": "2026-06-25T20:13:27Z",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +130,25 @@
       "category": "Military"
     },
     {
-      "title": "Opinion: Time to change Granville Street for good",
+      "title": "Alberta expected to announce &#039;exciting&#039; proposal for southern route for new oil pipeline",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-time-to-change-granville-street-for-good",
-      "published_date": "2026-06-25T13:00:02Z",
-      "category": "Military"
+      "url": "https://vancouversun.com/news/alberta-to-announce-proposal-southern-oil-pipeline-route",
+      "published_date": "2026-07-02T23:46:36Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Coastal First Nations alliance praises new deal to uphold North Coast tanker ban",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/coastal-first-nations-alliance-praises-new-deal-to-uphold-north-coast-tanker-ban/",
+      "published_date": "2026-07-02T21:52:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Environmental groups question BC Hydro project’s focus on LNG",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/environmental-groups-question-bc-hydro-projects-focus-on-lng/",
+      "published_date": "2026-07-02T20:33:00Z",
+      "category": "Energy"
     },
     {
       "title": "Idea of data centre outside Saskatoon concerns some residents",
@@ -193,11 +200,32 @@
       "category": "Energy"
     },
     {
-      "title": "Data centres as 'good citizens?' Toronto councillor’s motion shot down",
+      "title": "B.C. nurses begin job action following 72-hour strike notice",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/b-c-nurses-begin-job-action-following-72-hour-strike-notice/",
+      "published_date": "2026-07-02T23:26:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: Reversing reform of B.C.&#039;s property tax deferral program would be socially and economically repugnant",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/opinion-reversing-reform-of-b-c-s-property-tax-deferral-program-would-be-socially-and-economically-repugnant",
+      "published_date": "2026-07-02T23:00:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Two injured after strong winds 'flipped over' bouncy castle in Scarborough",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/good-citizens-data-centres-toronto-city-council-hydro",
-      "published_date": "2026-06-25T19:07:37Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/news/local-news/two-injured-strong-winds-flipped-over-bouncy-castle-scarborough",
+      "published_date": "2026-07-02T21:24:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "10% tariff on imported canned goods protects Canada's vegetable growers: Feds",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/10-tariff-imported-canned-goods-protects-canadas-vegetable-growers-feds",
+      "published_date": "2026-07-02T20:26:42Z",
+      "category": "Economy"
     },
     {
       "title": "Spitfires will once again exercise patience after selecting Russian forward Yakushevsky in CHL Import Draft",
@@ -298,143 +326,143 @@
       "category": "Economy"
     },
     {
-      "title": "What to expect (and do) in the first 4 weeks with a puppy",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/what-to-expect-and-do-in-the-first-4-weeks-with-a-puppy/",
-      "published_date": "2026-07-02T12:30:00Z",
+      "title": "Vessel that sank off B.C. coast had been impounded last year for illegal fishing, former owner says",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vessel-that-sank-off-bc-coast-had-been-impounded-last-year-for-illegal-fishing-former-owner-says",
+      "published_date": "2026-07-02T23:51:40Z",
       "category": "Local Events"
     },
     {
-      "title": "The Nature Nut",
+      "title": "PHOTOS: Vancouver Canucks draftees get first taste of action at Abbotsford camp",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/the-nature-nut-22/",
-      "published_date": "2026-07-02T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/photos-vancouver-canucks-draftees-get-first-taste-of-action-at-abbotsford-camp/",
+      "published_date": "2026-07-02T23:35:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tesla Semi truck collision in Nevada kills couple in vehicle's first known fatality",
+      "title": "Langley senior in critical condition after assault",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/langley-senior-in-critical-condition-after-assault",
+      "published_date": "2026-07-02T23:33:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Campbell Riverite goes from local mascot to Trooper drummer",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/campbell-riverite-goes-from-local-mascot-to-trooper-drummer/",
+      "published_date": "2026-07-02T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Big win for B.C. Premier David Eby in funding deal with Ottawa",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-big-win-bc-premier-david-eby-funding-deal-ottawa",
+      "published_date": "2026-07-02T23:13:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dead after Cranbrook arrest, police watchdog investigating",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/man-dead-after-cranbrook-arrest-police-watchdog-investigating/",
+      "published_date": "2026-07-02T23:08:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four people arrested in connection with distraction theft operation across Metro Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/four-people-arrested-in-connection-with-distraction-theft-operation-across-metro-vancouver",
+      "published_date": "2026-07-02T22:36:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey judge sets 4-year sentence for driving ‘rampage’ that led to 13 crashes, 9 victims injured",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/surrey-judge-sets-4-year-sentence-for-driving-rampage-that-led-to-13-crashes-9-victims-injured/",
+      "published_date": "2026-07-02T22:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested in Edmonton returned to Ontario to face extortion, murder charges",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/couple-killed-tesla-semi-truck-nevada-collision",
-      "published_date": "2026-07-02T12:06:50Z",
+      "url": "https://torontosun.com/news/local-news/man-arrested-edmonton-returned-ontario-extortion-murder-charges",
+      "published_date": "2026-07-02T22:09:23Z",
       "category": "Local Events"
     },
     {
-      "title": "A community in photos: Looking back at June 2026 in Saskatoon",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/community-photos-looking-back-june-2026-saskatoon",
-      "published_date": "2026-07-02T12:00:13Z",
+      "title": "Independent investigators to look at in-custody death after Cranbrook arrest",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-independent-investigations-office-custody-death-cranbrook-arrest",
+      "published_date": "2026-07-02T22:02:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Don't miss these five festivals in Saskatoon in July",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/entertainment/local-arts/five-july-festivals-saskatoon",
-      "published_date": "2026-07-02T11:00:33Z",
+      "title": "Vancouver votes to keep Granville Street a pedestrian zone for rest of summer",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-votes-granville-street-pedestrian-zone-for-summer",
+      "published_date": "2026-07-02T21:46:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Circle Drive Bridge opens in Saskatoon in 1983",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/circle-drive-bridge-opens-in-saskatoon-in-1983",
-      "published_date": "2026-07-02T11:00:30Z",
+      "title": "'Driver behaviour' the issue, not new highway speeds of 110 km/h",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/driver-behaviour-issue-not-new-highway-speeds-of-110-km-h",
+      "published_date": "2026-07-02T21:42:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor beach near deadly drop-off to stay closed this year",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-beach-near-deadly-drop-off-to-stay-closed-this-year",
-      "published_date": "2026-07-02T10:30:22Z",
+      "title": "Bryan Adams just released the most political single of his career for Canada Day",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/bryan-adams-new-song-51st-state-canada",
+      "published_date": "2026-07-02T21:37:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Trial begins for three Windsor men charged in violent Walkerville home invasion",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/trial-begins-for-three-windsor-men-charged-in-violent-walkerville-home-invasion",
-      "published_date": "2026-07-02T10:24:21Z",
+      "title": "B.C.’s Teresa Kleindienst to be inducted into Canada Basketball Hall of Fame",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/b-c-s-teresa-kleindienst-to-be-inducted-into-canada-basketball-hall-of-fame/",
+      "published_date": "2026-07-02T21:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "City to launch Pembroke's bicentennial campaign with waterfront event",
+      "title": "B.C. Civil Forfeiture seeks to seize vehicle linked to Surrey extortion shooting",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/b-c-civil-forfeiture-seeks-to-seize-vehicle-linked-to-surrey-extortion-shooting/",
+      "published_date": "2026-07-02T21:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Search continues for boat that capsized of coast of Richmond, leaving 6 dead",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/search-continues-for-boat-that-capsized-of-coast-of-richmond-leaving-6-dead/",
+      "published_date": "2026-07-02T20:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cannabis use led to more psychiatric disorders, psychosis and addiction: Study",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/cannabis-use-psychiatric-disorders-psychosis-addiction-study",
+      "published_date": "2026-07-02T20:31:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The wood and stones that built the Ottawa Valley",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/city-to-launch-pembrokes-bicentennial-campaign-with-waterfront-event",
-      "published_date": "2026-07-02T10:16:38Z",
+      "url": "https://www.pembrokeobserver.com/news/the-wood-and-stones-that-built-the-ottawa-valley",
+      "published_date": "2026-07-02T20:23:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Mental strength propelled Leamington native Eustáquio to score Canada's biggest goal",
+      "title": "What's on Windsor: Roller blades, movies in the morning and Hamlet with a smile",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/mental-strength-propelled-leamington-native-eustaquio-to-score-canadas-biggest-goal",
-      "published_date": "2026-07-02T10:07:10Z",
+      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-roller-blades-movies-in-the-morning-and-hamlet-with-a-smile",
+      "published_date": "2026-07-02T19:56:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Group appeals for changes to 'needlessly stressful' CampTO system",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/group-appeals-for-changes-to-needlessly-stressful-campto-system",
-      "published_date": "2026-07-02T10:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver park board jacks up dispute against City Hall with letter to mayor",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/vancouver-park-board-jacks-up-dispute-against-city-hall-letter-mayor-ken-sim",
-      "published_date": "2026-07-01T23:47:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;This is an honour&#039;: Plenty of Canada Day cheer at citizenship ceremony in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/canada-day-citizenship-ceremony-vancouver",
-      "published_date": "2026-07-01T23:06:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Your Pembroke and Ottawa Valley Community Calendar: Local fun, music, markets and more",
+      "title": "Whitewater council asked to lower speed limit",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/your-pembroke-and-ottawa-valley-community-calendar-local-fun-music-markets-and-more",
-      "published_date": "2026-07-01T22:27:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada will make Eurovision Song Contest debut in 2027, Mark Carney says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/canada-making-eurovision-debut-next-year",
-      "published_date": "2026-07-01T20:48:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The wilder West Coast garden",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/west-coast-gardeners-embrace-the-wild",
-      "published_date": "2026-07-01T20:29:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Couple arrested after scaling top of Empire State Building",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/couple-arrested-climbing-empire-state-building",
-      "published_date": "2026-07-01T19:56:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charges pending after car shot up in Georgetown; dead cyclist found near Brantford",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-arrested-after-car-shot-georgetown",
-      "published_date": "2026-07-01T19:28:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Newborn found dead inside portable toilet at Michigan music festival",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/newborn-dead-portable-toilet-music-festival",
-      "published_date": "2026-07-01T19:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hands Across the Border: B.C. resident co-writes song honouring Canada-U.S. bond",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/01/hands-across-the-border-b-c-resident-co-writes-song-honouring-canada-u-s-bond/",
-      "published_date": "2026-07-01T18:30:00Z",
+      "url": "https://www.pembrokeobserver.com/news/whitewater-council-asked-to-lower-speed-limit",
+      "published_date": "2026-07-02T19:55:17Z",
       "category": "Local Events"
     }
   ]
