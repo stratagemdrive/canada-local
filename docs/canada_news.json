@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T00:08:13Z",
+  "generated_at": "2026-07-04T11:59:05Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -58,6 +58,13 @@
       "url": "https://torontosun.com/opinion/columnists/mark-carney-lays-groundwork-restoring-relations-iran",
       "published_date": "2026-06-27T17:56:21Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Four Windsor-Essex dancers jetting off to compete internationally in Ireland",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/four-windsor-essex-dancers-jetting-off-to-compete-internationally-in-ireland",
+      "published_date": "2026-07-04T10:54:39Z",
+      "category": "Military"
     },
     {
       "title": "Former B.C. RCMP Supt. pleads guilty to assault with weapon",
@@ -228,6 +235,13 @@
       "category": "Energy"
     },
     {
+      "title": "Fight Ford organizers hope to expand support in Kingston",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/07/04/fight-ford-organizers-hope-to-expand-support-in-kingston/",
+      "published_date": "2026-07-04T04:46:31Z",
+      "category": "Economy"
+    },
+    {
       "title": "GTA home sales saw another jump in June, but new listings continue decline",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/gta-home-sales-jump-june-new-listings-decline",
@@ -361,6 +375,41 @@
       "category": "Economy"
     },
     {
+      "title": "Windsor man, first to die of AIDS in Canada, memorialized in Toronto",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-man-first-to-die-of-aids-in-canada-memorialized-in-toronto",
+      "published_date": "2026-07-04T10:55:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quick response by Kelowna Fire Department snuffs suspicious grass fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/quick-response-by-kelowna-fire-department-snuffs-suspicious-grass-fire/",
+      "published_date": "2026-07-04T02:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evacuation alert issued for out-of-control wildfire near Boston Bar",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/evacuation-alert-issued-for-out-of-control-wildfire-near-boston-bar",
+      "published_date": "2026-07-04T01:40:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penticton-Summerland MLA Boultbee joins Eby’s B.C. NDP",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/penticton-summerland-mla-boultbee-joins-ebys-b-c-ndp/",
+      "published_date": "2026-07-04T00:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative Leader Findlay emphasizes party unity following caucus retreat",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/bc-conservative-leader-emphasizes-party-unity-following-caucus-retreat/",
+      "published_date": "2026-07-04T00:05:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Vaughn Palmer: Amelia Boultbee jumping B.C. Conservative ship gives David Eby breathing room",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-boultbee-gives-eby-breathing-room",
@@ -463,41 +512,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/self-pitying-burlington-couple-murdered-boy-12-sentenced-life-prison",
       "published_date": "2026-07-03T19:28:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario SPCA launches No Hot Pets campaign for summer",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/ontario-spca-launches-no-hot-pets-campaign-for-summer",
-      "published_date": "2026-07-03T19:18:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Canada's Country Gentleman' Tommy Hunter, host of long-running TV show, dies at 89",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/tommy-hunter-canada-country-gentleman-host-tv-show-dies-89",
-      "published_date": "2026-07-03T19:08:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arizona toddler declared dead was alive in hospital morgue",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/arizona-toddler-declared-dead-alive-hospital-morgue",
-      "published_date": "2026-07-03T18:38:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Owl found on side of Williams Lake road transported to rehabilitation society",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/owl-found-on-side-of-williams-lake-road-transported-to-rehabilitation-society/",
-      "published_date": "2026-07-03T18:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "British police uncover 270 individuals linked to online sexual abuse networks",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/british-police-270-individuals-online-sexual-abuse-networks",
-      "published_date": "2026-07-03T18:09:07Z",
       "category": "Local Events"
     }
   ]
