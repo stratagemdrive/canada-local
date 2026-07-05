@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T11:59:05Z",
+  "generated_at": "2026-07-05T00:04:26Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -50,13 +50,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/vancouver-granville-island-fan-fest-canada-south-africa-world-cup",
       "published_date": "2026-06-28T23:52:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GOLDSTEIN: Mark Carney lays groundwork for restoring relations with Iran",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-lays-groundwork-restoring-relations-iran",
-      "published_date": "2026-06-27T17:56:21Z",
       "category": "Diplomacy"
     },
     {
@@ -144,6 +137,34 @@
       "category": "Military"
     },
     {
+      "title": "EDITORIAL: An energy policy for the real world",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/canada-energy-policy-oil-natural-gas-real-world",
+      "published_date": "2026-07-04T20:00:10Z",
+      "category": "Energy"
+    },
+    {
+      "title": "B.C. climate news: Glacial lake outburst triggers flooding northeast of Pemberton&#124; First Nations seek details on proposed pipeline &#124; Western Europe braces for repeated heat waves through July",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/climate-change-news-july-5-26",
+      "published_date": "2026-07-04T17:04:29Z",
+      "category": "Energy"
+    },
+    {
+      "title": "GOLDSTEIN: New pipeline to be financed by a gusher of taxpayer money",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/new-pipeline-financed-by-60-billion-taxpayer-money",
+      "published_date": "2026-07-04T15:50:47Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Wells Gray Country director probes Trans Mountain pipeline proposal",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/wells-gray-country-director-probes-trans-mountain-pipeline-proposal/",
+      "published_date": "2026-07-04T12:30:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "PNG explains natural gas delivery increases to RDBN board",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/03/png-explains-natural-gas-delivery-increases-to-rdbn-board/",
@@ -218,20 +239,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/sports/windsor-fast-becoming-oil-country-as-edmonton-brings-two-more-spitfires-into-the-fold",
       "published_date": "2026-06-29T10:00:35Z",
-      "category": "Energy"
-    },
-    {
-      "title": "B.C. climate news: Province funds Youth Climate Corps B.C. &#124; Europe heat dome pushes temperatures over 40 C",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-june-28-26",
-      "published_date": "2026-06-27T17:50:35Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Expect Alberta to file vague plan for oil pipeline to B.C. by July 1: observers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/alberta-oil-pipeline-bc-coast-plan-deadline",
-      "published_date": "2026-06-27T15:00:19Z",
       "category": "Energy"
     },
     {
@@ -361,18 +368,123 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: Canada needs petitions with power",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-canada-needs-petitions-with-power",
-      "published_date": "2026-06-27T13:30:51Z",
-      "category": "Economy"
+      "title": "&#039;It brought everyone together&#039;: As Canada’s World Cup run ends, fans say support is the real victory",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/canada-world-cup-run-ends-fan-support",
+      "published_date": "2026-07-04T22:03:11Z",
+      "category": "Local Events"
     },
     {
-      "title": "Opinion: Food security investments need to happen in Saskatchewan",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/opinion/opinion-food-security-investments-need-to-happen-in-saskatchewan",
-      "published_date": "2026-06-27T13:00:50Z",
-      "category": "Economy"
+      "title": "Despite city objections, RapidTO rollout squashed parking spots",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/dianne-saxe-rapidto-bathurst-street-parking",
+      "published_date": "2026-07-04T20:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police seek arson suspect after $1M house fire",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-arson-suspect-after-1m-house-fire",
+      "published_date": "2026-07-04T16:57:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Powerful storm topples trees, leaves damage across Windsor-Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/powerful-storm-topples-trees-leaves-damage-across-windsor-essex",
+      "published_date": "2026-07-04T16:34:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP: Canada loses 3-0 to Morocco ending 2026 World Cup journey",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/world-cup-canada-battles-morocco-for-quarter-final-berth/",
+      "published_date": "2026-07-04T16:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Douglas Todd: Pressure rising to kill Vancouver&#039;s 17 &#039;villages&#039; plan",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-pressure-vancouver-17-villages-plan",
+      "published_date": "2026-07-04T15:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: America a failure under Trump as it marks its 250th year",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/america-failure-under-trump-marks-250th-year",
+      "published_date": "2026-07-04T15:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: This superstar grape shows big promise for B.C. wine",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/anthony-gismondi-this-superstar-grape-shows-big-promise-for-bc-wine",
+      "published_date": "2026-07-04T15:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letters to The Vancouver Sun: Only more non-market housing will fill need for affordable housing",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/letters/letters-vancouver-sun-only-non-market-housing-will-fill-need-for-affordable-housing",
+      "published_date": "2026-07-04T15:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.&#039;s young soccer players to benefit from World Cup legacy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-young-soccer-players-benefit-from-world-cup-legacy",
+      "published_date": "2026-07-04T15:00:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Charlie Schmid Jr. was the Pied Piper who terrorized Tucson",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/charlie-schmid-jr-pied-piper-terrorized-tucson",
+      "published_date": "2026-07-04T15:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Week In History, 1961: The Sun has fun with the Big Switch",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/this-week-in-history-1961-the-sun-has-fun-with-the-big-switch",
+      "published_date": "2026-07-04T15:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 30, allegedly sexually assaulted multiple women using TTC",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-allegedly-sexually-assaulted-multiple-women-ttc",
+      "published_date": "2026-07-04T14:37:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, July 4: Canada set to take on Morocco at 10 a.m. PT",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/world-cup-daily-july-4-canada-set-to-take-on-morocco-at-10-a-m-pt/",
+      "published_date": "2026-07-04T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Long-time youth soccer executives ready to pass the torch",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/long-time-youth-soccer-executives-ready-to-pass-the-torch/",
+      "published_date": "2026-07-04T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Remembering Kelowna’s Bailey McCourt, legacy lives on in Bill C-225",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/remembering-kelownas-bailey-mccourt-legacy-lives-on-in-bill-c-225/",
+      "published_date": "2026-07-04T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s what’s best for my constituents’: MLA Boultbee explains decision to join B.C. NDP",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/its-whats-best-for-my-constituents-mla-boultbee-explains-decision-to-join-b-c-ndp/",
+      "published_date": "2026-07-04T12:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Windsor man, first to die of AIDS in Canada, memorialized in Toronto",
@@ -393,125 +505,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/evacuation-alert-issued-for-out-of-control-wildfire-near-boston-bar",
       "published_date": "2026-07-04T01:40:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penticton-Summerland MLA Boultbee joins Eby’s B.C. NDP",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/penticton-summerland-mla-boultbee-joins-ebys-b-c-ndp/",
-      "published_date": "2026-07-04T00:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservative Leader Findlay emphasizes party unity following caucus retreat",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/bc-conservative-leader-emphasizes-party-unity-following-caucus-retreat/",
-      "published_date": "2026-07-04T00:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Amelia Boultbee jumping B.C. Conservative ship gives David Eby breathing room",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-boultbee-gives-eby-breathing-room",
-      "published_date": "2026-07-03T23:39:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuation alert issued for wildfire north of Boston Bar",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/evacuation-alert-issued-for-wildfire-north-of-boston-bar/",
-      "published_date": "2026-07-03T23:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Well-known B.C. fishing lodge purchased by Haida Nation",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/well-known-bc-fishing-lodge-purchased-by-haida-nation",
-      "published_date": "2026-07-03T22:19:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Richmond RCMP officer charged with dangerous driving causing bodily harm",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/richmond-rcmp-officer-charged-with-dangerous-driving-causing-bodily-harm",
-      "published_date": "2026-07-03T22:02:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey judge grants conditional discharge to woman who assaulted her girlfriend",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/surrey-judge-grants-conditional-discharge-to-woman-who-assaulted-her-girlfriend/",
-      "published_date": "2026-07-03T21:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: What would they say if we sang out of tune?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-eurovision-carney-what-would-they-say-if-we-sang-out-of-tune",
-      "published_date": "2026-07-03T21:44:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former B.C. Conservative MLA Amelia Boultbee joins B.C. NDP",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/former-bc-conservative-mla-amelia-boultbee-joins-ndp",
-      "published_date": "2026-07-03T20:49:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CIBC slapped with a $10M fine for repeated NSF charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/cibc-10-million-fine-repeated-nsf-charges",
-      "published_date": "2026-07-03T20:35:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Allowable annual cut halved in Kispiox timber supply area",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/allowable-annual-cut-halved-in-kispiox-timber-supply-area/",
-      "published_date": "2026-07-03T20:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two fishermen rescued from Kitimat River",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/two-fishermen-rescued-from-kitimat-river/",
-      "published_date": "2026-07-03T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erling Allen Berg",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/03/erling-allen-berg/",
-      "published_date": "2026-07-03T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal memo considers legal action against social media posting false info",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/federal-memo-considers-legal-action-against-social-media-posting-false-info",
-      "published_date": "2026-07-03T20:15:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "If you live in these three B.C. cities, expect cloudy water next week",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/if-you-live-in-these-three-b-c-cities-expect-cloudy-water-next-week",
-      "published_date": "2026-07-03T19:48:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tom Mayenknecht: Draft and free agency boost NHL, NBA and World Cup soars in busy sports week",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/sports/soccer/international-soccer/tom-mayenknecht-draft-free-agency-boost-nhl-nba-and-world-cup-soars",
-      "published_date": "2026-07-03T19:46:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Self-pitying Burlington couple who murdered boy, 12, sentenced to life in prison",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/self-pitying-burlington-couple-murdered-boy-12-sentenced-life-prison",
-      "published_date": "2026-07-03T19:28:40Z",
       "category": "Local Events"
     }
   ]
