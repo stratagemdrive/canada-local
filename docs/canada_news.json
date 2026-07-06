@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T12:06:54Z",
+  "generated_at": "2026-07-06T00:09:40Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: Will Carney announce mixed submarine fleet on his way to NATO?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/will-carney-announce-a-mixed-submarine-fleet-on-his-way-to-nato",
+      "published_date": "2026-07-05T17:33:57Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Three Windsor impaired driving charges include wrong turn into Canada, drive-thru collision",
       "source": "Windsor Star",
@@ -46,11 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Canada&#039;s big World Cup win well worth the wait for Vancouver fans",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-granville-island-fan-fest-canada-south-africa-world-cup",
-      "published_date": "2026-06-28T23:52:10Z",
-      "category": "Diplomacy"
+      "title": "Windsor man arrested after ‘unprovoked’ assault with baseball bat",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-man-arrested-after-unprovoked-assault-with-baseball-bat",
+      "published_date": "2026-07-05T18:52:51Z",
+      "category": "Military"
     },
     {
       "title": "Four Windsor-Essex dancers jetting off to compete internationally in Ireland",
@@ -127,13 +134,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-june-29",
       "published_date": "2026-06-29T11:17:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Continued U.S. and Iran airstrikes threaten fragile truce",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-airstrikes-again-threaten-truce",
-      "published_date": "2026-06-28T18:01:23Z",
       "category": "Military"
     },
     {
@@ -240,6 +240,13 @@
       "url": "https://windsorstar.com/sports/windsor-fast-becoming-oil-country-as-edmonton-brings-two-more-spitfires-into-the-fold",
       "published_date": "2026-06-29T10:00:35Z",
       "category": "Energy"
+    },
+    {
+      "title": "Metro Vancouver outside workers on strike indefinitely at regional parks",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-outside-workers-strike-indefinitely-regional-parks",
+      "published_date": "2026-07-05T17:22:17Z",
+      "category": "Economy"
     },
     {
       "title": "Fight Ford organizers hope to expand support in Kingston",
@@ -354,18 +361,88 @@
       "category": "Economy"
     },
     {
-      "title": "Jobs still up for grabs for students seeking summer employment",
+      "title": "Victim critically hurt, 2 sought in Brampton shooting; boy on bike hit in Etobicoke",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hope-for-students-seeking-summer-job",
-      "published_date": "2026-06-28T18:43:28Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/victim-critical-suspects-sought-brampton-shooting",
+      "published_date": "2026-07-05T23:10:31Z",
+      "category": "Local Events"
     },
     {
-      "title": "Examining the job-related health issue many working men ignore",
+      "title": "Toronto Public Health issues exposure warning over 'travel-related' measles case",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/health/job-related-health-issue-working-men-ignore",
-      "published_date": "2026-06-28T18:24:01Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/toronto-public-health-measles-exposure-warning",
+      "published_date": "2026-07-05T21:51:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two boys charged in street festival stabbing; 2 rescued after Etobicoke boat crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/two-boys-charged-street-festival-stabbing",
+      "published_date": "2026-07-05T20:36:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HANSON: The new socialists — Elite, ungrateful, and toxic as ever",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/the-new-socialists-elite-ungrateful-and-toxic-as-ever",
+      "published_date": "2026-07-05T17:50:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor fans feel mix of heartbreak, pride as Canada’s World Cup run ends in 3-0 loss",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-fans-feel-heartbreak-pride-as-canadas-world-cup-run-ends-in-3-0-loss",
+      "published_date": "2026-07-05T16:39:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drinking coffee, waking up early among habits that shape Canadians' morning routines: Survey",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/drinking-coffee-waking-up-early-morning-habit-survey",
+      "published_date": "2026-07-05T16:23:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: Will street parking get ugly with increased density?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-will-street-parking-get-ugly-with-increased-density",
+      "published_date": "2026-07-05T15:00:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Get the look: How to update and elevate a natural silver bob",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/hair-styles-silver-grey-bob",
+      "published_date": "2026-07-05T15:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lionel Richie rebounds from recent health woes to triumph in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/lionel-richie-rebounds-recent-health-woes-to-wow-in-toronto",
+      "published_date": "2026-07-05T14:13:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, July 5: Canada & Paraguay eliminated from World Cup",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/05/world-cup-daily-july-5-canada-paraguay-eliminated-from-world-cup/",
+      "published_date": "2026-07-05T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New accessible playground coming to Windsor's Optimist Memorial Park",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/new-accessible-playground-coming-to-windsors-optimist-memorial-park",
+      "published_date": "2026-07-05T13:03:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;All we care about&#039;: Surrey family fights on to fund gene editing procedure for son&#039;s rare disease",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-family-fund-gene-editing-son-rare-disease",
+      "published_date": "2026-07-05T13:00:56Z",
+      "category": "Local Events"
     },
     {
       "title": "B.C. Lions earn 1st win of CFL season, dumping Edmonton Elks 36-24 in Kelowna",
@@ -421,90 +498,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/04/world-cup-canada-battles-morocco-for-quarter-final-berth/",
       "published_date": "2026-07-04T16:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Douglas Todd: Pressure rising to kill Vancouver&#039;s 17 &#039;villages&#039; plan",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-pressure-vancouver-17-villages-plan",
-      "published_date": "2026-07-04T15:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: America a failure under Trump as it marks its 250th year",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/america-failure-under-trump-marks-250th-year",
-      "published_date": "2026-07-04T15:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: This superstar grape shows big promise for B.C. wine",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-this-superstar-grape-shows-big-promise-for-bc-wine",
-      "published_date": "2026-07-04T15:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Vancouver Sun: Only more non-market housing will fill need for affordable housing",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-vancouver-sun-only-non-market-housing-will-fill-need-for-affordable-housing",
-      "published_date": "2026-07-04T15:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.&#039;s young soccer players to benefit from World Cup legacy",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-young-soccer-players-benefit-from-world-cup-legacy",
-      "published_date": "2026-07-04T15:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Charlie Schmid Jr. was the Pied Piper who terrorized Tucson",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/charlie-schmid-jr-pied-piper-terrorized-tucson",
-      "published_date": "2026-07-04T15:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Week In History, 1961: The Sun has fun with the Big Switch",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/this-week-in-history-1961-the-sun-has-fun-with-the-big-switch",
-      "published_date": "2026-07-04T15:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 30, allegedly sexually assaulted multiple women using TTC",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-allegedly-sexually-assaulted-multiple-women-ttc",
-      "published_date": "2026-07-04T14:37:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, July 4: Canada set to take on Morocco at 10 a.m. PT",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/world-cup-daily-july-4-canada-set-to-take-on-morocco-at-10-a-m-pt/",
-      "published_date": "2026-07-04T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Long-time youth soccer executives ready to pass the torch",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/long-time-youth-soccer-executives-ready-to-pass-the-torch/",
-      "published_date": "2026-07-04T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remembering Kelowna’s Bailey McCourt, legacy lives on in Bill C-225",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/remembering-kelownas-bailey-mccourt-legacy-lives-on-in-bill-c-225/",
-      "published_date": "2026-07-04T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s what’s best for my constituents’: MLA Boultbee explains decision to join B.C. NDP",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/its-whats-best-for-my-constituents-mla-boultbee-explains-decision-to-join-b-c-ndp/",
-      "published_date": "2026-07-04T12:00:00Z",
       "category": "Local Events"
     }
   ]
