@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T00:09:40Z",
+  "generated_at": "2026-07-06T14:17:32Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Charlebois: You Can't Negotiate CUSMA with Contradictions and False Narratives",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/charlebois-you-cant-negotiate-cusma-with-contradictions-and-false-narratives",
+      "published_date": "2026-07-06T01:56:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "LILLEY: Carney heading to Halifax for sub announcement en route to NATO",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-heading-to-halifax-for-sub-announcement-enroute-to-nato",
+      "published_date": "2026-07-06T00:40:24Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Will Carney announce mixed submarine fleet on his way to NATO?",
       "source": "Toronto Sun",
@@ -51,6 +65,13 @@
       "url": "https://windsorstar.com/opinion/gwynne-dyer-why-shouldnt-countries-that-benefitted-from-the-transatlantic-slave-trade-pay-up-now",
       "published_date": "2026-06-30T14:52:28Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN LATEST: Supreme leader no-show for father's funeral as Iran vows support for Hezbollah",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/supreme-leader-no-show-fathers-funeral",
+      "published_date": "2026-07-06T00:59:41Z",
+      "category": "Military"
     },
     {
       "title": "Windsor man arrested after ‘unprovoked’ assault with baseball bat",
@@ -127,13 +148,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/06/29/progress-2026-coulson-aviations-night-vision-firefighting-helped-battle-summer-fires-on-vancouver-island/",
       "published_date": "2026-06-29T23:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Trump says U.S., Iran talks set for Qatar on Tuesday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-29",
-      "published_date": "2026-06-29T11:17:07Z",
       "category": "Military"
     },
     {
@@ -232,13 +246,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/life/fashion-beauty/embrace-the-seasons-biggest-shade-with-these-5-blush-pink-styles-from-canadian-boutiques",
       "published_date": "2026-06-30T18:00:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Windsor fast becoming Oil Country as Edmonton Oilers brings two more Spitfires into the fold",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/windsor-fast-becoming-oil-country-as-edmonton-brings-two-more-spitfires-into-the-fold",
-      "published_date": "2026-06-29T10:00:35Z",
       "category": "Energy"
     },
     {
@@ -361,6 +368,69 @@
       "category": "Economy"
     },
     {
+      "title": "WORLD CUP DAILY, July 5: England & Norway advance to quarter finals",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/world-cup-daily-july-5-england-norway-advance-to-quarter-finals/",
+      "published_date": "2026-07-06T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Buckingham Palace yanks stay offer to Prince Harry for London visit: ‘DISAPPOINTING’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/buckingham-palace-prince-harry-london-visit-disappointing",
+      "published_date": "2026-07-06T13:38:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey man becomes first Sikh-Canadian to summit Mount Everest",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-man-becomes-first-sikh-canadian-to-summit-mount-everest",
+      "published_date": "2026-07-06T13:00:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. hospital emergency departments closed almost 2,400 times in three years",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-emergency-departments-closed-2400-times-three-years",
+      "published_date": "2026-07-06T13:00:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rainfall leads ERCA to issue flood watch",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/heavy-rainfall-leads-erca-to-issue-flood-watch",
+      "published_date": "2026-07-06T12:55:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Willistead Manor restoration unveiled with Hiram Walker archival collection on display",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/willistead-manor-restoration-unveiled-with-hiram-walker-archival-collection-on-display",
+      "published_date": "2026-07-06T10:28:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deliberately set fire causes $200K damage to Windsor playground",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/deliberately-set-fire-causes-200k-damage-at-windsor-park",
+      "published_date": "2026-07-06T10:14:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arson investigation launched after man dies in Amherstburg house fire",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/arson-investigation-launched-after-man-dies-in-amherstburg-house-fire",
+      "published_date": "2026-07-06T10:06:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letter: No safe fluoride level determined for pregnant women or infants",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/letter-no-safe-fluoride-level-determined-for-pregnant-women-or-infants",
+      "published_date": "2026-07-06T02:07:59Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Victim critically hurt, 2 sought in Brampton shooting; boy on bike hit in Etobicoke",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/victim-critical-suspects-sought-brampton-shooting",
@@ -435,69 +505,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/new-accessible-playground-coming-to-windsors-optimist-memorial-park",
       "published_date": "2026-07-05T13:03:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;All we care about&#039;: Surrey family fights on to fund gene editing procedure for son&#039;s rare disease",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-family-fund-gene-editing-son-rare-disease",
-      "published_date": "2026-07-05T13:00:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Lions earn 1st win of CFL season, dumping Edmonton Elks 36-24 in Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/b-c-lions-earn-1st-win-of-cfl-season-dumping-edmonton-elks-36-24-in-kelowna/",
-      "published_date": "2026-07-05T02:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smoke from wildfire near Boston Bar fills Okanagan skies",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/smoke-from-wildfire-near-boston-bar-fills-okanagan-skies/",
-      "published_date": "2026-07-05T01:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quickly growing grass fire extinguished off Highway 97 in West Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/quickly-growing-grass-fire-extinguished-off-highway-97-in-west-kelowna/",
-      "published_date": "2026-07-05T01:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;It brought everyone together&#039;: As Canada’s World Cup run ends, fans say support is the real victory",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/canada-world-cup-run-ends-fan-support",
-      "published_date": "2026-07-04T22:03:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Despite city objections, RapidTO rollout squashed parking spots",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/dianne-saxe-rapidto-bathurst-street-parking",
-      "published_date": "2026-07-04T20:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seek arson suspect after $1M house fire",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-arson-suspect-after-1m-house-fire",
-      "published_date": "2026-07-04T16:57:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Powerful storm topples trees, leaves damage across Windsor-Essex",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/powerful-storm-topples-trees-leaves-damage-across-windsor-essex",
-      "published_date": "2026-07-04T16:34:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP: Canada loses 3-0 to Morocco ending 2026 World Cup journey",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/04/world-cup-canada-battles-morocco-for-quarter-final-berth/",
-      "published_date": "2026-07-04T16:25:00Z",
       "category": "Local Events"
     }
   ]
