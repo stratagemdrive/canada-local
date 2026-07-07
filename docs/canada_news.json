@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T13:08:54Z",
+  "generated_at": "2026-07-07T23:59:47Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 65,
   "categories": [
     "Diplomacy",
     "Military",
@@ -60,18 +60,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "B.C. nurses could be on strike this week after issuing 72-hour notice",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-nurses-could-strike-72-hour-notice",
-      "published_date": "2026-06-30T17:46:45Z",
-      "category": "Diplomacy"
+      "title": "B.C. shipyard ready to deliver on new navy submarines",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/07/b-c-shipyard-ready-to-deliver-on-new-navy-submarines/",
+      "published_date": "2026-07-07T20:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "GWYNNE DYER: Why shouldn't countries that benefitted from the transatlantic slave trade pay up now?",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/gwynne-dyer-why-shouldnt-countries-that-benefitted-from-the-transatlantic-slave-trade-pay-up-now",
-      "published_date": "2026-06-30T14:52:28Z",
-      "category": "Diplomacy"
+      "title": "Expert warns Carney’s billion-dollar sub plan leaves giant ‘capability gap’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/expert-warns-carneys-billion-dollar-sub-plan-leaves-giant-capability-gap",
+      "published_date": "2026-07-07T19:49:04Z",
+      "category": "Military"
     },
     {
       "title": "Canada chooses German firm as preferred submarine provider",
@@ -144,18 +144,11 @@
       "category": "Military"
     },
     {
-      "title": "Florida boy, dad facing legal trouble over jet ski incident",
+      "title": "U.S. hits Iran, revokes waiver after tankers attacked in Strait of Hormuz",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/weird/boy-riding-jet-ski-stopped-florida-cops",
-      "published_date": "2026-06-30T20:05:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Windsor-Essex manufacturers get foot in door of Canada's growing defence sector",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-essex-manufacturers-get-foot-in-door-of-canadas-growing-defence-sector",
-      "published_date": "2026-06-30T14:27:22Z",
-      "category": "Military"
+      "url": "https://torontosun.com/news/world/us-revokes-iran-sanctions-waiver-tankers-attacked",
+      "published_date": "2026-07-07T21:50:20Z",
+      "category": "Energy"
     },
     {
       "title": "BC Hydro gives more details on how to get free smart thermostats starting this fall",
@@ -249,18 +242,11 @@
       "category": "Energy"
     },
     {
-      "title": "Idea of data centre outside Saskatoon concerns some residents",
-      "source": "The StarPhoenix",
-      "url": "https://thestarphoenix.com/news/local-news/idea-of-data-centre-outside-saskatoon-concerns-some-residents",
-      "published_date": "2026-06-30T19:16:34Z",
-      "category": "Energy"
-    },
-    {
-      "title": "5 blush pink styles from Canadian boutiques",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/embrace-the-seasons-biggest-shade-with-these-5-blush-pink-styles-from-canadian-boutiques",
-      "published_date": "2026-06-30T18:00:38Z",
-      "category": "Energy"
+      "title": "B.C. nurses allege employer threats and intimidation due to job action",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/07/b-c-nurses-allege-employer-threats-and-intimidation-due-to-job-action/",
+      "published_date": "2026-07-07T22:52:00Z",
+      "category": "Economy"
     },
     {
       "title": "Canada's 15 most affordable cities; Windsor-Essex is 11th",
@@ -340,171 +326,143 @@
       "category": "Economy"
     },
     {
-      "title": "Federal funding boosts Okanagan food rescue project",
+      "title": "MANDEL: Could new reforms finally clamp down on 'catch-and-release' bail?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mandel-could-new-reforms-finally-clamp-down-on-catch-and-release-bail",
+      "published_date": "2026-07-07T23:51:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New data reveals scope of big-money investors in B.C. rental home market",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/new-data-reveals-big-money-investors-bc-rental-home-market",
+      "published_date": "2026-07-07T23:35:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: United Arab Emirates unlikely to walk away from plan to invest $70B in Canada",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/uae-not-walking-away-from-investing-canada",
+      "published_date": "2026-07-07T23:18:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup projections fall well short for 2 Airbnb hosts",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/world-cup-projections-fall-well-short-for-2-airbnb-hosts",
+      "published_date": "2026-07-07T23:04:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: More grief for local cops after Durham recruits involved in fatal crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/more-grief-local-cops-durham-recruit-killed",
+      "published_date": "2026-07-07T22:43:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teck Trail receives $400M from new critical minerals fund",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/30/federal-funding-boosts-okanagan-food-rescue-project/",
-      "published_date": "2026-06-30T23:20:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Tax cut for Ontario small businesses begins on Canada Day",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/tax-cut-ontario-small-businesses-coming",
-      "published_date": "2026-06-30T20:42:43Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Windsor receives $9M cheque, unveils OLG garden",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-receives-9m-cheque-unveils-olg-garden",
-      "published_date": "2026-06-30T20:12:51Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Letter: City parks workers did great job cleaning up after fireworks",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/letter-city-parks-workers-did-great-job-cleaning-up-after-fireworks",
-      "published_date": "2026-06-30T14:47:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Meet the woman who has volunteered at Bard on the Beach for 35 years",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/bard-on-the-beach-volunteer",
-      "published_date": "2026-07-07T13:00:21Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/07/teck-trail-receives-400m-from-new-critical-minerals-fund/",
+      "published_date": "2026-07-07T22:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Kylian Mbappe claps back at Paraguayan senator over racist attack: 'Despicable woman'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/soccer/kylian-mbappe-paraguayan-senator-racist-attack",
-      "published_date": "2026-07-07T12:40:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seek help in identifying van theft suspect",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-help-in-identifying-theft-suspect",
-      "published_date": "2026-07-07T12:29:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadians not excited about becoming a refuge for Americans",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/canadians-not-excited-about-becoming-a-refuge-for-americans",
-      "published_date": "2026-07-07T11:52:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Does Pierre Poilievre actually want to be prime minister?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/does-poilievre-want-to-be-prime-minister",
-      "published_date": "2026-07-07T11:42:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It hit hard' — Essex County residents recover after powerful storm tears through region",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/it-hit-hard-essex-county-residents-recover-after-powerful-storm-tears-through-region",
-      "published_date": "2026-07-07T11:10:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luxury South Windsor condos receive final council approval",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/luxury-south-windsor-condos-receive-final-council-approval",
-      "published_date": "2026-07-07T10:25:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swimmer missing in fast-flowing Stamp River near Port Alberni",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/swimmer-missing-fast-flowing-stamp-river-near-port-alberni",
-      "published_date": "2026-07-07T02:26:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renata Ford, widow of late Toronto mayor Rob Ford, dies at 55",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/renata-ford-widow-rob-ford-dead",
-      "published_date": "2026-07-07T01:36:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia fans want Vancouver &#039;to feel the love&#039; ahead of World Cup clash against Switzerland",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/colombia-switzerland-bc-place-round-of-16",
-      "published_date": "2026-07-07T00:26:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where the rules don’t apply: Fortis and the Christina Lake data centre controversy",
+      "title": "1 dead in Coquitlam house fire, RCMP say",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/where-the-rules-dont-apply-fortis-and-the-christina-lake-data-centre-controversy/",
-      "published_date": "2026-07-07T00:05:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/07/1-dead-in-coquitlam-house-fire-rcmp-say/",
+      "published_date": "2026-07-07T22:14:00Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;Scathing indictment&#039;: Massey Tunnel replacement will cost $8.5 billion, more than double original estimate",
+      "title": "B.C. man among 37 charged in major U.S. crackdown on Indian crime syndicates",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/07/b-c-man-among-37-charged-in-major-u-s-crackdown-on-indian-crime-syndicates/",
+      "published_date": "2026-07-07T22:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pickering Casino Resort fined for failing to flag suspicious transactions, other infractions",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/pickering-casino-resort-fined-various-infractions",
+      "published_date": "2026-07-07T21:30:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. court documents link Bishnoi gang to the death of B.C. Sikh temple president",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/07/u-s-court-documents-link-bishnoi-gang-to-the-death-of-b-c-sikh-temple-president/",
+      "published_date": "2026-07-07T20:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. government hires lawyers to sue OpenAI over Tumbler Ridge mass shooting",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-massey-tunnel-replacement-cost-85-billion-double-original-estimate",
-      "published_date": "2026-07-06T23:52:27Z",
+      "url": "https://vancouversun.com/news/bc-government-lawsuit-openai-tumbler-ridge",
+      "published_date": "2026-07-07T19:58:27Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: Judge&#039;s refusal to reopen Cowichan case a chilling message to B.C. landowners",
+      "title": "U.S. indicts Bishnoi gang leaders and others in B.C. for trafficking, violence",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-chilling-message-bc-landowners-judge-refusal-reopen-cowichan-case",
-      "published_date": "2026-07-06T23:46:03Z",
+      "url": "https://vancouversun.com/news/crime/u-s-indicts-bishnoi-gang-leaders-and-others-in-bc-for-trafficking-violence",
+      "published_date": "2026-07-07T19:29:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Federal authorities identify name of company that operated vessel that sank off B.C. coast",
+      "title": "Mark Carney hands Tory MP, top PMO adviser Senate seats",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/mark-carney-hands-tory-mp-top-pmo-adviser-senate-seats",
+      "published_date": "2026-07-07T19:24:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police cracking down on dangerous drivers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/police-cracking-down-on-dangerous-drivers",
+      "published_date": "2026-07-07T19:01:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Island rugby team crowned big winners at Abbotsford provincials",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/07/vancouver-island-rugby-team-crowned-big-winners-at-abbotsford-provincials/",
+      "published_date": "2026-07-07T18:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coquitlam fire kills one person, engulfs three homes, sends smoke over Highway 1 near Brunette",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/federal-authorities-identify-company-that-operated-vessel-that-sank-bc-coast",
-      "published_date": "2026-07-06T23:33:46Z",
+      "url": "https://vancouversun.com/news/coquitlam-fire-sends-smoke-over-highway-1-near-brunette",
+      "published_date": "2026-07-07T17:22:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Class of 2026 celebrated at L'Équinoxe graduation in Pembroke",
+      "title": "Inaugural Taste of Little Jamaica on July 18 cancelled over permits issues",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/inaugural-taste-little-jamaica-cancelled",
+      "published_date": "2026-07-07T17:20:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Island golf superintendent achieves Canada’s highest industry honour",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/07/vancouver-island-golf-superintendent-achieves-canadas-highest-industry-honour/",
+      "published_date": "2026-07-07T17:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beauty brand Rhode pops up in Vancouver this week",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/rhode-vancouver-popup-what-to-know",
+      "published_date": "2026-07-07T16:53:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six motorists face stunt driving charges across Upper Ottawa Valley",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/class-of-2026-celebrated-at-lequinoxe-graduation-in-pembroke",
-      "published_date": "2026-07-06T23:23:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 person dead, another critical after double shooting in Scarborough",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/person-dead-another-critical-shooting-north-york",
-      "published_date": "2026-07-06T23:22:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.’s estimate for Massey Tunnel replacement more than doubles to $8.5B",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/b-c-s-estimate-for-massey-tunnel-replacement-more-than-doubles-to-8-5b/",
-      "published_date": "2026-07-06T23:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Pursuing &#039;Fortress North America&#039; as a supplement to CUSMA renewal is a dangerous mistake",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-pursuing-fortress-north-america-as-a-supplement-to-cusma-renewal-is-a-dangerous-mistake",
-      "published_date": "2026-07-06T23:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flooded again: Windsor homeowners say they're running out of hope after torrential weekend rain",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/flooded-again-windsor-homeowners-say-theyre-running-out-of-hope-after-torrential-weekend-rain",
-      "published_date": "2026-07-06T22:55:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "4-hectare wildfire discovered east of Kamloops out of control",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/4-hectare-wildfire-discovered-east-of-kamloops-out-of-control/",
-      "published_date": "2026-07-06T22:52:00Z",
+      "url": "https://www.pembrokeobserver.com/news/six-motorists-face-stunt-driving-charges-across-upper-ottawa-valley",
+      "published_date": "2026-07-07T16:28:25Z",
       "category": "Local Events"
     }
   ]
