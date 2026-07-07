@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T14:17:32Z",
+  "generated_at": "2026-07-07T00:11:26Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Opinion: Morocco beat Canada 3-0, and handed us a blueprint",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-morocco-beat-canada-3-0-and-handed-us-a-blueprint",
+      "published_date": "2026-07-06T23:00:03Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Charlebois: You Can't Negotiate CUSMA with Contradictions and False Narratives",
       "source": "Windsor Star",
@@ -65,6 +72,20 @@
       "url": "https://windsorstar.com/opinion/gwynne-dyer-why-shouldnt-countries-that-benefitted-from-the-transatlantic-slave-trade-pay-up-now",
       "published_date": "2026-06-30T14:52:28Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Canada chooses German firm as preferred submarine provider",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-chooses-german-firm-as-preferred-submarine-provider",
+      "published_date": "2026-07-06T21:10:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Death of malnourished Duncan girl a ‘systemic’ failure: defence lawyer",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/death-malnourished-duncan-girl-systemic-failure-defence-lawyer",
+      "published_date": "2026-07-06T18:06:31Z",
+      "category": "Military"
     },
     {
       "title": "IRAN LATEST: Supreme leader no-show for father's funeral as Iran vows support for Hezbollah",
@@ -144,11 +165,11 @@
       "category": "Military"
     },
     {
-      "title": "PROGRESS 2026: Coulson Aviation’s night vision firefighting helped battle summer fires on Vancouver Island",
+      "title": "BC Hydro gives more details on how to get free smart thermostats starting this fall",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/29/progress-2026-coulson-aviations-night-vision-firefighting-helped-battle-summer-fires-on-vancouver-island/",
-      "published_date": "2026-06-29T23:30:00Z",
-      "category": "Military"
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/bc-hydro-gives-more-details-on-how-to-get-free-smart-thermostats-starting-this-fall/",
+      "published_date": "2026-07-06T20:46:00Z",
+      "category": "Energy"
     },
     {
       "title": "EDITORIAL: An energy policy for the real world",
@@ -249,6 +270,13 @@
       "category": "Energy"
     },
     {
+      "title": "B.C. businesses with temporary patios for World Cup can apply for extension",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/b-c-businesses-with-temporary-patios-for-world-cup-can-apply-for-extension/",
+      "published_date": "2026-07-06T20:04:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Metro Vancouver outside workers on strike indefinitely at regional parks",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/metro-vancouver-outside-workers-strike-indefinitely-regional-parks",
@@ -347,164 +375,143 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. Nurses’ Union files 72-hour strike notice to labour relations board",
+      "title": "Where the rules don’t apply: Fortis and the Christina Lake data centre controversy",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/06/29/b-c-nurses-union-files-72-hour-strike-notice-to-labour-relations-board/",
-      "published_date": "2026-06-30T00:01:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/where-the-rules-dont-apply-fortis-and-the-christina-lake-data-centre-controversy/",
+      "published_date": "2026-07-07T00:05:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "'Milestone:' Windsor Regional Hospital opens expanded lab for heart attack patients",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/milestone-windsor-regional-hospital-opens-expanded-lab-for-heart-attack-patients",
-      "published_date": "2026-06-29T19:53:17Z",
-      "category": "Economy"
+      "title": "&#039;Scathing indictment&#039;: Massey Tunnel replacement will cost $8.5 billion, more than double original estimate",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-massey-tunnel-replacement-cost-85-billion-double-original-estimate",
+      "published_date": "2026-07-06T23:52:27Z",
+      "category": "Local Events"
     },
     {
-      "title": "Windsor Regional Hospital deficit drops to $18.3M",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-regional-hospital-deficit-drops-to-18-3m",
-      "published_date": "2026-06-29T17:21:41Z",
-      "category": "Economy"
+      "title": "Vaughn Palmer: Judge&#039;s refusal to reopen Cowichan case a chilling message to B.C. landowners",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-chilling-message-bc-landowners-judge-refusal-reopen-cowichan-case",
+      "published_date": "2026-07-06T23:46:03Z",
+      "category": "Local Events"
     },
     {
-      "title": "WORLD CUP DAILY, July 5: England & Norway advance to quarter finals",
+      "title": "Federal authorities identify name of company that operated vessel that sank off B.C. coast",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/federal-authorities-identify-company-that-operated-vessel-that-sank-bc-coast",
+      "published_date": "2026-07-06T23:33:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Class of 2026 celebrated at L'Équinoxe graduation in Pembroke",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/class-of-2026-celebrated-at-lequinoxe-graduation-in-pembroke",
+      "published_date": "2026-07-06T23:23:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "1 person dead, another critical after double shooting in Scarborough",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/person-dead-another-critical-shooting-north-york",
+      "published_date": "2026-07-06T23:22:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.’s estimate for Massey Tunnel replacement more than doubles to $8.5B",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/world-cup-daily-july-5-england-norway-advance-to-quarter-finals/",
-      "published_date": "2026-07-06T14:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/b-c-s-estimate-for-massey-tunnel-replacement-more-than-doubles-to-8-5b/",
+      "published_date": "2026-07-06T23:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Buckingham Palace yanks stay offer to Prince Harry for London visit: ‘DISAPPOINTING’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/buckingham-palace-prince-harry-london-visit-disappointing",
-      "published_date": "2026-07-06T13:38:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey man becomes first Sikh-Canadian to summit Mount Everest",
+      "title": "Opinion: Pursuing &#039;Fortress North America&#039; as a supplement to CUSMA renewal is a dangerous mistake",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-man-becomes-first-sikh-canadian-to-summit-mount-everest",
-      "published_date": "2026-07-06T13:00:30Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-pursuing-fortress-north-america-as-a-supplement-to-cusma-renewal-is-a-dangerous-mistake",
+      "published_date": "2026-07-06T23:00:34Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. hospital emergency departments closed almost 2,400 times in three years",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-emergency-departments-closed-2400-times-three-years",
-      "published_date": "2026-07-06T13:00:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rainfall leads ERCA to issue flood watch",
+      "title": "Flooded again: Windsor homeowners say they're running out of hope after torrential weekend rain",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/heavy-rainfall-leads-erca-to-issue-flood-watch",
-      "published_date": "2026-07-06T12:55:24Z",
+      "url": "https://windsorstar.com/news/local-news/flooded-again-windsor-homeowners-say-theyre-running-out-of-hope-after-torrential-weekend-rain",
+      "published_date": "2026-07-06T22:55:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Willistead Manor restoration unveiled with Hiram Walker archival collection on display",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/willistead-manor-restoration-unveiled-with-hiram-walker-archival-collection-on-display",
-      "published_date": "2026-07-06T10:28:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deliberately set fire causes $200K damage to Windsor playground",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/deliberately-set-fire-causes-200k-damage-at-windsor-park",
-      "published_date": "2026-07-06T10:14:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arson investigation launched after man dies in Amherstburg house fire",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/arson-investigation-launched-after-man-dies-in-amherstburg-house-fire",
-      "published_date": "2026-07-06T10:06:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letter: No safe fluoride level determined for pregnant women or infants",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/letter-no-safe-fluoride-level-determined-for-pregnant-women-or-infants",
-      "published_date": "2026-07-06T02:07:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victim critically hurt, 2 sought in Brampton shooting; boy on bike hit in Etobicoke",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/victim-critical-suspects-sought-brampton-shooting",
-      "published_date": "2026-07-05T23:10:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Public Health issues exposure warning over 'travel-related' measles case",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-public-health-measles-exposure-warning",
-      "published_date": "2026-07-05T21:51:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two boys charged in street festival stabbing; 2 rescued after Etobicoke boat crash",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/two-boys-charged-street-festival-stabbing",
-      "published_date": "2026-07-05T20:36:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HANSON: The new socialists — Elite, ungrateful, and toxic as ever",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/the-new-socialists-elite-ungrateful-and-toxic-as-ever",
-      "published_date": "2026-07-05T17:50:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor fans feel mix of heartbreak, pride as Canada’s World Cup run ends in 3-0 loss",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-fans-feel-heartbreak-pride-as-canadas-world-cup-run-ends-in-3-0-loss",
-      "published_date": "2026-07-05T16:39:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drinking coffee, waking up early among habits that shape Canadians' morning routines: Survey",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/drinking-coffee-waking-up-early-morning-habit-survey",
-      "published_date": "2026-07-05T16:23:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Will street parking get ugly with increased density?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-will-street-parking-get-ugly-with-increased-density",
-      "published_date": "2026-07-05T15:00:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Get the look: How to update and elevate a natural silver bob",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/hair-styles-silver-grey-bob",
-      "published_date": "2026-07-05T15:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lionel Richie rebounds from recent health woes to triumph in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/music/lionel-richie-rebounds-recent-health-woes-to-wow-in-toronto",
-      "published_date": "2026-07-05T14:13:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, July 5: Canada & Paraguay eliminated from World Cup",
+      "title": "4-hectare wildfire discovered east of Kamloops out of control",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/05/world-cup-daily-july-5-canada-paraguay-eliminated-from-world-cup/",
-      "published_date": "2026-07-05T14:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/4-hectare-wildfire-discovered-east-of-kamloops-out-of-control/",
+      "published_date": "2026-07-06T22:52:00Z",
       "category": "Local Events"
     },
     {
-      "title": "New accessible playground coming to Windsor's Optimist Memorial Park",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/new-accessible-playground-coming-to-windsors-optimist-memorial-park",
-      "published_date": "2026-07-05T13:03:18Z",
+      "title": "Kramer family donation boosts Pembroke hospital foundation campaign",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/kramer-family-donation-boosts-pembroke-hospital-foundation-campaign",
+      "published_date": "2026-07-06T22:42:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parking enforcement officer hurt in waterfront hit-and-run; pedestrian killed in Mississauga",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/parking-enforcement-officer-hurt-waterfront-hit-run",
+      "published_date": "2026-07-06T22:35:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brunswick Creek wildfire grows, leads to air quality warning in east Fraser Valley",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/brunswick-creek-wildfire-grows-leads-to-air-quality-warning-in-east-fraser-valley",
+      "published_date": "2026-07-06T22:24:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto music walk celebrates Sam the Record Man, HMV, the World's Biggest Bookstore",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-music-walk-celebrates-sam-the-record-man-hmv-the-worlds-biggest-bookstore",
+      "published_date": "2026-07-06T22:20:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Bradford's real promise on Yonge-Dundas Square is to clean it up",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/bradfords-real-promise-on-yonge-dundas-square-is-to-clean-it-up",
+      "published_date": "2026-07-06T21:54:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Poilievre was right about everything",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/editorial-poilievre-was-right-about-everything",
+      "published_date": "2026-07-06T21:40:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Motorcyclist dies in B.C. highway crash after allegedly speeding by police check",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/motorcyclists-dies-in-b-c-highway-crash-after-allegedly-speeding-by-police-check/",
+      "published_date": "2026-07-06T21:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ontario Trucking Association wants more enforcement on speed cap",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/ontario-trucking-association-wants-more-enforcement-on-cap-speed",
+      "published_date": "2026-07-06T21:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Witnesses sought in Vaughan nightclub shooting; drugs seized in Thunder Bay",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/witnesses-sought-vaughan-nightclub-shooting",
+      "published_date": "2026-07-06T20:53:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Donald Trump steps up for Team USA, while Canadian leadership called into question",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/americas-captain-plays-trump-card-while-canada-hides-on-sidelines",
+      "published_date": "2026-07-06T20:52:35Z",
       "category": "Local Events"
     }
   ]
