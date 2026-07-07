@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T00:11:26Z",
+  "generated_at": "2026-07-07T13:08:54Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -158,13 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Iran will not meet with U.S. for talks, Qatar says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-june-30",
-      "published_date": "2026-06-30T11:29:12Z",
-      "category": "Military"
-    },
-    {
       "title": "BC Hydro gives more details on how to get free smart thermostats starting this fall",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/06/bc-hydro-gives-more-details-on-how-to-get-free-smart-thermostats-starting-this-fall/",
@@ -270,6 +263,13 @@
       "category": "Energy"
     },
     {
+      "title": "Canada's 15 most affordable cities; Windsor-Essex is 11th",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/canadas-15-most-affordable-cities-windsor-essex-is-11th",
+      "published_date": "2026-07-07T10:29:34Z",
+      "category": "Economy"
+    },
+    {
       "title": "B.C. businesses with temporary patios for World Cup can apply for extension",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/06/b-c-businesses-with-temporary-patios-for-world-cup-can-apply-for-extension/",
@@ -368,11 +368,74 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: Breaking up the work is the right way to build the Massey Tunnel replacement",
+      "title": "Meet the woman who has volunteered at Bard on the Beach for 35 years",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-breaking-up-the-work-is-the-right-way-to-build-the-massey-tunnel-replacement",
-      "published_date": "2026-06-30T13:00:59Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/entertainment/bard-on-the-beach-volunteer",
+      "published_date": "2026-07-07T13:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kylian Mbappe claps back at Paraguayan senator over racist attack: 'Despicable woman'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/soccer/kylian-mbappe-paraguayan-senator-racist-attack",
+      "published_date": "2026-07-07T12:40:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police seek help in identifying van theft suspect",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-help-in-identifying-theft-suspect",
+      "published_date": "2026-07-07T12:29:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadians not excited about becoming a refuge for Americans",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/canadians-not-excited-about-becoming-a-refuge-for-americans",
+      "published_date": "2026-07-07T11:52:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Does Pierre Poilievre actually want to be prime minister?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/does-poilievre-want-to-be-prime-minister",
+      "published_date": "2026-07-07T11:42:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'It hit hard' — Essex County residents recover after powerful storm tears through region",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/it-hit-hard-essex-county-residents-recover-after-powerful-storm-tears-through-region",
+      "published_date": "2026-07-07T11:10:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luxury South Windsor condos receive final council approval",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/luxury-south-windsor-condos-receive-final-council-approval",
+      "published_date": "2026-07-07T10:25:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swimmer missing in fast-flowing Stamp River near Port Alberni",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/swimmer-missing-fast-flowing-stamp-river-near-port-alberni",
+      "published_date": "2026-07-07T02:26:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renata Ford, widow of late Toronto mayor Rob Ford, dies at 55",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/renata-ford-widow-rob-ford-dead",
+      "published_date": "2026-07-07T01:36:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia fans want Vancouver &#039;to feel the love&#039; ahead of World Cup clash against Switzerland",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/colombia-switzerland-bc-place-round-of-16",
+      "published_date": "2026-07-07T00:26:10Z",
+      "category": "Local Events"
     },
     {
       "title": "Where the rules don’t apply: Fortis and the Christina Lake data centre controversy",
@@ -442,76 +505,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/06/4-hectare-wildfire-discovered-east-of-kamloops-out-of-control/",
       "published_date": "2026-07-06T22:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kramer family donation boosts Pembroke hospital foundation campaign",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/kramer-family-donation-boosts-pembroke-hospital-foundation-campaign",
-      "published_date": "2026-07-06T22:42:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parking enforcement officer hurt in waterfront hit-and-run; pedestrian killed in Mississauga",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/parking-enforcement-officer-hurt-waterfront-hit-run",
-      "published_date": "2026-07-06T22:35:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brunswick Creek wildfire grows, leads to air quality warning in east Fraser Valley",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/brunswick-creek-wildfire-grows-leads-to-air-quality-warning-in-east-fraser-valley",
-      "published_date": "2026-07-06T22:24:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto music walk celebrates Sam the Record Man, HMV, the World's Biggest Bookstore",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-music-walk-celebrates-sam-the-record-man-hmv-the-worlds-biggest-bookstore",
-      "published_date": "2026-07-06T22:20:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Bradford's real promise on Yonge-Dundas Square is to clean it up",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/bradfords-real-promise-on-yonge-dundas-square-is-to-clean-it-up",
-      "published_date": "2026-07-06T21:54:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Poilievre was right about everything",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-poilievre-was-right-about-everything",
-      "published_date": "2026-07-06T21:40:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motorcyclist dies in B.C. highway crash after allegedly speeding by police check",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/06/motorcyclists-dies-in-b-c-highway-crash-after-allegedly-speeding-by-police-check/",
-      "published_date": "2026-07-06T21:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario Trucking Association wants more enforcement on speed cap",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/ontario-trucking-association-wants-more-enforcement-on-cap-speed",
-      "published_date": "2026-07-06T21:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Witnesses sought in Vaughan nightclub shooting; drugs seized in Thunder Bay",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/witnesses-sought-vaughan-nightclub-shooting",
-      "published_date": "2026-07-06T20:53:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Donald Trump steps up for Team USA, while Canadian leadership called into question",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/americas-captain-plays-trump-card-while-canada-hides-on-sidelines",
-      "published_date": "2026-07-06T20:52:35Z",
       "category": "Local Events"
     }
   ]
