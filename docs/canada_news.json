@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T00:14:16Z",
+  "generated_at": "2026-07-09T13:39:20Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -58,6 +58,13 @@
       "url": "https://vancouversun.com/news/bc-premier-china-trip-few-details",
       "published_date": "2026-07-02T22:30:46Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Iran, U.S. trade second day of airstrikes; Khamenei to be buried",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-9",
+      "published_date": "2026-07-09T11:32:30Z",
+      "category": "Military"
     },
     {
       "title": "Crown calls for three months prison for Langley ex-Mountie",
@@ -151,11 +158,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Qatar says 'positive progress' made in U.S.-Iran talks conclude",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-2",
-      "published_date": "2026-07-02T11:36:13Z",
-      "category": "Military"
+      "title": "EDITORIAL: With industrial development, the Northwest needs a permanent revenue-sharing deal",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/editorial-with-industrial-development-the-northwest-needs-a-permanent-revenue-sharing-deal/",
+      "published_date": "2026-07-09T12:30:00Z",
+      "category": "Energy"
     },
     {
       "title": "Cedar LNG defends live-aboard plan amid fly-in fly-out concerns",
@@ -263,6 +270,20 @@
       "category": "Energy"
     },
     {
+      "title": "Opinion: Housing policies from all levels of government lack pass-it-forward affordability",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-housing-policies-from-all-levels-of-government-lack-pass-it-forward-affordability",
+      "published_date": "2026-07-09T13:00:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Essex council narrowly passes next phase of $13M sports fields project",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/essex-council-narrowly-passes-next-phase-of-13m-sports-fields-project",
+      "published_date": "2026-07-09T09:58:16Z",
+      "category": "Economy"
+    },
+    {
       "title": "Alberta lands $13-billion Meta data centre project",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/08/alberta-lands-13-billion-meta-data-centre-project/",
@@ -347,6 +368,104 @@
       "category": "Economy"
     },
     {
+      "title": "Student pilot forced to land plane after instructor jumps to his death mid-flight",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/student-pilot-forced-land-plane-instructor-jumps-mid-flight",
+      "published_date": "2026-07-09T13:22:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indiana man cut off his penis, set it on fire: Cops",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/indiana-man-lobbed-off-penis-set-on-fire",
+      "published_date": "2026-07-09T13:09:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From natural wines to hi-fi listening bars: 5 Vancouver wine bars to check out",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/vancouver-wine-bars-list",
+      "published_date": "2026-07-09T13:00:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The ultimate day trip itinerary to Galiano Island from Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/ultimate-day-trip-itinerary-galiano-island-from-vancouver",
+      "published_date": "2026-07-09T13:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 must-try eats at the 2026 Carnaval del Sol in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/5-must-try-delicacies-at-the-2026-carnaval-del-sol-in-vancouver",
+      "published_date": "2026-07-09T13:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Bus driver stabbed at TTC's Wilson Station could have been bigger story",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/warmington-bus-driver-stabbed-at-ttcs-wilson-station-could-have-been-bigger-story",
+      "published_date": "2026-07-09T12:39:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cyclist shot with airsoft rifle, police seek suspects",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/cyclist-shot-with-airsoft-rifle-police-seek-suspects",
+      "published_date": "2026-07-09T12:38:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lasting change comes from looking beyond unwanted behaviour",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/lasting-change-comes-from-looking-beyond-unwanted-behaviour/",
+      "published_date": "2026-07-09T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Nature Nut",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/the-nature-nut-23/",
+      "published_date": "2026-07-09T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Move over soccer, cricket is coming",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/move-over-soccer-cricket-is-coming/",
+      "published_date": "2026-07-09T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jeanne-Lajoie celebrates Class of 2026 graduation",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/jeanne-lajoie-celebrates-class-of-2026-graduation",
+      "published_date": "2026-07-09T10:30:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caldwell inks partnership to enhance adult learning opportunities",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/caldwells-sign-partnership-agreement-to-enhance-adult-learning-opportunites",
+      "published_date": "2026-07-09T09:59:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Development boom along Howard Avenue puts Windsor sewer near capacity",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/development-boom-along-howard-avenue-puts-windsor-sewer-near-capacity",
+      "published_date": "2026-07-09T09:56:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puppy recovering from parvovirus 'urgently' in need of foster home",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/puppy-urgently-needs-foster-home-toronto",
+      "published_date": "2026-07-09T01:45:21Z",
+      "category": "Local Events"
+    },
+    {
       "title": "U.S. charges against Bishnoi welcomed, but more should be done in Canada",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/crime/us-charges-against-bishnoi-gang-more-should-be-done-in-canada",
@@ -386,104 +505,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-before-we-call-government-plan-to-buy-empty-condos-a-bailout-lets-look-at-the-math",
       "published_date": "2026-07-08T23:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke council approves steep water, wastewater rate increases",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-council-approves-steep-water-wastewater-rate-increases",
-      "published_date": "2026-07-08T22:50:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto cops seek suspect with knife who threatened pet; Suspect arrested after man stabbed",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/toronto-cops-seek-suspect-knife-threatened-pet-suspect-arrested-man-stabbed",
-      "published_date": "2026-07-08T22:25:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paul Zammit praises Pembroke's gardens, community spirit during visit",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/paul-zammit-praises-pembrokes-gardens-community-spirit-during-visit",
-      "published_date": "2026-07-08T22:15:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto man charged with murder as victim identified in Scarborough shooting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-charged-murder-scarborough-shooting",
-      "published_date": "2026-07-08T21:53:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver arrested after fleeing Upper Ottawa Valley OPP on Highway 17",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/driver-arrested-after-fleeing-upper-ottawa-valley-opp-on-highway-17",
-      "published_date": "2026-07-08T21:44:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a couple of B.C. rescue dogs became heroes in Venezuela",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-rescue-dogs-became-heroes-venezuela-earthquake",
-      "published_date": "2026-07-08T21:30:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 rescued after vessel sinks on Stuart Lake near Fort St. James",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/08/3-rescued-after-vessel-sinks-on-stuart-lake-near-fort-st-james/",
-      "published_date": "2026-07-08T21:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hollywood North all but missing from the 2026 Emmy nominations",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/hollywood-north-missing-from-2026-emmy-nominations",
-      "published_date": "2026-07-08T21:08:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Connecting Kingston to high-speed rail line expected to cost $3.9B: CTF",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/kingston-stop-high-speed-rail-expensive",
-      "published_date": "2026-07-08T20:54:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "700-pound great white shark tracked in Gulf of St. Lawrence",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/weird/are-we-going-to-need-a-bigger-boat-great-white-shark-tracked-in-gulf-of-st-lawrence",
-      "published_date": "2026-07-08T20:49:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Porter Green’s signature silicone drinkware comes to Canada",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/porter-greens-signature-silicone-drinkware-comes-to-canada",
-      "published_date": "2026-07-08T20:23:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Profits from Okanagan-based Ponzi scheme targeted by B.C. Supreme Court",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/08/profits-from-okanagan-based-ponzi-scheme-targeted-by-b-c-supreme-court/",
-      "published_date": "2026-07-08T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boaters rescued after canoe capsizes near Ambleside Beach",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/boaters-rescued-after-canoe-capsizes-near-ambleside-beach",
-      "published_date": "2026-07-08T19:37:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP rescue 11 people from overturned canoe in Burrard Inlet",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/08/rcmp-rescue-11-people-from-overturned-canoe-in-burrard-inlet/",
-      "published_date": "2026-07-08T19:33:00Z",
       "category": "Local Events"
     }
   ]
