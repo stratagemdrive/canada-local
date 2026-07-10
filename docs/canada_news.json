@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T00:08:12Z",
+  "generated_at": "2026-07-10T13:01:25Z",
   "country": "Canada",
   "total_stories": 70,
   "categories": [
@@ -65,6 +65,20 @@
       "url": "https://windsorstar.com/news/local-news/three-drivers-face-impaired-charges-following-canada-day-arrests",
       "published_date": "2026-07-03T14:11:02Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR LATEST: U.S. halts Iran attacks after days of trading strikes",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-10",
+      "published_date": "2026-07-10T11:20:28Z",
+      "category": "Military"
+    },
+    {
+      "title": "4 men cuffed after Durham cops seize guns; serial break-ins allegedly foiled",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/men-cuffed-durham-weapon-trafficking-bust",
+      "published_date": "2026-07-10T01:23:04Z",
+      "category": "Military"
     },
     {
       "title": "Canada sub decision a big deal for B.C.-based Seaspan Shipyards",
@@ -179,11 +193,11 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Millions expected to attend Ali Khamenei funeral",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-3",
-      "published_date": "2026-07-03T11:26:43Z",
-      "category": "Military"
+      "title": "First Nation challenges port plan to dredge Metro Vancouver&#039;s Second Narrows for oil tankers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/first-nation-challenges-port-plan-dredge-metro-vancouvers-second-narrows-for-oil-tankers",
+      "published_date": "2026-07-10T00:25:58Z",
+      "category": "Energy"
     },
     {
       "title": "Feds spending $1.2M to see if zero-emission armoured vehicles are possible",
@@ -284,11 +298,11 @@
       "category": "Energy"
     },
     {
-      "title": "Alberta government submits West Coast pipeline application",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/02/albert-government-submits-west-coast-pipeline-application/",
-      "published_date": "2026-07-03T00:58:00Z",
-      "category": "Energy"
+      "title": "Ontario surpasses Quebec in corporate subsidies, new report says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/ontario-tops-quebec-corporate-subsidies-report",
+      "published_date": "2026-07-10T10:00:38Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: Housing policies from all levels of government lack pass-it-forward affordability",
@@ -347,18 +361,95 @@
       "category": "Economy"
     },
     {
-      "title": "GTA home sales saw another jump in June, but new listings continue decline",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/gta-home-sales-jump-june-new-listings-decline",
-      "published_date": "2026-07-03T12:15:18Z",
-      "category": "Economy"
+      "title": "Windsor police seize loaded handgun, charge man with impaired driving",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/impaired-driver-arrested-police-find-loaded-semi-automatic-handgun-in-vehicle",
+      "published_date": "2026-07-10T12:37:01Z",
+      "category": "Local Events"
     },
     {
-      "title": "Wrecking ball coming for former Hudson's Bay store at Windsor's Devonshire Mall",
+      "title": "North Okanagan orchardists propose drilling into aquifer to alleviate drought",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/10/north-okanagan-orchardists-propose-drilling-into-aquifer-to-alleviate-drought/",
+      "published_date": "2026-07-10T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor humane society raises $100K on centennial birthday for two new animal rescue vehicles",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/wrecking-ball-coming-for-former-hudsons-bay-store-at-windsors-devonshire-mall",
-      "published_date": "2026-07-03T10:51:04Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/windsor-humane-society-raises-100k-on-centennial-birthday-for-two-new-animal-rescue-vehicles",
+      "published_date": "2026-07-10T10:41:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fringe Windsor returns with four days of bold, original theatre",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/fringe-windsor-returns-with-four-days-of-bold-original-theatre",
+      "published_date": "2026-07-10T10:31:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "International superstar DJ Benny Benassi coming to Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/international-superstar-dj-benny-benassi-coming-to-windsor",
+      "published_date": "2026-07-10T10:23:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria’s Fairmont Empress named Canada’s top city hotel for second year",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/victorias-fairmont-empress-named-canadas-top-city-hotel-for-second-year/",
+      "published_date": "2026-07-10T05:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shelter-in-place order lifted in Vanderhoof after fatal crash, 1 arrested",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/shelter-in-place-order-lifted-in-vanderhoof-after-police-incident/",
+      "published_date": "2026-07-10T03:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rowenta cordless vacuum cleaner batteries recalled over risk of fires, burns",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/rowenta-cordless-vacuum-cleaner-batteries-recalled",
+      "published_date": "2026-07-10T02:10:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amber alert issued for six-year-old Alberta boy last seen in B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/amber-alert-issued-six-year-old-lanakai-morrison-from-alberta-seen-in-bc",
+      "published_date": "2026-07-10T02:03:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local orchardists propose drilling into Okanagan aquifer to alleviate drought",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/local-orchardists-propose-drilling-into-okanagan-aquifer-to-alleviate-drought/",
+      "published_date": "2026-07-10T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Passenger disputes with Canadian airlines can&#039;t be kept secret: Court ruling",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/passenger-disputes-with-canadian-airlines-cant-be-kept-secret-court-ruling",
+      "published_date": "2026-07-10T01:34:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Officials probing discovery of body after shed fire in Brampton",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/officials-probing-body-discovered-brampton-fire",
+      "published_date": "2026-07-10T00:38:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chainsaw-wielding man in Vancouver&#039;s West End arrested and charged",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/chainsaw-wielding-man-charged-in-vancouver-west-end",
+      "published_date": "2026-07-10T00:06:33Z",
+      "category": "Local Events"
     },
     {
       "title": "Vaughn Palmer: Weeks after half-baked condo announcement, government still mum on details",
@@ -407,97 +498,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/toronto-lawyer-allegedly-threatened-smash-in-lovers-face-cleared-to-practise",
       "published_date": "2026-07-09T22:48:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indigenous women report ‘shocking’ mistreatment during childbirth care: study",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/indigenous-women-report-shocking-mistreatment-during-childbirth-care-study/",
-      "published_date": "2026-07-09T22:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man sentenced to life in prison for shooting death of Vancouver teen bystander",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/kane-carter-sentenced-life-in-prison-shooting-death-vancouver-teen-bystander-alfred-wong",
-      "published_date": "2026-07-09T22:07:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UBC researchers identify new hereditary form of aggressive prostate cancer",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/ubc-researchers-identify-new-hereditary-form-of-aggressive-prostate-cancer/",
-      "published_date": "2026-07-09T22:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More evacuations, structures lost as two out-of-control wildfires rage near Boston Bar",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/more-evacuations-structures-lost-two-out-of-control-wildfires-rage-near-boston-bar",
-      "published_date": "2026-07-09T21:41:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nurses to expand picket lines to Vancouver Island hospitals as talks stall",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/nurses-strike-bc-expand-picket-lines-vancouver-island-hospitals-talks-stall",
-      "published_date": "2026-07-09T21:30:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brantford man charged after theft at aerospace company; Halton cops probe shooting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brantford-man-charged-aerospace-company-theft",
-      "published_date": "2026-07-09T20:49:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Torontonians fleeing city in droves, new TMU report suggests",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-growth-migration-tmu-population-report",
-      "published_date": "2026-07-09T20:39:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: B.C.&#039;s middle class needs mortgages, not a government buyout of empty condos",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-middle-class-needs-mortgages-not-a-government-buyout-of-empty-condos",
-      "published_date": "2026-07-09T19:45:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto to revisit Lower Don parklands name 8 years later amid uncertainty over Indigenous word",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/lower-don-parklands-wonscotonach-naming",
-      "published_date": "2026-07-09T19:35:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. reports fewest drug deaths in May of any month since 2020",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/b-c-reports-fewest-drug-deaths-in-may-of-any-month-since-2020/",
-      "published_date": "2026-07-09T19:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's On Windsor: Garden tours, night market, classic cars and more",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-garden-tours-night-market-classic-cars-and-more",
-      "published_date": "2026-07-09T19:04:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Father and son charged with possession of 3D printed firearms",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/father-and-son-duo-charged-with-possession-of-3d-printed-firearms",
-      "published_date": "2026-07-09T18:26:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Police update suspect vehicle in Alberta Amber Alert",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/09/amber-alert-issued-for-6-year-old-in-alberta/",
-      "published_date": "2026-07-09T17:40:00Z",
       "category": "Local Events"
     }
   ]
