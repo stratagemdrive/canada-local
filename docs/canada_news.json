@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11T00:01:40Z",
+  "generated_at": "2026-07-11T11:40:21Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,20 @@
       "url": "https://torontosun.com/opinion/columnists/will-carney-announce-a-mixed-submarine-fleet-on-his-way-to-nato",
       "published_date": "2026-07-05T17:33:57Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Helping veterans: Ontario rebates liquor licence fees for Royal Canadian Legion branches",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/helping-veterans-ontario-rebates-liquor-licence-fees-for-royal-canadian-legion-branches",
+      "published_date": "2026-07-11T10:09:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Annual Sally Fest free community BBQ returns to downtown Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/annual-sally-fest-free-community-bbq-returns-to-downtown-windsor",
+      "published_date": "2026-07-11T09:58:28Z",
+      "category": "Military"
     },
     {
       "title": "B.C. volunteer braves Ukraine war for all creatures great, small and bizarre",
@@ -186,13 +200,6 @@
       "category": "Military"
     },
     {
-      "title": "Four Windsor-Essex dancers jetting off to compete internationally in Ireland",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/four-windsor-essex-dancers-jetting-off-to-compete-internationally-in-ireland",
-      "published_date": "2026-07-04T10:54:39Z",
-      "category": "Military"
-    },
-    {
       "title": "First Nation challenges port plan to dredge Metro Vancouver&#039;s Second Narrows for oil tankers",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/first-nation-challenges-port-plan-dredge-metro-vancouvers-second-narrows-for-oil-tankers",
@@ -268,6 +275,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/07/04/wells-gray-country-director-probes-trans-mountain-pipeline-proposal/",
       "published_date": "2026-07-04T12:30:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Province invests $2.2M to expand skilled trades training in Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/province-invests-2-2m-to-expand-skilled-trades-training-in-windsor",
+      "published_date": "2026-07-11T10:07:04Z",
+      "category": "Economy"
     },
     {
       "title": "Rural Ontario program funds five Renfrew County economic initiatives",
@@ -375,11 +389,53 @@
       "category": "Economy"
     },
     {
-      "title": "Fight Ford organizers hope to expand support in Kingston",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/07/04/fight-ford-organizers-hope-to-expand-support-in-kingston/",
-      "published_date": "2026-07-04T04:46:31Z",
-      "category": "Economy"
+      "title": "Leamington rejects greenhouse proposal after debate over future commercial land",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/leamington-rejects-greenhouse-proposal-after-debate-over-future-commercial-land",
+      "published_date": "2026-07-11T10:02:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman found dead in car in Kelowna; RCMP investigating",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/woman-found-dead-in-car-in-kelowna",
+      "published_date": "2026-07-11T03:24:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamilton cops accuse man, 24, of sex assault and child luring",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hamilton-cops-accuse-man-24-sex-assault-child-luring",
+      "published_date": "2026-07-11T01:38:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One resident, two firefighters injured in apartment fire in New Westminster",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/firefighters-battle-apartment-fire-in-new-westminster",
+      "published_date": "2026-07-11T01:22:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Amber Alert cancelled in Alberta, but RCMP say 6-year-old still missing",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/10/update-amber-alert-cancelled-in-alberta-but-rcmp-say-6-year-old-still-missing/",
+      "published_date": "2026-07-11T00:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mount Polley mine permitted to increase height of facility&#039;s tailings dam",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/mount-polley-mine-permitted-to-increase-height-of-facilitys-tailings-dam",
+      "published_date": "2026-07-11T00:07:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Toronto's Zombie Apocalypse not a horror film but sadly very real",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-zombie-apocalypse-not-horror-film-very-real",
+      "published_date": "2026-07-11T00:03:05Z",
+      "category": "Local Events"
     },
     {
       "title": "Vaughn Palmer: Poilievre-Elliott tiff has right-wing in a tizzy",
@@ -470,55 +526,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/mississauga-miway-bus-driver-acquitted-deadly-crash",
       "published_date": "2026-07-10T19:33:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Study says 40% of Canadian businesses looking to relocate to U.S.",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/money-news/study-canadian-businesses-relocate-us",
-      "published_date": "2026-07-10T19:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight drivers in Renfrew County charged with impaired since June 20",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/eight-drivers-in-renfrew-county-charged-with-impaired-since-june-20",
-      "published_date": "2026-07-10T18:36:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TV stars and 90s improv icons set to headline Windsor's YESfest 2026, July 17-18",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/tv-stars-and-90s-improv-icons-set-to-headline-windsors-yesfest-2026-july-17-18",
-      "published_date": "2026-07-10T18:34:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fellowes High School graduation marks new chapter for Class of 2026",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/fellowes-high-school-graduation-marks-new-chapter-for-class-of-2026",
-      "published_date": "2026-07-10T18:25:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Amber Alert cancelled in Alberta, but RCMP say 6-year-old still missing",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/10/alberta-amber-alert-extends-into-2nd-day-last-sighting-in-fort-st-john-b-c/",
-      "published_date": "2026-07-10T18:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. gangster wanted for smuggling, extortion is nabbed in France",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-gangster-smuggling-extortion-arrested-france",
-      "published_date": "2026-07-10T18:15:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International: 30 bestselling books of the week for July 4",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/international-30-bestselling-books-of-the-week-for-july-4",
-      "published_date": "2026-07-10T18:00:55Z",
       "category": "Local Events"
     }
   ]
