@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T23:58:42Z",
+  "generated_at": "2026-07-12T11:48:48Z",
   "country": "Canada",
   "total_stories": 73,
   "categories": [
@@ -382,6 +382,13 @@
       "category": "Economy"
     },
     {
+      "title": "2 dead, multiple injuries after mass shooting at Salsa on St. Clair street festival",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-responding-to-active-shooter-at-salsa-on-st-clair-festival",
+      "published_date": "2026-07-12T00:36:45Z",
+      "category": "Local Events"
+    },
+    {
       "title": "GUEST COLUMN: Quebec town's tree-rights resolution exposes Canada's abortion blind spot",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/quebec-town-tree-rights-resolution-abortion-blind-spot",
@@ -512,13 +519,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/leamington-rejects-greenhouse-proposal-after-debate-over-future-commercial-land",
       "published_date": "2026-07-11T10:02:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman found dead in car in Kelowna; RCMP investigating",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/woman-found-dead-in-car-in-kelowna",
-      "published_date": "2026-07-11T03:24:41Z",
       "category": "Local Events"
     }
   ]
