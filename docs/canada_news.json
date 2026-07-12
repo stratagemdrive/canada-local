@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T11:48:48Z",
+  "generated_at": "2026-07-12T23:58:32Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,11 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: Will Carney announce mixed submarine fleet on his way to NATO?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/will-carney-announce-a-mixed-submarine-fleet-on-his-way-to-nato",
-      "published_date": "2026-07-05T17:33:57Z",
-      "category": "Diplomacy"
+      "title": "BC Wildfire says drone disrupted aerial operations at Brunswick Complex blaze",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/12/bc-wildfire-says-drone-disrupted-aerial-operations-at-brunswick-complex-blaze/",
+      "published_date": "2026-07-12T20:32:03Z",
+      "category": "Military"
     },
     {
       "title": "Helping veterans: Ontario rebates liquor licence fees for Royal Canadian Legion branches",
@@ -197,13 +197,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/supreme-leader-no-show-fathers-funeral",
       "published_date": "2026-07-06T00:59:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Windsor man arrested after ‘unprovoked’ assault with baseball bat",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-man-arrested-after-unprovoked-assault-with-baseball-bat",
-      "published_date": "2026-07-05T18:52:51Z",
       "category": "Military"
     },
     {
@@ -375,11 +368,130 @@
       "category": "Economy"
     },
     {
-      "title": "Metro Vancouver outside workers on strike indefinitely at regional parks",
+      "title": "WARMINGTON: Toronto's weekend of the gun 'disgusting'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-weekend-of-the-gun-disgusting",
+      "published_date": "2026-07-12T20:26:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pianist Olga Kern&#039;s busy summer includes stop at Vancouver&#039;s Pacific Opus",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-outside-workers-strike-indefinitely-regional-parks",
-      "published_date": "2026-07-05T17:22:17Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/entertainment/pianist-olga-kerns-vancouver-pacific-opus-2026",
+      "published_date": "2026-07-12T19:17:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bonnie Crombie running for Mississauga mayor again",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/bonnie-crombie-running-for-mississauga-mayor-again-report",
+      "published_date": "2026-07-12T19:04:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. Senator Lindsey Graham dies after 'brief and sudden illness'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/u-s-senator-lindsey-graham-dies-after-brief-and-sudden-illness",
+      "published_date": "2026-07-12T18:28:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man has critical injuries after being hit by transit bus in Surrey",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-has-critical-injuries-after-being-hit-by-transit-bus-in-surrey",
+      "published_date": "2026-07-12T18:01:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Developer of 26-storey Vancouver tower seeks exemption that would obscure &#039;precious&#039; views of North Shore mountains",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/real-estate/developer-seeks-exemption-vancouver-views-north-shore",
+      "published_date": "2026-07-12T17:00:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly shooting at Salsa on St. Clair 'heartbreaking and unacceptable': Toronto police chief",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/salsa-on-st-clair-cancelled-sunday-after-deadly-shooting",
+      "published_date": "2026-07-12T16:25:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why women with brain injuries may not be getting to the right hospital",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/health/why-women-with-brain-injuries-may-not-be-getting-to-the-right-hospital",
+      "published_date": "2026-07-12T15:05:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What are NeeDohs? And why are they so hard to find in Canadian stores?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/what-are-needohs-buy-vancouver-canada",
+      "published_date": "2026-07-12T15:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Backbone&#039; of B.C. outdoor recreation access in jeopardy, say groups",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/key-bc-outdoor-recreation-access-in-jeopardy-groups-say",
+      "published_date": "2026-07-12T15:00:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Get the look: Bridal makeup that looks beautiful in person and photos",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/get-the-look-bridal-makeup-that-looks-beautiful-in-person-and-photos",
+      "published_date": "2026-07-12T15:00:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 dead in separate Durham Region crashes; 5 hurt in waterfront shooting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/2-dead-in-separate-durham-region-crashes-5-hurt-in-waterfront-shooting",
+      "published_date": "2026-07-12T14:52:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: When violence stops shocking us, something deeper is broken",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/when-violence-stops-shocking-us-something-deeper-is-broken",
+      "published_date": "2026-07-12T14:03:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, July 12: England and Argentina head to semi-finals",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/12/world-cup-daily-july-12-england-and-argentina-head-to-semi-finals/",
+      "published_date": "2026-07-12T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Essex hunter fined $3,000 for unlawful deer hunt",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/essex-hunter-fined-3000-for-unlawful-deer-hunt",
+      "published_date": "2026-07-12T13:45:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Windsor boys at heart’ – Hometown rock heroes The Tea Party honoured with Key to the City",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-boys-at-heart-hometown-rock-heroes-the-tea-party-honoured-with-key-to-the-city",
+      "published_date": "2026-07-12T13:24:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: Any game traditions in your family?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-any-game-traditions-in-your-family",
+      "published_date": "2026-07-12T13:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: Are you ready for a summer vacation?",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/12/quiz-are-you-ready-for-a-summer-vacation/",
+      "published_date": "2026-07-12T12:20:00Z",
+      "category": "Local Events"
     },
     {
       "title": "2 dead, multiple injuries after mass shooting at Salsa on St. Clair street festival",
@@ -393,132 +505,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/quebec-town-tree-rights-resolution-abortion-blind-spot",
       "published_date": "2026-07-11T22:43:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder charge laid after motor vehicle incident in Vanderhoof",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/11/murder-charge-laid-after-motor-vehicle-incident-in-vanderhoof/",
-      "published_date": "2026-07-11T22:17:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.K. man gets 3.5 years for manslaughter of Owen Sound restaurateur Sharif Rahman",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/u-k-man-gets-3-5-years-for-manslaughter-of-owen-sound-restaurateur-sharif-rahman",
-      "published_date": "2026-07-11T22:12:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHAUDHRI: Your employment questions answered",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/ontario-employment-questions-answered-7",
-      "published_date": "2026-07-11T21:50:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Mark Carney unafraid to cozy up to dirty dictators",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-unafraid-cozy-up-dirty-dictators",
-      "published_date": "2026-07-11T19:40:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ajax man charged in firearms investigation; woman stabbed in Hamilton",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ajax-man-charged-firearms-investigation",
-      "published_date": "2026-07-11T19:09:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GOLDSTEIN: Flawed and costly vision of Canada's Liberal anointed",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/flawed-costly-vision-canada-liberal-anointed",
-      "published_date": "2026-07-11T17:16:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Steve Perry to lead Petawawa Centennial Family Health Centre after retiring from Carefor",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/steve-perry-to-lead-petawawa-centennial-family-health-centre-after-retiring-from-carefor",
-      "published_date": "2026-07-11T17:03:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Highlight of my summer’: Chance the Rapper wows at B.C. capital festival",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/11/highlight-of-my-summer-chance-the-rapper-wows-at-b-c-capital-festival/",
-      "published_date": "2026-07-11T16:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: New Streetsville coffee shop is a film set — but don't worry, there's plenty more",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/streetsville-coffee-shop-film-set",
-      "published_date": "2026-07-11T16:02:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. whale watchers join forces to help tangled humpback ‘Pop Tart’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/11/b-c-whale-watchers-join-forces-to-help-tangled-humpback-pop-tart/",
-      "published_date": "2026-07-11T15:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dead, two others seriously injured in North York shooting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/one-person-dead-two-others-seriously-injured-north-york-shooting",
-      "published_date": "2026-07-11T15:06:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Minter: These are some of the great new plants undergoing testing right now",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/gardening/brian-minter-these-are-some-of-the-great-new-plants-undergoing-testing-right-now",
-      "published_date": "2026-07-11T15:00:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Week In History, 1931: A roly poly pachyderm meets a squirmer with a rubber chest",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-week-in-history-1931-a-roly-poly-pachyderm-meets-a-squirmer-with-a-rubber-chest",
-      "published_date": "2026-07-11T15:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sea to Sky Highway improvements called for after weekend accident stranded motorists for hours",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/sea-to-sky",
-      "published_date": "2026-07-11T15:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: B.C.&#039;s Pinot Gris wines have evolved. Here are 5 bottles to try.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-b-c-s-pinot-gris-wines-have-evolved-here-are-5-bottles-to-try",
-      "published_date": "2026-07-11T15:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Survey ranks Victoria 2nd-best city in Canada",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/11/survey-ranks-victoria-2nd-best-city-in-canada/",
-      "published_date": "2026-07-11T14:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, July 11: Spain heads to semi-finals",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/11/world-cup-daily-july-11-spain-heads-to-semi-finals/",
-      "published_date": "2026-07-11T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leamington rejects greenhouse proposal after debate over future commercial land",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/leamington-rejects-greenhouse-proposal-after-debate-over-future-commercial-land",
-      "published_date": "2026-07-11T10:02:35Z",
       "category": "Local Events"
     }
   ]
