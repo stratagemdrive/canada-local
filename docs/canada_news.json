@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T23:58:32Z",
+  "generated_at": "2026-07-13T13:10:34Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -60,18 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Charlebois: You Can't Negotiate CUSMA with Contradictions and False Narratives",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/charlebois-you-cant-negotiate-cusma-with-contradictions-and-false-narratives",
-      "published_date": "2026-07-06T01:56:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LILLEY: Carney heading to Halifax for sub announcement en route to NATO",
+      "title": "IRAN WAR: Iran launches retaliatory attacks on U.S. facilities",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carney-heading-to-halifax-for-sub-announcement-enroute-to-nato",
-      "published_date": "2026-07-06T00:40:24Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-13",
+      "published_date": "2026-07-13T11:16:40Z",
+      "category": "Military"
     },
     {
       "title": "BC Wildfire says drone disrupted aerial operations at Brunswick Complex blaze",
@@ -193,13 +186,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN LATEST: Supreme leader no-show for father's funeral as Iran vows support for Hezbollah",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/supreme-leader-no-show-fathers-funeral",
-      "published_date": "2026-07-06T00:59:41Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. climate news: Firefighters battle two out-of-control wildfires near Boston Bar &#124; First Nation challenges port plan to dredge Metro Vancouver&#039;s Second Narrows for oil tankers &#124; Western Europe had hottest June on record",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/climate-change-news-to-july-12",
@@ -254,6 +240,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/07/06/bc-hydro-gives-more-details-on-how-to-get-free-smart-thermostats-starting-this-fall/",
       "published_date": "2026-07-06T20:46:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "LILLEY: Canadian manufacturers moving south as Mark Carney fails to deliver on trade",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canadian-manufacturers-moving-south-as-carney-fails-to-deliver-on-trade",
+      "published_date": "2026-07-12T23:58:22Z",
+      "category": "Economy"
     },
     {
       "title": "Justin Trudeau brutally mocked for dancing like a rabbit in Katy Perry's viral video",
@@ -368,6 +361,62 @@
       "category": "Economy"
     },
     {
+      "title": "Bison launches Yellowstone tourist several feet into the air: 'A PERFECT FLIP'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/bison-launches-yellowstone-tourist",
+      "published_date": "2026-07-13T13:08:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. woman concerned dove release ceremonies cause birds to suffer",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/aldergrove-bc-woman-worries-ceremonies-that-release-doves-leave-birds-to-suffer",
+      "published_date": "2026-07-13T13:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Want to book a fishing or whale-watching charter in B.C.? Here&#039;s how to check if the operator is licensed",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-boat-charter-how-to-check-licensing",
+      "published_date": "2026-07-13T13:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Upper Ottawa Valley OPP lay 175 charges during Canada Day week safety campaign",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/upper-ottawa-valley-opp-lay-175-charges-during-canada-day-week-safety-campaign",
+      "published_date": "2026-07-13T11:23:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ottawa Valley health team clears 5,200+ names from primary care waitlist",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/ottawa-valley-health-team-clears-5200-names-from-primary-care-waitlist",
+      "published_date": "2026-07-13T11:03:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amherstburg Art Crawl captures the sights, stories and spirit of local creatives",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/amherstburg-art-crawl-captures-the-sights-stories-and-spirit-of-local-creatives",
+      "published_date": "2026-07-13T10:37:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "30 years and still going: historic Freedom Walk comes to Windsor-Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/30-years-and-still-going-historic-freedom-walk-comes-to-windsor-essex",
+      "published_date": "2026-07-13T10:26:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Winners unveiled at B.C.’s international sand sculpting festival",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/12/winners-unveiled-at-b-c-s-international-sand-sculpting-festival/",
+      "published_date": "2026-07-13T04:50:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "WARMINGTON: Toronto's weekend of the gun 'disgusting'",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-weekend-of-the-gun-disgusting",
@@ -449,62 +498,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/crime/2-dead-in-separate-durham-region-crashes-5-hurt-in-waterfront-shooting",
       "published_date": "2026-07-12T14:52:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: When violence stops shocking us, something deeper is broken",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/when-violence-stops-shocking-us-something-deeper-is-broken",
-      "published_date": "2026-07-12T14:03:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, July 12: England and Argentina head to semi-finals",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/12/world-cup-daily-july-12-england-and-argentina-head-to-semi-finals/",
-      "published_date": "2026-07-12T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Essex hunter fined $3,000 for unlawful deer hunt",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/essex-hunter-fined-3000-for-unlawful-deer-hunt",
-      "published_date": "2026-07-12T13:45:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Windsor boys at heart’ – Hometown rock heroes The Tea Party honoured with Key to the City",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-boys-at-heart-hometown-rock-heroes-the-tea-party-honoured-with-key-to-the-city",
-      "published_date": "2026-07-12T13:24:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Any game traditions in your family?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-any-game-traditions-in-your-family",
-      "published_date": "2026-07-12T13:00:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: Are you ready for a summer vacation?",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/12/quiz-are-you-ready-for-a-summer-vacation/",
-      "published_date": "2026-07-12T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 dead, multiple injuries after mass shooting at Salsa on St. Clair street festival",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-responding-to-active-shooter-at-salsa-on-st-clair-festival",
-      "published_date": "2026-07-12T00:36:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GUEST COLUMN: Quebec town's tree-rights resolution exposes Canada's abortion blind spot",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/quebec-town-tree-rights-resolution-abortion-blind-spot",
-      "published_date": "2026-07-11T22:43:10Z",
       "category": "Local Events"
     }
   ]
