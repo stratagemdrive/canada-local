@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T23:56:05Z",
+  "generated_at": "2026-07-14T12:03:12Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -65,6 +65,20 @@
       "url": "https://torontosun.com/opinion/columnists/trump-gets-nato-spending-increase-but-grumbles",
       "published_date": "2026-07-08T22:38:05Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: U.S. attacks Iran for third day; Iran attack on tanker kills sailor",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-14",
+      "published_date": "2026-07-14T11:28:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-MP Inky Mark charged after antique cannon, other firearms seized by RCMP",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/inky-mark-charged-with-weapons-trafficking",
+      "published_date": "2026-07-14T00:57:19Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Iran launches retaliatory attacks on U.S. facilities",
@@ -354,17 +368,94 @@
       "category": "Economy"
     },
     {
-      "title": "Canada's 15 most affordable cities; Windsor-Essex is 11th",
+      "title": "Provincial funding paying off, Renfrew-Nipissing-Pembroke MPP says",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/provincial-funding-paying-off-renfrew-nipissing-pembroke-mpp-says",
+      "published_date": "2026-07-14T11:19:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former area residents make $50,000 pledge to Pembroke Regional Hospital",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/former-area-residents-make-50000-pledge-to-pembroke-regional-hospital",
+      "published_date": "2026-07-14T11:03:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver-area home sales edge up, but there&#039;s still a high number of listings and falling prices",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/greater-vancouver-homes-sales-edge-up-but-theres-still-a-high-number-of-listings-and-falling-prices",
+      "published_date": "2026-07-14T10:30:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three impaired driving charges include crash involving two children",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/canadas-15-most-affordable-cities-windsor-essex-is-11th",
-      "published_date": "2026-07-07T10:29:34Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/three-impaired-driving-charges-include-crash-involving-two-children",
+      "published_date": "2026-07-14T10:16:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Countdown Public Art Project returns to the Ottawa Valley",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/the-countdown-public-art-project-returns-to-the-ottawa-valley",
+      "published_date": "2026-07-14T10:13:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. wildfires: Evacuation alert issued for homes near Osoyoos",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-wildfire-evacuation-alert-issued-for-homes-near-osoyoos",
+      "published_date": "2026-07-14T03:22:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stranger attack allegations pile up against Vancouver man",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/stranger-attack-allegations-pile-up-against-vancouver-man",
+      "published_date": "2026-07-14T01:18:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouverites say they want vibrant, walkable neighbourhoods. So why is the &#039;villages plan&#039; so controversial?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vancouverites-say-they-want-vibrant-walkable-neighbourhoods-so-why-is-the-villages-plan-so-controversial",
+      "published_date": "2026-07-14T00:58:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Port of Vancouver picks contractor to build $3.5 billion Roberts Bank Terminal 2",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/port-of-vancouver-picks-contractor-to-build-3-5-billion-roberts-bank-terminal-2",
+      "published_date": "2026-07-14T00:51:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donations pour in for residents displaced by New Westminster apartment fire",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/donations-pour-in-for-residents-displaced-by-new-westminster-apartment-fire",
+      "published_date": "2026-07-14T00:48:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ABC drops bid to kill Vancouver park board, will run candidates for commissioner",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/abc-drops-bid-to-kill-vancouver-park-board-will-run-candidates-for-commissioner",
+      "published_date": "2026-07-14T00:11:02Z",
+      "category": "Local Events"
     },
     {
       "title": "Coroner&#039;s inquest shows &#039;missteps&#039; by police in dealing with missing Indigenous woman found dead in Richmond",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/bc-coroners-inquest-shows-missteps-by-police-in-dealing-with-missing-indigenous-woman-found-dead-richmond",
       "published_date": "2026-07-13T23:51:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. nurses to lift picket lines as mediated talks begin",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-nurses-union-to-lift-picket-lines-as-mediated-talks-begin",
+      "published_date": "2026-07-13T23:42:36Z",
       "category": "Local Events"
     },
     {
@@ -414,90 +505,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/john-tory-jr-out-federal-liberal-nomination",
       "published_date": "2026-07-13T22:06:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No plans to cancel steet festivals despite Salsa on St. Clair violence",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/no-plans-to-cancel-steet-festivals-despite-salsa-on-st-clair-violence",
-      "published_date": "2026-07-13T22:05:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hells Angels, other outlaw motorcycle clubs expected for 'Canada-wide' gathering in Windsor: police",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/hells-angels-other-outlaw-motorcycle-clubs-expected-for-canada-wide-gathering-in-windsor-police",
-      "published_date": "2026-07-13T21:37:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arbitrator strikes down TTC's 'unreasonable' random drug-testing policy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/arbitrator-strikes-down-ttc-drug-testing",
-      "published_date": "2026-07-13T21:01:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funeral for 'beloved' Durham police recruit killed in car crash to be private",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/friday-funeral-beloved-durham-recruit-27-killed-car-accident-private",
-      "published_date": "2026-07-13T20:55:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyclospora: What to know about the parasite causing explosive diarrhea",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/cyclospora-parasite-what-to-know-how-to-prevent",
-      "published_date": "2026-07-13T20:52:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salsa on St. Clair street fest shooting victims identified",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/salsa-on-st-clair-street-fest-shooting-victims-identified",
-      "published_date": "2026-07-13T20:04:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metro Vancouver reverts to Stage 2 water restrictions on July 16",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-reverts-to-stage-2-water-restrictions-on-july-16",
-      "published_date": "2026-07-13T19:23:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. nurses expand strike to Vancouver Island as bargaining stalls",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/13/b-c-nurses-expand-strike-to-vancouver-island-as-bargaining-stalls/",
-      "published_date": "2026-07-13T19:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto waterfront shooting suspect was awaiting sentencing for Montreal crypto torture",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/waterfront-shooting-suspect-was-awaiting-sentencing-for-montreal-crypto-torture",
-      "published_date": "2026-07-13T18:48:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Specialty ‘custom cutters’ added to BC Timber Sales program",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/13/specialty-custom-cutters-added-to-bc-timber-sales-program/",
-      "published_date": "2026-07-13T18:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Looking back at the times late actor Sam Neill filmed in Hollywood North",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/sam-neil-vancouver-movies-hollywood-north",
-      "published_date": "2026-07-13T18:24:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/best-beauty-products-we-tried-this-week-3",
-      "published_date": "2026-07-13T18:00:46Z",
       "category": "Local Events"
     }
   ]
