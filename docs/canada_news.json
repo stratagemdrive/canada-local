@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T12:07:41Z",
+  "generated_at": "2026-07-16T00:00:55Z",
   "country": "Canada",
-  "total_stories": 75,
+  "total_stories": 73,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LaMontagne welcomes chance to prove himself with Spitfires",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/lamontagne-welcomes-chance-to-prove-himself-with-spitfires",
+      "published_date": "2026-07-15T15:58:18Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LNG Canada strikes equity deal with B.C. First Nations for potential stake in Kitimat expansion",
       "source": "Vancouver Sun",
@@ -71,13 +78,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/ai-usage-rises-canada-public-doubts",
       "published_date": "2026-07-09T20:05:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LILLEY: Donald Trump still finds reasons to grumble despite big win at NATO summit",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/trump-gets-nato-spending-increase-but-grumbles",
-      "published_date": "2026-07-08T22:38:05Z",
       "category": "Diplomacy"
     },
     {
@@ -186,18 +186,11 @@
       "category": "Military"
     },
     {
-      "title": "Crown calls for three months prison for Langley ex-Mountie",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/08/crown-calls-for-three-months-prison-for-langley-ex-mountie/",
-      "published_date": "2026-07-08T17:45:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Royal Canadian Air Force helicopter to conduct flypast at the Beachburg Fair",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/royal-canadian-air-force-helicopter%e2%80%afto-conduct-flypast-at-the-beachburg-fair",
-      "published_date": "2026-07-08T13:30:39Z",
-      "category": "Military"
+      "title": "Forecast for Metro Vancouver gas prices remains unpredictable: Analysts",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-gas-price-forecast-unpredictable-say-analysts",
+      "published_date": "2026-07-15T22:14:09Z",
+      "category": "Energy"
     },
     {
       "title": "First Nations sign option for LNG Canada buy-in",
@@ -249,11 +242,25 @@
       "category": "Energy"
     },
     {
-      "title": "Cedar LNG defends live-aboard plan amid fly-in fly-out concerns",
+      "title": "Opinion: Why are Canadian taxpayers being asked to fund an economically and environmentally risky pipeline project?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-why-are-canadian-taxpayers-being-asked-to-fund-an-economically-and-environmentally-risky-pipeline-project",
+      "published_date": "2026-07-15T23:00:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "PM’s $160K plane food bill has taxpayers paying for caviar wishes on meatloaf budget",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/pms-160k-plane-food-bill-has-taxpayers-paying-for-caviar-wishes-on-meatloaf-budget",
+      "published_date": "2026-07-15T20:57:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canfor closing Prince George Northwood pulp mill, 300 jobs affected",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/08/cedar-lng-defends-live-aboard-plan-amid-fly-in-fly-out-concerns/",
-      "published_date": "2026-07-08T20:00:00Z",
-      "category": "Energy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/15/canfor-closing-prince-george-northwood-pulp-mill-300-jobs-affected/",
+      "published_date": "2026-07-15T17:26:00Z",
+      "category": "Economy"
     },
     {
       "title": "300 jobs lost as Canfor shuts Prince George pulp mill",
@@ -375,164 +382,143 @@
       "category": "Economy"
     },
     {
-      "title": "Windsor Regional Hospital upgrades cancer care with new radiation machine",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-regional-hospital-upgrades-cancer-care-with-new-radiation-machine",
-      "published_date": "2026-07-10T14:32:10Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ontario surpasses Quebec in corporate subsidies, new report says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ontario-tops-quebec-corporate-subsidies-report",
-      "published_date": "2026-07-10T10:00:38Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Opinion: Housing policies from all levels of government lack pass-it-forward affordability",
+      "title": "Day parole granted for former Vancouver police officer who killed two women",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-housing-policies-from-all-levels-of-government-lack-pass-it-forward-affordability",
-      "published_date": "2026-07-09T13:00:57Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Okanagan soccer team disqualified from Provincial Championship after unprofessional conduct",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/15/okanagan-soccer-team-disqualified-from-provincial-championship-after-unprofessional-conduct/",
-      "published_date": "2026-07-15T12:00:00Z",
+      "url": "https://vancouversun.com/news/crime/former-vancouver-cop-who-killed-two-women-granted-day-parole",
+      "published_date": "2026-07-15T23:49:34Z",
       "category": "Local Events"
     },
     {
-      "title": "20,000 pigs killed in early morning fire near Simcoe",
+      "title": "Immigration program for parents, grandparents of Canadian residents paused",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/20000-pigs-killed-fire-near-simcoe",
-      "published_date": "2026-07-15T10:51:38Z",
+      "url": "https://torontosun.com/news/national/federal-immigration-program-parents-grandparents-suspended",
+      "published_date": "2026-07-15T23:33:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Three men face more than 50 charges after shooting at west Windsor home",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/three-men-face-more-than-50-charges-after-shooting-at-west-windsor-home",
-      "published_date": "2026-07-15T10:22:26Z",
+      "title": "Austin police bodycam footage shows fatal shooting of suspect",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/austin-police-bodycam-footage-shows-fatal-shooting-of-suspect",
+      "published_date": "2026-07-15T23:24:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Whitewater honours students with Outstanding Youth bursaries",
+      "title": "Conservative MLAs call for action on CN Rail line between Squamish and Prince George",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/15/conservative-mlas-call-for-action-on-cn-rail-line-between-squamish-and-prince-george/",
+      "published_date": "2026-07-15T23:05:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cyclospora cases in B.C. at ‘typical’ level",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/15/cyclospora-cases-in-b-c-at-typical-level/",
+      "published_date": "2026-07-15T23:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: For all writers, abstaining from generative AI is the best gift you can give yourself",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-for-all-writers-abstaining-from-generative-ai-is-the-best-gift-you-can-give-yourself",
+      "published_date": "2026-07-15T23:00:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro Vancouver expands popular Minnekhada park in Coquitlam",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-expands-popular-minnekhada-park-in-coquitlam",
+      "published_date": "2026-07-15T22:44:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "$8M worth of illicit cannabis seized in four separate enforcement actions in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/15/8m-worth-of-illicit-cannabis-seized-in-four-separate-enforcement-actions-in-b-c/",
+      "published_date": "2026-07-15T22:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Shameful&#039;: ABC Vancouver unexpectedly nixes final meeting before months-long pre-election &#039;quiet period&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/abc-vancouver-cancels-last-council-meeting-before-summer-break",
+      "published_date": "2026-07-15T22:13:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPP sets up billboard in Renfrew for investigation into Logan death",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/whitewater-honours-students-with-outstanding-youth-bursaries",
-      "published_date": "2026-07-15T10:17:25Z",
+      "url": "https://www.pembrokeobserver.com/news/opp-billboard-renfrew-jonathan-logan",
+      "published_date": "2026-07-15T22:01:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor scraps citywide rental licensing plan over nearly $4.4M annual cost",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-scraps-citywide-rental-licensing-plan-over-nearly-4-4m-annual-cost",
-      "published_date": "2026-07-15T10:13:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two killed in helicopter crash in B.C.&#039;s central coast",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/two-killed-bc-helicopter-crash",
-      "published_date": "2026-07-15T01:38:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. Congress passes motion to end twice-yearly time changes",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/us-congress-passes-motion-daylight-time",
-      "published_date": "2026-07-15T00:47:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. couple refuse to remove Canadian flag from balcony after strata council demand",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-sechlet-couple-refuse-to-remove-canadian-flag-from-balcony-after-strata-council-request",
-      "published_date": "2026-07-14T23:51:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brampton man charged with human trafficking; suspect in custody after Hamilton stabbings",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brampton-man-charged-with-human-trafficking",
-      "published_date": "2026-07-14T23:29:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Canada keeps rewarding those who stay after their visas expire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canada-keeps-rewarding-those-who-stay-after-their-visas-expire",
-      "published_date": "2026-07-14T22:37:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Toronto's second heat wave of July isn't that unusual",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-second-heat-wave-not-unusual",
-      "published_date": "2026-07-14T22:12:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "8-year indigenous parks naming saga headed for city council",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/indigenous-naming-parkland-toronto-city-council",
-      "published_date": "2026-07-14T22:12:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto mayoral hopeful fuming after deadly weekend on city streets",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/toronto-mayoral-hopeful-fuming-after-deadly-weekend-on-city-streets",
-      "published_date": "2026-07-14T21:22:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police seek suspect after fire at Surrey City Hall",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/suspect-may-have-started-fire-at-surrey-city-hall-police",
-      "published_date": "2026-07-14T20:57:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver studio inks major deal with Warner Bros.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vancouver-studio-inks-major-deal-with-warner-bros",
-      "published_date": "2026-07-14T20:52:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga man charged in 4 hate-motivated assaults; Halton cops seek truck in hit-and-run",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/mississauga-man-charged-4-hate-motivated-assaults",
-      "published_date": "2026-07-14T20:32:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. band teacher banned for life over years of misconduct",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-band-teacher-banned-for-life-over-years-of-misconduct",
-      "published_date": "2026-07-14T20:00:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "’Significant’ wildfire events likely in B.C. later this week: officials",
+      "title": "‘Serious act of cruelty’: Marmot found mutilated at McArthur Island in Kamloops",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/14/significant-wildfire-events-likely-in-b-c-later-this-week-officials/",
-      "published_date": "2026-07-14T20:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/15/serious-act-of-cruelty-marmot-found-mutilated-at-mcarthur-island-in-kamloops/",
+      "published_date": "2026-07-15T21:42:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Wildfire smoke to descend on southern Ontario, lowering GTA air quality",
+      "title": "Yellowstone bison won't be euthanized after viral attack: Report",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/wildfire-smoke-to-descend-on-southern-ontario-lowering-gta-air-quality",
-      "published_date": "2026-07-14T19:48:37Z",
+      "url": "https://torontosun.com/news/world/yellowstone-bison-wont-be-euthanized-report",
+      "published_date": "2026-07-15T21:38:57Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. goes after second accused trafficker charged in U.S. probe",
+      "title": "Garden watch: Pamela Anderson offers a glimpse into her Vancouver Island garden",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-goes-after-second-accused-trafficker-charged-united-states-probe",
-      "published_date": "2026-07-14T19:45:14Z",
+      "url": "https://vancouversun.com/entertainment/pamela-anderson-offers-a-glimpse-into-her-vancouver-island-garden",
+      "published_date": "2026-07-15T21:35:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cash reward offered for tips leading to arrest of Renfrew dad's killer",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/cash-reward-offered-renfrew-cold-case",
+      "published_date": "2026-07-15T21:05:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Topley fire department gets a new truck",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/15/topley-fire-department-gets-a-new-truck/",
+      "published_date": "2026-07-15T20:42:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is the drop in B.C. overdose deaths part of a wider North American phenomenon?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/drop-bc-overdose-deaths-wider-north-american-phenomenon",
+      "published_date": "2026-07-15T20:42:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CN rail crew's terrifying video of being trapped by raging wildfire goes viral",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/cn-rail-crews-terrifying-video-of-being-trapped-by-raging-wildfire-goes-viral",
+      "published_date": "2026-07-15T19:47:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Upper Ottawa Valley OPP outlines dirt bike road rules",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/upper-ottawa-valley-opp-outlines-dirt-bike-road-rules",
+      "published_date": "2026-07-15T19:41:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Major Wyandotte-Drouillard closure in Windsor's east end to continue until late October",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/major-wyandotte-drouillard-closure-in-windsors-east-end-to-continue-until-late-october",
+      "published_date": "2026-07-15T19:37:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Why is Mark Carney hiring Americans for the PMO?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/why-is-mark-carney-hiring-americans-for-the-pmo",
+      "published_date": "2026-07-15T19:34:58Z",
       "category": "Local Events"
     }
   ]
