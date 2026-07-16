@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T00:00:55Z",
+  "generated_at": "2026-07-16T12:12:13Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Windsor mayor speculates Ambassador Bridge could be sold after Gordie Howe opens",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-mayor-speculates-ambassador-bridge-could-be-sold-after-gordie-howe-opens",
+      "published_date": "2026-07-16T11:05:48Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LaMontagne welcomes chance to prove himself with Spitfires",
       "source": "Windsor Star",
@@ -79,6 +86,13 @@
       "url": "https://torontosun.com/news/national/ai-usage-rises-canada-public-doubts",
       "published_date": "2026-07-09T20:05:54Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Iran says Strait of Hormuz 'unbreakable red line' as attacks show no signs of letup",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-16",
+      "published_date": "2026-07-16T11:25:04Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: U.S. launches new attacks as naval blockade reimposed",
@@ -179,13 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Iran, U.S. trade second day of airstrikes; Khamenei to be buried",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-9",
-      "published_date": "2026-07-09T11:32:30Z",
-      "category": "Military"
-    },
-    {
       "title": "Forecast for Metro Vancouver gas prices remains unpredictable: Analysts",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/metro-vancouver-gas-price-forecast-unpredictable-say-analysts",
@@ -240,6 +247,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/07/09/editorial-with-industrial-development-the-northwest-needs-a-permanent-revenue-sharing-deal/",
       "published_date": "2026-07-09T12:30:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "70% of Canadians say crushing taxes destroying standard of living: Poll",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/70-of-canadians-say-crushing-taxes-destroying-standard-of-living-poll",
+      "published_date": "2026-07-16T10:00:15Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: Why are Canadian taxpayers being asked to fund an economically and environmentally risky pipeline project?",
@@ -375,11 +389,46 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. announces update for involuntary care facilities in Prince George, Surrey",
+      "title": "Bonny Johnson honoured for helping to strengthen rural healthcare",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/bonny-johnson-honoured-for-helping-to-strengthen-rural-healthcare",
+      "published_date": "2026-07-16T11:26:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor boss who shared sexually explicit photos of employee sentenced to house arrest",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-boss-who-shared-sexually-explicit-photos-of-employee-sentenced-to-house-arrest",
+      "published_date": "2026-07-16T11:00:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From addiction to adventure: Cyclist finds hope on the road",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/from-addiction-to-adventure-cyclist-finds-hope-on-the-road",
+      "published_date": "2026-07-16T10:33:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One dead, five injured in multi-vehicle crash in Delta",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/b-c-announces-update-for-involuntary-care-facilities-in-prince-george-surrey",
-      "published_date": "2026-07-10T18:32:02Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/one-dead-five-injured-in-multi-vehicle-crash-in-delta",
+      "published_date": "2026-07-16T01:11:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Motorcyclist with learner&#039;s permit caught going nearly 180 km/h on Sea to Sky Highway",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/motorcyclist-learners-permit-caught-going-180-km-h-on-sea-to-sky-highway",
+      "published_date": "2026-07-16T00:46:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: David Eby&#039;s slow and expensive step toward involuntary care",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-premier-david-eby-slow-expensive-step-towards-involuntary-care",
+      "published_date": "2026-07-16T00:02:09Z",
+      "category": "Local Events"
     },
     {
       "title": "Day parole granted for former Vancouver police officer who killed two women",
@@ -477,48 +526,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/cash-reward-offered-renfrew-cold-case",
       "published_date": "2026-07-15T21:05:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Topley fire department gets a new truck",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/15/topley-fire-department-gets-a-new-truck/",
-      "published_date": "2026-07-15T20:42:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is the drop in B.C. overdose deaths part of a wider North American phenomenon?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/drop-bc-overdose-deaths-wider-north-american-phenomenon",
-      "published_date": "2026-07-15T20:42:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CN rail crew's terrifying video of being trapped by raging wildfire goes viral",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/cn-rail-crews-terrifying-video-of-being-trapped-by-raging-wildfire-goes-viral",
-      "published_date": "2026-07-15T19:47:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Upper Ottawa Valley OPP outlines dirt bike road rules",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/upper-ottawa-valley-opp-outlines-dirt-bike-road-rules",
-      "published_date": "2026-07-15T19:41:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major Wyandotte-Drouillard closure in Windsor's east end to continue until late October",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/major-wyandotte-drouillard-closure-in-windsors-east-end-to-continue-until-late-october",
-      "published_date": "2026-07-15T19:37:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Why is Mark Carney hiring Americans for the PMO?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/why-is-mark-carney-hiring-americans-for-the-pmo",
-      "published_date": "2026-07-15T19:34:58Z",
       "category": "Local Events"
     }
   ]
