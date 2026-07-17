@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T12:00:52Z",
+  "generated_at": "2026-07-17T23:55:12Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "David Eby: B.C. finally getting fair share through new prosperity partnership",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-finally-getting-fair-share-through-new-prosperity-partnership",
+      "published_date": "2026-07-17T20:00:37Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Simpcw, B.C. come to assessment process agreement on Yellowhead Copper project",
       "source": "Burns Lake District News",
@@ -88,18 +95,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gordie Howe International Bridge to open late July, sources say",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/gordie-howe-international-bridge-to-open-late-july-sources-say",
-      "published_date": "2026-07-10T20:47:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Windsor orders demolition of 17 derelict homes amid Ambassador Bridge standoff",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-orders-demolition-of-17-derelict-homes-amid-ambassador-bridge-standoff",
-      "published_date": "2026-07-10T16:03:39Z",
-      "category": "Diplomacy"
+      "title": "B.C. Premier Eby wants Canada to adopt RICO-type laws to combat organized crime",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/b-c-premier-eby-wants-canada-to-adopt-rico-type-laws-to-combat-organized-crime/",
+      "published_date": "2026-07-17T23:00:00Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: U.S. kills 8 in sixth consecutive attack on Iran",
@@ -200,11 +200,11 @@
       "category": "Military"
     },
     {
-      "title": "B.C. volunteer braves Ukraine war for all creatures great, small and bizarre",
+      "title": "Are renewables welcome? RDBN officials grapple with wind power boom",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/10/b-c-volunteer-braves-ukraine-war-for-all-creatures-great-small-and-bizarre/",
-      "published_date": "2026-07-10T16:43:00Z",
-      "category": "Military"
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/are-renewables-welcome-rdbn-officials-grapple-with-wind-power-boom/",
+      "published_date": "2026-07-17T18:06:15Z",
+      "category": "Energy"
     },
     {
       "title": "Vaughn Palmer: Federal agencies pass the buck on where a marine oil terminal could be built",
@@ -361,164 +361,143 @@
       "category": "Economy"
     },
     {
-      "title": "Rural Ontario program funds five Renfrew County economic initiatives",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/rural-ontario-program-funds-five-renfrew-county-economic-initiatives",
-      "published_date": "2026-07-10T23:04:27Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C.’s jobless rate stable, but some age groups and areas still having hard time",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/10/b-c-s-jobless-rate-stable-but-some-age-groups-and-areas-still-having-hard-time/",
-      "published_date": "2026-07-10T22:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Special mediators appointed amid B.C. Nurses’ Union job action",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/10/special-mediators-appointed-amid-b-c-nurses-union-job-action/",
-      "published_date": "2026-07-10T20:33:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pembroke's Bishop Smith High School celebrates 2026 graduates",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembrokes-bishop-smith-high-school-celebrates-2026-graduates",
-      "published_date": "2026-07-17T11:04:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's On Windsor: Techno music, poutine feast, block party and more",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-techno-music-poutine-feast-block-party-and-more",
-      "published_date": "2026-07-17T10:58:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Premier Ford promises unlimited support as wildfires rage across Northern Ontario",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/premier-ford-promises-unlimited-support-as-wildfires-rage-across-northern-ontario",
-      "published_date": "2026-07-17T10:38:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Safety concerns prompt Windsor to consider home security for city council members",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/safety-concerns-prompt-windsor-to-consider-home-security-for-city-council-members",
-      "published_date": "2026-07-17T10:12:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pierre Poilievre demands Liberals release details of Gordie Howe bridge deal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/pierre-poilievre-demands-liberals-release-details-gordie-howe-bridge-deal",
-      "published_date": "2026-07-17T10:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Langley loves its kitties, and there’s stats to prove it",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/16/langley-loves-its-kitties-and-theres-stats-to-prove-it/",
-      "published_date": "2026-07-17T01:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Highway 1 remains closed at Boston Bar due to wildfires",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/16/highway-1-remains-closed-at-boston-bar-due-to-wildfires/",
-      "published_date": "2026-07-16T23:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. wildfires: Signal Hill fire near Pemberton leads to evacuation order",
+      "title": "Vaughn Palmer: NDP was asked four years ago to rescue B.C.&#039;s pulp mills. It didn&#039;t",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-wildfires-signal-hill-fire-near-pemberton-leads-to-evacuation-order",
-      "published_date": "2026-07-16T23:23:11Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-ndp-was-asked-four-years-ago-to-rescue-bc-pulp-mills-it-didnt",
+      "published_date": "2026-07-17T23:20:43Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. court certifies class action against e-cigarette maker JUUL",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/16/b-c-court-certifies-class-action-against-e-cigarette-maker-juul/",
-      "published_date": "2026-07-16T23:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ottawa using major projects office to speed up Port of Vancouver expansions: Here&#039;s what to know",
+      "title": "$69 million in flood protection upgrades completed in Grand Forks",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/ottawa-using-major-projects-office-to-speed-up-port-of-vancouver-expansions-heres-what-to-know",
-      "published_date": "2026-07-16T23:07:11Z",
+      "url": "https://vancouversun.com/news/69-million-in-flood-protection-upgrades-completed-in-grand-forks",
+      "published_date": "2026-07-17T23:08:51Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. youth watchdog points to stalled child welfare reforms",
+      "title": "City of Toronto writes off nearly $400G worth of bikes in three-year span",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/bike-share-toronto-stolen-lost-numbers",
+      "published_date": "2026-07-17T22:41:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: When wildfires strike, facts matter more than politics",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/doug-ford-ontario-wildfires-facts-matter-more-than-politics",
+      "published_date": "2026-07-17T21:48:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexico rocked by 7.3 magnitude earthquake",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/mexico-rocked-7-3-magnitude-earthquake",
+      "published_date": "2026-07-17T21:32:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alberta RCMP search for 2 missing children, 2 wanted adults possibly in Okanagan",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/16/b-c-youth-watchdog-points-to-stalled-child-welfare-reforms/",
-      "published_date": "2026-07-16T23:06:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/amber-alert-issued-for-6-year-old-child-from-alberta-possibly-in-okanagan/",
+      "published_date": "2026-07-17T21:24:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Need to cool down this summer? Get a heat pump",
+      "title": "Trio sought in Scarborough stabbing; man charged in Toronto assault",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/trio-sought-scarborough-stabbing-man-charged-toronto-assault-threats-probe",
+      "published_date": "2026-07-17T21:17:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lions Bay search-and-rescuers warn against dangers of Google Maps",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-need-to-cool-down-this-summer-get-a-heat-pump",
-      "published_date": "2026-07-16T23:00:39Z",
+      "url": "https://vancouversun.com/news/lions-bay-search-and-rescuers-warn-against-dangers-of-google-maps",
+      "published_date": "2026-07-17T21:11:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Republicans slam Canada as wildfire smoke fills American skies",
+      "title": "LILLEY: Doug Ford's cabinet shuffle just became a lot bigger than planned",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/u-s-republicans-slam-canada-wildfire-smoke-fills-american-skies",
-      "published_date": "2026-07-16T23:00:30Z",
+      "url": "https://torontosun.com/opinion/columnists/doug-ford-cabinet-shuffle-just-became-a-lot-bigger-than-planned",
+      "published_date": "2026-07-17T20:46:46Z",
       "category": "Local Events"
     },
     {
-      "title": "MANDEL: Accused cocaine smuggler's charges tossed over unlawful strip search",
+      "title": "Frank Stronach's sex assault conviction no longer stands after surprise mistrial declared",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/unlawful-strip-search-cbsa-windsor-ambassador-bridge-alleged-cocaine-smuggle",
-      "published_date": "2026-07-16T22:12:40Z",
+      "url": "https://torontosun.com/news/local-news/frank-stronachs-sexual-assault-conviction-longer-stands-after-surprise-mistrial-declared",
+      "published_date": "2026-07-17T20:11:30Z",
       "category": "Local Events"
     },
     {
-      "title": "LILLEY: If food delivery riders leave Toronto’s bike lanes, who will use them?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/if-food-delivery-riders-leave-torontos-bike-lanes-who-will-use-them",
-      "published_date": "2026-07-16T21:43:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delta to open first-of-its-kind in B.C. ash scattering site",
+      "title": "Grandson of NHL legend Ken Dryden signs with B.C. junior hockey team",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/16/delta-to-open-first-of-its-kind-in-b-c-ash-scattering-site/",
-      "published_date": "2026-07-16T21:38:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/grandson-of-nhl-legend-ken-dryden-signs-with-b-c-junior-hockey-team/",
+      "published_date": "2026-07-17T19:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Loaded gun, drugs seized during Markham traffic stop; teen assaulted in Vaughan",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/gun-drugs-seized-markham-traffic-stop",
-      "published_date": "2026-07-16T21:15:04Z",
+      "title": "Brunswick Complex wildfire over 20k hectares as firefighters continue to battle blaze on Friday",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/brunswick-complex-wildfire-over-20k-hectares-as-firefighters-continue-to-battle-blaze-on-friday/",
+      "published_date": "2026-07-17T18:29:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Canada's Shania Twain returns to club roots with Horseshoe show in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/shania-twain-returns-club-roots-horseshoe-show-toronto",
-      "published_date": "2026-07-16T21:01:05Z",
+      "title": "Look chic in these 5 black summer styles from Canadian brands",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/look-chic-in-these-5-black-summer-styles-from-canadian-brands",
+      "published_date": "2026-07-17T18:00:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Olivia Chow’s deal for WNBA team: $1 a year for $10 million of land",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/chow-tempo-dollar-practice-facility-deal",
-      "published_date": "2026-07-16T20:43:57Z",
+      "title": "Abbotsford Canucks’ Google numbers decrease year-over-year",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/abbotsford-canucks-google-numbers-decrease-year-over-year/",
+      "published_date": "2026-07-17T18:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Man found slain in Stoney Creek culvert immigrated from India in 2022",
+      "title": "York Region and Toronto record first mosquitoes testing positive for West Nile virus",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-slain-stoney-creek-immigrated-2022",
-      "published_date": "2026-07-16T20:27:29Z",
+      "url": "https://torontosun.com/news/local-news/york-region-first-mosquitoes-testing-positive-west-nile-virus",
+      "published_date": "2026-07-17T17:37:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto’s outdoor public pools stay shut amid poor air quality",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-public-pools-closure-air-quality",
+      "published_date": "2026-07-17T17:27:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garlic powder sold at Dollarama recalled",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/garlic-powder-sold-at-dollarama-recalled/",
+      "published_date": "2026-07-17T16:51:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Extreme health risk from wildfire smoke shuts down outdoor activities for Windsor-Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/extreme-health-risk-from-wildfire-smoke-shuts-down-outdoor-activities-for-windsor-essex",
+      "published_date": "2026-07-17T16:03:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Willowdale MPP Stan Cho resigns from Doug Ford's cabinet over hotel expenses",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/willowdale-mpp-stan-cho-resigns",
+      "published_date": "2026-07-17T15:36:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM Carney expects 'negative to modest' Gordie Howe bridge revenues in first few years",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/pm-carney-expects-negative-to-modest-gordie-howe-bridge-revenues-in-first-few-years",
+      "published_date": "2026-07-17T14:33:31Z",
       "category": "Local Events"
     }
   ]
