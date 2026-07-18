@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T23:55:12Z",
+  "generated_at": "2026-07-18T11:41:06Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -186,20 +186,6 @@
       "category": "Military"
     },
     {
-      "title": "Helping veterans: Ontario rebates liquor licence fees for Royal Canadian Legion branches",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/helping-veterans-ontario-rebates-liquor-licence-fees-for-royal-canadian-legion-branches",
-      "published_date": "2026-07-11T10:09:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Annual Sally Fest free community BBQ returns to downtown Windsor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/annual-sally-fest-free-community-bbq-returns-to-downtown-windsor",
-      "published_date": "2026-07-11T09:58:28Z",
-      "category": "Military"
-    },
-    {
       "title": "Are renewables welcome? RDBN officials grapple with wind power boom",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/17/are-renewables-welcome-rdbn-officials-grapple-with-wind-power-boom/",
@@ -354,11 +340,46 @@
       "category": "Economy"
     },
     {
-      "title": "Province invests $2.2M to expand skilled trades training in Windsor",
+      "title": "'Money well spent' — County finds funds to keep homelessness hub services intact",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/province-invests-2-2m-to-expand-skilled-trades-training-in-windsor",
-      "published_date": "2026-07-11T10:07:04Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/money-well-spent-county-finds-funds-to-keep-homelessness-hub-services-intact",
+      "published_date": "2026-07-18T09:11:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake’s newest cover band rocks out in Wells B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/18/burns-lakes-newest-cover-band-rocks-out-in-wells-b-c/",
+      "published_date": "2026-07-18T07:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Lions fall 19-17 to Edmonton Elks, lose QB Rourke to injury",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/b-c-lions-fall-19-17-to-edmonton-elks-lose-qb-rourke-to-injury/",
+      "published_date": "2026-07-18T04:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. wildfires: More than 100 Big Bar Lake properties under evacuation order as wildfire approaches",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/b-c-wildfires-more-than-100-big-bar-lake-properties-under-evacuation-order-as-wildfire-approaches",
+      "published_date": "2026-07-18T01:20:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver daycare avoids eviction from church hall — but only until year&#039;s end",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-daycare-avoids-eviction-from-church-hall-but-only-until-years-end",
+      "published_date": "2026-07-18T00:24:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Help save us&#039;: 95-year-old North Vancouver Legion fights to survive $345,000 strata bill",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/help-save-us-95-year-old-north-vancouver-legion-fights-to-survive-345000-strata-bill",
+      "published_date": "2026-07-18T00:16:49Z",
+      "category": "Local Events"
     },
     {
       "title": "Vaughn Palmer: NDP was asked four years ago to rescue B.C.&#039;s pulp mills. It didn&#039;t",
@@ -379,6 +400,13 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/bike-share-toronto-stolen-lost-numbers",
       "published_date": "2026-07-17T22:41:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna MP hangs with the kids to announce Canada Child Benefit increase",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/kelowna-mp-hangs-with-the-kids-to-announce-canada-child-benefit-increase/",
+      "published_date": "2026-07-17T22:25:00Z",
       "category": "Local Events"
     },
     {
@@ -449,55 +477,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/life/look-chic-in-these-5-black-summer-styles-from-canadian-brands",
       "published_date": "2026-07-17T18:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbotsford Canucks’ Google numbers decrease year-over-year",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/abbotsford-canucks-google-numbers-decrease-year-over-year/",
-      "published_date": "2026-07-17T18:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "York Region and Toronto record first mosquitoes testing positive for West Nile virus",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/york-region-first-mosquitoes-testing-positive-west-nile-virus",
-      "published_date": "2026-07-17T17:37:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto’s outdoor public pools stay shut amid poor air quality",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-public-pools-closure-air-quality",
-      "published_date": "2026-07-17T17:27:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garlic powder sold at Dollarama recalled",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/garlic-powder-sold-at-dollarama-recalled/",
-      "published_date": "2026-07-17T16:51:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Extreme health risk from wildfire smoke shuts down outdoor activities for Windsor-Essex",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/extreme-health-risk-from-wildfire-smoke-shuts-down-outdoor-activities-for-windsor-essex",
-      "published_date": "2026-07-17T16:03:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Willowdale MPP Stan Cho resigns from Doug Ford's cabinet over hotel expenses",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/willowdale-mpp-stan-cho-resigns",
-      "published_date": "2026-07-17T15:36:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM Carney expects 'negative to modest' Gordie Howe bridge revenues in first few years",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/pm-carney-expects-negative-to-modest-gordie-howe-bridge-revenues-in-first-few-years",
-      "published_date": "2026-07-17T14:33:31Z",
       "category": "Local Events"
     }
   ]
