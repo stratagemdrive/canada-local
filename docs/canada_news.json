@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T00:00:26Z",
+  "generated_at": "2026-07-20T12:58:14Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -193,13 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Iran launches retaliatory attacks on U.S. facilities",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-13",
-      "published_date": "2026-07-13T11:16:40Z",
-      "category": "Military"
-    },
-    {
       "title": "GOLDSTEIN: Wildfires show need to adapt to severe weather, not control climate",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/wildfires-show-need-to-adapt-to-severe-weather-not-control-climate",
@@ -368,6 +361,62 @@
       "category": "Economy"
     },
     {
+      "title": "Obit: Former Windsor Star entertainment editor, drummer remembered as local music champion",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/obit-former-windsor-star-entertainment-editor-drummer-remembered-as-local-music-champion",
+      "published_date": "2026-07-20T10:25:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Remington Park house fire displaces six people, causes $500K in damages",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/remington-park-house-fire-displaces-six-people-causes-500k-in-damages",
+      "published_date": "2026-07-20T10:16:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHARLEBOIS: Permanent daylight time could change how we eat",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/permanent-daylight-time-could-change-how-we-eat",
+      "published_date": "2026-07-20T10:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pointe West Golf Club set to host Ontario Senior Men's Amateur Championship",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/pointe-west-golf-club-set-to-host-ontario-senior-mens-amateur-championship",
+      "published_date": "2026-07-20T10:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cluculz Lake Fire Department adds new engine through grant funding",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/cluculz-lake-fire-department-adds-new-engine-through-grant-funding/",
+      "published_date": "2026-07-20T04:44:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death during annual swim event confirmed as 5th drowning on Okanagan this year",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/death-during-annual-swim-event-confirmed-as-5th-drowning-on-okanagan-this-year/",
+      "published_date": "2026-07-20T03:45:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City of Kimberley under evacuation alert due to wildfires",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/city-of-kimberley-under-evacuation-alert-due-to-wildfires/",
+      "published_date": "2026-07-20T03:16:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man charged after traffic stop nets firearms, drugs; crash victim dies in hospital",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-charged-traffic-stop-firearms",
+      "published_date": "2026-07-20T01:32:46Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Search underway for missing four-year-old Langley boy",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/search-underway-missing-four-year-old-langley-boy",
@@ -449,62 +498,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/sports/soccer/international-soccer/legacy-2026-world-cup-vancouver",
       "published_date": "2026-07-19T15:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, July 19: Kick-off for the championship match is 12 p.m. PT today",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/world-cup-daily-july-19-kick-off-for-the-championship-match-is-12-p-m-pt-today/",
-      "published_date": "2026-07-19T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Has a split second ever made a difference in your life?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-has-a-split-second-ever-made-a-difference-in-your-life",
-      "published_date": "2026-07-19T13:00:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Softball teams converge on Terrace for provincial championships",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/softball-teams-converge-on-terrace-for-provincial-championships/",
-      "published_date": "2026-07-19T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former cabinet minister Mike Bernier named CentreBC leader, positioning party between NDP and Conservatives",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/former-cabinet-minister-mike-bernier-named-centrebc-leader-positioning-party-between-ndp-and-conservatives",
-      "published_date": "2026-07-18T22:50:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman stabbed to death in North York highrise",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/woman-stabbed-to-death-north-york-highrise",
-      "published_date": "2026-07-18T22:03:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Orange warnings issued for Kingston residents as poor air quality increases from wildfires in northern Ontario",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/07/18/orange-warnings-issued-for-kingston-residents-as-poor-air-quality-increases-from-wildfires-in-northern-ontario/",
-      "published_date": "2026-07-18T18:36:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Accused thief allegedly threatened to kill Scarborough grocery store employee",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/accused-thief-threatened-to-kill-scarborough-grocery-store-employee",
-      "published_date": "2026-07-18T17:45:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man accused of 'violent' sex assault in Whitby park while under house arrest",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-charged-violent-sex-assault-whitby-park-under-house-arrest",
-      "published_date": "2026-07-18T16:59:23Z",
       "category": "Local Events"
     }
   ]
