@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T11:46:13Z",
+  "generated_at": "2026-07-20T00:00:26Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -102,6 +102,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "IRAN WAR: Gulf states report more attacks after U.S. troops killed in Jordan",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-gulf-states-report-more-attacks-after-u-s-troops-killed-in-jordan",
+      "published_date": "2026-07-19T16:44:17Z",
+      "category": "Military"
+    },
+    {
       "title": "B.C. Wildfires: Smoke fills some communities as crews battle fires near Pemberton, Boston Bar",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-wildfires-battle-fires-pemberton-boston-bar",
@@ -193,13 +200,6 @@
       "category": "Military"
     },
     {
-      "title": "BC Wildfire says drone disrupted aerial operations at Brunswick Complex blaze",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/12/bc-wildfire-says-drone-disrupted-aerial-operations-at-brunswick-complex-blaze/",
-      "published_date": "2026-07-12T20:32:03Z",
-      "category": "Military"
-    },
-    {
       "title": "GOLDSTEIN: Wildfires show need to adapt to severe weather, not control climate",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/wildfires-show-need-to-adapt-to-severe-weather-not-control-climate",
@@ -240,6 +240,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/07/13/b-c-grants-environmental-assessment-for-sand-mine-near-prince-george/",
       "published_date": "2026-07-13T22:30:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "If you&#039;re searching for your first job, employers and experts have some tips",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/if-youre-searching-for-your-first-job-employers-and-experts-have-some-tips",
+      "published_date": "2026-07-19T15:00:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Letter: Protect those who don’t have a voice of their own",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/letter-protect-those-who-dont-have-a-voice-of-their-own/",
+      "published_date": "2026-07-19T12:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "EDITORIAL: PM Mark Carney must release Gordie Howe Bridge deal details",
@@ -354,11 +368,109 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: Canadian manufacturers moving south as Mark Carney fails to deliver on trade",
+      "title": "Search underway for missing four-year-old Langley boy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/search-underway-missing-four-year-old-langley-boy",
+      "published_date": "2026-07-19T23:44:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health Canada bans foreign visitors from Congo over Ebola outbreak",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canadian-manufacturers-moving-south-as-carney-fails-to-deliver-on-trade",
-      "published_date": "2026-07-12T23:58:22Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/national/foreign-nationals-visiting-congo-barred-canada",
+      "published_date": "2026-07-19T22:52:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA World Cup halftime show offers diverse spectacle with Justin Bieber standing out",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/soccer/fifa-world-cup-halftime-show-offers-diverse-spectacle-justin-bieber-standing-out",
+      "published_date": "2026-07-19T22:27:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Some surefire staples in Toronto for summertime fun",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/some-surefire-staples-toronto-summertime-fun",
+      "published_date": "2026-07-19T20:35:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How things stand in Ontario with U.S. planning to ditch daylight time",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/where-things-stand-ontario-time-change",
+      "published_date": "2026-07-19T20:29:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Air quality warning lifted in Toronto following days of hazy conditions",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/air-quality-warning-lifted-in-toronto-following-days-of-hazy-conditions",
+      "published_date": "2026-07-19T19:56:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Top 3 compelling races in upcoming municipal election",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/top-3-compelling-races-in-upcoming-municipal-election",
+      "published_date": "2026-07-19T19:27:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a passion for video games helped Marc Saltzman do what he loves",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/how-a-passion-for-video-games-helped-marc-saltzman-do-what-he-loves",
+      "published_date": "2026-07-19T19:14:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. golfer wins U.S. Girls’ Junior championship",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/b-c-golfer-wins-u-s-girls-junior-championship/",
+      "published_date": "2026-07-19T17:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughan man charged in fatal North York stabbing; Worker dies at Flamboro Speedway",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/vaughan-man-charged-in-fatal-north-york-stabbing",
+      "published_date": "2026-07-19T16:49:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedestrian, 20, dead after being struck in Mississauga",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/pedestrian-20-dead-after-being-struck-in-mississauga",
+      "published_date": "2026-07-19T16:42:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is the legacy of the 2026 World Cup for Vancouver?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/sports/soccer/international-soccer/legacy-2026-world-cup-vancouver",
+      "published_date": "2026-07-19T15:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WORLD CUP DAILY, July 19: Kick-off for the championship match is 12 p.m. PT today",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/world-cup-daily-july-19-kick-off-for-the-championship-match-is-12-p-m-pt-today/",
+      "published_date": "2026-07-19T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: Has a split second ever made a difference in your life?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-has-a-split-second-ever-made-a-difference-in-your-life",
+      "published_date": "2026-07-19T13:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Softball teams converge on Terrace for provincial championships",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/softball-teams-converge-on-terrace-for-provincial-championships/",
+      "published_date": "2026-07-19T13:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Former cabinet minister Mike Bernier named CentreBC leader, positioning party between NDP and Conservatives",
@@ -393,111 +505,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/man-charged-violent-sex-assault-whitby-park-under-house-arrest",
       "published_date": "2026-07-18T16:59:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man and woman accused of targeting elderly woman in North York distraction theft",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-woman-targeted-elderly-woman-north-york-distraction-theft",
-      "published_date": "2026-07-18T16:50:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Full-circle moment': Shania Twain finally plays Toronto's Horseshoe Tavern",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/shania-twain-toronto-horseshoe-tavern",
-      "published_date": "2026-07-18T16:08:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kitchener man allegedly used fake cash to scam online sellers of precious metals",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/kitchener-man-counterfeit-cash-scam-online-sellers-precious-metals",
-      "published_date": "2026-07-18T15:44:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man allegedly tossed loaded gun while running from cops in North York",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-tossed-loaded-gun-running-from-cops-north-york",
-      "published_date": "2026-07-18T15:09:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This week In History, 1906: A CP ship rams a tugboat by Brockton Point, killing eight people",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-week-in-history-1906-cp-ship-rams-tugboat-brockton",
-      "published_date": "2026-07-18T15:00:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Vancouver Sun: Voices of many seasoned community planners aren&#039;t being heard",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-voices-of-many-seasoned-community-planners-arent-being-heard",
-      "published_date": "2026-07-18T15:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: These were the top-ranked B.C. sparkling wines at the 2026 WineAlign Awards",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-winealign-awards-top-bc-sparkling-wines-2026",
-      "published_date": "2026-07-18T15:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Queer icon Carole Pope&#039;s Antidiva documentary will screen at the Rio Theatre",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/queer-icon-carole-popes-antidiva-documentary-will-screen-at-the-rio-theatre",
-      "published_date": "2026-07-18T15:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenage brothers wanted for deadly Brampton shooting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/teenage-brothers-wanted-for-deadly-brampton-shooting",
-      "published_date": "2026-07-18T14:10:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WORLD CUP DAILY, July 18: England and France face off in Bronze final",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/18/world-cup-daily-july-18-england-and-france-face-off-in-bronze-final/",
-      "published_date": "2026-07-18T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Money well spent' — County finds funds to keep homelessness hub services intact",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/money-well-spent-county-finds-funds-to-keep-homelessness-hub-services-intact",
-      "published_date": "2026-07-18T09:11:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake’s newest cover band rocks out in Wells B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/18/burns-lakes-newest-cover-band-rocks-out-in-wells-b-c/",
-      "published_date": "2026-07-18T07:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Breakwater Park crowds spark discussion about more swimming areas",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/07/18/breakwater-park-crowds-spark-discussion-about-more-swimming-areas/",
-      "published_date": "2026-07-18T05:06:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Lions fall 19-17 to Edmonton Elks, lose QB Rourke to injury",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/b-c-lions-fall-19-17-to-edmonton-elks-lose-qb-rourke-to-injury/",
-      "published_date": "2026-07-18T04:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. wildfires: More than 100 Big Bar Lake properties under evacuation order as wildfire approaches",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/b-c-wildfires-more-than-100-big-bar-lake-properties-under-evacuation-order-as-wildfire-approaches",
-      "published_date": "2026-07-18T01:20:31Z",
       "category": "Local Events"
     }
   ]
