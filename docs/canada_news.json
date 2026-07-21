@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:58:49Z",
+  "generated_at": "2026-07-21T12:16:13Z",
   "country": "Canada",
   "total_stories": 72,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "CBSA reviewing policies after judge tosses $13.2M cocaine smuggling case",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/cbsa-reviewing-policies-after-judge-tosses-13-2m-cocaine-smuggling-case",
+      "published_date": "2026-07-21T10:33:18Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Unifor-Ford tentative deal includes wage increases, retiree benefits, $500M for Essex Engine Plant",
       "source": "Windsor Star",
@@ -86,6 +93,13 @@
       "url": "https://windsorstar.com/sports/now-officially-in-the-fold-heres-a-few-things-you-might-not-know-about-spitfires-top-pick-lauchlan-whelan",
       "published_date": "2026-07-14T16:04:32Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: U.S. launches more strikes after Trump warns Tehran 'will pay' for soldiers' deaths",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-u-s-launches-more-strikes-after-trump-warns-tehran-will-pay-for-soldiers-deaths",
+      "published_date": "2026-07-21T00:07:14Z",
+      "category": "Military"
     },
     {
       "title": "Man accused of 2021 Windsor Assembly Plant explosion acquitted of all charges",
@@ -179,20 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: U.S. attacks Iran for third day; Iran attack on tanker kills sailor",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-14",
-      "published_date": "2026-07-14T11:28:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-MP Inky Mark charged after antique cannon, other firearms seized by RCMP",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/inky-mark-charged-with-weapons-trafficking",
-      "published_date": "2026-07-14T00:57:19Z",
-      "category": "Military"
-    },
-    {
       "title": "Province, BC Hydro to build 100 MW battery storage facility in Cowichan Valley",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/20/province-bc-hydro-to-build-100-mw-battery-storage-facility-in-cowichan-valley/",
@@ -233,6 +233,27 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/07/14/first-nations-sign-option-for-lng-canada-buy-in/",
       "published_date": "2026-07-14T21:15:06Z",
       "category": "Energy"
+    },
+    {
+      "title": "CHARLEBOIS: Donald Trump’s new tariffs put Canada’s food economy on menu",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/trump-tariffs-endanger-canadian-food-economy",
+      "published_date": "2026-07-21T10:00:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Letter: Councillors are full-time jobs",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/letter-councillors-are-full-time-jobs",
+      "published_date": "2026-07-21T03:42:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "VIDEO: ‘No nurse wants to be out here’: BCNU rallies outside Kelowna hospital",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/20/video-no-nurse-wants-to-be-out-here-bcnu-rallies-outside-kelowna-hospital/",
+      "published_date": "2026-07-20T23:35:00Z",
+      "category": "Economy"
     },
     {
       "title": "Trump says 50% tariffs coming to some Canadian products",
@@ -354,25 +375,67 @@
       "category": "Economy"
     },
     {
-      "title": "Carney, cabinet ministers score free World Cup seats as taxpayers hit with $1.07B bill",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/carney-cabinet-ministers-score-free-world-cup-seats-as-taxpayers-hit-with-1-07b-bill",
-      "published_date": "2026-07-14T20:44:36Z",
-      "category": "Economy"
+      "title": "Show some restraint: Don’t let pets roam free in cars",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/show-some-restraint-dont-let-pets-roam-free-in-cars/",
+      "published_date": "2026-07-21T12:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "LILLEY: Six kilometres from home, Stan Cho lives the Suite Life in taxpayer-funded hotels",
+      "title": "Gangbangers killed influencer who starred in Tekashi 6ix9ine video: Cops",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/six-kilometres-from-home-stan-cho-lives-the-suite-life-in-taxpayer-funded-hotels",
-      "published_date": "2026-07-14T20:04:29Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/gangbangers-killed-influencer-tekashi-6ix9ine-video",
+      "published_date": "2026-07-21T11:40:38Z",
+      "category": "Local Events"
     },
     {
-      "title": "Letters to The Vancouver Sun: Pedestrianizing Granville permanently would have significant impact on transit users",
+      "title": "Hidden termite damage a growing concern in Windsor, Essex County",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/hidden-termite-damage-a-growing-concern-in-windsor-essex-county",
+      "published_date": "2026-07-21T11:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor’s Sant Ippolito Festival wants to bridge the generational gap",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsors-sant-ippolito-festival-wants-to-bridge-the-generational-gap",
+      "published_date": "2026-07-21T10:39:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Philp: Given their resilience, Canada geese often rule the roost",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/philp-given-their-resilience-canada-geese-often-rule-the-roost",
+      "published_date": "2026-07-21T03:27:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evacuation orders issued for Pear Lake fire near Clinton",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/20/evacuation-orders-issued-for-pear-lake-fire-near-clinton/",
+      "published_date": "2026-07-21T01:41:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ryan Reynolds confirms fourth Deadpool movie during Fanatics Fest 2026",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-pedestrianizing-granville-permanently-would-have-significant-impact-on-transit-users",
-      "published_date": "2026-07-14T20:00:43Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/entertainment/ryan-reynolds-confirms-fourth-deadpool-movie-during-fanatics-fest-2026",
+      "published_date": "2026-07-21T01:28:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops seeking 4 suspects accused of nabbing booze, art from Annex residence",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspects-sought-booze-artwork-heist-annex",
+      "published_date": "2026-07-21T01:15:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrest made after cyclist killed, two seriously injured during Okanagan GranFondo",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/arrest-made-after-cyclist-killed-two-seriously-injured-during-okanagan-granfondo",
+      "published_date": "2026-07-21T00:16:48Z",
+      "category": "Local Events"
     },
     {
       "title": "New Aga Khan making first official visit to Vancouver",
@@ -449,69 +512,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/iranian-singer-hit-with-74-lashes-for-daring-to-sing-without-hijab",
       "published_date": "2026-07-20T21:40:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The ultimate day trip itinerary to Chilliwack from Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/the-ultimate-day-trip-itinerary-to-chilliwack-from-vancouver",
-      "published_date": "2026-07-20T20:27:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Carney’s spin on Gordie Howe bridge deal starting to unravel",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carneys-spin-on-gordie-howe-bridge-deal-is-starting-to-unravel",
-      "published_date": "2026-07-20T20:20:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kimberley residents on evacuation alert due to Matthew Creek wildfire",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/kimberley-residents-evacuation-alert-matthew-creek-wildfire",
-      "published_date": "2026-07-20T19:42:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "16 foreign nationals arrested in Vancouver during World Cup",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/20/16-foreign-nationals-arrested-in-vancouver-during-world-cup/",
-      "published_date": "2026-07-20T19:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "German influencer dies after head-on collision during her honeymoon",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/german-influencer-dies-after-head-on-collision-during-her-honeymoon",
-      "published_date": "2026-07-20T19:27:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Forest fire near Uncha Lake quickly put out",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/20/forest-fire-near-uncha-lake-quickly-put-out/",
-      "published_date": "2026-07-20T19:04:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto International Film Festival adds Stallone's 'Rocky' biopic and more to 2026 lineup",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/movies/toronto-film-festival-adds-sylvester-stallone-rocky-biopic-to-2026-lineup",
-      "published_date": "2026-07-20T18:17:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor's Royal Canadian Legions celebrate centennial birthday",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsors-royal-canadian-legions-celebrate-centennial-birthday",
-      "published_date": "2026-07-20T18:17:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flood risk continues from glacial lake outburst near Pemberton",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/flood-risk-glacial-lake-outburst-pemberton",
-      "published_date": "2026-07-20T17:38:15Z",
       "category": "Local Events"
     }
   ]
