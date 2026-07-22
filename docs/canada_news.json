@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T23:57:09Z",
+  "generated_at": "2026-07-22T12:18:35Z",
   "country": "Canada",
   "total_stories": 71,
   "categories": [
@@ -95,6 +95,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "GWYNNE DYER: What can the justice system do to combat tyranny in US, India?",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/gwynne-dyer-what-can-the-justice-system-do-to-combat-tyranny-in-us-india",
+      "published_date": "2026-07-22T11:02:46Z",
+      "category": "Military"
+    },
+    {
       "title": "IRAN WAR: U.S. launches more strikes after Trump warns Tehran 'will pay' for soldiers' deaths",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-u-s-launches-more-strikes-after-trump-warns-tehran-will-pay-for-soldiers-deaths",
@@ -179,13 +186,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: U.S. launches new attacks as naval blockade reimposed",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-15",
-      "published_date": "2026-07-15T11:24:26Z",
-      "category": "Military"
-    },
-    {
       "title": "BC Hydro to triple size of its public EV charging network by 2035",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/21/bc-hydro-to-triple-size-of-its-public-ev-charging-network-by-2035/",
@@ -226,6 +226,20 @@
       "url": "https://vancouversun.com/news/metro-vancouver-gas-price-forecast-unpredictable-say-analysts",
       "published_date": "2026-07-15T22:14:09Z",
       "category": "Energy"
+    },
+    {
+      "title": "Canadian officials no longer attending Gordie Howe bridge opening ceremony",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-officials-gordie-howe-bridge-ceremony",
+      "published_date": "2026-07-22T00:29:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "From wine to notebooks, B.C. businesses tally the cost of a 50 per cent U.S. tariff",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/wine-notebooks-bc-businesses-tally-cost-50-per-cent-us-tariff",
+      "published_date": "2026-07-22T00:05:08Z",
+      "category": "Economy"
     },
     {
       "title": "LILLEY: Donald Trump’s tariff ultimatum leaves Mark Carney out of time",
@@ -354,18 +368,81 @@
       "category": "Economy"
     },
     {
-      "title": "70% of Canadians say crushing taxes destroying standard of living: Poll",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/70-of-canadians-say-crushing-taxes-destroying-standard-of-living-poll",
-      "published_date": "2026-07-16T10:00:15Z",
-      "category": "Economy"
+      "title": "Meridian Good Neighbour Day supports Pembroke Regional Hospital",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/meridian-good-neighbour-day-supports-pembroke-regional-hospital",
+      "published_date": "2026-07-22T11:02:32Z",
+      "category": "Local Events"
     },
     {
-      "title": "Opinion: Why are Canadian taxpayers being asked to fund an economically and environmentally risky pipeline project?",
+      "title": "RCDSB partners with Science North for summer STEM camps",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/rcdsb-partners-with-science-north-for-summer-stem-camps",
+      "published_date": "2026-07-22T10:44:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Dangerous' false distress calls on Great Lakes prompt warning from U.S., Canadian authorities",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/dangerous-false-distress-calls-on-great-lakes-prompt-warning-from-u-s-canadian-authorities",
+      "published_date": "2026-07-22T09:48:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire smoke cleared in time for annual Walkerville Art Walk",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/wildfire-smoke-cleared-on-saturday-in-time-for-annual-walkerville-art-walk",
+      "published_date": "2026-07-22T09:45:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amber Alert activated for 4 year old boy reportedly taken by mother from West Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/amber-alert-activated-for-4-year-old-boy-reportedly-taken-by-mother-from-west-kelowna/",
+      "published_date": "2026-07-22T06:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More evacuation orders as new fire near Boston Bar grows to 1,000 hectares",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/more-evacuation-orders-as-new-fire-near-boston-bar-grows-to-1000-hectares/",
+      "published_date": "2026-07-22T06:05:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadians can measure stress with ease via new app",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/health/canadians-can-measure-stress-via-new-app",
+      "published_date": "2026-07-22T04:05:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two injured after plane crashes into lake west of Whistler",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-why-are-canadian-taxpayers-being-asked-to-fund-an-economically-and-environmentally-risky-pipeline-project",
-      "published_date": "2026-07-15T23:00:24Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/two-injured-after-plane-crashes-into-lake-west-of-whistler",
+      "published_date": "2026-07-22T02:36:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cardinals lineman Isaiah Adams among those charged in Durham firearms bust",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/cardinals-lineman-isaiah-adams-firearms-charges",
+      "published_date": "2026-07-22T01:57:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northerners benefit from menstrual product campaign",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/northerners-benefit-from-menstrual-product-campaign/",
+      "published_date": "2026-07-22T00:19:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vernon-Lake Country-Monashee MP vocal over provincial strategy ‘failures’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/vernon-lake-country-monashee-mp-vocal-over-provincial-strategy-failures/",
+      "published_date": "2026-07-22T00:04:00Z",
+      "category": "Local Events"
     },
     {
       "title": "‘Not a chance in hell’ that B.C. is putting U.S. liquor back on shelves: Eby",
@@ -428,83 +505,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/21/abbotsford-entrepreneurs-represent-b-c-at-g20-summit/",
       "published_date": "2026-07-21T22:20:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "600 B.C. properties under evacuation order, 5,700 under alerts amid wildfires",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/600-b-c-properties-under-evacuation-order-5700-under-alerts-amid-wildfires/",
-      "published_date": "2026-07-21T22:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Serious incident&#039; shutters Westview Shopping Centre in North Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/police-incident-westview-plaza-north-vancouver-rcmp",
-      "published_date": "2026-07-21T22:14:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in 2022 Montreal murder arrested by police in B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/montreal-murder-suspect-arrested-bc-police",
-      "published_date": "2026-07-21T22:12:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TIFF shines spotlight on B.C. heroes Terry Fox and Rick Hansen",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/tiff-puts-spotlight-on-bc-heroes-terry-fox-and-rick-hansen",
-      "published_date": "2026-07-21T22:07:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Property owner appeals B.C. judge&#039;s dismissal of bid to reopen Cowichan lands decision",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/property-owner-appeals-bc-judge-dismissal-bid-to-reopen-cowichan-lands-decision",
-      "published_date": "2026-07-21T22:00:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attorney General comments on rural B.C., Indigenous land rights issues in Revelstoke interview",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/attorney-general-comments-on-rural-b-c-indigenous-land-rights-issues-in-revelstoke-interview/",
-      "published_date": "2026-07-21T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Montrose Properties to appeal court ruling that declined to reopen Cowichan case",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/montrose-properties-to-appeal-court-ruling-that-declined-to-reopen-cowichan-case/",
-      "published_date": "2026-07-21T21:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Wildfire Service uses drones to ignite burns in a Canadian first",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-wildfire-service-uses-drones-to-ignite-burns-in-a-canadian-first",
-      "published_date": "2026-07-21T21:01:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada can't survive without U.S.: Trump",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/canada-cant-survive-without-u-s-trump",
-      "published_date": "2026-07-21T20:58:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One person taken to hospital after two-vehicle crash on Tecumseh Road East",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/one-person-taken-to-hospital-after-two-vehicle-crash-on-tecumseh-road",
-      "published_date": "2026-07-21T20:48:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in 2022 Quebec murder arrested in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/suspect-in-2022-quebec-murder-arrested-in-b-c/",
-      "published_date": "2026-07-21T20:23:00Z",
       "category": "Local Events"
     }
   ]
