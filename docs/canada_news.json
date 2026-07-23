@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T12:18:35Z",
+  "generated_at": "2026-07-23T00:02:05Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: Canada’s premiers split on Trump tariffs as Team Canada cracks ahead of Carney meeting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canadas-premiers-split-on-trump-tariffs-as-team-canada-cracks-ahead-of-carney-meeting",
+      "published_date": "2026-07-22T22:19:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Granisle on verge of safe, stable water supply",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/granisle-on-verge-of-safe-stable-water-supply/",
+      "published_date": "2026-07-22T21:57:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada sharing with the U.S.: details of new Gordie Howe bridge deal released",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/canada-sharing-with-the-u-s-details-of-new-gordie-howe-bridge-deal-released",
+      "published_date": "2026-07-22T14:42:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two Windsor-Essex hospitals to share CEO under new administrative partnership",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/two-windsor-essex-hospitals-to-share-ceo-under-new-administrative-partnership",
+      "published_date": "2026-07-22T12:45:57Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Column: Who is going to bail out our struggling hospitals?",
       "source": "Windsor Star",
@@ -88,11 +116,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LaMontagne welcomes chance to prove himself with Spitfires",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/lamontagne-welcomes-chance-to-prove-himself-with-spitfires",
-      "published_date": "2026-07-15T15:58:18Z",
-      "category": "Diplomacy"
+      "title": "Toronto man facing terror charge over alleged ties to Hamas; robbery suspect cuffed",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/toronto-man-facing-terror-charge-over-alleged-ties-to-hamas-robbery-suspect-cuffed",
+      "published_date": "2026-07-22T22:04:02Z",
+      "category": "Military"
     },
     {
       "title": "GWYNNE DYER: What can the justice system do to combat tyranny in US, India?",
@@ -221,11 +249,25 @@
       "category": "Energy"
     },
     {
-      "title": "Forecast for Metro Vancouver gas prices remains unpredictable: Analysts",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-gas-price-forecast-unpredictable-say-analysts",
-      "published_date": "2026-07-15T22:14:09Z",
-      "category": "Energy"
+      "title": "‘This is just silly’: B.C.’s Eby threatens U.S. access to Canadian minerals over tariffs",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/this-is-just-silly-b-c-s-eby-threatens-u-s-access-to-canadian-minerals-over-tariffs/",
+      "published_date": "2026-07-22T22:51:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "U.S. Democratic senator introduces bill in bid to reel in Donald Trump's tariff powers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/us-democratic-senator-bill-donald-trump-tariff-powers",
+      "published_date": "2026-07-22T22:25:45Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canada's trucking industry expects traffic shift with Gordie Howe bridge days from opening",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/canadas-trucking-industry-expects-traffic-shift-with-gordie-howe-bridge-days-from-opening",
+      "published_date": "2026-07-22T17:38:33Z",
+      "category": "Economy"
     },
     {
       "title": "Canadian officials no longer attending Gordie Howe bridge opening ceremony",
@@ -347,164 +389,143 @@
       "category": "Economy"
     },
     {
-      "title": "Backer of Oakridge-area condo complex sues developer after bankruptcy",
+      "title": "63 arrested in Ontario child exploitation bust",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/63-arrested-in-ontario-child-exploitation-bust",
+      "published_date": "2026-07-22T23:23:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Appeal court sentences Ontario rapist to prison — but won't send him there",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/appeal-court-sentences-ontario-rapist-to-prison-but-wont-send-him-there",
+      "published_date": "2026-07-22T23:09:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Who will service tomorrow&#039;s vehicles in B.C.?",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/real-estate/backers-oakridge-condo-sue-developer-bankruptcy",
-      "published_date": "2026-07-18T15:00:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Province backs $1.7 million manufacturing investment in Tecumseh's Hawk Plastics",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/province-backs-1-7-million-manufacturing-investment-in-tecumseh",
-      "published_date": "2026-07-17T10:17:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Young Russian forward Yakushevsky quickly sold on chance to play for Spitfires",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/young-russian-forward-yakushevsky-quickly-sold-on-chance-to-play-for-spitfires",
-      "published_date": "2026-07-16T15:58:41Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Meridian Good Neighbour Day supports Pembroke Regional Hospital",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/meridian-good-neighbour-day-supports-pembroke-regional-hospital",
-      "published_date": "2026-07-22T11:02:32Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-who-will-service-tomorrows-vehicles-in-b-c",
+      "published_date": "2026-07-22T23:00:48Z",
       "category": "Local Events"
     },
     {
-      "title": "RCDSB partners with Science North for summer STEM camps",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/rcdsb-partners-with-science-north-for-summer-stem-camps",
-      "published_date": "2026-07-22T10:44:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Dangerous' false distress calls on Great Lakes prompt warning from U.S., Canadian authorities",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/dangerous-false-distress-calls-on-great-lakes-prompt-warning-from-u-s-canadian-authorities",
-      "published_date": "2026-07-22T09:48:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire smoke cleared in time for annual Walkerville Art Walk",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/wildfire-smoke-cleared-on-saturday-in-time-for-annual-walkerville-art-walk",
-      "published_date": "2026-07-22T09:45:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amber Alert activated for 4 year old boy reportedly taken by mother from West Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/amber-alert-activated-for-4-year-old-boy-reportedly-taken-by-mother-from-west-kelowna/",
-      "published_date": "2026-07-22T06:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More evacuation orders as new fire near Boston Bar grows to 1,000 hectares",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/more-evacuation-orders-as-new-fire-near-boston-bar-grows-to-1000-hectares/",
-      "published_date": "2026-07-22T06:05:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadians can measure stress with ease via new app",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/health/canadians-can-measure-stress-via-new-app",
-      "published_date": "2026-07-22T04:05:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two injured after plane crashes into lake west of Whistler",
+      "title": "More needed to ensure worker safety during B.C. heat warnings: Critics",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/two-injured-after-plane-crashes-into-lake-west-of-whistler",
-      "published_date": "2026-07-22T02:36:26Z",
+      "url": "https://vancouversun.com/news/more-needed-to-ensure-worker-safety-during-bc-heat-warnings-critics",
+      "published_date": "2026-07-22T22:54:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Cardinals lineman Isaiah Adams among those charged in Durham firearms bust",
+      "title": "Washington wildfire crosses border into B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/washington-wildfire-crosses-border-into-b-c/",
+      "published_date": "2026-07-22T22:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horse bestiality case heading to Vernon trial in spring 2027",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/horse-bestiality-case-heading-to-vernon-trial-in-spring-2027/",
+      "published_date": "2026-07-22T22:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Removal begins for Tumbler Ridge Secondary School, site of mass shooting",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/removal-begins-for-tumbler-ridge-secondary-school-site-of-mass-shooting/",
+      "published_date": "2026-07-22T21:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algonquin and Lakeshore Catholic District School Board candidate hopes to tackle the shortage of educational assistants",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/07/22/algonquin-and-lakeshore-catholic-district-school-board-candidate-hopes-to-tackle-the-shortage-of-educational-assistants/",
+      "published_date": "2026-07-22T21:47:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Provinces finally crack open interprovincial alcohol sales",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/cardinals-lineman-isaiah-adams-firearms-charges",
-      "published_date": "2026-07-22T01:57:17Z",
+      "url": "https://torontosun.com/news/national/provinces-finally-crack-open-interprovincial-alcohol-sales",
+      "published_date": "2026-07-22T21:07:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Northerners benefit from menstrual product campaign",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/northerners-benefit-from-menstrual-product-campaign/",
-      "published_date": "2026-07-22T00:19:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vernon-Lake Country-Monashee MP vocal over provincial strategy ‘failures’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/vernon-lake-country-monashee-mp-vocal-over-provincial-strategy-failures/",
-      "published_date": "2026-07-22T00:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Not a chance in hell’ that B.C. is putting U.S. liquor back on shelves: Eby",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/not-a-chance-in-hell-that-b-c-is-putting-u-s-liquor-back-on-shelves-eby/",
-      "published_date": "2026-07-21T23:44:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey defendant seeks to delay Sinaloa-linked forfeiture case",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/sinaloa-linked-forfeiture-case-set-to-go-to-trial-but-surrey-defendant-wants-delay",
-      "published_date": "2026-07-21T23:17:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brampton woman facing dozens of charges in rental fraud case",
+      "title": "Gordie Howe bridge: Tories blast Carney for caving to Trump on $6.4B deal",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brampton-woman-charged-online-rental-fraud",
-      "published_date": "2026-07-21T23:12:32Z",
+      "url": "https://torontosun.com/news/gordie-howe-bridge-tories-blast-carney-for-caving-to-trump-on-6-4b-deal",
+      "published_date": "2026-07-22T20:41:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Canada backs out of Gordie Howe bridge opening ceremony with U.S.",
+      "title": "Canucks coming back to Penticton for training camp: ‘Makes perfect sense,’ Sedin says",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/canucks-coming-back-to-penticton-for-training-camp-makes-perfect-sense-sedin-says/",
+      "published_date": "2026-07-22T20:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Missing 4-year-old B.C. boy found safe, amber alert cancelled",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/amber-alert-activated-for-4-year-old-boy-reportedly-taken-by-mother-from-west-kelowna/",
+      "published_date": "2026-07-22T19:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City unveils new $3.7M west Windsor transit terminal",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/canada-backs-out-of-gordie-howe-bridge-opening-ceremony-with-u-s",
-      "published_date": "2026-07-21T23:10:59Z",
+      "url": "https://windsorstar.com/news/local-news/city-unveils-new-3-7m-west-windsor-transit-terminal",
+      "published_date": "2026-07-22T19:11:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Nine premiers agree to remove barriers for out-of-province booze",
+      "title": "EDITORIAL: Public office must be viewed as a job",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/editorial-public-office-must-be-viewed-as-a-job/",
+      "published_date": "2026-07-22T18:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peel cops still seeking 2 teens for Brampton murder",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/premiers-agree-removing-barriers-interprovincial-booze",
-      "published_date": "2026-07-21T23:07:59Z",
+      "url": "https://torontosun.com/news/local-news/peel-police-2-teens-brampton-murder",
+      "published_date": "2026-07-22T18:18:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Controlled burns could make future wildfires less severe in B.C. and beyond",
+      "title": "From board game to movie to stage, fast-paced Clue finds laughs by playing absurdity straight",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-controlled-burns-could-make-future-wildfires-less-severe-in-b-c-and-beyond",
-      "published_date": "2026-07-21T23:00:06Z",
+      "url": "https://vancouversun.com/entertainment/from-board-game-to-movie-to-stage-fast-paced-clue-finds-laughs-by-playing-absurdity-straight",
+      "published_date": "2026-07-22T18:00:18Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. forgives legal debts of staffer involved in 2013 quick wins scandal",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/b-c-forgives-legal-debts-of-staffer-involved-in-2013-quick-wins-scandal/",
-      "published_date": "2026-07-21T22:51:00Z",
+      "title": "Vancouver father-daughter duo&#039;s series brings new perspective to disability, family dynamics",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-father-daughter-duos-series-brings-new-perspective-to-disability-family-dynamics",
+      "published_date": "2026-07-22T18:00:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Raising awareness and advocating for brain health on World Brain Day",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/health/raising-awareness-and-advocating-for-brain-health-on-world-brain-day",
-      "published_date": "2026-07-21T22:48:00Z",
+      "title": "Vancouver restaurant AnnaLena has evolved alongside chef-owner Mike Robbins",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/vancouver-restaurant-annalena-has-evolved-alongside-chef-owner-mike-robbins",
+      "published_date": "2026-07-22T18:00:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Abbotsford entrepreneurs represent B.C. at G20 summit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/abbotsford-entrepreneurs-represent-b-c-at-g20-summit/",
-      "published_date": "2026-07-21T22:20:06Z",
+      "title": "False Creek Crab Fest shines spotlight on B.C.’s Dungeness fishery at a trying time",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/false-creek-crab-fest-2026-dungeness",
+      "published_date": "2026-07-22T18:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jeera aloo recipe: Cumin potatoes for barbecue season",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/recipes/jeera-aloo-recipe-cumin-potatoes-for-barbecue-season",
+      "published_date": "2026-07-22T18:00:05Z",
       "category": "Local Events"
     }
   ]
