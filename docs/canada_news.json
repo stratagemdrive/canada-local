@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T00:02:05Z",
+  "generated_at": "2026-07-23T12:16:31Z",
   "country": "Canada",
   "total_stories": 74,
   "categories": [
@@ -109,13 +109,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Windsor mayor speculates Ambassador Bridge could be sold after Gordie Howe opens",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-mayor-speculates-ambassador-bridge-could-be-sold-after-gordie-howe-opens",
-      "published_date": "2026-07-16T11:05:48Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Toronto man facing terror charge over alleged ties to Hamas; robbery suspect cuffed",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/crime/toronto-man-facing-terror-charge-over-alleged-ties-to-hamas-robbery-suspect-cuffed",
@@ -207,11 +200,18 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Iran says Strait of Hormuz 'unbreakable red line' as attacks show no signs of letup",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-16",
-      "published_date": "2026-07-16T11:25:04Z",
-      "category": "Military"
+      "title": "CHARLEBOIS: The calorie economy is ending",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/charlebois-the-calorie-economy-is-ending",
+      "published_date": "2026-07-23T11:43:24Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Electricity demand breaks record amid heat wave, BC Hydro says",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/electricity-demand-breaks-record-amid-heat-wave-bc-hydro-says/",
+      "published_date": "2026-07-23T00:22:43Z",
+      "category": "Energy"
     },
     {
       "title": "BC Hydro to triple size of its public EV charging network by 2035",
@@ -247,6 +247,13 @@
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-federal-agencies-pass-the-buck-on-where-a-marine-oil-terminal-could-be-built",
       "published_date": "2026-07-16T23:49:23Z",
       "category": "Energy"
+    },
+    {
+      "title": "Windsor Goodfellows receives $10K investment from Caesars to help feed the homeless",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-goodfellows-receives-10k-investment-from-caesars-to-help-feed-the-homeless",
+      "published_date": "2026-07-23T10:46:26Z",
+      "category": "Economy"
     },
     {
       "title": "‘This is just silly’: B.C.’s Eby threatens U.S. access to Canadian minerals over tariffs",
@@ -382,11 +389,60 @@
       "category": "Economy"
     },
     {
-      "title": "EDITORIAL: PM Mark Carney must release Gordie Howe Bridge deal details",
+      "title": "Live Q+A: What will the Gordie Howe bridge mean for Windsor? Ask Mayor Drew Dilkens",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/live-qa-what-will-the-gordie-howe-bridge-mean-for-windsor-ask-mayor-drew-dilkens",
+      "published_date": "2026-07-23T11:58:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Motley Crue bring the girls to Toronto's waterfront with Carnival of Sins Tour",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/mark-carney-must-release-gordie-howe-bridge-deal-details",
-      "published_date": "2026-07-18T19:56:20Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/motley-crue-bring-the-girls-to-torontos-waterfront-with-carnival-of-sins-tour",
+      "published_date": "2026-07-23T11:33:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cable technician sentenced for role in violent Windsor home invasion targeting elderly couple",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/cable-technician-sentenced-for-role-in-violent-windsor-home-invasion-targeting-elderly-couple",
+      "published_date": "2026-07-23T10:39:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Singing, Solidarity and Strength: Sip N’ Sing makes its debut in Deep River",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/singing-solidarity-and-strength-sip-n-sing-makes-its-debut-in-deep-river",
+      "published_date": "2026-07-23T10:29:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto's Woodbine Beach becomes 'beach cemetery' as reminder to protect against melanoma",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/woodbine-beach-becomes-beach-cemetery-reminder-protect-against-melanoma",
+      "published_date": "2026-07-23T04:05:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP Black Hawk helicopters were bid to placate Trump: report",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/rcmp-black-hawk-helicopters-were-bid-to-placate-trump-report/",
+      "published_date": "2026-07-23T00:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Comox man accused of cryptocurrency trading bot fraud",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/former-comox-man-accused-of-cryptocurrency-trading-bot-fraud",
+      "published_date": "2026-07-23T00:31:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Major downtown thoroughfares to be shut for Sunday's Supertri Toronto race",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/major-downtown-thoroughfares-to-be-shut-for-sundays-supertri-toronto-race",
+      "published_date": "2026-07-23T00:06:22Z",
+      "category": "Local Events"
     },
     {
       "title": "63 arrested in Ontario child exploitation bust",
@@ -470,62 +526,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/22/amber-alert-activated-for-4-year-old-boy-reportedly-taken-by-mother-from-west-kelowna/",
       "published_date": "2026-07-22T19:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City unveils new $3.7M west Windsor transit terminal",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/city-unveils-new-3-7m-west-windsor-transit-terminal",
-      "published_date": "2026-07-22T19:11:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Public office must be viewed as a job",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/editorial-public-office-must-be-viewed-as-a-job/",
-      "published_date": "2026-07-22T18:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peel cops still seeking 2 teens for Brampton murder",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/peel-police-2-teens-brampton-murder",
-      "published_date": "2026-07-22T18:18:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From board game to movie to stage, fast-paced Clue finds laughs by playing absurdity straight",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/from-board-game-to-movie-to-stage-fast-paced-clue-finds-laughs-by-playing-absurdity-straight",
-      "published_date": "2026-07-22T18:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver father-daughter duo&#039;s series brings new perspective to disability, family dynamics",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vancouver-father-daughter-duos-series-brings-new-perspective-to-disability-family-dynamics",
-      "published_date": "2026-07-22T18:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver restaurant AnnaLena has evolved alongside chef-owner Mike Robbins",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/vancouver-restaurant-annalena-has-evolved-alongside-chef-owner-mike-robbins",
-      "published_date": "2026-07-22T18:00:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "False Creek Crab Fest shines spotlight on B.C.’s Dungeness fishery at a trying time",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/false-creek-crab-fest-2026-dungeness",
-      "published_date": "2026-07-22T18:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeera aloo recipe: Cumin potatoes for barbecue season",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/recipes/jeera-aloo-recipe-cumin-potatoes-for-barbecue-season",
-      "published_date": "2026-07-22T18:00:05Z",
       "category": "Local Events"
     }
   ]
