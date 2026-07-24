@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T12:16:31Z",
+  "generated_at": "2026-07-24T00:03:41Z",
   "country": "Canada",
-  "total_stories": 74,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -95,20 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The unlikely diplomat: How a B.C. dog became the legislature’s darling",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/16/the-unlikely-diplomat-how-a-b-c-dog-became-the-legislatures-darling/",
-      "published_date": "2026-07-16T18:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Stellantis optimistic on Unifor auto talks as Jeep celebrates 85 years",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/stellantis-optimistic-on-unifor-auto-talks-as-jeep-celebrates-85-years",
-      "published_date": "2026-07-16T15:43:56Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Toronto man facing terror charge over alleged ties to Hamas; robbery suspect cuffed",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/crime/toronto-man-facing-terror-charge-over-alleged-ties-to-hamas-robbery-suspect-cuffed",
@@ -179,25 +165,18 @@
       "category": "Military"
     },
     {
-      "title": "Federal gun drop off held in Terrace",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/16/federal-gun-drop-off-held-in-terrace/",
-      "published_date": "2026-07-16T21:46:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Canadian brand tackles bladder leaks with waste-free underwear collection",
+      "title": "Bulk liquids aren&#039;t permitted at Roberts Bank. How does that impact the plan for a $44-billion oil terminal and pipeline?",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/canadian-brand-sleaks-tackles-bladder-leaks-with-waste-free-underwear-collection",
-      "published_date": "2026-07-16T18:00:52Z",
-      "category": "Military"
+      "url": "https://vancouversun.com/news/bulk-liquids-arent-permitted-at-roberts-bank-how-does-that-impact-the-plan-for-a-44-billion-oil-terminal-and-pipeline",
+      "published_date": "2026-07-23T23:05:58Z",
+      "category": "Energy"
     },
     {
-      "title": "RCAF rescue crews respond to Vancouver Island helicopter crash",
+      "title": "Extreme heat leads to 2nd consecutive day of record electricity usage: BC Hydro",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/16/rcaf-rescue-crews-respond-to-vancouver-island-helicopter-crash/",
-      "published_date": "2026-07-16T17:30:00Z",
-      "category": "Military"
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/extreme-heat-leads-to-2nd-consecutive-day-of-record-electricity-usage-bc-hydro/",
+      "published_date": "2026-07-23T20:36:00Z",
+      "category": "Energy"
     },
     {
       "title": "CHARLEBOIS: The calorie economy is ending",
@@ -242,11 +221,25 @@
       "category": "Energy"
     },
     {
-      "title": "Vaughn Palmer: Federal agencies pass the buck on where a marine oil terminal could be built",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-federal-agencies-pass-the-buck-on-where-a-marine-oil-terminal-could-be-built",
-      "published_date": "2026-07-16T23:49:23Z",
-      "category": "Energy"
+      "title": "Eby talks about carrying big sticks in tariff negotiations, while Carney keeps cards close",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/eby-talks-about-carrying-big-sticks-in-tariff-negotiations-while-carney-keeps-cards-close/",
+      "published_date": "2026-07-23T22:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Windsor gets $3.2 million OLG payment for first quarter",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-gets-3-2-million-olg-payment-for-first-quarter",
+      "published_date": "2026-07-23T19:52:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Rapidly growing neighbourhood in Kingston receives funding for new elementary school",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/07/23/rapidly-growing-neighbourhood-in-kingston-receives-funding-for-new-elementary-school/",
+      "published_date": "2026-07-23T16:31:27Z",
+      "category": "Economy"
     },
     {
       "title": "Windsor Goodfellows receives $10K investment from Caesars to help feed the homeless",
@@ -368,164 +361,143 @@
       "category": "Economy"
     },
     {
-      "title": "Ford fires back at Trump over tariff threat during wildfires crisis",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ford-trump-no-room-trade-wars-wildfire-crisis",
-      "published_date": "2026-07-20T16:29:26Z",
-      "category": "Economy"
-    },
-    {
-      "title": "If you&#039;re searching for your first job, employers and experts have some tips",
+      "title": "AI slop, Californians, and bogus &#039;translators&#039;: Vancouver council went off the rails this week",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/if-youre-searching-for-your-first-job-employers-and-experts-have-some-tips",
-      "published_date": "2026-07-19T15:00:43Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails",
+      "published_date": "2026-07-23T23:58:04Z",
+      "category": "Local Events"
     },
     {
-      "title": "Letter: Protect those who don’t have a voice of their own",
+      "title": "BC Fruit Growers seek support as Vernon water dries up",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/19/letter-protect-those-who-dont-have-a-voice-of-their-own/",
-      "published_date": "2026-07-19T12:30:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/bc-fruit-growers-seek-support-as-vernon-water-dries-up/",
+      "published_date": "2026-07-23T23:54:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Live Q+A: What will the Gordie Howe bridge mean for Windsor? Ask Mayor Drew Dilkens",
+      "title": "Vancouver alliance of arts groups unveils vision for new concert halls, performance venues",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-alliance-of-arts-groups-unveils-vision-for-new-concert-halls-performance-venues",
+      "published_date": "2026-07-23T23:35:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evacuation alert issued for Cedarvale as Coyote Creek fire grows",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/evacuation-alert-issued-for-cedarvale-as-coyote-creek-fire-grows/",
+      "published_date": "2026-07-23T23:19:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vast majority of Gaza study permits denied in Canada, report says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/majority-gaza-study-permits-denied-canada",
+      "published_date": "2026-07-23T23:12:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U of T prof wins 'Nobel Prize of mathematics'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/u-of-t-prof-nobel-prize-of-mathematics",
+      "published_date": "2026-07-23T23:09:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police search for suspect after $20,000 worth of camera gear stolen",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/live-qa-what-will-the-gordie-howe-bridge-mean-for-windsor-ask-mayor-drew-dilkens",
-      "published_date": "2026-07-23T11:58:21Z",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-search-for-suspect-after-20000-worth-of-camera-gear-stolen",
+      "published_date": "2026-07-23T22:50:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Motley Crue bring the girls to Toronto's waterfront with Carnival of Sins Tour",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/motley-crue-bring-the-girls-to-torontos-waterfront-with-carnival-of-sins-tour",
-      "published_date": "2026-07-23T11:33:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cable technician sentenced for role in violent Windsor home invasion targeting elderly couple",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/cable-technician-sentenced-for-role-in-violent-windsor-home-invasion-targeting-elderly-couple",
-      "published_date": "2026-07-23T10:39:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Singing, Solidarity and Strength: Sip N’ Sing makes its debut in Deep River",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/singing-solidarity-and-strength-sip-n-sing-makes-its-debut-in-deep-river",
-      "published_date": "2026-07-23T10:29:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto's Woodbine Beach becomes 'beach cemetery' as reminder to protect against melanoma",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/woodbine-beach-becomes-beach-cemetery-reminder-protect-against-melanoma",
-      "published_date": "2026-07-23T04:05:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP Black Hawk helicopters were bid to placate Trump: report",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/rcmp-black-hawk-helicopters-were-bid-to-placate-trump-report/",
-      "published_date": "2026-07-23T00:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Comox man accused of cryptocurrency trading bot fraud",
+      "title": "Residents near Fraser River tunnel construction push for noise barriers and worry about home values",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/former-comox-man-accused-of-cryptocurrency-trading-bot-fraud",
-      "published_date": "2026-07-23T00:31:53Z",
+      "url": "https://vancouversun.com/news/residents-massey-tunnel-noise-barriers-home-values",
+      "published_date": "2026-07-23T22:35:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Major downtown thoroughfares to be shut for Sunday's Supertri Toronto race",
+      "title": "Mississauga man charged in human-trafficking probe; shots fired at Whitchurch-Stouffville home",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/major-downtown-thoroughfares-to-be-shut-for-sundays-supertri-toronto-race",
-      "published_date": "2026-07-23T00:06:22Z",
+      "url": "https://torontosun.com/news/crime/mississauga-man-charged-human-trafficking-probe",
+      "published_date": "2026-07-23T22:29:22Z",
       "category": "Local Events"
     },
     {
-      "title": "63 arrested in Ontario child exploitation bust",
+      "title": "Drones aiding in investigators' 'relentless' work: Toronto Police data",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/63-arrested-in-ontario-child-exploitation-bust",
-      "published_date": "2026-07-22T23:23:07Z",
+      "url": "https://torontosun.com/news/local-news/toronto-police-drone-annual-report-2025",
+      "published_date": "2026-07-23T22:18:19Z",
       "category": "Local Events"
     },
     {
-      "title": "MANDEL: Appeal court sentences Ontario rapist to prison — but won't send him there",
+      "title": "MANDEL: Kidnapper who tortured 'Crypto King' wants a break",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/appeal-court-sentences-ontario-rapist-to-prison-but-wont-send-him-there",
-      "published_date": "2026-07-22T23:09:46Z",
+      "url": "https://torontosun.com/opinion/columnists/kidnapper-tortured-crypto-king-wants-break",
+      "published_date": "2026-07-23T21:59:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Who will service tomorrow&#039;s vehicles in B.C.?",
+      "title": "RCMP execute search warrant in Burns Lake",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/rcmp-execute-search-warrant-in-burns-lake/",
+      "published_date": "2026-07-23T21:55:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death by organ donation being discussed as new MAID possibility for doctors",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/death-by-organ-donation-maid-possibility",
+      "published_date": "2026-07-23T21:47:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Odyssey star Matt Damon gives major shout-out to Vancouver stunt performer",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-who-will-service-tomorrows-vehicles-in-b-c",
-      "published_date": "2026-07-22T23:00:48Z",
+      "url": "https://vancouversun.com/entertainment/the-odyssey-star-matt-damon-gives-major-shout-out-to-vancouver-stunt-performer",
+      "published_date": "2026-07-23T21:14:40Z",
       "category": "Local Events"
     },
     {
-      "title": "More needed to ensure worker safety during B.C. heat warnings: Critics",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/more-needed-to-ensure-worker-safety-during-bc-heat-warnings-critics",
-      "published_date": "2026-07-22T22:54:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Washington wildfire crosses border into B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/washington-wildfire-crosses-border-into-b-c/",
-      "published_date": "2026-07-22T22:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horse bestiality case heading to Vernon trial in spring 2027",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/horse-bestiality-case-heading-to-vernon-trial-in-spring-2027/",
-      "published_date": "2026-07-22T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Removal begins for Tumbler Ridge Secondary School, site of mass shooting",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/removal-begins-for-tumbler-ridge-secondary-school-site-of-mass-shooting/",
-      "published_date": "2026-07-22T21:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Algonquin and Lakeshore Catholic District School Board candidate hopes to tackle the shortage of educational assistants",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/07/22/algonquin-and-lakeshore-catholic-district-school-board-candidate-hopes-to-tackle-the-shortage-of-educational-assistants/",
-      "published_date": "2026-07-22T21:47:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Provinces finally crack open interprovincial alcohol sales",
+      "title": "More than 12,000 people sleeping on the street, federal report says",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/provinces-finally-crack-open-interprovincial-alcohol-sales",
-      "published_date": "2026-07-22T21:07:24Z",
+      "url": "https://torontosun.com/news/national/federal-report-homeless-count-2025-survey",
+      "published_date": "2026-07-23T21:10:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Gordie Howe bridge: Tories blast Carney for caving to Trump on $6.4B deal",
+      "title": "Glass Tiger, Bif Naked and Bran Van 3000 added to CNE Bandshell 2026 lineup",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/gordie-howe-bridge-tories-blast-carney-for-caving-to-trump-on-6-4b-deal",
-      "published_date": "2026-07-22T20:41:28Z",
+      "url": "https://torontosun.com/news/local-news/glass-tiger-bif-naked-bran-van-3000-added-cne-bandshell-2026-lineup",
+      "published_date": "2026-07-23T21:09:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Canucks coming back to Penticton for training camp: ‘Makes perfect sense,’ Sedin says",
+      "title": "It’s National Vanilla Ice Cream Day",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/canucks-coming-back-to-penticton-for-training-camp-makes-perfect-sense-sedin-says/",
-      "published_date": "2026-07-22T20:01:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/its-national-vanilla-ice-cream-day/",
+      "published_date": "2026-07-23T21:06:07Z",
       "category": "Local Events"
     },
     {
-      "title": "UPDATE: Missing 4-year-old B.C. boy found safe, amber alert cancelled",
+      "title": "Toxic blue-green algae confirmed in Takysie Lake",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/amber-alert-activated-for-4-year-old-boy-reportedly-taken-by-mother-from-west-kelowna/",
-      "published_date": "2026-07-22T19:24:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/toxic-blue-green-algae-confirmed-in-takysie-lake/",
+      "published_date": "2026-07-23T20:58:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire smoke postpones all outdoor BC Summer Games events in Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/wildfire-smoke-postpones-all-outdoor-bc-summer-games-events-in-kelowna/",
+      "published_date": "2026-07-23T20:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clinton business steps up to feed fire fighters",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/clinton-business-steps-up-to-feed-fire-fighters/",
+      "published_date": "2026-07-23T20:00:00Z",
       "category": "Local Events"
     }
   ]
