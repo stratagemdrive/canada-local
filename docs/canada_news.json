@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T00:03:41Z",
+  "generated_at": "2026-07-24T12:09:33Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Carney opens door to amending clean electricity regulations at Charlottetown summit",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/mark-carney-amending-clean-electricity-regulations",
+      "published_date": "2026-07-23T15:18:46Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Canada’s premiers split on Trump tariffs as Team Canada cracks ahead of Carney meeting",
       "source": "Toronto Sun",
@@ -81,20 +88,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Simpcw, B.C. come to assessment process agreement on Yellowhead Copper project",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/16/simpcw-b-c-come-to-assessment-process-agreement-on-yellowhead-copper-project/",
-      "published_date": "2026-07-17T00:24:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dollarama recalls garlic powder sold in stores across Canada",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/dollarama-recalls-garlic-powder-sold-stores-canada",
-      "published_date": "2026-07-17T00:17:46Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Toronto man facing terror charge over alleged ties to Hamas; robbery suspect cuffed",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/crime/toronto-man-facing-terror-charge-over-alleged-ties-to-hamas-robbery-suspect-cuffed",
@@ -148,20 +141,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/17/b-c-premier-eby-wants-canada-to-adopt-rico-type-laws-to-combat-organized-crime/",
       "published_date": "2026-07-17T23:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: U.S. kills 8 in sixth consecutive attack on Iran",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-17",
-      "published_date": "2026-07-17T11:31:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Smoke gets in Tim McGraw's eyes but he soldiers on at outdoor Toronto show",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/smoke-gets-tim-mcgraws-eyes-outdoor-toronto-show",
-      "published_date": "2026-07-17T10:52:18Z",
       "category": "Military"
     },
     {
@@ -219,6 +198,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/07/17/are-renewables-welcome-rdbn-officials-grapple-with-wind-power-boom/",
       "published_date": "2026-07-17T18:06:15Z",
       "category": "Energy"
+    },
+    {
+      "title": "Americans will pay the price for new tariffs on Canada: Dilkens",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/americans-will-pay-the-price-for-new-tariffs-on-canada-dilkens",
+      "published_date": "2026-07-24T10:50:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Crime rate decreases for 2nd year in a row in Canada",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/crime-rate-decreases-for-2nd-year-in-a-row-in-canada/",
+      "published_date": "2026-07-24T00:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "Eby talks about carrying big sticks in tariff negotiations, while Carney keeps cards close",
@@ -347,18 +340,74 @@
       "category": "Economy"
     },
     {
-      "title": "Arrest made in fatal 2023 shooting of Pickering casino security guard",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/arrest-made-fatal-shooting-pickering-casino",
-      "published_date": "2026-07-20T22:26:31Z",
-      "category": "Economy"
+      "title": "What's On Windsor: Rodeo thrills, wrestling, free golf, local theatre and more",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-rodeo-thrills-wrestling-free-golf-local-theatre-and-more",
+      "published_date": "2026-07-24T10:56:24Z",
+      "category": "Local Events"
     },
     {
-      "title": "Donald Trump signs executive order authorizing new 50% tariff on Canada",
+      "title": "LIVE UPDATES: Canada celebrates the Gordie Howe bridge opening",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/live-updates-canada-celebrates-the-gordie-howe-bridge-opening",
+      "published_date": "2026-07-24T10:47:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada stages solo Gordie Howe bridge ceremony ahead of official opening",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/canada-stages-solo-gordie-howe-bridge-ceremony-ahead-of-official-opening",
+      "published_date": "2026-07-24T10:44:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke Heritage Murals celebrates restoration of 'The Timber Raft'",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-heritage-murals-celebrates-restoration-of-the-timber-raft",
+      "published_date": "2026-07-24T10:30:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Killer of Surrey businessman Ripudaman Singh Malik also guilty in death of Abbotsford man",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/killer-of-surrey-businessman-ripudaman-singh-malik-also-guilty-in-death-of-abbotsford-man",
+      "published_date": "2026-07-24T03:00:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Car driven by Niagara Falls murder suspects found in Montreal area",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/donald-trump-authorizes-new-canada-tariffs",
-      "published_date": "2026-07-20T21:43:15Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/provincial/niagara-falls-murder-suspects-spotted-montreal",
+      "published_date": "2026-07-24T02:27:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hwy. 1 through Fraser Canyon, Hwy. 3 east of Hope remain closed due to fires",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/hwy-1-through-fraser-canyon-hwy-3-east-of-hope-remain-closed-due-to-fires/",
+      "published_date": "2026-07-24T02:12:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drivers wanting to get to B.C.&#039;s southern interior face difficulties with major routes closed",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/drivers-wanting-to-get-to-bc-southern-interior-face-difficulties-with-major-routes-closed",
+      "published_date": "2026-07-24T01:17:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wanted homeless man accused of TTC station assaults; 2 accused of distraction thefts",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/homeless-man-wanted-rosedale-station-assaults",
+      "published_date": "2026-07-24T00:27:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Athletes ride Ellison Lake on day 1 of the Kelowna 2026 BC Summer Games",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/athletes-ride-ellison-lake-on-day-1-of-the-kelowna-2026-bc-summer-games/",
+      "published_date": "2026-07-24T00:08:00Z",
+      "category": "Local Events"
     },
     {
       "title": "AI slop, Californians, and bogus &#039;translators&#039;: Vancouver council went off the rails this week",
@@ -424,80 +473,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Drones aiding in investigators' 'relentless' work: Toronto Police data",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-drone-annual-report-2025",
-      "published_date": "2026-07-23T22:18:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Kidnapper who tortured 'Crypto King' wants a break",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/kidnapper-tortured-crypto-king-wants-break",
-      "published_date": "2026-07-23T21:59:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP execute search warrant in Burns Lake",
+      "title": "PHOTOS: BC Summer Games kicks off in Kelowna",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/rcmp-execute-search-warrant-in-burns-lake/",
-      "published_date": "2026-07-23T21:55:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death by organ donation being discussed as new MAID possibility for doctors",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/death-by-organ-donation-maid-possibility",
-      "published_date": "2026-07-23T21:47:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Odyssey star Matt Damon gives major shout-out to Vancouver stunt performer",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/the-odyssey-star-matt-damon-gives-major-shout-out-to-vancouver-stunt-performer",
-      "published_date": "2026-07-23T21:14:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 12,000 people sleeping on the street, federal report says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/federal-report-homeless-count-2025-survey",
-      "published_date": "2026-07-23T21:10:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Glass Tiger, Bif Naked and Bran Van 3000 added to CNE Bandshell 2026 lineup",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/glass-tiger-bif-naked-bran-van-3000-added-cne-bandshell-2026-lineup",
-      "published_date": "2026-07-23T21:09:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It’s National Vanilla Ice Cream Day",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/its-national-vanilla-ice-cream-day/",
-      "published_date": "2026-07-23T21:06:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toxic blue-green algae confirmed in Takysie Lake",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/toxic-blue-green-algae-confirmed-in-takysie-lake/",
-      "published_date": "2026-07-23T20:58:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire smoke postpones all outdoor BC Summer Games events in Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/wildfire-smoke-postpones-all-outdoor-bc-summer-games-events-in-kelowna/",
-      "published_date": "2026-07-23T20:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clinton business steps up to feed fire fighters",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/clinton-business-steps-up-to-feed-fire-fighters/",
-      "published_date": "2026-07-23T20:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/photos-bc-summer-games-kicks-off-in-kelowna/",
+      "published_date": "2026-07-23T22:28:00Z",
       "category": "Local Events"
     }
   ]
