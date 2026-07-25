@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T12:09:33Z",
+  "generated_at": "2026-07-25T00:07:05Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "How a mother-daughter duo is building an empire, one scrunchie at a time",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/how-a-mother-daughter-duo-is-building-an-empire-one-scrunchie-at-a-time",
+      "published_date": "2026-07-24T18:00:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump spills on World Series bet with Carney during Dodgers’ White House visit: 'WASN'T LOOKING SO GOOD'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trump-world-series-bet-carney-dodgers-white-house-visit",
+      "published_date": "2026-07-24T17:35:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Conversations That Matter: Is the ban on American alcohol doing any good?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/conversations-that-matter-is-the-ban-on-american-alcohol-working",
+      "published_date": "2026-07-24T14:00:37Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Carney opens door to amending clean electricity regulations at Charlottetown summit",
       "source": "Toronto Sun",
@@ -81,11 +102,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "David Eby: B.C. finally getting fair share through new prosperity partnership",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-finally-getting-fair-share-through-new-prosperity-partnership",
-      "published_date": "2026-07-17T20:00:37Z",
-      "category": "Diplomacy"
+      "title": "Ontario golf resort employee dies following propane explosion",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/ontario-golf-resort-employee-dies-propane-explosion",
+      "published_date": "2026-07-24T23:04:50Z",
+      "category": "Military"
     },
     {
       "title": "Toronto man facing terror charge over alleged ties to Hamas; robbery suspect cuffed",
@@ -137,11 +158,11 @@
       "category": "Military"
     },
     {
-      "title": "B.C. Premier Eby wants Canada to adopt RICO-type laws to combat organized crime",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/b-c-premier-eby-wants-canada-to-adopt-rico-type-laws-to-combat-organized-crime/",
-      "published_date": "2026-07-17T23:00:00Z",
-      "category": "Military"
+      "title": "Province bypasses Utilities Commission on key certificate for Tilbury LNG project",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/province-bypasses-utilities-commission-on-key-certificate-for-tilbury-lng-project",
+      "published_date": "2026-07-24T23:22:56Z",
+      "category": "Energy"
     },
     {
       "title": "Bulk liquids aren&#039;t permitted at Roberts Bank. How does that impact the plan for a $44-billion oil terminal and pipeline?",
@@ -193,11 +214,11 @@
       "category": "Energy"
     },
     {
-      "title": "Are renewables welcome? RDBN officials grapple with wind power boom",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/17/are-renewables-welcome-rdbn-officials-grapple-with-wind-power-boom/",
-      "published_date": "2026-07-17T18:06:15Z",
-      "category": "Energy"
+      "title": "B.C. nurses end strike, prepare for binding arbitration on wages",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-nurses-end-strike-after-accepting-mediators-recommendations",
+      "published_date": "2026-07-24T20:40:58Z",
+      "category": "Economy"
     },
     {
       "title": "Americans will pay the price for new tariffs on Canada: Dilkens",
@@ -333,150 +354,143 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: Drought is here. Why aren’t we acting like it?",
+      "title": "Man arrested, charged with 2nd-degree murder following West Kootenay homicide: Creston RCMP",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/24/man-arrested-charged-with-2nd-degree-murder-following-west-kootenay-homicide-creston-rcmp/",
+      "published_date": "2026-07-25T00:05:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver mayor asks premier for urgent action on foreign influence at City Hall",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-drought-is-here-why-arent-we-acting-like-it",
-      "published_date": "2026-07-20T23:00:28Z",
-      "category": "Economy"
-    },
-    {
-      "title": "What's On Windsor: Rodeo thrills, wrestling, free golf, local theatre and more",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-rodeo-thrills-wrestling-free-golf-local-theatre-and-more",
-      "published_date": "2026-07-24T10:56:24Z",
+      "url": "https://vancouversun.com/opinion/columnists/vancouver-mayor-asks-premier-for-urgent-action-on-foreign-influence-at-city-hall",
+      "published_date": "2026-07-24T23:47:38Z",
       "category": "Local Events"
     },
     {
-      "title": "LIVE UPDATES: Canada celebrates the Gordie Howe bridge opening",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/live-updates-canada-celebrates-the-gordie-howe-bridge-opening",
-      "published_date": "2026-07-24T10:47:34Z",
+      "title": "Biidaasige Park opens 10 new acres of waterfront public space",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/biidaasige-park-opens-10-new-acres-waterfront-public-space",
+      "published_date": "2026-07-24T23:31:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Canada stages solo Gordie Howe bridge ceremony ahead of official opening",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/canada-stages-solo-gordie-howe-bridge-ceremony-ahead-of-official-opening",
-      "published_date": "2026-07-24T10:44:07Z",
+      "title": "B.C. allowing Tilbury gas terminal expansion to circumvent Utilities Commission",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/24/b-c-allowing-tilbury-gas-terminal-expansion-to-circumvent-utilities-commission/",
+      "published_date": "2026-07-24T23:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Pembroke Heritage Murals celebrates restoration of 'The Timber Raft'",
+      "title": "This Day In History, 1934-2026: Ralph Bower took some of the most popular photos in Vancouver Sun history",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1934-2026-ralph-bower-took-some-of-the-most-popular-photos-in-vancouver-sun-history",
+      "published_date": "2026-07-24T23:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: What universities owe an unsettled world",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-what-universities-owe-an-unsettled-world",
+      "published_date": "2026-07-24T23:00:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Will fourth time be the charm for parole-seeking cop killer Clinton Gayle?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/parole-seeking-cop-killer-clinton-gayle",
+      "published_date": "2026-07-24T22:21:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Second person sought in kidnapping of Richmond Hill man; Mississauga murder suspect nabbed",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/second-person-sought-kidnapping-richmond-hill-man-mississauga-murder-suspect-nabbed",
+      "published_date": "2026-07-24T21:12:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Nurses’ Union to end strike, accept mediators’ recommendations",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/24/b-c-nurses-union-to-end-strike-accept-mediators-recommendations/",
+      "published_date": "2026-07-24T20:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 Vancouver Canucks prospects named to Hockey Canada’s World Junior showcase",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/24/2-vancouver-canucks-prospects-named-to-hockey-canadas-world-junior-showcase/",
+      "published_date": "2026-07-24T20:08:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Village of Clinton evacuated due to fast-growing Pear Lake fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/24/village-of-clinton-evacuated-due-to-fast-growing-pear-lake-fire/",
+      "published_date": "2026-07-24T19:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judge hopes for 'hot' prison cell for Florida dad who left son to die in car",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/judge-hot-prison-cell-florida-dad-left-son-die-in-car",
+      "published_date": "2026-07-24T18:57:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HUNTER: Accused GTA killer swept up in $139M organized crime blitz",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/accused-gta-killer-organized-crime-blitz",
+      "published_date": "2026-07-24T18:36:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. parents call out province funding cut for 2SLGBTQ+ anti-bullying program",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/24/b-c-parents-call-out-province-funding-cut-for-2slgbtq-anti-bullying-program/",
+      "published_date": "2026-07-24T18:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laurentian Valley seeks Algonquin Trail motorcyle ban, Petawawa says no",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-heritage-murals-celebrates-restoration-of-the-timber-raft",
-      "published_date": "2026-07-24T10:30:26Z",
+      "url": "https://www.pembrokeobserver.com/news/laurentian-valley-seeks-algonquin-trail-motorcyle-ban-petawawa-says-no",
+      "published_date": "2026-07-24T18:04:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Killer of Surrey businessman Ripudaman Singh Malik also guilty in death of Abbotsford man",
+      "title": "Library of Brothel brings readers into a surreal wonderfully analog world of colourful characters",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/killer-of-surrey-businessman-ripudaman-singh-malik-also-guilty-in-death-of-abbotsford-man",
-      "published_date": "2026-07-24T03:00:30Z",
+      "url": "https://vancouversun.com/entertainment/library-of-brothel-brings-readers-into-a-surreal-wonderfully-analog-world-of-colourful-characters",
+      "published_date": "2026-07-24T18:00:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Car driven by Niagara Falls murder suspects found in Montreal area",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/niagara-falls-murder-suspects-spotted-montreal",
-      "published_date": "2026-07-24T02:27:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hwy. 1 through Fraser Canyon, Hwy. 3 east of Hope remain closed due to fires",
+      "title": "Shuswap farmers call for better water management as fish protection order looms",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/hwy-1-through-fraser-canyon-hwy-3-east-of-hope-remain-closed-due-to-fires/",
-      "published_date": "2026-07-24T02:12:34Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/24/concerns-for-shuswap-farmers-rise-as-water-levels-drop/",
+      "published_date": "2026-07-24T17:14:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Drivers wanting to get to B.C.&#039;s southern interior face difficulties with major routes closed",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/drivers-wanting-to-get-to-bc-southern-interior-face-difficulties-with-major-routes-closed",
-      "published_date": "2026-07-24T01:17:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wanted homeless man accused of TTC station assaults; 2 accused of distraction thefts",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/homeless-man-wanted-rosedale-station-assaults",
-      "published_date": "2026-07-24T00:27:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Athletes ride Ellison Lake on day 1 of the Kelowna 2026 BC Summer Games",
+      "title": "Burns Lake Community Forest meets Anna Bergen’s $200k challenge",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/athletes-ride-ellison-lake-on-day-1-of-the-kelowna-2026-bc-summer-games/",
-      "published_date": "2026-07-24T00:08:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/24/burns-lake-community-forest-meets-anna-bergens-200k-challenge/",
+      "published_date": "2026-07-24T16:56:42Z",
       "category": "Local Events"
     },
     {
-      "title": "AI slop, Californians, and bogus &#039;translators&#039;: Vancouver council went off the rails this week",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails",
-      "published_date": "2026-07-23T23:58:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BC Fruit Growers seek support as Vernon water dries up",
+      "title": "More evacuation orders issued for Pear Lake fire near Clinton",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/bc-fruit-growers-seek-support-as-vernon-water-dries-up/",
-      "published_date": "2026-07-23T23:54:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/24/more-evacuation-orders-issued-for-pear-lake-fire-near-clinton/",
+      "published_date": "2026-07-24T16:49:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver alliance of arts groups unveils vision for new concert halls, performance venues",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vancouver-alliance-of-arts-groups-unveils-vision-for-new-concert-halls-performance-venues",
-      "published_date": "2026-07-23T23:35:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuation alert issued for Cedarvale as Coyote Creek fire grows",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/evacuation-alert-issued-for-cedarvale-as-coyote-creek-fire-grows/",
-      "published_date": "2026-07-23T23:19:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vast majority of Gaza study permits denied in Canada, report says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/majority-gaza-study-permits-denied-canada",
-      "published_date": "2026-07-23T23:12:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U of T prof wins 'Nobel Prize of mathematics'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/u-of-t-prof-nobel-prize-of-mathematics",
-      "published_date": "2026-07-23T23:09:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police search for suspect after $20,000 worth of camera gear stolen",
+      "title": "'Defining moment' — Canada cuts ribbon on Gordie Howe bridge",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-search-for-suspect-after-20000-worth-of-camera-gear-stolen",
-      "published_date": "2026-07-23T22:50:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents near Fraser River tunnel construction push for noise barriers and worry about home values",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/residents-massey-tunnel-noise-barriers-home-values",
-      "published_date": "2026-07-23T22:35:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga man charged in human-trafficking probe; shots fired at Whitchurch-Stouffville home",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/mississauga-man-charged-human-trafficking-probe",
-      "published_date": "2026-07-23T22:29:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHOTOS: BC Summer Games kicks off in Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/photos-bc-summer-games-kicks-off-in-kelowna/",
-      "published_date": "2026-07-23T22:28:00Z",
+      "url": "https://windsorstar.com/news/local-news/defining-moment-canada-cuts-ribbon-on-gordie-howe-bridge",
+      "published_date": "2026-07-24T16:25:22Z",
       "category": "Local Events"
     }
   ]
