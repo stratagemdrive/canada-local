@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T00:01:52Z",
+  "generated_at": "2026-07-26T11:51:55Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 73,
   "categories": [
     "Diplomacy",
     "Military",
@@ -163,6 +163,13 @@
       "url": "https://torontosun.com/news/world/iran-war-gulf-states-report-more-attacks-after-u-s-troops-killed-in-jordan",
       "published_date": "2026-07-19T16:44:17Z",
       "category": "Military"
+    },
+    {
+      "title": "Essex banks $21.9M from E.L.K. Energy sale, creates $15M legacy reserve",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/essex-banks-21-9m-from-e-l-k-energy-sale-creates-15m-legacy-reserve",
+      "published_date": "2026-07-26T10:32:57Z",
+      "category": "Energy"
     },
     {
       "title": "Are your lights flickering? B.C. Hydro says ash from wildfires affecting power",
@@ -375,6 +382,34 @@
       "category": "Economy"
     },
     {
+      "title": "QUIZ: A time for summer’s heat",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/26/quiz-a-time-for-summers-heat/",
+      "published_date": "2026-07-26T11:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;We just got a random vehicle in the middle of the runway:&#039; Motorhome crashes through fence at Abbotsford airport",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/we-just-got-a-random-vehicle-in-the-middle-of-the-runway-motorhome-crashes-through-fence-at-abbotsford-airport",
+      "published_date": "2026-07-26T03:29:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelly, Polk combine for 2 TDs as Argos dump B.C. Lions 26-12",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/25/kelly-polk-combine-for-2-tds-as-argos-dump-b-c-lions-26-12/",
+      "published_date": "2026-07-26T02:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Island-Central Coast hold tight medal lead in Kelowna BC Summer Games",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/25/vancouver-island-central-coast-hold-tight-medal-lead-in-kelowna-bc-summer-games/",
+      "published_date": "2026-07-26T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "HANSON: Left-wing unicorn hunt for white male working-class voter",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/left-wing-unicorn-hunt-white-male-working-class-voter",
@@ -484,34 +519,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/scarborough-man-arrested-brampton-killing-attempted-murder-charge-assaults",
       "published_date": "2026-07-25T16:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke mayoral race leads Renfrew County election contests",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-mayoral-race-leads-renfrew-county-election-contests",
-      "published_date": "2026-07-25T15:58:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: OPP investigating fatal accident in Lakeshore early Saturday",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-investigating-fatal-accident-in-lakeshore-early-saturday",
-      "published_date": "2026-07-25T15:47:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Minter: The standout plants at Cultivate Expo you&#039;ll want to add to your garden",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/brian-minter-the-standout-plants-at-cultivate-expo-youll-want-to-add-to-your-garden",
-      "published_date": "2026-07-25T15:00:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Little reprieve expected in hot, dry weather as B.C.&#039;s wildfire season heats up",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/little-reprieve-expected-in-hot-dry-weather-as-b-c-s-wildfire-season-heats-up",
-      "published_date": "2026-07-25T15:00:36Z",
       "category": "Local Events"
     }
   ]
