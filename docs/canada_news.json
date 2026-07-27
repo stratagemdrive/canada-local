@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T00:02:20Z",
+  "generated_at": "2026-07-27T13:30:33Z",
   "country": "Canada",
-  "total_stories": 74,
+  "total_stories": 78,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Mining industry cool to Eby&#039;s idea to use critical minerals as leverage in Trump tariff dispute",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/mining-industry-cool-to-ebys-idea-to-use-critical-minerals-as-leverage-in-trump-tariff-dispute",
+      "published_date": "2026-07-27T13:00:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Toronto Police investigating shots fired outside U.S. Consulate",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-shots-fired-u-s-consulate",
+      "published_date": "2026-07-27T12:19:19Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "PM Mark Carney announces dates for three byelections, one in B.C.",
       "source": "Vancouver Sun",
@@ -114,6 +128,20 @@
       "url": "https://windsorstar.com/news/local-news/cbsa-reviewing-policies-after-judge-tosses-13-2m-cocaine-smuggling-case",
       "published_date": "2026-07-21T10:33:18Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive: A B.C. woman&#039;s extreme battle to help her disabled brother",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/exclusive-a-vancouver-womans-extreme-measures-to-rescue-her-disabled-brother",
+      "published_date": "2026-07-27T13:00:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR: Iran says U.S. will 'pay the price' for the war it created",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-27",
+      "published_date": "2026-07-27T11:19:39Z",
+      "category": "Military"
     },
     {
       "title": "UPDATE: Felker Fire, south of Williams Lake, grows to 3,940 hectares",
@@ -389,6 +417,76 @@
       "category": "Economy"
     },
     {
+      "title": "Entering Lawrence Books feels like taking a time capsule to the 1980s",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/entering-lawrence-books-feels-like-taking-a-time-capsule-to-the-1980s",
+      "published_date": "2026-07-27T13:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents in Vancouver&#039;s wealthiest neighbourhoods most opposed to ‘villages’ plan: Analysis",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/residents-vancouver-wealthiest-neighbourhoods-most-opposed-to-villages-plan-analysis",
+      "published_date": "2026-07-27T13:00:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHARLEBOIS: Canada’s internal-trade charade",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canadas-internal-trade-charade",
+      "published_date": "2026-07-27T11:41:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor Mayor Drew Dilkens reflects on politics, promise of Gordie Howe bridge",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-mayor-drew-dilkens-reflects-on-politics-promise-of-gordie-howe-bridge",
+      "published_date": "2026-07-27T11:41:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke 50+ Centre fills summer with golf, fireworks & fun",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-50-centre-fills-summer-with-golf-fireworks-fun",
+      "published_date": "2026-07-27T11:14:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke announces temporary road closures for water infrastructure work",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-announces-temporary-road-closures-for-water-infrastructure-work",
+      "published_date": "2026-07-27T11:13:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke Grade 6 student earns breakfast program provincial honour",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-grade-6-student-earns-breakfast-program-provincial-honour",
+      "published_date": "2026-07-27T10:49:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsorites gather for Gordie Howe bridge ribbon cutting — but from afar",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsorites-gather-for-gordie-howe-bridge-ribbon-cutting-but-from-afar",
+      "published_date": "2026-07-27T10:31:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coquitlam Search and Rescue volunteer found dead on Squamish trail",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/coquitlam-search-and-rescue-volunteer-found-dead-on-squamish-trail",
+      "published_date": "2026-07-27T03:17:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man wanted after shots fired in Scarborough; boy hurt in scooter crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-wanted-shots-fired-scarborough",
+      "published_date": "2026-07-27T02:41:06Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Another scuba diver dies off Whytecliff Park in West Vancouver",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/another-scuba-diver-dies-off-whytecliff-park-in-west-vancouver",
@@ -456,76 +554,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/26/massive-wildfires-near-clinton-merge-to-create-own-weather-system/",
       "published_date": "2026-07-26T19:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch now: Hudson Williams and Carrie-Anne Moss star in sexy and spooky new Yaga teaser trailer",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/hudson-williams-carrie-anne-moss-new-yaga-teaser-trailer",
-      "published_date": "2026-07-26T17:00:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Duo sought for distraction theft; suspect wanted in west-end stabbing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-sought-in-west-end-stabbing",
-      "published_date": "2026-07-26T16:04:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "101 free things to do in Vancouver? New book outlines activities that won&#039;t cost you a penny",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/101-free-things-to-do-in-vancouver-new-book-outlines-activities-that-wont-cost-you-penny",
-      "published_date": "2026-07-26T16:00:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor Olivia Chow condemns latest 'vile' targeting of Jewish-owned businesses",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/jewish-owned-bakeries-targeted-cops",
-      "published_date": "2026-07-26T15:35:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BCWS says ‘Good operational work being made’ on Coyote Creek Fire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/26/bcws-says-good-operational-work-being-made-on-coyote-creek-fire/",
-      "published_date": "2026-07-26T15:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "16-year-old faces firearms, trafficking charges after 'targeted shooting'",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/16-year-old-faces-firearms-trafficking-charges-after-targeted-shooting",
-      "published_date": "2026-07-26T15:17:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian Olympian Kristen Campbell joins MS fight with mom on mind",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-olympian-kristen-campbell-joins-ms-fight",
-      "published_date": "2026-07-26T15:05:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver tenants push back as revised Fairview redevelopment plan cuts affordable housing, child care centre",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-tenants-push-back-as-revised-fairview-redevelopment-plan-cuts-affordable-housing-child-care-centre",
-      "published_date": "2026-07-26T15:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taking a closer look at Gordie Howe bridge namesake",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/taking-closer-look-at-gordie-howe-bridge-namesake",
-      "published_date": "2026-07-26T14:39:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mark Carney calls 3 August byelections, including 1 in Ontario",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/mark-carney-calls-three-byelections",
-      "published_date": "2026-07-26T14:08:32Z",
       "category": "Local Events"
     }
   ]
