@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T11:51:55Z",
+  "generated_at": "2026-07-27T00:02:20Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "PM Mark Carney announces dates for three byelections, one in B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/pm-mark-carney-announces-dates-three-byelections-one-bc",
+      "published_date": "2026-07-26T17:51:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Opinion: Premier Eby can still turn the interprovincial alcohol agreement into a win for B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-premier-eby-can-still-turn-the-interprovincial-alcohol-agreement-into-a-win-for-b-c",
+      "published_date": "2026-07-26T14:00:09Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Titan Tool lockout of Unifor workers ends with severance agreement",
       "source": "Windsor Star",
@@ -155,13 +169,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/world-cup-policing-record-deployment-fans-great-vpd",
       "published_date": "2026-07-20T18:55:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Gulf states report more attacks after U.S. troops killed in Jordan",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-gulf-states-report-more-attacks-after-u-s-troops-killed-in-jordan",
-      "published_date": "2026-07-19T16:44:17Z",
       "category": "Military"
     },
     {
@@ -382,143 +389,143 @@
       "category": "Economy"
     },
     {
-      "title": "QUIZ: A time for summer’s heat",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/26/quiz-a-time-for-summers-heat/",
-      "published_date": "2026-07-26T11:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;We just got a random vehicle in the middle of the runway:&#039; Motorhome crashes through fence at Abbotsford airport",
+      "title": "Another scuba diver dies off Whytecliff Park in West Vancouver",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/we-just-got-a-random-vehicle-in-the-middle-of-the-runway-motorhome-crashes-through-fence-at-abbotsford-airport",
-      "published_date": "2026-07-26T03:29:43Z",
+      "url": "https://vancouversun.com/news/another-scuba-diver-dies-off-whytecliff-park-in-west-vancouver",
+      "published_date": "2026-07-26T23:56:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Kelly, Polk combine for 2 TDs as Argos dump B.C. Lions 26-12",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/25/kelly-polk-combine-for-2-tds-as-argos-dump-b-c-lions-26-12/",
-      "published_date": "2026-07-26T02:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Island-Central Coast hold tight medal lead in Kelowna BC Summer Games",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/25/vancouver-island-central-coast-hold-tight-medal-lead-in-kelowna-bc-summer-games/",
-      "published_date": "2026-07-26T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HANSON: Left-wing unicorn hunt for white male working-class voter",
+      "title": "2 hospitalized in OPP cruiser-involved crash on QEW in Hamilton",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/left-wing-unicorn-hunt-white-male-working-class-voter",
-      "published_date": "2026-07-25T23:06:23Z",
+      "url": "https://torontosun.com/news/local-news/2-hospitalized-opp-cruiser-hamilton-crash",
+      "published_date": "2026-07-26T23:32:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Fire complex near Boston Bar grows to combined 35,197 hectares",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/25/fire-complex-near-boston-bar-grows-to-combined-35197-hectares/",
-      "published_date": "2026-07-25T22:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Heart and soul’: Volunteers bringing Kelowna BC Summer Games to life",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/25/heart-and-soul-volunteers-bringing-kelowna-bc-summer-games-to-life/",
-      "published_date": "2026-07-25T21:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bystander injured trying to break up fight at Sasamat Lake",
+      "title": "Traffic Alert: Two major road closures starting in Vancouver on Monday",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bystander-injured-fight-sasamat-lake-port-moody",
-      "published_date": "2026-07-25T21:28:34Z",
+      "url": "https://vancouversun.com/news/traffic-alert-two-major-road-closures-starting-vancouver-monday-west-broadway-northwest-marine-drive",
+      "published_date": "2026-07-26T23:16:28Z",
       "category": "Local Events"
     },
     {
-      "title": "CHAUDHRI: If you think AI helped terminate you, read this",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/think-ai-helped-terminate-you-read-this",
-      "published_date": "2026-07-25T21:25:04Z",
+      "title": "Low pressure prompts boil-water advisory in Kingsville",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/low-pressure-prompts-boil-water-advisory-in-kingsville",
+      "published_date": "2026-07-26T22:59:59Z",
       "category": "Local Events"
     },
     {
-      "title": "One person injured in Surrey shooting",
+      "title": "Vancouver park board plans tree canopy expansion on city&#039;s east side",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/one-person-injured-in-surrey-shooting",
-      "published_date": "2026-07-25T19:51:41Z",
+      "url": "https://vancouversun.com/news/vancouver-park-board-tree-canopy-expansion",
+      "published_date": "2026-07-26T22:20:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Mayors should serve on police board or say why they won't: Bradford",
+      "title": "Another Yellowstone bison goes viral after popping SUV's tire",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mayor-seat-toronto-police-board-bradford",
-      "published_date": "2026-07-25T19:44:11Z",
+      "url": "https://torontosun.com/news/weird/another-yellowstone-bison-viral-tire-popping",
+      "published_date": "2026-07-26T22:11:04Z",
       "category": "Local Events"
     },
     {
-      "title": "As Olivia Chow’s term as mayor ends, will city land change hands?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/chow-term-mandate-mayor-land-deal",
-      "published_date": "2026-07-25T19:22:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Are you ready’: Clearwater mayor advises on wildfire preparedness as Cariboo blazes force evacuations",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/25/are-you-ready-clearwater-mayor-advises-on-wildfire-preparedness-as-cariboo-blazes-force-evacuations/",
-      "published_date": "2026-07-25T19:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Mark Carney's Liberals back away from Billy Bishop Airport expansion, putting politics ahead of growth",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-liberals-back-away-billy-bishop-airport-expansion",
-      "published_date": "2026-07-25T18:54:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Citizen Watch Canada celebrates 50 years of light-powered timepieces",
+      "title": "Sketch released of suspect in attempted child abduction in Abbotsford",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/citizen-watch-canada-celebrates-50-years-of-light-powered-timepieces",
-      "published_date": "2026-07-25T18:00:21Z",
+      "url": "https://vancouversun.com/news/sketch-released-suspect-attempted-child-abduction-abbotsford",
+      "published_date": "2026-07-26T20:41:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Clinton ‘preserved from major loss’ as Pear Lake fire grows overnight",
+      "title": "How to keep your pets safe in Ontario this summer",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/how-to-keep-your-pets-safe-in-ontario-this-summer",
+      "published_date": "2026-07-26T20:36:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadpool crashes Avengers: Doomsday panel at Comic-Con",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/deadpool-crashes-avengers-doomsday-panel-at-comic-con",
+      "published_date": "2026-07-26T20:09:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Massive wildfires near Clinton merge to create own weather system",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/25/clinton-preserved-from-major-loss-as-pear-lake-fire-grows-overnight/",
-      "published_date": "2026-07-25T17:56:40Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/26/massive-wildfires-near-clinton-merge-to-create-own-weather-system/",
+      "published_date": "2026-07-26T19:08:00Z",
       "category": "Local Events"
     },
     {
-      "title": "KINSELLA: Mark Carney not candid about deal to open Gordie Howe bridge",
+      "title": "Watch now: Hudson Williams and Carrie-Anne Moss star in sexy and spooky new Yaga teaser trailer",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/hudson-williams-carrie-anne-moss-new-yaga-teaser-trailer",
+      "published_date": "2026-07-26T17:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Duo sought for distraction theft; suspect wanted in west-end stabbing",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-not-candid-gordie-howe-bridge-details",
-      "published_date": "2026-07-25T17:40:56Z",
+      "url": "https://torontosun.com/news/local-news/suspect-sought-in-west-end-stabbing",
+      "published_date": "2026-07-26T16:04:01Z",
       "category": "Local Events"
     },
     {
-      "title": "CRIME HUNTER: Was Ohio sex slave driven to murder her master?",
+      "title": "101 free things to do in Vancouver? New book outlines activities that won&#039;t cost you a penny",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/books/101-free-things-to-do-in-vancouver-new-book-outlines-activities-that-wont-cost-you-penny",
+      "published_date": "2026-07-26T16:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor Olivia Chow condemns latest 'vile' targeting of Jewish-owned businesses",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-ohio-sex-slave-murder-master",
-      "published_date": "2026-07-25T16:33:28Z",
+      "url": "https://torontosun.com/news/local-news/jewish-owned-bakeries-targeted-cops",
+      "published_date": "2026-07-26T15:35:56Z",
       "category": "Local Events"
     },
     {
-      "title": "West Nile Virus detected in Renfrew County mosquitoes",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/west-nile-virus-detected-in-renfrew-county-mosquitoes",
-      "published_date": "2026-07-25T16:08:52Z",
+      "title": "BCWS says ‘Good operational work being made’ on Coyote Creek Fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/26/bcws-says-good-operational-work-being-made-on-coyote-creek-fire/",
+      "published_date": "2026-07-26T15:24:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Scarborough man, 24, arrested for Brampton killing; attempted murder charge for alleged assaults",
+      "title": "16-year-old faces firearms, trafficking charges after 'targeted shooting'",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/16-year-old-faces-firearms-trafficking-charges-after-targeted-shooting",
+      "published_date": "2026-07-26T15:17:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian Olympian Kristen Campbell joins MS fight with mom on mind",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/scarborough-man-arrested-brampton-killing-attempted-murder-charge-assaults",
-      "published_date": "2026-07-25T16:00:41Z",
+      "url": "https://torontosun.com/news/national/canadian-olympian-kristen-campbell-joins-ms-fight",
+      "published_date": "2026-07-26T15:05:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver tenants push back as revised Fairview redevelopment plan cuts affordable housing, child care centre",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-tenants-push-back-as-revised-fairview-redevelopment-plan-cuts-affordable-housing-child-care-centre",
+      "published_date": "2026-07-26T15:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taking a closer look at Gordie Howe bridge namesake",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/taking-closer-look-at-gordie-howe-bridge-namesake",
+      "published_date": "2026-07-26T14:39:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mark Carney calls 3 August byelections, including 1 in Ontario",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/mark-carney-calls-three-byelections",
+      "published_date": "2026-07-26T14:08:32Z",
       "category": "Local Events"
     }
   ]
