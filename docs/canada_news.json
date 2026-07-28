@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T00:04:15Z",
+  "generated_at": "2026-07-28T12:27:43Z",
   "country": "Canada",
-  "total_stories": 78,
+  "total_stories": 77,
   "categories": [
     "Diplomacy",
     "Military",
@@ -151,6 +151,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "IRAN WAR: Iran publicly hangs two anti-government protesters",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-28",
+      "published_date": "2026-07-28T11:10:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "2 firefighters injured after semi-truck explosion on B.C. bridge",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/2-firefighters-injured-after-semi-truck-explosion-on-b-c-bridge/",
+      "published_date": "2026-07-28T02:45:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Exclusive: A B.C. woman&#039;s extreme battle to help her disabled brother",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/exclusive-a-vancouver-womans-extreme-measures-to-rescue-her-disabled-brother",
@@ -197,13 +211,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/opinion/columnists/gwynne-dyer-what-can-the-justice-system-do-to-combat-tyranny-in-us-india",
       "published_date": "2026-07-22T11:02:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: U.S. launches more strikes after Trump warns Tehran 'will pay' for soldiers' deaths",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-u-s-launches-more-strikes-after-trump-warns-tehran-will-pay-for-soldiers-deaths",
-      "published_date": "2026-07-21T00:07:14Z",
       "category": "Military"
     },
     {
@@ -403,18 +410,53 @@
       "category": "Economy"
     },
     {
-      "title": "CHARLEBOIS: Donald Trump’s new tariffs put Canada’s food economy on menu",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/trump-tariffs-endanger-canadian-food-economy",
-      "published_date": "2026-07-21T10:00:42Z",
-      "category": "Economy"
+      "title": "What causes most roadside fires? Not what you think",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/what-causes-most-roadside-fires-not-what-you-think/",
+      "published_date": "2026-07-28T12:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Letter: Councillors are full-time jobs",
+      "title": "After 23 years on Windsor council, Gignac not seeking re-election",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/letter-councillors-are-full-time-jobs",
-      "published_date": "2026-07-21T03:42:06Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/after-23-years-on-windsor-council-gignac-not-seeking-re-election",
+      "published_date": "2026-07-28T11:18:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PemBARK adds SuperDogs, joins forces with Ottawa Valley Buskerfest",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembark-adds-superdogs-joins-forces-with-ottawa-valley-buskerfest",
+      "published_date": "2026-07-28T11:15:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "First impressions: a quiet, smooth drive across the Gordie Howe bridge on opening day",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/first-impressions-a-quiet-smooth-drive-across-the-gordie-howe-bridge-on-opening-day",
+      "published_date": "2026-07-28T10:52:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCCDSB approves balanced $95.3M budget for 2026-27 school year",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/rccdsb-approves-balanced-95-3m-budget-for-2026-27-school-year",
+      "published_date": "2026-07-28T10:50:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Gun-toting criminal’ who fired shot in air outside Windsor after-hours club gets 5 years",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/gun-toting-criminal-who-fired-shot-in-air-outside-windsor-after-hours-club-gets-5-years",
+      "published_date": "2026-07-28T10:37:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Savannah Guthrie video suggests developments in missing mom case: Analysts",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/latest-guthrie-video-may-contain-clues",
+      "published_date": "2026-07-27T23:58:44Z",
+      "category": "Local Events"
     },
     {
       "title": "Vaughn Palmer: It was binding arbitration or a contract imposed by legislation, B.C. nurses told",
@@ -505,55 +547,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/influencer-heard-screaming-and-crying-on-911-call-before-pedophile-husband-killed-her",
       "published_date": "2026-07-27T19:25:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carney Liberals cling to nine-point lead as byelections loom",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/carney-liberals-cling-to-nine-point-lead-as-byelections-loom",
-      "published_date": "2026-07-27T19:08:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. begins 6-week engagement on ALR changes for food processing",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/b-c-begins-6-week-engagement-on-alr-changes-for-food-processing/",
-      "published_date": "2026-07-27T18:53:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$1.68M committed to address Indigenous youth violence, gang involvement in Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/1-68m-committed-to-address-indigenous-youth-violence-gang-involvement-in-kelowna/",
-      "published_date": "2026-07-27T18:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sisley Paris, Fendi open first standalone boutiques in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/sisley-paris-fendi-open-first-standalone-boutiques-in-vancouver",
-      "published_date": "2026-07-27T18:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three women, one pregnant, injured in Paris knife attack",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/three-women-one-pregnant-injured-paris-knife-attack",
-      "published_date": "2026-07-27T17:45:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP arrest man following neighbourhood dispute in Leamington",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-arrest-man-following-neighbourhood-dispute-in-leamington",
-      "published_date": "2026-07-27T17:27:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "97-year-old dead after being struck by charter bus in Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/97-year-old-dead-after-struck-by-charter-bus-in-kelowna/",
-      "published_date": "2026-07-27T17:24:00Z",
       "category": "Local Events"
     }
   ]
