@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T12:27:43Z",
+  "generated_at": "2026-07-28T23:59:49Z",
   "country": "Canada",
   "total_stories": 77,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "North York business, site of 2023 anti-Jewish protest, hit by gunfire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/north-york-business-site-of-anti-jewish-protest-previously-hit-gunfire-early-tuesday",
+      "published_date": "2026-07-28T19:19:46Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Gun crime in Toronto may be down, but shooters getting bolder",
       "source": "Toronto Sun",
@@ -137,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Column: Who is going to bail out our struggling hospitals?",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/column-who-is-going-to-bail-out-our-struggling-hospitals",
-      "published_date": "2026-07-21T17:19:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "With Ford deal ratified, Unifor eyes investment commitments from GM, Stellantis",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/with-ford-deal-ratified-unifor-eyes-investment-commitments-from-gm-stellantis",
-      "published_date": "2026-07-21T14:13:08Z",
-      "category": "Diplomacy"
+      "title": "Arizona man accused of murdering girlfriend after Monopoly game",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/arizona-man-accused-murder-girlfriend-monopoly",
+      "published_date": "2026-07-28T22:19:42Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Iran publicly hangs two anti-government protesters",
@@ -214,6 +214,20 @@
       "category": "Military"
     },
     {
+      "title": "Property Watch: The most intriguing (but less interesting) feature of a Dunbar duplex",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/net-zero-dunbar-duplex",
+      "published_date": "2026-07-28T20:49:02Z",
+      "category": "Energy"
+    },
+    {
+      "title": "PetroChina reportedly mulling sale of LNG Canada stake to fund Phase 2 of Kitimat plant",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/energy/petrochina-mulling-sale-lng-canada-stake-fund-phase-2-kitimat",
+      "published_date": "2026-07-28T19:03:40Z",
+      "category": "Energy"
+    },
+    {
       "title": "Essex banks $21.9M from E.L.K. Energy sale, creates $15M legacy reserve",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/essex-banks-21-9m-from-e-l-k-energy-sale-creates-15m-legacy-reserve",
@@ -277,11 +291,25 @@
       "category": "Energy"
     },
     {
-      "title": "BC Hydro to triple size of its public EV charging network by 2035",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/21/bc-hydro-to-triple-size-of-its-public-ev-charging-network-by-2035/",
-      "published_date": "2026-07-21T19:05:00Z",
-      "category": "Energy"
+      "title": "Letters to The Vancouver Sun: Condo purchase program a distraction with little impact on affordability",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-condo-purchase-program-a-distraction-with-little-impact-on-affordability",
+      "published_date": "2026-07-28T23:00:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Real estate: Vancouver council rejects controversial &#039;villages&#039; plan, citing public backlash",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vancouver-council-villages-plan-shot-down-opposition",
+      "published_date": "2026-07-28T20:12:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Average Canadian family paying $21K for 'free' system, new report says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/average-canadian-family-paying-21k-for-free-system-new-report-says",
+      "published_date": "2026-07-28T19:47:32Z",
+      "category": "Economy"
     },
     {
       "title": "Western Canada&#039;s tallest skyscraper approved for downtown Vancouver",
@@ -382,171 +410,143 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: Donald Trump’s tariff ultimatum leaves Mark Carney out of time",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-out-of-time-tariffs",
-      "published_date": "2026-07-21T21:39:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Vast majority of Canadians want lifetime perks for ex-governors general to end: Poll",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadians-demand-governor-general-expenses-axed",
-      "published_date": "2026-07-21T20:58:40Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Carney, Trump agree to 'intensify' discussions after latest trade salvo",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/carney-trump-agree-to-intensify-discussions-after-latest-trade-salvo",
-      "published_date": "2026-07-21T19:02:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ford says Ontario won't lift U.S. booze ban, continues calling Trump a 'bully'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ford-says-ontario-wont-lift-u-s-booze-ban-continues-calling-trump-a-bully",
-      "published_date": "2026-07-21T18:42:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "What causes most roadside fires? Not what you think",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/what-causes-most-roadside-fires-not-what-you-think/",
-      "published_date": "2026-07-28T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After 23 years on Windsor council, Gignac not seeking re-election",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/after-23-years-on-windsor-council-gignac-not-seeking-re-election",
-      "published_date": "2026-07-28T11:18:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PemBARK adds SuperDogs, joins forces with Ottawa Valley Buskerfest",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembark-adds-superdogs-joins-forces-with-ottawa-valley-buskerfest",
-      "published_date": "2026-07-28T11:15:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First impressions: a quiet, smooth drive across the Gordie Howe bridge on opening day",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/first-impressions-a-quiet-smooth-drive-across-the-gordie-howe-bridge-on-opening-day",
-      "published_date": "2026-07-28T10:52:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCCDSB approves balanced $95.3M budget for 2026-27 school year",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/rccdsb-approves-balanced-95-3m-budget-for-2026-27-school-year",
-      "published_date": "2026-07-28T10:50:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Gun-toting criminal’ who fired shot in air outside Windsor after-hours club gets 5 years",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/gun-toting-criminal-who-fired-shot-in-air-outside-windsor-after-hours-club-gets-5-years",
-      "published_date": "2026-07-28T10:37:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Savannah Guthrie video suggests developments in missing mom case: Analysts",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/latest-guthrie-video-may-contain-clues",
-      "published_date": "2026-07-27T23:58:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: It was binding arbitration or a contract imposed by legislation, B.C. nurses told",
+      "title": "Interfor moves corporate functions from Burnaby to U.S., union calls it &#039;kick to the gut&#039;",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-binding-arbitration-or-contract-imposed-by-legislation-bc-nurses-told",
-      "published_date": "2026-07-27T23:56:26Z",
+      "url": "https://vancouversun.com/business/interfor-moves-corporate-functions-from-burnaby-bc-to-us-union-calls-it-kick-to-the-gut",
+      "published_date": "2026-07-28T23:54:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Date set for sentencing in Lumby woman’s murder",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/date-set-for-sentencing-in-lumby-womans-murder/",
-      "published_date": "2026-07-27T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran targets Melania Trump, son Barron in sick 'how to' assassination video",
+      "title": "LOGO A NO GO: City’s $140Gs baseball grant in rundown over branding",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-video-targets-melania-barron-trump",
-      "published_date": "2026-07-27T22:03:41Z",
+      "url": "https://torontosun.com/news/local-news/perks-high-park-baseball-jays-grant",
+      "published_date": "2026-07-28T23:30:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Etobicoke rideshare driver accused of sexual assaults; car drives through busy Ajax park",
+      "title": "LILLEY: Diaries seem to show Anthony Fauci more interested in fame than facts",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/etobicoke-man-charged-halton-sexual-assaults",
-      "published_date": "2026-07-27T21:45:10Z",
+      "url": "https://torontosun.com/opinion/columnists/fauci-diaries-show-obsession-with-fame",
+      "published_date": "2026-07-28T23:19:36Z",
       "category": "Local Events"
     },
     {
-      "title": "One teen found, one other still missing",
+      "title": "Parents of U.K. woman allegedly slain by sadist speak out",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/parents-british-woman-allegedly-slain-by-sadist-speak-out",
+      "published_date": "2026-07-28T23:09:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brampton teen wanted on nationwide warrant for attempted murder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/brampton-teen-wanted-attempted-murder-warrant",
+      "published_date": "2026-07-28T22:49:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Disturbing trend&#039;: Vancouver police warn of distraction thefts targeting seniors",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/disturbing-trend-vancouver-police-warn-of-distraction-thefts-targeting-seniors",
+      "published_date": "2026-07-28T22:02:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mother of infant found dead in New Westminster gets over four years in prison",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/mother-of-infant-found-dead-new-westminster-over-four-years-prison",
+      "published_date": "2026-07-28T21:47:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conservation Officers issue nearly $22K in fines for illegal campfires in B.C.",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/missing-teen-could-be-in-terrace-area/",
-      "published_date": "2026-07-27T21:08:21Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/conservation-officers-issue-nearly-22k-in-fines-for-illegal-campfires-in-b-c/",
+      "published_date": "2026-07-28T21:38:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Missing man last seen in Kelowna may be walking to Anahim Lake",
+      "title": "U-Haul slams into Hamilton residence, cop cars; wanted man surrenders in firearms probe",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/charges-after-uhaul-hits-hamilton-residence",
+      "published_date": "2026-07-28T21:24:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: Try it Mike’s way, first Jersey Mike’s opens in B.C.",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/missing-man-last-seen-in-kelowna-may-be-walking-to-anahim-lake/",
-      "published_date": "2026-07-27T21:08:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/video-try-it-mikes-way-first-jersey-mikes-opens-in-b-c/",
+      "published_date": "2026-07-28T20:08:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Drivers arrested following two separate collisions",
+      "title": "LaSalle family's Ford Model T takes ride across Gordie Howe bridge",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/drivers-arrested-following-two-separate-collisions",
-      "published_date": "2026-07-27T20:29:25Z",
+      "url": "https://windsorstar.com/news/local-news/lasalle-familys-ford-model-t-takes-ride-across-gordie-howe-bridge",
+      "published_date": "2026-07-28T19:51:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Getting the most out of every room in your home",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/getting-the-most-out-of-every-room-in-your-home",
-      "published_date": "2026-07-27T20:26:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Metro Vancouver movie theatres are basking in The Odyssey&#039;s box office glow. Here&#039;s why",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/two-metro-vancouver-movie-theatres-are-basking-in-the-odysseys-box-office-glow-heres-why",
-      "published_date": "2026-07-27T20:25:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crews coming from Yukon, Alberta, Mexico to help with B.C.’s wildfires",
+      "title": "Man with B.C.-wide warrant arrested after search at Kelowna senior housing complex",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/crews-coming-from-yukon-alberta-mexico-to-help-with-b-c-s-wildfires/",
-      "published_date": "2026-07-27T19:55:47Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/man-with-b-c-wide-warrant-arrested-after-search-at-kelowna-senior-housing-complex/",
+      "published_date": "2026-07-28T19:43:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Durham police deputy chief retires after using the N-word at meeting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/durham-police-deputy-chief-retires-after-using-the-n-word-at-meeting",
-      "published_date": "2026-07-27T19:55:00Z",
+      "title": "Breka Bakery &#038; Cafe cooks up 30-storey hotel development near Marine Drive and Cambie",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/breka-bakery-hotel-development-marine-drive-cambie",
+      "published_date": "2026-07-28T19:42:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Human caused wildfire burning  near BC Wildlife Park in Kamloops",
+      "title": "Ontario victims believed to have also been human trafficked in B.C., Alberta",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/human-caused-wildfire-burning-near-bc-wildlife-park-in-kamloops/",
-      "published_date": "2026-07-27T19:27:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/ontario-victims-believed-to-have-also-been-human-trafficked-in-b-c-alberta/",
+      "published_date": "2026-07-28T19:41:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Influencer heard ‘screaming and crying’ on 911 call before pedophile husband killed her",
+      "title": "Remember Esprit? The &#039;90s fashion favourite returns to Canada",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/esprit-90s-fashion-returns-canada",
+      "published_date": "2026-07-28T19:08:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Topley fire department beefs up fire response with bush truck",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/topley-fire-department-beefs-up-fire-response-with-bush-truck/",
+      "published_date": "2026-07-28T18:54:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conservative MLAs in dark about Kerry-Lynne Findlay&#039;s strategy, months after first caucus meeting",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-conservative-dark-kerry-lynne-findlay-strategy",
+      "published_date": "2026-07-28T18:23:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Halton cops lay 85 charges in human trafficking bust",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/influencer-heard-screaming-and-crying-on-911-call-before-pedophile-husband-killed-her",
-      "published_date": "2026-07-27T19:25:47Z",
+      "url": "https://torontosun.com/news/local-news/halton-police-lay-85-charges-human-trafficking-bust",
+      "published_date": "2026-07-28T17:14:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor council gives women's shelter $60K boost",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-council-gives-womens-shelter-60k-boost",
+      "published_date": "2026-07-28T17:09:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan rocked by 7.1 earthquake: Mall collapses, dozens feared trapped",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/7-1-magnitude-earthquake-southern-japan",
+      "published_date": "2026-07-28T15:53:54Z",
       "category": "Local Events"
     }
   ]
