@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T23:59:49Z",
+  "generated_at": "2026-07-29T12:52:37Z",
   "country": "Canada",
-  "total_stories": 77,
+  "total_stories": 75,
   "categories": [
     "Diplomacy",
     "Military",
@@ -137,11 +137,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Two Windsor-Essex hospitals to share CEO under new administrative partnership",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/two-windsor-essex-hospitals-to-share-ceo-under-new-administrative-partnership",
-      "published_date": "2026-07-22T12:45:57Z",
-      "category": "Diplomacy"
+      "title": "IRAN WAR: 20 killed after U.S.-Saudi attack on Iraq",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-29",
+      "published_date": "2026-07-29T11:05:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "Boyhood discovery leads to recognition of War of 1812 burial ground",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/boyhood-discovery-leads-to-recognition-of-war-of-1812-burial-ground",
+      "published_date": "2026-07-29T10:36:15Z",
+      "category": "Military"
     },
     {
       "title": "Arizona man accused of murdering girlfriend after Monopoly game",
@@ -204,13 +211,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/crime/toronto-man-facing-terror-charge-over-alleged-ties-to-hamas-robbery-suspect-cuffed",
       "published_date": "2026-07-22T22:04:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "GWYNNE DYER: What can the justice system do to combat tyranny in US, India?",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/gwynne-dyer-what-can-the-justice-system-do-to-combat-tyranny-in-us-india",
-      "published_date": "2026-07-22T11:02:46Z",
       "category": "Military"
     },
     {
@@ -396,18 +396,102 @@
       "category": "Economy"
     },
     {
-      "title": "Canadian officials no longer attending Gordie Howe bridge opening ceremony",
+      "title": "Mississauga trucker charged after getting wedged in ‘hairpin turn’ in Caledon",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-officials-gordie-howe-bridge-ceremony",
-      "published_date": "2026-07-22T00:29:06Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/mississauga-trucker-charged-hairpin-turn-caledon",
+      "published_date": "2026-07-29T12:48:12Z",
+      "category": "Local Events"
     },
     {
-      "title": "From wine to notebooks, B.C. businesses tally the cost of a 50 per cent U.S. tariff",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/wine-notebooks-bc-businesses-tally-cost-50-per-cent-us-tariff",
-      "published_date": "2026-07-22T00:05:08Z",
-      "category": "Economy"
+      "title": "Ontario gives Windsor hospitals $11M boost for operations, wait time cuts",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/ontario-gives-windsor-hospitals-11m-boost-for-operations-wait-time-cuts",
+      "published_date": "2026-07-29T12:15:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Chris Alexander enters Toronto mayor’s race, but faces a steep climb",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/chris-alexander-enters-toronto-mayors-race",
+      "published_date": "2026-07-29T11:56:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor student-led group delivers meals to homeless",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-student-led-group-delivers-meals-to-homeless",
+      "published_date": "2026-07-29T11:08:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Petawawa council approves noise bylaw exemption for paving project",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/petawawa-council-approves-noise-bylaw-exemption-for-paving-project",
+      "published_date": "2026-07-29T11:06:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LaSalle police search for scooter rider spotted on camera near house fire",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/lasalle-police-look-to-identify-scooter-rider",
+      "published_date": "2026-07-29T10:50:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Architect behind Gordie Howe bridge on designing landmark crossing",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/architect-behind-gordie-howe-bridge-on-designing-landmark-crossing",
+      "published_date": "2026-07-29T10:40:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lakes District area under high and extreme fire danger rating",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/29/lakes-district-area-under-high-and-extreme-fire-danger-rating/",
+      "published_date": "2026-07-29T08:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we know about Facebook accounts tied to alleged foreign interference in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/what-we-know-about-facebook-accounts-tied-to-alleged-foreign-interference-in-b-c/",
+      "published_date": "2026-07-29T03:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RAITT: A vote for a spoiler candidate is a vote for Olivia Chow",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/spoiler-candidate-will-only-help-olivia-chow",
+      "published_date": "2026-07-29T02:08:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto senior on the lam for assault; cops seeking driver accused of fleeing crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-senior-sought-for-aggravated-assault",
+      "published_date": "2026-07-29T00:39:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Water restrictions implemented in Salmon River to protect fish",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/water-restrictions-implemented-in-salmon-river-to-protect-fish/",
+      "published_date": "2026-07-29T00:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Findlay says ‘no directive’ to B.C. Conservatives on First Nations terminology",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/findlay-says-no-directive-to-b-c-conservatives-on-first-nations-terminology/",
+      "published_date": "2026-07-29T00:02:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Kelowna care aide jailed for assault",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/former-kelowna-care-aid-jailed-for-assault/",
+      "published_date": "2026-07-28T23:55:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Interfor moves corporate functions from Burnaby to U.S., union calls it &#039;kick to the gut&#039;",
@@ -449,104 +533,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/disturbing-trend-vancouver-police-warn-of-distraction-thefts-targeting-seniors",
       "published_date": "2026-07-28T22:02:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother of infant found dead in New Westminster gets over four years in prison",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/mother-of-infant-found-dead-new-westminster-over-four-years-prison",
-      "published_date": "2026-07-28T21:47:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conservation Officers issue nearly $22K in fines for illegal campfires in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/conservation-officers-issue-nearly-22k-in-fines-for-illegal-campfires-in-b-c/",
-      "published_date": "2026-07-28T21:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U-Haul slams into Hamilton residence, cop cars; wanted man surrenders in firearms probe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/charges-after-uhaul-hits-hamilton-residence",
-      "published_date": "2026-07-28T21:24:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Try it Mike’s way, first Jersey Mike’s opens in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/video-try-it-mikes-way-first-jersey-mikes-opens-in-b-c/",
-      "published_date": "2026-07-28T20:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LaSalle family's Ford Model T takes ride across Gordie Howe bridge",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/lasalle-familys-ford-model-t-takes-ride-across-gordie-howe-bridge",
-      "published_date": "2026-07-28T19:51:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man with B.C.-wide warrant arrested after search at Kelowna senior housing complex",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/man-with-b-c-wide-warrant-arrested-after-search-at-kelowna-senior-housing-complex/",
-      "published_date": "2026-07-28T19:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Breka Bakery &#038; Cafe cooks up 30-storey hotel development near Marine Drive and Cambie",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/breka-bakery-hotel-development-marine-drive-cambie",
-      "published_date": "2026-07-28T19:42:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario victims believed to have also been human trafficked in B.C., Alberta",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/ontario-victims-believed-to-have-also-been-human-trafficked-in-b-c-alberta/",
-      "published_date": "2026-07-28T19:41:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remember Esprit? The &#039;90s fashion favourite returns to Canada",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/esprit-90s-fashion-returns-canada",
-      "published_date": "2026-07-28T19:08:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Topley fire department beefs up fire response with bush truck",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/28/topley-fire-department-beefs-up-fire-response-with-bush-truck/",
-      "published_date": "2026-07-28T18:54:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conservative MLAs in dark about Kerry-Lynne Findlay&#039;s strategy, months after first caucus meeting",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservative-dark-kerry-lynne-findlay-strategy",
-      "published_date": "2026-07-28T18:23:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Halton cops lay 85 charges in human trafficking bust",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/halton-police-lay-85-charges-human-trafficking-bust",
-      "published_date": "2026-07-28T17:14:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor council gives women's shelter $60K boost",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-council-gives-womens-shelter-60k-boost",
-      "published_date": "2026-07-28T17:09:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan rocked by 7.1 earthquake: Mall collapses, dozens feared trapped",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/7-1-magnitude-earthquake-southern-japan",
-      "published_date": "2026-07-28T15:53:54Z",
       "category": "Local Events"
     }
   ]
