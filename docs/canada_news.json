@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T00:02:39Z",
+  "generated_at": "2026-07-30T12:20:05Z",
   "country": "Canada",
-  "total_stories": 77,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -135,6 +135,20 @@
       "url": "https://torontosun.com/news/national/mark-carney-amending-clean-electricity-regulations",
       "published_date": "2026-07-23T15:18:46Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Deep River veteran joins coast-to-coast 'Rolling Barrage' ride",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/deep-river-veteran-joins-coast-to-coast-rolling-barrage-ride",
+      "published_date": "2026-07-30T11:19:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRAN WAR: Pakistan says U.S.-Iran talks ongoing as attacks continue",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-30",
+      "published_date": "2026-07-30T11:09:45Z",
+      "category": "Military"
     },
     {
       "title": "MANDEL: Divorced porn stars bring defamation lawsuit to Ontario Court of Appeal",
@@ -305,20 +319,6 @@
       "category": "Energy"
     },
     {
-      "title": "CHARLEBOIS: The calorie economy is ending",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/charlebois-the-calorie-economy-is-ending",
-      "published_date": "2026-07-23T11:43:24Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Electricity demand breaks record amid heat wave, BC Hydro says",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/22/electricity-demand-breaks-record-amid-heat-wave-bc-hydro-says/",
-      "published_date": "2026-07-23T00:22:43Z",
-      "category": "Energy"
-    },
-    {
       "title": "CNE Job Fair has 720 jobs up for grabs; hopes to target unemployed youth",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/cne-job-fair-720-jobs-target-unemployed-youth",
@@ -403,11 +403,53 @@
       "category": "Economy"
     },
     {
-      "title": "Windsor Goodfellows receives $10K investment from Caesars to help feed the homeless",
+      "title": "JARVIS: Queen’s Park has an entitlement problem",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/queens-park-has-entitlement-problem",
+      "published_date": "2026-07-30T12:10:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor killer who fired at victim 15 times sentenced to 9 years for manslaughter",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-goodfellows-receives-10k-investment-from-caesars-to-help-feed-the-homeless",
-      "published_date": "2026-07-23T10:46:26Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/windsor-killer-who-fired-at-victim-15-times-sentenced-to-9-years-for-manslaughter",
+      "published_date": "2026-07-30T11:20:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dead crow in Windsor tests positive for West Nile virus",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/dead-crow-in-windsor-tests-positive-for-west-nile-virus",
+      "published_date": "2026-07-30T11:06:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Angelo Isidorou out as executive director of B.C. Conservatives",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/29/angelo-isidorou-out-as-executive-director-of-b-c-conservatives/",
+      "published_date": "2026-07-30T04:50:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Search underway for Ontario woman missing from Shambhala Music Festival in Salmo",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/search-underway-for-ontario-woman-missing-from-shambhala-music-festival-salmo-bc",
+      "published_date": "2026-07-30T02:18:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City hall’s Indigenous parks naming saga continues for 9th year",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/lower-don-indigenous-naming-saga-continues",
+      "published_date": "2026-07-30T02:11:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto officer cleared by police watchdog after man's fatal fall in March",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-officer-cleared-after-fatal-fall",
+      "published_date": "2026-07-30T00:38:26Z",
+      "category": "Local Events"
     },
     {
       "title": "&#039;This will ruin our lives&#039;: Vancouver OKs hotel to replace Mount Pleasant apartments",
@@ -452,6 +494,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Study shows clear-cut logging affects flood risk in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/29/study-shows-clear-cut-logging-affects-flood-risk-in-b-c/",
+      "published_date": "2026-07-29T22:34:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Texas cop receives merit award for 'selfless' burning-car rescue",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/texas-cop-receives-merit-award-rescue",
@@ -491,62 +540,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/29/prospective-owner-chosen-to-pursue-vancouver-mlb-expansion-franchise-report/",
       "published_date": "2026-07-29T21:10:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Independent criminal probe clears Durham cops accused of mistreating lawyer",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/investigation-clears-durham-cops-lawyer-mistreatment",
-      "published_date": "2026-07-29T20:43:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aging-in-place: Taking steps to future proof your home",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/aging-in-place-taking-steps-to-future-proof-your-home",
-      "published_date": "2026-07-29T20:42:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuation Alert rescinded for the area of Cedarvale wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/29/evacuation-alert-rescinded-for-the-area-of-cedarvale-wildfire/",
-      "published_date": "2026-07-29T20:18:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SFU Pipe Band plays first free concert in three years this Sunday",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/sfu-pipe-band-plays-first-free-concert-in-three-years-this-sunday",
-      "published_date": "2026-07-29T20:09:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: While employers search for talent, Canada overlooks half-a-million workers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-while-employers-search-for-talent-canada-overlooks-half-a-million-workers",
-      "published_date": "2026-07-29T20:00:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dog stolen during armed robbery, two suspects charged",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/two-people-charged-following-armed-robbery-of-pet-dog",
-      "published_date": "2026-07-29T19:02:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake man charged for alleged indecent act at Agate Point",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/29/burns-lake-man-charged-for-alleged-indecent-act-at-agate-point/",
-      "published_date": "2026-07-29T18:46:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada must act to save caribou from local extinction: Syilx Okanagan Nation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/29/canada-must-act-to-save-caribou-from-local-extinction-syilx-okanagan-nation/",
-      "published_date": "2026-07-29T18:37:00Z",
       "category": "Local Events"
     }
   ]
