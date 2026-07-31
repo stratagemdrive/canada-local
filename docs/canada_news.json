@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T00:04:44Z",
+  "generated_at": "2026-07-31T12:49:09Z",
   "country": "Canada",
-  "total_stories": 78,
+  "total_stories": 77,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "IRAN WAR: Trump says disarmament agreement reached with Hamas",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-july-31",
+      "published_date": "2026-07-31T11:21:44Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "B.C. Olympic wrestler suspended for multiple whereabouts failures",
       "source": "Burns Lake District News",
@@ -144,11 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Conversations That Matter: Is the ban on American alcohol doing any good?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/conversations-that-matter-is-the-ban-on-american-alcohol-working",
-      "published_date": "2026-07-24T14:00:37Z",
-      "category": "Diplomacy"
+      "title": "New book honours Pikwakanagan First World War veteran",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/new-book-honours-pikwakanagan-first-world-war-veteran",
+      "published_date": "2026-07-31T11:33:06Z",
+      "category": "Military"
     },
     {
       "title": "Deep River veteran joins coast-to-coast 'Rolling Barrage' ride",
@@ -403,18 +410,46 @@
       "category": "Economy"
     },
     {
-      "title": "Americans will pay the price for new tariffs on Canada: Dilkens",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/americans-will-pay-the-price-for-new-tariffs-on-canada-dilkens",
-      "published_date": "2026-07-24T10:50:36Z",
-      "category": "Economy"
+      "title": "Kids, Cops fishing derby returns to Pembroke waterfront Aug. 8",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/kids-cops-fishing-derby-returns-to-pembroke-waterfront-aug-8",
+      "published_date": "2026-07-31T11:08:43Z",
+      "category": "Local Events"
     },
     {
-      "title": "Crime rate decreases for 2nd year in a row in Canada",
+      "title": "What's On Windsor: Pride, Hogs for Hospice, night market and more",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-pride-hogs-for-hospice-night-market-and-more",
+      "published_date": "2026-07-31T10:52:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lou Gramm joins Foreigner for song at Toronto show as co-headliners with Lynyrd Skynyrd",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/lou-gramm-foreigner-toronto-show-lynyrd-skynyrd",
+      "published_date": "2026-07-31T10:41:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rotary Club of Windsor-Roseland dedicates Jackson Park trail to first female president",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/rotary-club-of-windsor-roseland-dedicates-jackson-park-trail-to-first-female-president",
+      "published_date": "2026-07-31T10:35:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor-Essex election roundup: Dilkens hints at re-election bid, more candidates announce nominations",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-essex-election-roundup-dilkens-hints-at-re-election-bid-more-candidates-announce-nominations",
+      "published_date": "2026-07-31T10:25:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Lions use ground and pound attack to dump Winnipeg Blue Bombers 35-19",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/23/crime-rate-decreases-for-2nd-year-in-a-row-in-canada/",
-      "published_date": "2026-07-24T00:30:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/30/b-c-lions-use-ground-and-pound-attack-to-dump-blue-bombers-35-19/",
+      "published_date": "2026-07-31T03:35:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Sheriff suggests persons of interest in Guthrie kidnapping case not cleared",
@@ -512,48 +547,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/30/seven-out-of-control-fires-burn-in-cariboo-on-thursday/",
       "published_date": "2026-07-30T18:29:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA World Cup’s financial 'failure' deserves an audit: Toronto City Councillor",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-city-council-fifa-world-cup-cost-failure-audit",
-      "published_date": "2026-07-30T18:29:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man pulled from Okanagan Lake dies, sixth drowning in 40 days",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/30/man-pulled-from-okanagan-lake-dies-sixth-drowning-in-40-days/",
-      "published_date": "2026-07-30T18:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chanel continues the Coco Mademoiselle fragrance story with Crush Absolu",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/chanel-perfumer-introduces-coco-mademoiselle-crush-absolu",
-      "published_date": "2026-07-30T18:00:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Everything you need to know about the &#039;grey blending&#039; hair colour trend",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/everything-you-need-to-know-about-the-grey-blending-hair-colour-trend",
-      "published_date": "2026-07-30T18:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here are the 5 must-see art events in Vancouver area this month",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/here-are-the-5-must-see-art-events-in-vancouver-area-this-month",
-      "published_date": "2026-07-30T18:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BCWS, Logan Lake crews battled wildfire overnight, remains 88 hectares",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/30/bcws-logan-lake-crews-battled-wildfire-overnight-remains-88-hectares/",
-      "published_date": "2026-07-30T16:58:00Z",
       "category": "Local Events"
     }
   ]
