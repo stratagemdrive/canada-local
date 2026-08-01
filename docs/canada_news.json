@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T11:52:53Z",
+  "generated_at": "2026-08-01T23:59:02Z",
   "country": "Canada",
-  "total_stories": 77,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "New Telus CEO slashes dividend as first step in major remake as company posts a $1.8 billion Q2 loss",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/new-telus-ceo-slashes-dividend-as-first-step-in-major-remake-as-company-posts-a-1-8-billion-q2-loss",
+      "published_date": "2026-08-01T15:00:37Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Teams take different paths to the same goal at the World Junior Summer Showcase",
       "source": "Windsor Star",
@@ -130,20 +137,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Titan Tool lockout of Unifor workers ends with severance agreement",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/titan-tool-lockout-of-unifor-workers-ends-with-severance-agreement",
-      "published_date": "2026-07-25T16:00:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canadian minister says old Gordie Howe bridge deal not obsolete, despite Trump's claims",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/canadian-minister-says-old-gordie-howe-bridge-deal-not-obsolete-despite-trumps-claims",
-      "published_date": "2026-07-25T13:47:22Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "SEX AHOY! Sailor sexually ravaged men and women navy comrades",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/female-sailor-sexually-ravaged-male-female-navy-comrades",
@@ -228,18 +221,25 @@
       "category": "Military"
     },
     {
-      "title": "UPDATE: Felker Fire, south of Williams Lake, grows to 3,940 hectares",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/25/felker-fire-south-of-williams-lake-still-out-of-control-at-2300-hectares/",
-      "published_date": "2026-07-25T16:32:00Z",
-      "category": "Military"
+      "title": "Data centres use too much electricity and water",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/0711-letter-bilda",
+      "published_date": "2026-08-01T15:35:50Z",
+      "category": "Energy"
     },
     {
-      "title": "Plaque recognizes Japanese Canadian veterans winning the right to vote",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/plaque-recognizes-japanese-canadian-veterans-winning-the-right-to-vote",
-      "published_date": "2026-07-25T15:00:43Z",
-      "category": "Military"
+      "title": "Climate change is being ignored at our peril",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/climate-change-is-being-ignored-at-our-peril",
+      "published_date": "2026-08-01T15:17:15Z",
+      "category": "Energy"
+    },
+    {
+      "title": "COLUMN: Keeping energy affordable takes focus—and commitment",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/column-keeping-energy-affordable-takes-focus-and-commitment/",
+      "published_date": "2026-08-01T12:30:00Z",
+      "category": "Energy"
     },
     {
       "title": "Climate change challenges Stanley Park",
@@ -312,25 +312,25 @@
       "category": "Energy"
     },
     {
-      "title": "Are your lights flickering? B.C. Hydro says ash from wildfires affecting power",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/lights-flickering-bc-hydro-says-ash-affecting-power",
-      "published_date": "2026-07-25T19:33:50Z",
-      "category": "Energy"
-    },
-    {
-      "title": "GOLDSTEIN: Why natural gas is crucial to Canada's economic growth",
+      "title": "VUONG: Canadians need to stop cutting down our tall poppies",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/natural-gas-canada-economic-growth",
-      "published_date": "2026-07-25T16:59:59Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/opinion/columnists/vuong-canadians-need-to-stop-cutting-down-our-tall-poppies",
+      "published_date": "2026-08-01T19:30:30Z",
+      "category": "Economy"
     },
     {
-      "title": "B.C. climate news: Wildfires rage across B.C. &#124; Thousands flee wildfires in Spain and France during heat wave",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/climate-change-news-to-july-26-26",
-      "published_date": "2026-07-25T16:20:11Z",
-      "category": "Energy"
+      "title": "Chalebois: Trump’s New Tariffs Put Canada’s Food Economy on the Menu",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/chalebois-trumps-new-tariffs-put-canadas-food-economy-on-the-menu",
+      "published_date": "2026-08-01T16:05:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Charlebois: Alcohol bans are coming back to haunt Canada",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/charlebois-alcohol-bans-are-coming-back-to-haunt-canada",
+      "published_date": "2026-08-01T15:14:35Z",
+      "category": "Economy"
     },
     {
       "title": "Vaughn Palmer: Eby ignored his own advice on threatening retaliation for U.S. tariffs",
@@ -403,150 +403,143 @@
       "category": "Economy"
     },
     {
-      "title": "Anthony Gismondi: 11 high quality and affordable B.C. wines to sip on a hot summer day",
+      "title": "UPDATE: OKIB calls for Evacuation Order due to wildfire near Vernon, Westside Road closed",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/update-wildfire-near-westside-road-grows-to-100-hectares-evacuation-alerts-in-place/",
+      "published_date": "2026-08-01T22:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Travelling on WestJet through YVR this weekend? Check your flights before you go",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-11-high-quality-but-affordable-bc-wines-summer",
-      "published_date": "2026-07-25T15:00:53Z",
-      "category": "Economy"
-    },
-    {
-      "title": "10-hectare wildfire sparks off Westside Road near Vernon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/10-hectare-wildfire-sparks-off-westside-road-near-vernon/",
-      "published_date": "2026-08-01T08:18:00Z",
+      "url": "https://vancouversun.com/news/westjet-yvr-weekend-check-flights",
+      "published_date": "2026-08-01T20:55:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Changing weather conditions could mean challenging weekend on fire front",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/changing-weather-conditions-could-make-for-challenging-weekend-on-fire-front/",
-      "published_date": "2026-08-01T00:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservative leader talks future plans, but first needs a seat in the legislature",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/b-c-conservative-leader-talks-future-plans-but-first-needs-a-seat/",
-      "published_date": "2026-08-01T00:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Vancouver&#039;s famous Fear house is for sale — again",
+      "title": "Decades after alleged abuse, $30-million court settlement involving two Vancouver Catholic schools is approved",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/real-estate/west-vancouvers-famous-fear-house-is-for-sale-again",
-      "published_date": "2026-07-31T23:57:09Z",
+      "url": "https://vancouversun.com/news/bc-court-approves-30-million-settlement-involving-two-vancouver-catholic-schools",
+      "published_date": "2026-08-01T20:44:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver Canucks lend Fin, er, hand at OKIB Hockey School in Vernon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/vancouver-canucks-lend-fin-er-hand-at-okib-hockey-school-in-vernon/",
-      "published_date": "2026-07-31T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coquitlam man hit with gun charges after anti-gang agency probe",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/coquitlam-man-hit-with-gun-charges-after-anti-gang-agency-probe",
-      "published_date": "2026-07-31T21:52:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niagara Regional Police looking for gunman in Fort Erie shooting",
+      "title": "Man allegedly tossed rocks through East York church window three times",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/niagara-regional-police-looking-for-gunman-fort-erie-shooting",
-      "published_date": "2026-07-31T21:38:55Z",
+      "url": "https://torontosun.com/news/local-news/man-tossed-rocks-through-east-york-church-window",
+      "published_date": "2026-08-01T20:25:39Z",
       "category": "Local Events"
     },
     {
-      "title": "WestJet cabin crew issues strike notice, no deal could impact B.C. Day flights",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/westjet-cabin-crew-issues-strike-notice-no-deal-could-impact-b-c-day-flights/",
-      "published_date": "2026-07-31T21:38:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From farm to canvas: B.C. artist’s horse dung Trump portrait causes stir",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/from-farm-to-canvas-b-c-artists-horse-dung-trump-portrait-causes-stir/",
-      "published_date": "2026-07-31T21:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Shore Rescue retrieves hikers attacked by wasps",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/north-shore-rescue-retrieves-hikers-attacked-by-wasps",
-      "published_date": "2026-07-31T21:14:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Can’t risk Kal Lake’: Vernon officials against plan to ease drought with new wells",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/cant-risk-kal-lake-vernon-officials-against-plan-to-ease-drought-with-new-wells/",
-      "published_date": "2026-07-31T20:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diesel spill appears contained in recovery area after crash near northern B.C. waterway",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/diesel-spill-appears-contained-in-recovery-area-after-crash-near-northern-b-c-waterway/",
-      "published_date": "2026-07-31T20:36:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hitting the road for the long weekend? Expect highway closures, major delays on the Coquihalla",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/long-weekend-highways-closures-delays-coquihalla",
-      "published_date": "2026-07-31T20:06:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Accused killer of Kelowna’s Bailey McCourt pleads guilty to Pitt Meadows charge",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/accused-killer-of-kelownas-bailey-mccourt-pleads-guilty-to-pitt-meadows-charge/",
-      "published_date": "2026-07-31T20:03:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lost cat found on TTC streetcar – but was it abandoned?",
+      "title": "EDITORIAL: Win for democracy at Supreme Court",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/lost-cat-found-on-ttc-streetcar",
-      "published_date": "2026-07-31T19:37:29Z",
+      "url": "https://torontosun.com/opinion/editorials/editorial-win-democracy-supreme-court",
+      "published_date": "2026-08-01T19:47:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Tips for walking or cycling the Gordie Howe bridge",
+      "title": "Chinese tutor accused of sexually assaulting child during language lessons",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/chinese-language-tutor-accused-sexual-assault-child-during-lessons",
+      "published_date": "2026-08-01T19:17:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City Hall says it’ll fight grocery surveillance pricing – but can it?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/city-council-surveillance-pricing-grocery-ban",
+      "published_date": "2026-08-01T19:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. wildfires: Cooler weather forecast but thunderstorms could exacerbate wildfires",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-wildfires-cooler-weather-thunderstorms-could-exacerbate-wildfires",
+      "published_date": "2026-08-01T18:41:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evacuation orders issued for Riley Creek fire south of Lillooet",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/evacuation-orders-issued-for-riley-creek-fire-south-of-lillooet/",
+      "published_date": "2026-08-01T18:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We need help’: Letter, petition, MLA call on Eby to declare state of emergency due to Cariboo fires",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/we-need-help-letter-petition-circulates-calling-on-eby-to-declare-state-of-emergency-due-to-cariboo-fires/",
+      "published_date": "2026-08-01T18:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guichon Creek fire near Logan Lake holding at 145 hectares",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/guichon-creek-fire-near-logan-lake-holding-at-145-hectares/",
+      "published_date": "2026-08-01T18:03:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "David Foster returns to Victoria for a milestone celebration",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/david-foster-victoria-milestone-celebration",
+      "published_date": "2026-08-01T18:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Extreme fire behaviour expected as Pear Lake wildfire grows to 103,921 hectares",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/extreme-fire-behaviour-expected-as-pear-lake-wildfire-grows-to-90475-hectares/",
+      "published_date": "2026-08-01T17:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Felker Lake wildfire remains out of control in South Cariboo",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/felker-lake-wildfire-remains-out-of-control-in-south-cariboo/",
+      "published_date": "2026-08-01T17:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young adults trust AI to write breakup text, survey suggests",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/life/relationships/young-adults-trust-ai-to-write-breakup-text-survey",
+      "published_date": "2026-08-01T17:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boy, 15, wanted for double murder in deadly Stoney Creek shootout",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/boy-15-wanted-double-murder-hamilton-police-stoney-creek-shootout",
+      "published_date": "2026-08-01T16:55:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FOREVER FRIEND: This puppy is Cute as a Button – no, really, that's his name",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/forever-friend-this-puppy-cute-as-a-button-no-really-thats-his-name",
+      "published_date": "2026-08-01T16:30:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "5.5-magnitude earthquake hits off west coast of Vancouver Island",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/5-5-magnitude-earthquake-hits-off-west-coast-of-vancouver-island",
+      "published_date": "2026-08-01T16:03:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Randy Essex: Cost of bridge opening was cheap compared to other incentives",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/tips-for-walking-or-cycling-the-gordie-howe-bridge",
-      "published_date": "2026-07-31T19:31:17Z",
+      "url": "https://windsorstar.com/opinion/columnists/randy-essex-cost-of-bridge-opening-was-cheap-compared-to-other-incentives",
+      "published_date": "2026-08-01T15:58:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Meet Blaze, Toronto Animal Services’ longest stay dog: 'READY FOR THE NEXT CHAPTER'",
+      "title": "GOLDSTEIN: Canada’s history of high-speed rail projects littered with political train wrecks",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/blaze-toronto-animal-services-longest-stay-dog-ready-for-adoption",
-      "published_date": "2026-07-31T18:55:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Fraser Timber posts US$61 million loss in second quarter",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/west-fraser-timber-posts-us61-million-loss-in-second-quarter",
-      "published_date": "2026-07-31T18:54:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuation order issued for Loon Lake due to Pear Lake fire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/evacuation-order-issued-for-loon-lake-due-to-pear-lake-fire/",
-      "published_date": "2026-07-31T18:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 fabulous fashion finds from B.C. designers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/5-fabulous-fashion-finds-from-bc-designers",
-      "published_date": "2026-07-31T18:00:31Z",
+      "url": "https://torontosun.com/opinion/columnists/canada-high-speed-rail-projects-political-train-wrecks",
+      "published_date": "2026-08-01T15:35:56Z",
       "category": "Local Events"
     }
   ]
