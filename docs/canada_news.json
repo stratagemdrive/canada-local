@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T00:03:34Z",
+  "generated_at": "2026-08-01T11:52:53Z",
   "country": "Canada",
   "total_stories": 77,
   "categories": [
@@ -410,6 +410,27 @@
       "category": "Economy"
     },
     {
+      "title": "10-hectare wildfire sparks off Westside Road near Vernon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/10-hectare-wildfire-sparks-off-westside-road-near-vernon/",
+      "published_date": "2026-08-01T08:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Changing weather conditions could mean challenging weekend on fire front",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/changing-weather-conditions-could-make-for-challenging-weekend-on-fire-front/",
+      "published_date": "2026-08-01T00:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative leader talks future plans, but first needs a seat in the legislature",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/b-c-conservative-leader-talks-future-plans-but-first-needs-a-seat/",
+      "published_date": "2026-08-01T00:32:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "West Vancouver&#039;s famous Fear house is for sale — again",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/business/real-estate/west-vancouvers-famous-fear-house-is-for-sale-again",
@@ -526,27 +547,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/life/5-fabulous-fashion-finds-from-bc-designers",
       "published_date": "2026-07-31T18:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Recipe: When it&#039;s too hot to cook, try these Korean Drug Eggs (Mayak Gyeran)",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/recipe-korean-drug-eggs-mayak-gyeran",
-      "published_date": "2026-07-31T18:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Police looking for an Indian psychic and spiritual healer",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/toronto-police-looking-indian-psychic-spiritual-healer",
-      "published_date": "2026-07-31T17:53:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 person, multiple pets die in Mission house fire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/31/1-person-multiple-pets-die-in-mission-house-fire/",
-      "published_date": "2026-07-31T17:50:00Z",
       "category": "Local Events"
     }
   ]
