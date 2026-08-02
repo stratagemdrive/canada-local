@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:59:02Z",
+  "generated_at": "2026-08-02T11:50:13Z",
   "country": "Canada",
   "total_stories": 76,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "City of Windsor and Spitfires once again deliver for Hockey Canada",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/city-of-windsor-and-spitfires-once-again-deliver-for-hockey-canada",
+      "published_date": "2026-08-02T10:00:20Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "New Telus CEO slashes dividend as first step in major remake as company posts a $1.8 billion Q2 loss",
       "source": "Vancouver Sun",
@@ -305,13 +312,6 @@
       "category": "Energy"
     },
     {
-      "title": "Essex banks $21.9M from E.L.K. Energy sale, creates $15M legacy reserve",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/essex-banks-21-9m-from-e-l-k-energy-sale-creates-15m-legacy-reserve",
-      "published_date": "2026-07-26T10:32:57Z",
-      "category": "Energy"
-    },
-    {
       "title": "VUONG: Canadians need to stop cutting down our tall poppies",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/vuong-canadians-need-to-stop-cutting-down-our-tall-poppies",
@@ -401,6 +401,48 @@
       "url": "https://vancouversun.com/news/local-news/western-canadas-tallest-skyscraper-approved-for-downtown-vancouver",
       "published_date": "2026-07-27T23:45:46Z",
       "category": "Economy"
+    },
+    {
+      "title": "QUIZ: In celebration of the long weekend",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/quiz-in-celebration-of-the-long-weekend/",
+      "published_date": "2026-08-02T11:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Westbank First Nation opens gym to shelter wildfire evacuees",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/westbank-first-nation-opens-gym-to-shelter-wildfire-evacuees/",
+      "published_date": "2026-08-02T07:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Proud to celebrate' — Windsor-Essex Pride Fest kicks off with full slate of events",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/proud-to-celebrate-windsor-essex-pride-fest-kicks-off-with-full-slate-of-events",
+      "published_date": "2026-08-02T05:04:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Wildfire near La Casa reaches 10 hectares, evacuation orders remain",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/update-la-casa-on-evacuation-alert-as-wildfire-sits-at-2-hectares/",
+      "published_date": "2026-08-02T02:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Port Moody shooting leaves one man in hospital",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/port-moody-shooting-leaves-one-man-in-hospital",
+      "published_date": "2026-08-02T01:05:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Premier David Eby makes a stop in Smithers on his northwest tour",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/b-c-premier-david-eby-makes-a-stop-in-smithers-on-his-northwest-tour/",
+      "published_date": "2026-08-02T00:25:24Z",
+      "category": "Local Events"
     },
     {
       "title": "UPDATE: OKIB calls for Evacuation Order due to wildfire near Vernon, Westside Road closed",
@@ -498,48 +540,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/01/felker-lake-wildfire-remains-out-of-control-in-south-cariboo/",
       "published_date": "2026-08-01T17:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young adults trust AI to write breakup text, survey suggests",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/life/relationships/young-adults-trust-ai-to-write-breakup-text-survey",
-      "published_date": "2026-08-01T17:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 15, wanted for double murder in deadly Stoney Creek shootout",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/boy-15-wanted-double-murder-hamilton-police-stoney-creek-shootout",
-      "published_date": "2026-08-01T16:55:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FOREVER FRIEND: This puppy is Cute as a Button – no, really, that's his name",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/forever-friend-this-puppy-cute-as-a-button-no-really-thats-his-name",
-      "published_date": "2026-08-01T16:30:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "5.5-magnitude earthquake hits off west coast of Vancouver Island",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/5-5-magnitude-earthquake-hits-off-west-coast-of-vancouver-island",
-      "published_date": "2026-08-01T16:03:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Randy Essex: Cost of bridge opening was cheap compared to other incentives",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/randy-essex-cost-of-bridge-opening-was-cheap-compared-to-other-incentives",
-      "published_date": "2026-08-01T15:58:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GOLDSTEIN: Canada’s history of high-speed rail projects littered with political train wrecks",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canada-high-speed-rail-projects-political-train-wrecks",
-      "published_date": "2026-08-01T15:35:56Z",
       "category": "Local Events"
     }
   ]
