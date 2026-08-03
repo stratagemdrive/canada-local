@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T00:00:38Z",
+  "generated_at": "2026-08-03T13:31:38Z",
   "country": "Canada",
-  "total_stories": 74,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Hershey’s Kisses recalled in Canada over possible nut allergy concerns",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/life/food/hersheys-chocolate-recall-almond-allergy-concerns",
+      "published_date": "2026-08-03T13:06:23Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "City of Windsor and Spitfires once again deliver for Hockey Canada",
       "source": "Windsor Star",
@@ -109,27 +116,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mining industry cool to Eby&#039;s idea to use critical minerals as leverage in Trump tariff dispute",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/mining-industry-cool-to-ebys-idea-to-use-critical-minerals-as-leverage-in-trump-tariff-dispute",
-      "published_date": "2026-07-27T13:00:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "David Eby&#039;s idea to leverage critical minerals in Trump tariff dispute could backfire: B.C. mining sector",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/mining-industry-cool-to-ebys-idea-to-use-critical-minerals-as-leverage-in-trump-tariff-dispute",
-      "published_date": "2026-07-27T13:00:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Toronto Police investigating shots fired outside U.S. Consulate",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-shots-fired-u-s-consulate",
-      "published_date": "2026-07-27T12:19:19Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "SEX AHOY! Sailor sexually ravaged men and women navy comrades",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/female-sailor-sexually-ravaged-male-female-navy-comrades",
@@ -197,20 +183,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/27/2-firefighters-injured-after-semi-truck-explosion-on-b-c-bridge/",
       "published_date": "2026-07-28T02:45:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Exclusive: A B.C. woman&#039;s extreme battle to help her disabled brother",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/exclusive-a-vancouver-womans-extreme-measures-to-rescue-her-disabled-brother",
-      "published_date": "2026-07-27T13:00:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Iran says U.S. will 'pay the price' for the war it created",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-27",
-      "published_date": "2026-07-27T11:19:39Z",
       "category": "Military"
     },
     {
@@ -296,6 +268,13 @@
       "url": "https://vancouversun.com/business/energy/petrochina-mulling-sale-lng-canada-stake-fund-phase-2-kitimat",
       "published_date": "2026-07-28T19:03:40Z",
       "category": "Energy"
+    },
+    {
+      "title": "&#039;Seaweed School:&#039; How B.C. kids are being trained on Hornby Island to understand the ocean&#039;s forests",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/seaweed-school-bc-kids-hornby-island-ocean-forests",
+      "published_date": "2026-08-03T13:00:47Z",
+      "category": "Economy"
     },
     {
       "title": "VUONG: Canadians need to stop cutting down our tall poppies",
@@ -387,6 +366,27 @@
       "url": "https://vancouversun.com/news/local-news/western-canadas-tallest-skyscraper-approved-for-downtown-vancouver",
       "published_date": "2026-07-27T23:45:46Z",
       "category": "Economy"
+    },
+    {
+      "title": "Chef collaborations are taking over Vancouver restaurants. Here&#039;s why",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/vancouver-restaurant-burdock-co-dinner",
+      "published_date": "2026-08-03T13:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WestJet and union reach tentative deal to end strike",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/business/money-news/westjet-and-union-reach-tentative-deal-to-end-strike",
+      "published_date": "2026-08-03T11:40:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health unit reports 24 cases of cyclosporiasis in Windsor-Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/health-unit-reports-24-cases-of-cyclosporiasis-in-windsor-essex",
+      "published_date": "2026-08-03T04:33:45Z",
+      "category": "Local Events"
     },
     {
       "title": "UPDATE: Blue Grouse Creek wildfire in West Kelowna under control",
@@ -505,27 +505,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/burnaby-central-railway-needs-help",
       "published_date": "2026-08-02T15:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 Torontonians dead after Muskoka boat crash; Hamilton cops looking for homicide suspect",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/hamilton-cops-looking-for-homicide-suspect-man-sought-in-mississauga-stabbing",
-      "published_date": "2026-08-02T14:48:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Science World visits the public library",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/science-world-visits-the-public-library/",
-      "published_date": "2026-08-02T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: In celebration of the long weekend",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/quiz-in-celebration-of-the-long-weekend/",
-      "published_date": "2026-08-02T11:20:00Z",
       "category": "Local Events"
     }
   ]
