@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T00:10:59Z",
+  "generated_at": "2026-08-04T12:50:25Z",
   "country": "Canada",
   "total_stories": 69,
   "categories": [
@@ -109,6 +109,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "IRAN WAR: Ship attacked after Trump says Strait of Hormuz could reopen",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-aug-4",
+      "published_date": "2026-08-04T11:31:08Z",
+      "category": "Military"
+    },
+    {
       "title": "SEX AHOY! Sailor sexually ravaged men and women navy comrades",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/female-sailor-sexually-ravaged-male-female-navy-comrades",
@@ -162,20 +169,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/arizona-man-accused-murder-girlfriend-monopoly",
       "published_date": "2026-07-28T22:19:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Iran publicly hangs two anti-government protesters",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-28",
-      "published_date": "2026-07-28T11:10:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "2 firefighters injured after semi-truck explosion on B.C. bridge",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/2-firefighters-injured-after-semi-truck-explosion-on-b-c-bridge/",
-      "published_date": "2026-07-28T02:45:00Z",
       "category": "Military"
     },
     {
@@ -261,6 +254,13 @@
       "url": "https://vancouversun.com/business/energy/petrochina-mulling-sale-lng-canada-stake-fund-phase-2-kitimat",
       "published_date": "2026-07-28T19:03:40Z",
       "category": "Energy"
+    },
+    {
+      "title": "WARMINGTON: Feds urged to share funding with Taste of the Danforth",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/taste-of-the-danforth-lack-federal-funding",
+      "published_date": "2026-08-04T11:53:36Z",
+      "category": "Economy"
     },
     {
       "title": "&#039;Seaweed School:&#039; How B.C. kids are being trained on Hornby Island to understand the ocean&#039;s forests",
@@ -354,6 +354,55 @@
       "category": "Economy"
     },
     {
+      "title": "Bradley Creek Wildfire remains 2,603 hectares in size after little growth found",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/bradley-creek-wildfire-remains-2603-hectares-in-size-after-little-growth-found/",
+      "published_date": "2026-08-04T12:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drag Lunch celebrates pride, community and authenticity in Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/drag-lunch-celebrates-pride-community-and-authenticity-in-windsor",
+      "published_date": "2026-08-04T10:40:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor’s first Chariot Fest attracts thousands from across Ontario",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsors-first-chariot-fest-attracts-thousands-from-across-ontario",
+      "published_date": "2026-08-04T10:25:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evacuations lifted in Spallumcheen as Bradley Creek wildfire progress achieved",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/evacuations-lifted-in-spallumcheen-as-bradley-creek-wildfire-progress-achieved/",
+      "published_date": "2026-08-04T04:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BC Wildfire reports ‘no significant growth’ on Bradley Creek wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/bc-wildfire-reports-no-significant-growth-on-bradley-creek-wildfire/",
+      "published_date": "2026-08-04T04:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City of Armstrong lifts evacuation alert from Bradley Creek wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/city-of-armstrong-lifts-evacuation-alert-from-bradley-creek-wildfire/",
+      "published_date": "2026-08-04T03:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Okanagan Indian Band issues ‘Do not consume’ water advisory due to fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/okanagan-indian-band-issues-do-not-consume-water-advisory-due-to-fire/",
+      "published_date": "2026-08-04T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Twelve remarkable British Columbians honoured on B.C. Day",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/12-remarkable-british-columbians-honoured-bc-day",
@@ -442,55 +491,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/lucha-libre-wrestler-take-over-east-vancouver-august-long-weekend",
       "published_date": "2026-08-03T18:22:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Internet and cell service restored after another cable theft attempt",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/internet-and-cell-service-restored-after-another-cable-theft-attempt/",
-      "published_date": "2026-08-03T15:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police lay drug trafficking charges against Kitchener man",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-lay-drug-trafficking-charges-against-kitchener-man",
-      "published_date": "2026-08-03T14:13:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chef collaborations are taking over Vancouver restaurants. Here&#039;s why",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/vancouver-restaurant-burdock-co-dinner",
-      "published_date": "2026-08-03T13:00:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WestJet and union reach tentative deal to end strike",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/money-news/westjet-and-union-reach-tentative-deal-to-end-strike",
-      "published_date": "2026-08-03T11:40:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health unit reports 24 cases of cyclosporiasis in Windsor-Essex",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/health-unit-reports-24-cases-of-cyclosporiasis-in-windsor-essex",
-      "published_date": "2026-08-03T04:33:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Blue Grouse Creek wildfire in West Kelowna under control",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/blue-grouse-creek-wildfire-in-west-kelowna-remains-out-of-control/",
-      "published_date": "2026-08-02T23:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veld festivalgoer dies after being struck by truck; Etobicoke teen slain in Midland, Ont.",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/veld-festivalgoer-dies-after-being-struck-by-truck-men-charged-with-sexual-assaults",
-      "published_date": "2026-08-02T23:17:16Z",
       "category": "Local Events"
     }
   ]
