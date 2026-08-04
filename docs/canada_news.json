@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T13:31:38Z",
+  "generated_at": "2026-08-04T00:10:59Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "WestJet cabin crew strike ends, tentative agreement reached between union and staff",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/westjet-cabin-crew-strike-ends-tentative-agreement-reached-between-union-and-staff/",
+      "published_date": "2026-08-03T18:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "There&#039;s an unexpected installation at the heart of the new Canada Goose store in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/canada-goose-vancouver-store-installation",
+      "published_date": "2026-08-03T15:00:51Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hershey’s Kisses recalled in Canada over possible nut allergy concerns",
       "source": "Toronto Sun",
@@ -92,27 +106,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/crime/north-york-business-site-of-anti-jewish-protest-previously-hit-gunfire-early-tuesday",
       "published_date": "2026-07-28T19:19:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LILLEY: Gun crime in Toronto may be down, but shooters getting bolder",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/gun-crime-down-but-shooters-getting-bolder",
-      "published_date": "2026-07-27T23:18:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Carney calls 3 byelections, including 1 in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/27/carney-calls-3-byelections-including-1-in-b-c/",
-      "published_date": "2026-07-27T21:39:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LILLEY: Mark Carney claimed he thrives in a crisis. His record suggests otherwise",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-thrives-crisis-record-suggests-otherwise",
-      "published_date": "2026-07-27T14:59:55Z",
       "category": "Diplomacy"
     },
     {
@@ -361,11 +354,109 @@
       "category": "Economy"
     },
     {
-      "title": "Western Canada&#039;s tallest skyscraper approved for downtown Vancouver",
+      "title": "Twelve remarkable British Columbians honoured on B.C. Day",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/western-canadas-tallest-skyscraper-approved-for-downtown-vancouver",
-      "published_date": "2026-07-27T23:45:46Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/12-remarkable-british-columbians-honoured-bc-day",
+      "published_date": "2026-08-03T23:05:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 100 Mexican wildfire personnel arrive in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/more-than-100-mexican-wildfire-personnel-arrive-in-b-c/",
+      "published_date": "2026-08-03T22:07:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "St. Catharines mayor declares state of emergency over flooding; wants Ontario, feds' help",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/st-catharines-mayor-declares-state-of-emergency-over-flooding-wants-ontario-feds-help",
+      "published_date": "2026-08-03T21:29:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect sought in Toronto sex assault investigation; possible arson in city",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/suspect-sought-toronto-sex-assault-investigation",
+      "published_date": "2026-08-03T21:15:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comedian-actress Amy Schumer shows off fit frame on Instagram",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/comedian-actress-amy-schumer-shows-off-fit-frame-instagram",
+      "published_date": "2026-08-03T20:20:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Good Samaritan hailed as 'hero' for firing at In-N-Out mass shooter: 'Saved many lives'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/good-samaritan-hailed-as-hero-for-firing-at-in-n-out-mass-shooter-saved-many-lives",
+      "published_date": "2026-08-03T19:29:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NFL star Aaron Rodgers credits wife for family estrangement ending",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/football/nfl/nfl-star-aaron-rodgers-credits-wife-for-family-estrangement-ending",
+      "published_date": "2026-08-03T19:17:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump calls Iranian leaders 'unbelievably duplicitous,' tells Tehran to make a deal or surrender",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trump-calls-iran-leaders-unbelievably-duplicitous",
+      "published_date": "2026-08-03T19:11:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexican drug lord arrested for allegedly ordering influencer’s livestreamed murder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/mexican-drug-lord-arrested-for-allegedly-ordering-influencers-livestreamed-murder",
+      "published_date": "2026-08-03T18:52:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "500 wildland, structural firefighters responding to Pear Lake fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/500-wildland-structural-firefighters-responding-to-pear-lake-fire/",
+      "published_date": "2026-08-03T18:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ford gov't trims OSAP grants, unfreezes tuition",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/ford-govt-trims-osap-grants-unfreezes-tuition",
+      "published_date": "2026-08-03T18:36:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Quilpituk Creek fire near West Kelowna grows to 550 hectares",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/westside-wildfire-expands-evacuation-order-to-caesars-landing-near-kelowna/",
+      "published_date": "2026-08-03T18:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lucha Libre wrestlers take over east Vancouver on August long weekend",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/lucha-libre-wrestler-take-over-east-vancouver-august-long-weekend",
+      "published_date": "2026-08-03T18:22:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Internet and cell service restored after another cable theft attempt",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/internet-and-cell-service-restored-after-another-cable-theft-attempt/",
+      "published_date": "2026-08-03T15:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police lay drug trafficking charges against Kitchener man",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-lay-drug-trafficking-charges-against-kitchener-man",
+      "published_date": "2026-08-03T14:13:37Z",
+      "category": "Local Events"
     },
     {
       "title": "Chef collaborations are taking over Vancouver restaurants. Here&#039;s why",
@@ -400,111 +491,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/veld-festivalgoer-dies-after-being-struck-by-truck-men-charged-with-sexual-assaults",
       "published_date": "2026-08-02T23:17:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Evacuation alerts expanded for Bradley creek wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/multiple-evacuation-orders-alerts-remain-as-bradley-creek-wildfire-still-out-of-control/",
-      "published_date": "2026-08-02T22:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City warns of fake ticket scams after offering free ferry rides to Toronto Islands",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/warning-fake-toronto-island-ferry-tickets",
-      "published_date": "2026-08-02T21:49:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey police arrest man found slumped over steering wheel",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-police-arrest-man-found-slumped-over-steering-wheel",
-      "published_date": "2026-08-02T20:43:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Evacuation orders and alerts continue to be issued as Quilpituk Creek fire grows",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/quilpituk-creek-wildfire-close-to-westside-road-now-40-hectares-in-size/",
-      "published_date": "2026-08-02T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brunswick complex fires in Fraser Canyon still active on southern flank",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/brunswick-complex-fires-in-fraser-canyon-still-active-on-southern-flank/",
-      "published_date": "2026-08-02T20:25:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "22 lightning-caused fires started in 1 day, BC Wildfire says",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/22-lightning-caused-fires-started-in-1-day-bc-wildfire-says/",
-      "published_date": "2026-08-02T20:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pear Lake wildfire near Clinton grows to 115,438 hectares",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/pear-lake-wildfire-near-clinton-grows-to-115438-hectares/",
-      "published_date": "2026-08-02T18:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More crew being brought in to Riley Creek fire south of Lillooet",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/more-crew-being-brought-in-to-riley-creek-fire-south-of-lillooet/",
-      "published_date": "2026-08-02T17:56:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tornado warning ends for parts of Niagara Region",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/tornado-warning-issued-niagara-region",
-      "published_date": "2026-08-02T17:25:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guichon Creek fire near Logan Lake classed as Being Held",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/guichon-creek-fire-near-logan-lake-classed-as-being-held/",
-      "published_date": "2026-08-02T17:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WestJet cabin crew work stoppage in effect",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/02/westjet-work-stoppage-in-effect/",
-      "published_date": "2026-08-02T15:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pete McMartin: Summer has become the season to get through unscathed",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/pete-mcmartin-summer-has-become-the-season-to-get-through-unscathed",
-      "published_date": "2026-08-02T15:00:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;A handoff, not a goodbye&#039;: B.C. brewery seeks new owner",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/care-for-the-land-and-people-persephone-looks-for-the-right-buyer-to-take-over",
-      "published_date": "2026-08-02T15:00:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taylor Sheridan&#039;s world is a community, says Vancouver-linked Lioness actress",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/taylor-sheridans-world-is-a-community-says-vancouver-linked-lioness-actress",
-      "published_date": "2026-08-02T15:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calling all train buffs: Burnaby Central Railway needs your help",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/burnaby-central-railway-needs-help",
-      "published_date": "2026-08-02T15:00:14Z",
       "category": "Local Events"
     }
   ]
