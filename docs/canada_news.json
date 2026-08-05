@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T12:50:25Z",
+  "generated_at": "2026-08-05T00:06:25Z",
   "country": "Canada",
-  "total_stories": 69,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "UN experts raise &#039;serious concerns&#039; over potential India link to threats against Surrey Sikh activist",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/un-experts-serious-concerns-potential-india-link-threats-against-surrey-sikh-activist",
+      "published_date": "2026-08-04T22:25:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada-U.S. trade talks back on in Washington",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-u-s-trade-talks-back-on-in-washington",
+      "published_date": "2026-08-04T18:17:53Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "WestJet cabin crew strike ends, tentative agreement reached between union and staff",
       "source": "Burns Lake District News",
@@ -102,11 +116,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "North York business, site of 2023 anti-Jewish protest, hit by gunfire",
+      "title": "Canadian military directive orders chaplains to swap prayers for secular 'reflections'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/north-york-business-site-of-anti-jewish-protest-previously-hit-gunfire-early-tuesday",
-      "published_date": "2026-07-28T19:19:46Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/national/military-swapping-prayers-for-secular-reflections",
+      "published_date": "2026-08-04T21:07:29Z",
+      "category": "Military"
+    },
+    {
+      "title": "Estimated 230 homes destroyed by Bradley Creek fire near Vernon: Okanagan Chief",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/estimated-230-homes-destroyed-by-bradley-creek-fire-near-vernon-okanagan-chief/",
+      "published_date": "2026-08-04T19:34:00Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Ship attacked after Trump says Strait of Hormuz could reopen",
@@ -162,13 +183,6 @@
       "source": "Pembroke Observer",
       "url": "https://www.pembrokeobserver.com/news/boyhood-discovery-leads-to-recognition-of-war-of-1812-burial-ground",
       "published_date": "2026-07-29T10:36:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Arizona man accused of murdering girlfriend after Monopoly game",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/arizona-man-accused-murder-girlfriend-monopoly",
-      "published_date": "2026-07-28T22:19:42Z",
       "category": "Military"
     },
     {
@@ -242,18 +256,18 @@
       "category": "Energy"
     },
     {
-      "title": "Property Watch: The most intriguing (but less interesting) feature of a Dunbar duplex",
+      "title": "UBC&#039;s Sauder School of Business loses ranking as graduates struggle to get jobs",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/net-zero-dunbar-duplex",
-      "published_date": "2026-07-28T20:49:02Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/ubcs-sauder-school-loses-ranking-graduates-struggle-jobs",
+      "published_date": "2026-08-04T23:17:13Z",
+      "category": "Economy"
     },
     {
-      "title": "PetroChina reportedly mulling sale of LNG Canada stake to fund Phase 2 of Kitimat plant",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/energy/petrochina-mulling-sale-lng-canada-stake-fund-phase-2-kitimat",
-      "published_date": "2026-07-28T19:03:40Z",
-      "category": "Energy"
+      "title": "Freeland crosses Beijing’s red lines with Taiwan speech",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/freeland-crosses-beijings-red-lines-with-taiwan-speech",
+      "published_date": "2026-08-04T17:56:10Z",
+      "category": "Economy"
     },
     {
       "title": "WARMINGTON: Feds urged to share funding with Taste of the Danforth",
@@ -333,164 +347,143 @@
       "category": "Economy"
     },
     {
-      "title": "Letters to The Vancouver Sun: Condo purchase program a distraction with little impact on affordability",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-condo-purchase-program-a-distraction-with-little-impact-on-affordability",
-      "published_date": "2026-07-28T23:00:27Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Real estate: Vancouver council rejects controversial &#039;villages&#039; plan, citing public backlash",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vancouver-council-villages-plan-shot-down-opposition",
-      "published_date": "2026-07-28T20:12:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Average Canadian family paying $21K for 'free' system, new report says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/average-canadian-family-paying-21k-for-free-system-new-report-says",
-      "published_date": "2026-07-28T19:47:32Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bradley Creek Wildfire remains 2,603 hectares in size after little growth found",
+      "title": "RCMP confirm 1 person died in mid-air plane crash in Chilliwack",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/bradley-creek-wildfire-remains-2603-hectares-in-size-after-little-growth-found/",
-      "published_date": "2026-08-04T12:45:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/rcmp-confirm-1-person-died-in-mid-air-plane-crash-in-chilliwack/",
+      "published_date": "2026-08-04T23:13:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Drag Lunch celebrates pride, community and authenticity in Windsor",
+      "title": "Windsor man faces multiple charges following string of break-ins",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/drag-lunch-celebrates-pride-community-and-authenticity-in-windsor",
-      "published_date": "2026-08-04T10:40:58Z",
+      "url": "https://windsorstar.com/news/local-news/windsor-man-faces-multiple-charges-following-string-of-break-ins",
+      "published_date": "2026-08-04T22:00:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor’s first Chariot Fest attracts thousands from across Ontario",
+      "title": "Civilian who helped stop Idaho In-N-Out Burger shooting finally speaks out",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/good-samaritan-speaks-out-idaho-shooting",
+      "published_date": "2026-08-04T21:31:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Winnipeg murder suspect arrested in Langley",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/winnipeg-murder-suspect-arrested-in-langley-2/",
+      "published_date": "2026-08-04T21:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Jailbreaking' adds dangerous element to speed of e-scooters",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/jailbreaking-adds-dangerous-element-to-speed-of-e-scooters",
+      "published_date": "2026-08-04T21:14:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 from the Lower Mainland arrested in Fort St. John drug-trafficking investigation",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/2-from-the-lower-mainland-arrested-in-fort-st-john-drug-trafficking-investigation/",
+      "published_date": "2026-08-04T20:26:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. man who fatally stabbed another over intimate images gets 10 years in prison",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-man-stabbed-another-over-intimate-images-gets-10-years",
+      "published_date": "2026-08-04T20:25:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deep River area seniors to gain expanded access to care at home",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/deep-river-area-seniors-to-gain-expanded-access-to-care-at-home",
+      "published_date": "2026-08-04T20:24:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Accused Manitoba murderer, one of Canada&#039;s most wanted, arrested in Langley",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/accused-winnipeg-killer-arrested-langley",
+      "published_date": "2026-08-04T19:53:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor Regional Hospital launches free shuttle, off-site parking for cancer patients",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsors-first-chariot-fest-attracts-thousands-from-across-ontario",
-      "published_date": "2026-08-04T10:25:55Z",
+      "url": "https://windsorstar.com/news/local-news/windsor-regional-hospital-launches-free-shuttle-off-site-parking-for-cancer-patients",
+      "published_date": "2026-08-04T19:52:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Evacuations lifted in Spallumcheen as Bradley Creek wildfire progress achieved",
+      "title": "Princess Eugenie gives birth to third child in Portugal",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/princess-eugenie-gives-birth-to-third-child-in-portugal",
+      "published_date": "2026-08-04T19:51:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boating restrictions in place for 3RCR Family Day at Garrison Petawawa",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/boating-restrictions-in-place-for-3rcr-family-day-at-garrison-petawawa",
+      "published_date": "2026-08-04T19:48:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Treepedo’: Officials share photo of smashed tree to show difficulty in returning to Boston Bar",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/evacuations-lifted-in-spallumcheen-as-bradley-creek-wildfire-progress-achieved/",
-      "published_date": "2026-08-04T04:24:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/treepedo-officials-share-photo-of-smashed-tree-to-show-difficulty-in-returning-to-boston-bar/",
+      "published_date": "2026-08-04T19:28:00Z",
       "category": "Local Events"
     },
     {
-      "title": "BC Wildfire reports ‘no significant growth’ on Bradley Creek wildfire",
+      "title": "Bradley wildfire burns several structures in Spallumcheen",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/bc-wildfire-reports-no-significant-growth-on-bradley-creek-wildfire/",
-      "published_date": "2026-08-04T04:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/bradley-wildfire-burns-several-structures-in-north-okanagan/",
+      "published_date": "2026-08-04T19:18:00Z",
       "category": "Local Events"
     },
     {
-      "title": "City of Armstrong lifts evacuation alert from Bradley Creek wildfire",
+      "title": "WOLF: You may just be able to taste parts of this column",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/city-of-armstrong-lifts-evacuation-alert-from-bradley-creek-wildfire/",
-      "published_date": "2026-08-04T03:40:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/wolf-you-may-just-be-able-to-taste-parts-of-this-column/",
+      "published_date": "2026-08-04T19:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Okanagan Indian Band issues ‘Do not consume’ water advisory due to fire",
+      "title": "Pembroke encourages residents to help curb rodent activity",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-encourages-residents-to-help-curb-rodent-activity",
+      "published_date": "2026-08-04T19:14:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Calgary child drowns in Shuswap River in Enderby",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/okanagan-indian-band-issues-do-not-consume-water-advisory-due-to-fire/",
-      "published_date": "2026-08-04T02:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/calgary-child-drowns-in-shuswap-river-in-enderby/",
+      "published_date": "2026-08-04T19:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Twelve remarkable British Columbians honoured on B.C. Day",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/12-remarkable-british-columbians-honoured-bc-day",
-      "published_date": "2026-08-03T23:05:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 100 Mexican wildfire personnel arrive in B.C.",
+      "title": "No return date yet for Village of Clinton evacuees",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/more-than-100-mexican-wildfire-personnel-arrive-in-b-c/",
-      "published_date": "2026-08-03T22:07:16Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/no-return-date-yet-for-village-of-clinton-evacuees/",
+      "published_date": "2026-08-04T19:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "St. Catharines mayor declares state of emergency over flooding; wants Ontario, feds' help",
+      "title": "E-scooter injuries on rise for young kids in Toronto",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/st-catharines-mayor-declares-state-of-emergency-over-flooding-wants-ontario-feds-help",
-      "published_date": "2026-08-03T21:29:35Z",
+      "url": "https://torontosun.com/news/local-news/e-scooter-injuries-on-rise-for-young-kids-in-toronto",
+      "published_date": "2026-08-04T18:59:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Suspect sought in Toronto sex assault investigation; possible arson in city",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/suspect-sought-toronto-sex-assault-investigation",
-      "published_date": "2026-08-03T21:15:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Comedian-actress Amy Schumer shows off fit frame on Instagram",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/comedian-actress-amy-schumer-shows-off-fit-frame-instagram",
-      "published_date": "2026-08-03T20:20:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Good Samaritan hailed as 'hero' for firing at In-N-Out mass shooter: 'Saved many lives'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/good-samaritan-hailed-as-hero-for-firing-at-in-n-out-mass-shooter-saved-many-lives",
-      "published_date": "2026-08-03T19:29:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NFL star Aaron Rodgers credits wife for family estrangement ending",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/football/nfl/nfl-star-aaron-rodgers-credits-wife-for-family-estrangement-ending",
-      "published_date": "2026-08-03T19:17:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump calls Iranian leaders 'unbelievably duplicitous,' tells Tehran to make a deal or surrender",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trump-calls-iran-leaders-unbelievably-duplicitous",
-      "published_date": "2026-08-03T19:11:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexican drug lord arrested for allegedly ordering influencer’s livestreamed murder",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/mexican-drug-lord-arrested-for-allegedly-ordering-influencers-livestreamed-murder",
-      "published_date": "2026-08-03T18:52:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "500 wildland, structural firefighters responding to Pear Lake fire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/500-wildland-structural-firefighters-responding-to-pear-lake-fire/",
-      "published_date": "2026-08-03T18:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ford gov't trims OSAP grants, unfreezes tuition",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/ford-govt-trims-osap-grants-unfreezes-tuition",
-      "published_date": "2026-08-03T18:36:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Quilpituk Creek fire near West Kelowna grows to 550 hectares",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/westside-wildfire-expands-evacuation-order-to-caesars-landing-near-kelowna/",
-      "published_date": "2026-08-03T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lucha Libre wrestlers take over east Vancouver on August long weekend",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/lucha-libre-wrestler-take-over-east-vancouver-august-long-weekend",
-      "published_date": "2026-08-03T18:22:30Z",
+      "title": "Windsor-Essex cyclosporiasis cases climb to 30 as Michigan deaths highlight risks",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-essex-cyclosporiasis-cases-climb-to-30-as-michigan-deaths-highlight-risks",
+      "published_date": "2026-08-04T18:55:37Z",
       "category": "Local Events"
     }
   ]
