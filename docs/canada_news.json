@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T00:06:25Z",
+  "generated_at": "2026-08-05T12:29:33Z",
   "country": "Canada",
   "total_stories": 68,
   "categories": [
@@ -116,6 +116,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Trump says Strait of Hormuz will reopen 'very soon' or Iran will be attacked",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-aug-5",
+      "published_date": "2026-08-05T11:27:16Z",
+      "category": "Military"
+    },
+    {
+      "title": "New Irish jet missing key part, thanks to anti-Israel ban",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/new-irish-jet-missing-key-part-thanks-to-anti-israel-ban",
+      "published_date": "2026-08-05T00:14:25Z",
+      "category": "Military"
+    },
+    {
       "title": "Canadian military directive orders chaplains to swap prayers for secular 'reflections'",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/military-swapping-prayers-for-secular-reflections",
@@ -169,20 +183,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/divorced-porn-stars-bring-defamation-lawsuit-to-ontario-court-of-appeal",
       "published_date": "2026-07-29T23:50:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: 20 killed after U.S.-Saudi attack on Iraq",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-29",
-      "published_date": "2026-07-29T11:05:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Boyhood discovery leads to recognition of War of 1812 burial ground",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/boyhood-discovery-leads-to-recognition-of-war-of-1812-burial-ground",
-      "published_date": "2026-07-29T10:36:15Z",
       "category": "Military"
     },
     {
@@ -347,6 +347,83 @@
       "category": "Economy"
     },
     {
+      "title": "Dennis Rogers announces run for second term as Kingsville mayor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/dennis-rogers-announces-run-for-second-term-as-kingsville-mayor",
+      "published_date": "2026-08-05T10:31:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stellantis marks 30th anniversary of unique high-tech testing facility in Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/stellantis-marks-30th-anniversary-of-unique-high-tech-testing-facility-in-windsor",
+      "published_date": "2026-08-05T10:20:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Air support, fire crews work the Okanagan’s Quilpituk Creek blaze overnight",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/all-evacuation-orders-alerts-remain-in-place-at-565-hectare-quilpituk-creek-wildfire/",
+      "published_date": "2026-08-05T05:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: The most endangered frogs in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/video-the-most-endangered-frogs-in-b-c/",
+      "published_date": "2026-08-05T03:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lloyd Robertson, the 'trusted' longtime voice of CTV National News, dead at 92",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/television/lloyd-robertson-ctv-news-anchor-dies",
+      "published_date": "2026-08-05T02:15:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ken Sim hanging on as front-runner for mayor in looming Vancouver election",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ken-sim-front-runner-mayor-looming-vancouver-election",
+      "published_date": "2026-08-05T02:10:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 700 visit Vernon reception centre as wildfires force residents from homes",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/more-than-700-in-person-visits-to-vernon-eoc-as-wildfires-force-residents-from-homes/",
+      "published_date": "2026-08-05T01:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian who slapped U.S. teen to be deported",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-who-slapped-u-s-teen-to-be-deported",
+      "published_date": "2026-08-05T01:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect sought after nightclub assault; Durham cops announce 'significant' drug bust",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspect-sought-entertainment-district-nightclub-assault",
+      "published_date": "2026-08-05T00:50:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why B.C. says now is not the time for a state of emergency amid wildfires",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/why-b-c-says-now-is-not-the-time-for-a-state-of-emergency-amid-wildfires/",
+      "published_date": "2026-08-05T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup host cities reportedly chasing down FIFA for 'legacy' payments",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/world-cup-host-cities-seeking-legacy-payments",
+      "published_date": "2026-08-05T00:06:53Z",
+      "category": "Local Events"
+    },
+    {
       "title": "RCMP confirm 1 person died in mid-air plane crash in Chilliwack",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/04/rcmp-confirm-1-person-died-in-mid-air-plane-crash-in-chilliwack/",
@@ -407,83 +484,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/crime/accused-winnipeg-killer-arrested-langley",
       "published_date": "2026-08-04T19:53:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor Regional Hospital launches free shuttle, off-site parking for cancer patients",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-regional-hospital-launches-free-shuttle-off-site-parking-for-cancer-patients",
-      "published_date": "2026-08-04T19:52:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Princess Eugenie gives birth to third child in Portugal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/princess-eugenie-gives-birth-to-third-child-in-portugal",
-      "published_date": "2026-08-04T19:51:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boating restrictions in place for 3RCR Family Day at Garrison Petawawa",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/boating-restrictions-in-place-for-3rcr-family-day-at-garrison-petawawa",
-      "published_date": "2026-08-04T19:48:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Treepedo’: Officials share photo of smashed tree to show difficulty in returning to Boston Bar",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/treepedo-officials-share-photo-of-smashed-tree-to-show-difficulty-in-returning-to-boston-bar/",
-      "published_date": "2026-08-04T19:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bradley wildfire burns several structures in Spallumcheen",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/bradley-wildfire-burns-several-structures-in-north-okanagan/",
-      "published_date": "2026-08-04T19:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WOLF: You may just be able to taste parts of this column",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/wolf-you-may-just-be-able-to-taste-parts-of-this-column/",
-      "published_date": "2026-08-04T19:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke encourages residents to help curb rodent activity",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-encourages-residents-to-help-curb-rodent-activity",
-      "published_date": "2026-08-04T19:14:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calgary child drowns in Shuswap River in Enderby",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/calgary-child-drowns-in-shuswap-river-in-enderby/",
-      "published_date": "2026-08-04T19:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No return date yet for Village of Clinton evacuees",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/no-return-date-yet-for-village-of-clinton-evacuees/",
-      "published_date": "2026-08-04T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "E-scooter injuries on rise for young kids in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/e-scooter-injuries-on-rise-for-young-kids-in-toronto",
-      "published_date": "2026-08-04T18:59:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor-Essex cyclosporiasis cases climb to 30 as Michigan deaths highlight risks",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-essex-cyclosporiasis-cases-climb-to-30-as-michigan-deaths-highlight-risks",
-      "published_date": "2026-08-04T18:55:37Z",
       "category": "Local Events"
     }
   ]
