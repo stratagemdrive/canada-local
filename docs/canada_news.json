@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T00:01:52Z",
+  "generated_at": "2026-08-06T12:47:27Z",
   "country": "Canada",
-  "total_stories": 61,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -95,6 +95,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Iran says Strait of Hormuz deal close, but U.S. must agree",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-aug-6",
+      "published_date": "2026-08-06T11:44:52Z",
+      "category": "Military"
+    },
+    {
       "title": "Trump says Strait of Hormuz will reopen 'very soon' or Iran will be attacked",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-aug-5",
@@ -144,18 +151,11 @@
       "category": "Military"
     },
     {
-      "title": "Deep River veteran joins coast-to-coast 'Rolling Barrage' ride",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/deep-river-veteran-joins-coast-to-coast-rolling-barrage-ride",
-      "published_date": "2026-07-30T11:19:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Pakistan says U.S.-Iran talks ongoing as attacks continue",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-30",
-      "published_date": "2026-07-30T11:09:45Z",
-      "category": "Military"
+      "title": "Wildfire burning in Belcarra Park near Village of Anmore",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/wildfire-burning-belcarra-park-port-moody",
+      "published_date": "2026-08-06T00:30:59Z",
+      "category": "Energy"
     },
     {
       "title": "Canadians demand Ottawa scrap looming gas tax hike",
@@ -212,6 +212,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/07/30/bc-hydro-begins-restoration-work-related-to-big-bar-brunswick-complex-wildfires/",
       "published_date": "2026-07-30T17:30:27Z",
       "category": "Energy"
+    },
+    {
+      "title": "Tariffs expose \nour strengths,\nweaknesses",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/tariffs-expose-our-strengthsweaknesses/",
+      "published_date": "2026-08-06T12:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Toronto Zoo releases video of endangered pygmy hippo calf birth",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-zoo-welcomes-pygmy-hippo-calf",
+      "published_date": "2026-08-05T23:59:32Z",
+      "category": "Economy"
     },
     {
       "title": "UBC&#039;s Sauder School of Business loses ranking as graduates struggle to get jobs",
@@ -298,6 +312,104 @@
       "category": "Economy"
     },
     {
+      "title": "Donald Trump tells Vegas he loves Canadians but 'they're nasty'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/donald-trump-calls-canadians-nasty",
+      "published_date": "2026-08-06T12:45:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Visibility stops overnight tanking operations at Bradley Creek wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/visibility-stops-overnight-tanking-operations-at-bradley-creek-wildfire/",
+      "published_date": "2026-08-06T12:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nature Nut: Why are warblers yellow?",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/nature-nut-why-are-warblers-yellow/",
+      "published_date": "2026-08-06T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anxiety doesn’t always look like we expect",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/anxiety-doesnt-always-look-like-we-expect/",
+      "published_date": "2026-08-06T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jeep Cherokee sought in Highway 410 hit-and-run",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/jeep-cherokee-sought-highway-410-hit-and-run",
+      "published_date": "2026-08-06T11:59:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Non-citizen violent offender Medhani Yohans breaches yet again: Cops",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/non-citizen-violent-offender-medhani-yohans-breaches-yet-again-cops",
+      "published_date": "2026-08-06T11:34:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SIU probing fatal shooting involving Toronto Police in Mississauga",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/siu-probing-fatal-shooting-involving-toronto-police-in-mississauga",
+      "published_date": "2026-08-06T11:18:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke Community Calendar: Local events and activities",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-community-calendar-local-events-and-activities",
+      "published_date": "2026-08-06T10:39:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor toasts rum-running past with inaugural Prohibition Week",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-toasts-rum-running-past-with-inaugural-prohibition-week",
+      "published_date": "2026-08-06T10:33:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke Horticultural Society announces June, July garden winners",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-horticultural-society-announces-june-july-garden-winners",
+      "published_date": "2026-08-06T10:30:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Essex MP calls for review of severe-weather warning system",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/essex-mp-calls-for-review-of-severe-weather-warning-system",
+      "published_date": "2026-08-06T10:26:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elopee wanted by cops after fleeing CAMH; tips sought on robbery suspect",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-elopee-wanted-after-fleeing-camh",
+      "published_date": "2026-08-06T02:38:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2,318 people assisted in Vernon from Bradley Creek wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/2318-people-assisted-in-vernon-from-bradley-creek-wildfire/",
+      "published_date": "2026-08-06T02:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Court overturns B.C.&#039;s unique law for forced treatment of people with mental illness",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-court-overturns-bc-unique-law-forced-treatment-mentally-ill",
+      "published_date": "2026-08-05T23:45:18Z",
+      "category": "Local Events"
+    },
+    {
       "title": "B.C. Conservatives surpass NDP in fundraising for second quarter in a row",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-conservatives-surpass-ndp-fundraising-second-quarter",
@@ -337,104 +449,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/crime/four-teens-charged-in-muskoka-crime-spree-photos-of-scarborough-sex-assault-suspect-released",
       "published_date": "2026-08-05T22:22:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal judge overturns decision to release accused killer linked to Bishnoi gang",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/federal-judge-overturns-release-accused-killer-bishnoi-gang",
-      "published_date": "2026-08-05T22:09:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dogs, birds and snakes, oh my! ALERT cares for Okanagan’s evacuated pets",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/dogs-and-birds-and-snakes-oh-my-alert-caring-for-okanagan-pets-during-wildfire-evacuations/",
-      "published_date": "2026-08-05T21:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police arrest 66-year-old man for two 'violent sexual assaults'",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-66-year-old-man-for-two-violent-sexual-assaults",
-      "published_date": "2026-08-05T21:20:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police arrest man for sexual exploitation of two teenage girls",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-man-for-sexual-exploitation-of-two-teenage-girls",
-      "published_date": "2026-08-05T21:20:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens of charges laid in cottage country over long weekend: OPP",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/dozens-charges-laid-cottage-country-enforcement",
-      "published_date": "2026-08-05T20:57:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pair of paragliders rescued from tree near Chilliwack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/pair-of-paragliders-rescued-from-tree-near-chilliwack/",
-      "published_date": "2026-08-05T20:50:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Pro boxer takes on cop in bizarre Brampton showdown",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/pro-boxer-takes-on-cop-bizarre-brampton-showdown",
-      "published_date": "2026-08-05T20:49:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FVRD downgrades Boston Bar evacuation orders, residents allowed to return",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/fvrd-downgrades-boston-bar-evacuation-orders-residents-allowed-to-return/",
-      "published_date": "2026-08-05T20:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Highway 97 reopens north of Okanagan Lake, connecting Vernon to Kamloops",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/highway-97-reopens-north-of-okanagan-lake-connecting-vernon-to-kamloops/",
-      "published_date": "2026-08-05T20:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taste of the Valley 2026 season starts Saturday in Barry's Bay",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/taste-of-the-valley-2026-season-starts-saturday-in-barrys-bay",
-      "published_date": "2026-08-05T20:14:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Evacuation orders, alerts to remain as Quilpituk Creek wildfire slows",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/quilpituk-creek-wildfire-continues-to-burn-evacuation-orders-and-alerts-remain/",
-      "published_date": "2026-08-05T20:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feds, City of Toronto ink $2.7B housing deal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/feds-city-of-toronto-ink-2-7b-housing-deal",
-      "published_date": "2026-08-05T19:52:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "High-value Pokémon cards stolen in Vancouver, getaway vehicle found in Surrey",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/high-value-pokemon-cards-stolen-in-vancouver-getaway-vehicle-found-in-surrey/",
-      "published_date": "2026-08-05T19:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terrace structure fire under investigation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/terrace-structure-fire-under-investigation/",
-      "published_date": "2026-08-05T19:17:44Z",
       "category": "Local Events"
     }
   ]
