@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T12:29:33Z",
+  "generated_at": "2026-08-06T00:01:52Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 61,
   "categories": [
     "Diplomacy",
     "Military",
@@ -95,27 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ksi Lisims signs another LNG supply deal with German utility Uniper",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-north-coast-ksi-lisims-lng-supply-deal-german-utility",
-      "published_date": "2026-07-29T22:21:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How sham marriages fueled India’s foreign student influx to Canada",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/how-sham-marriages-fueled-indias-foreign-student-influx-to-canada",
-      "published_date": "2026-07-29T20:01:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NextStar Energy workers reach tentative agreement",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/nextstar-energy-workers-reach-tentative-agreement",
-      "published_date": "2026-07-29T15:48:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Trump says Strait of Hormuz will reopen 'very soon' or Iran will be attacked",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-aug-5",
@@ -179,11 +158,18 @@
       "category": "Military"
     },
     {
-      "title": "MANDEL: Divorced porn stars bring defamation lawsuit to Ontario Court of Appeal",
+      "title": "Canadians demand Ottawa scrap looming gas tax hike",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/divorced-porn-stars-bring-defamation-lawsuit-to-ontario-court-of-appeal",
-      "published_date": "2026-07-29T23:50:21Z",
-      "category": "Military"
+      "url": "https://torontosun.com/news/national/canadians-demand-ottawa-scrap-looming-gas-tax-hike",
+      "published_date": "2026-08-05T18:53:47Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Converting raw sewage into precious resource, Vancouver&#039;s Sen̓áḵw development aims for low-carbon future",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/turning-sewage-energy-sen%cc%93a%e1%b8%b5w-towers-development-vancouver",
+      "published_date": "2026-08-05T13:00:43Z",
+      "category": "Energy"
     },
     {
       "title": "Data centres use too much electricity and water",
@@ -225,34 +211,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/07/30/bc-hydro-begins-restoration-work-related-to-big-bar-brunswick-complex-wildfires/",
       "published_date": "2026-07-30T17:30:27Z",
-      "category": "Energy"
-    },
-    {
-      "title": "EV charging cables cut and stolen from Port Moody Recreation Complex",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/ev-charging-cables-cut-and-stolen-from-port-moody-recreation-complex",
-      "published_date": "2026-07-29T18:50:05Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Proposed Northwest B.C. LNG facility signs major long-term export deal with German energy company",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/29/proposed-northwest-b-c-lng-facility-signs-major-long-term-export-deal-with-german-energy-company/",
-      "published_date": "2026-07-29T17:41:22Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ksi Lisims LNG signs major long-term export deal with German energy company",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/29/ksi-lisims-lng-signs-major-long-term-export-deal-with-german-energy-company/",
-      "published_date": "2026-07-29T17:40:19Z",
-      "category": "Energy"
-    },
-    {
-      "title": "OPP charge two motorists with impaired driving",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-charge-two-motorists-with-impaired-driving",
-      "published_date": "2026-07-29T13:57:45Z",
       "category": "Energy"
     },
     {
@@ -340,150 +298,143 @@
       "category": "Economy"
     },
     {
-      "title": "CNE Job Fair has 720 jobs up for grabs; hopes to target unemployed youth",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/cne-job-fair-720-jobs-target-unemployed-youth",
-      "published_date": "2026-07-29T15:26:43Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dennis Rogers announces run for second term as Kingsville mayor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/dennis-rogers-announces-run-for-second-term-as-kingsville-mayor",
-      "published_date": "2026-08-05T10:31:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stellantis marks 30th anniversary of unique high-tech testing facility in Windsor",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/stellantis-marks-30th-anniversary-of-unique-high-tech-testing-facility-in-windsor",
-      "published_date": "2026-08-05T10:20:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air support, fire crews work the Okanagan’s Quilpituk Creek blaze overnight",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/all-evacuation-orders-alerts-remain-in-place-at-565-hectare-quilpituk-creek-wildfire/",
-      "published_date": "2026-08-05T05:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: The most endangered frogs in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/video-the-most-endangered-frogs-in-b-c/",
-      "published_date": "2026-08-05T03:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lloyd Robertson, the 'trusted' longtime voice of CTV National News, dead at 92",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/television/lloyd-robertson-ctv-news-anchor-dies",
-      "published_date": "2026-08-05T02:15:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ken Sim hanging on as front-runner for mayor in looming Vancouver election",
+      "title": "B.C. Conservatives surpass NDP in fundraising for second quarter in a row",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/ken-sim-front-runner-mayor-looming-vancouver-election",
-      "published_date": "2026-08-05T02:10:26Z",
+      "url": "https://vancouversun.com/news/bc-conservatives-surpass-ndp-fundraising-second-quarter",
+      "published_date": "2026-08-05T23:39:54Z",
       "category": "Local Events"
     },
     {
-      "title": "More than 700 visit Vernon reception centre as wildfires force residents from homes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/more-than-700-in-person-visits-to-vernon-eoc-as-wildfires-force-residents-from-homes/",
-      "published_date": "2026-08-05T01:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian who slapped U.S. teen to be deported",
+      "title": "Viral bodycam footage shows El Paso motorcycle cop almost hit by speeding car after pulling over another vehicle",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-who-slapped-u-s-teen-to-be-deported",
-      "published_date": "2026-08-05T01:00:25Z",
+      "url": "https://torontosun.com/news/world/el-paso-motorcycle-cop-almost-hit-speeding-car-pulling-over-another-vehicle",
+      "published_date": "2026-08-05T23:33:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Suspect sought after nightclub assault; Durham cops announce 'significant' drug bust",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-sought-entertainment-district-nightclub-assault",
-      "published_date": "2026-08-05T00:50:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why B.C. says now is not the time for a state of emergency amid wildfires",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/why-b-c-says-now-is-not-the-time-for-a-state-of-emergency-amid-wildfires/",
-      "published_date": "2026-08-05T00:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup host cities reportedly chasing down FIFA for 'legacy' payments",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/world-cup-host-cities-seeking-legacy-payments",
-      "published_date": "2026-08-05T00:06:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP confirm 1 person died in mid-air plane crash in Chilliwack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/rcmp-confirm-1-person-died-in-mid-air-plane-crash-in-chilliwack/",
-      "published_date": "2026-08-04T23:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor man faces multiple charges following string of break-ins",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-man-faces-multiple-charges-following-string-of-break-ins",
-      "published_date": "2026-08-04T22:00:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civilian who helped stop Idaho In-N-Out Burger shooting finally speaks out",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/good-samaritan-speaks-out-idaho-shooting",
-      "published_date": "2026-08-04T21:31:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Winnipeg murder suspect arrested in Langley",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/winnipeg-murder-suspect-arrested-in-langley-2/",
-      "published_date": "2026-08-04T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Jailbreaking' adds dangerous element to speed of e-scooters",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/jailbreaking-adds-dangerous-element-to-speed-of-e-scooters",
-      "published_date": "2026-08-04T21:14:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 from the Lower Mainland arrested in Fort St. John drug-trafficking investigation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/04/2-from-the-lower-mainland-arrested-in-fort-st-john-drug-trafficking-investigation/",
-      "published_date": "2026-08-04T20:26:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. man who fatally stabbed another over intimate images gets 10 years in prison",
+      "title": "Opinion: Gridlock by design: Why provinces have no excuses left for hospital bed-blocking crisis",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-man-stabbed-another-over-intimate-images-gets-10-years",
-      "published_date": "2026-08-04T20:25:57Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-gridlock-by-design-why-provinces-have-no-excuses-left-for-hospital-bed-blocking-crisis",
+      "published_date": "2026-08-05T23:00:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Deep River area seniors to gain expanded access to care at home",
+      "title": "Instacart delivery driver's car stolen in Atlanta with toddler still in back seat",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/delivery-driver-has-car-stolen-kid-inside",
+      "published_date": "2026-08-05T22:54:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "First students start classes at SFU&#039;s new medical school in Surrey",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/first-students-start-classes-sfu-new-medical-school-surrey",
+      "published_date": "2026-08-05T22:51:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four teens charged in Muskoka 'crime spree'; photos of Scarborough sex assault suspect released",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/four-teens-charged-in-muskoka-crime-spree-photos-of-scarborough-sex-assault-suspect-released",
+      "published_date": "2026-08-05T22:22:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Federal judge overturns decision to release accused killer linked to Bishnoi gang",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/federal-judge-overturns-release-accused-killer-bishnoi-gang",
+      "published_date": "2026-08-05T22:09:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dogs, birds and snakes, oh my! ALERT cares for Okanagan’s evacuated pets",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/dogs-and-birds-and-snakes-oh-my-alert-caring-for-okanagan-pets-during-wildfire-evacuations/",
+      "published_date": "2026-08-05T21:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police arrest 66-year-old man for two 'violent sexual assaults'",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-66-year-old-man-for-two-violent-sexual-assaults",
+      "published_date": "2026-08-05T21:20:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police arrest man for sexual exploitation of two teenage girls",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-man-for-sexual-exploitation-of-two-teenage-girls",
+      "published_date": "2026-08-05T21:20:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens of charges laid in cottage country over long weekend: OPP",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/dozens-charges-laid-cottage-country-enforcement",
+      "published_date": "2026-08-05T20:57:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pair of paragliders rescued from tree near Chilliwack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/pair-of-paragliders-rescued-from-tree-near-chilliwack/",
+      "published_date": "2026-08-05T20:50:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Pro boxer takes on cop in bizarre Brampton showdown",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/pro-boxer-takes-on-cop-bizarre-brampton-showdown",
+      "published_date": "2026-08-05T20:49:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FVRD downgrades Boston Bar evacuation orders, residents allowed to return",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/fvrd-downgrades-boston-bar-evacuation-orders-residents-allowed-to-return/",
+      "published_date": "2026-08-05T20:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Highway 97 reopens north of Okanagan Lake, connecting Vernon to Kamloops",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/highway-97-reopens-north-of-okanagan-lake-connecting-vernon-to-kamloops/",
+      "published_date": "2026-08-05T20:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taste of the Valley 2026 season starts Saturday in Barry's Bay",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/deep-river-area-seniors-to-gain-expanded-access-to-care-at-home",
-      "published_date": "2026-08-04T20:24:58Z",
+      "url": "https://www.pembrokeobserver.com/news/taste-of-the-valley-2026-season-starts-saturday-in-barrys-bay",
+      "published_date": "2026-08-05T20:14:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Accused Manitoba murderer, one of Canada&#039;s most wanted, arrested in Langley",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/accused-winnipeg-killer-arrested-langley",
-      "published_date": "2026-08-04T19:53:15Z",
+      "title": "UPDATE: Evacuation orders, alerts to remain as Quilpituk Creek wildfire slows",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/quilpituk-creek-wildfire-continues-to-burn-evacuation-orders-and-alerts-remain/",
+      "published_date": "2026-08-05T20:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feds, City of Toronto ink $2.7B housing deal",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/feds-city-of-toronto-ink-2-7b-housing-deal",
+      "published_date": "2026-08-05T19:52:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "High-value Pokémon cards stolen in Vancouver, getaway vehicle found in Surrey",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/high-value-pokemon-cards-stolen-in-vancouver-getaway-vehicle-found-in-surrey/",
+      "published_date": "2026-08-05T19:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terrace structure fire under investigation",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/terrace-structure-fire-under-investigation/",
+      "published_date": "2026-08-05T19:17:44Z",
       "category": "Local Events"
     }
   ]
