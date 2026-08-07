@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T12:47:27Z",
+  "generated_at": "2026-08-07T01:42:04Z",
   "country": "Canada",
   "total_stories": 63,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Stellantis Canada CEO tight-lipped on whether company will use Gordie Howe bridge",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/stellantis-canada-ceo-mum-on-whether-company-will-use-gordie-howe-bridge",
+      "published_date": "2026-08-06T16:12:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Toronto Police charge teen, young man in second U.S. Consulate shooting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-charge-teen-young-man-in-second-u-s-consulate-shooting",
+      "published_date": "2026-08-06T15:54:01Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN experts raise &#039;serious concerns&#039; over potential India link to threats against Surrey Sikh activist",
       "source": "Vancouver Sun",
@@ -74,25 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "B.C. Olympic wrestler suspended for multiple whereabouts failures",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/30/b-c-olympic-wrestler-suspended-for-multiple-whereabouts-failures/",
-      "published_date": "2026-07-30T22:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Failed NDP leader Jagmeet Singh in running to head Crown corporation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/failed-ndp-leader-jagmeet-singh-in-running-to-head-crown-corporation",
-      "published_date": "2026-07-30T17:34:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/30/b-c-premier-reaffirms-north-coast-oil-tanker-ban-during-prince-rupert-visit/",
-      "published_date": "2026-07-30T17:00:08Z",
-      "category": "Diplomacy"
+      "title": "Dyer: Trump likely doesn't understand stakes in Iran war",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/dyer-trump-likely-doesnt-understand-stakes-in-iran-war",
+      "published_date": "2026-08-06T19:09:31Z",
+      "category": "Military"
     },
     {
       "title": "Iran says Strait of Hormuz deal close, but U.S. must agree",
@@ -151,6 +151,27 @@
       "category": "Military"
     },
     {
+      "title": "Stunning images of sun's surface hailed as 'major step forward' for science",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/solar-telescope-captures-unprecedented-images-sun-surface",
+      "published_date": "2026-08-06T22:31:41Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Letter: Ontario vulnerable to Trump on Line 5",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/letter-ontario-vulnerable-to-trump-on-line-5",
+      "published_date": "2026-08-06T19:11:26Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Doran: A new pipeline to the East Coast would be a nation builder",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/doran-a-new-pipeline-to-the-east-coast-would-be-a-nation-builder",
+      "published_date": "2026-08-06T18:45:48Z",
+      "category": "Energy"
+    },
+    {
       "title": "Wildfire burning in Belcarra Park near Village of Anmore",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/wildfire-burning-belcarra-park-port-moody",
@@ -193,25 +214,18 @@
       "category": "Energy"
     },
     {
-      "title": "Climate change challenges Stanley Park",
+      "title": "Opinion: Nurses&#039; job action about fairness and support, not just wages",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/managing-stanley-parks-600000-trees-is-becoming-more-challenging-heres-why",
-      "published_date": "2026-07-30T19:14:32Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-nurses-job-action-about-fairness-and-support-not-just-wages",
+      "published_date": "2026-08-06T23:45:06Z",
+      "category": "Economy"
     },
     {
-      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/these-are-the-3-best-beauty-products-we-tried-this-week-heres-why-4",
-      "published_date": "2026-07-30T18:00:12Z",
-      "category": "Energy"
-    },
-    {
-      "title": "BC Hydro begins restoration work related to Big Bar, Brunswick Complex wildfires",
+      "title": "Steelhead fishing restrictions could jeopardize Northwest jobs, report says",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/07/30/bc-hydro-begins-restoration-work-related-to-big-bar-brunswick-complex-wildfires/",
-      "published_date": "2026-07-30T17:30:27Z",
-      "category": "Energy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/steelhead-fishing-restrictions-could-jeopardize-northwest-jobs-report-says/",
+      "published_date": "2026-08-06T22:48:00Z",
+      "category": "Economy"
     },
     {
       "title": "Tariffs expose \nour strengths,\nweaknesses",
@@ -298,157 +312,143 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: What qualifies Jagmeet Singh to run Canada’s top tourism office?",
+      "title": "Brampton man accused of hobby shop break-ins; cops probe North York hit-and-run",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/what-qualifies-jagmeet-singh-destination-canada",
-      "published_date": "2026-07-30T21:33:51Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/brampton-man-accused-hobby-shop-breakins",
+      "published_date": "2026-08-07T01:33:29Z",
+      "category": "Local Events"
     },
     {
-      "title": "Food insecurity in Windsor-Essex is growing, say public health units and food banks",
+      "title": "Ex-Durham cop facing new charge of sexual assault, watchdog says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/former-cop-facing-new-sex-assault-charge",
+      "published_date": "2026-08-07T00:42:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: What Kerry-Lynne Findlay would do as premier of B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-what-kerry-lynne-findlay-would-do-as-premier-of-bc",
+      "published_date": "2026-08-06T23:55:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More Mexican wildfire personnel arrive in B.C., Australians also coming to help",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/more-mexican-wildfire-personnel-arrive-in-b-c-australians-also-coming-to-help/",
+      "published_date": "2026-08-06T23:17:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vernon Search and Rescue shares ‘frustrating’ experience in the heat of the Bradley Creek wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/vernon-search-and-rescue-shares-frustrating-experience-in-the-heat-of-the-bradley-creek-wildfire/",
+      "published_date": "2026-08-06T23:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Evacuation orders and alerts to remain overnight for Quilpituk Creek wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/overnight-tanking-operations-halted-due-to-visibility-at-quilpituk-creek-wildfire/",
+      "published_date": "2026-08-06T22:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. coroner&#039;s inquest recommends review of policing standards for wellness checks",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-coroner-inquest-jury-recommends-review-policing-standards-wellness-checks",
+      "published_date": "2026-08-06T22:22:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Off-duty Mountie hospitalized after motorbike crash near Cranbrook",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/off-duty-mountie-hospitalized-motorbike-crash-near-cranbrook",
+      "published_date": "2026-08-06T21:57:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly cat virus detected in Metro Vancouver",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/deadly-cat-virus-detected-in-metro-vancouver/",
+      "published_date": "2026-08-06T21:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire smoke is back in B.C.: What you need to know to protect your health",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/wildfire-smoke-what-you-need-know-protect-your-health",
+      "published_date": "2026-08-06T21:53:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Missing hiker rescued in Strathcona Provincial Park",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/missing-hiker-found-alive-in-strathcona-provincial-park",
+      "published_date": "2026-08-06T21:14:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Calgary man says beachside heroics saved his son from drowning in Enderby river",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/calgary-man-says-beachside-heroics-saved-his-son-from-drowning-in-enderby-river/",
+      "published_date": "2026-08-06T20:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. man finishes 3rd in poker’s World Championship, wins $3.75M",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/b-c-man-finishes-3rd-in-pokers-world-championship-wins-3-75m/",
+      "published_date": "2026-08-06T20:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver venue to host Canada&#039;s only Lost Weekend listening party",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-venue-to-host-canadas-only-lost-weekend-listening-party",
+      "published_date": "2026-08-06T20:10:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. home second to be built with fire resistant magnesium oxide panels",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/b-c-home-second-to-be-built-with-fire-resistant-magnesium-oxide-panels/",
+      "published_date": "2026-08-06T20:07:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. updates consumer protection laws to better regulate contracts",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/b-c-updates-consumer-protection-laws-to-better-regulate-contracts/",
+      "published_date": "2026-08-06T19:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake welcomes new staff sergeant",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/burns-lake-welcomes-new-staff-sergeant/",
+      "published_date": "2026-08-06T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mississauga man shaken after Toronto police shooting near quiet neighbourhood: 'WHAT THE HECK IS GOING ON?'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/mississauga-man-shaken-after-toronto-police-shooting-near-quiet-neighbourhood-what-the-heck-is-going-on",
+      "published_date": "2026-08-06T18:56:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What's On Windsor: Pride parade, poolside Jaws, International DJ Benny Benassi and more",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/food-insecurity-in-windsor-essex-is-growing-say-public-health-units-and-food-banks",
-      "published_date": "2026-07-30T15:26:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Donald Trump tells Vegas he loves Canadians but 'they're nasty'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/donald-trump-calls-canadians-nasty",
-      "published_date": "2026-08-06T12:45:22Z",
+      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-pride-parade-poolside-jaws-international-dj-benny-benassi-and-more",
+      "published_date": "2026-08-06T18:22:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Visibility stops overnight tanking operations at Bradley Creek wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/visibility-stops-overnight-tanking-operations-at-bradley-creek-wildfire/",
-      "published_date": "2026-08-06T12:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nature Nut: Why are warblers yellow?",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/nature-nut-why-are-warblers-yellow/",
-      "published_date": "2026-08-06T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anxiety doesn’t always look like we expect",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/anxiety-doesnt-always-look-like-we-expect/",
-      "published_date": "2026-08-06T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeep Cherokee sought in Highway 410 hit-and-run",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/jeep-cherokee-sought-highway-410-hit-and-run",
-      "published_date": "2026-08-06T11:59:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Non-citizen violent offender Medhani Yohans breaches yet again: Cops",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/non-citizen-violent-offender-medhani-yohans-breaches-yet-again-cops",
-      "published_date": "2026-08-06T11:34:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SIU probing fatal shooting involving Toronto Police in Mississauga",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/siu-probing-fatal-shooting-involving-toronto-police-in-mississauga",
-      "published_date": "2026-08-06T11:18:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke Community Calendar: Local events and activities",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-community-calendar-local-events-and-activities",
-      "published_date": "2026-08-06T10:39:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor toasts rum-running past with inaugural Prohibition Week",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-toasts-rum-running-past-with-inaugural-prohibition-week",
-      "published_date": "2026-08-06T10:33:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke Horticultural Society announces June, July garden winners",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-horticultural-society-announces-june-july-garden-winners",
-      "published_date": "2026-08-06T10:30:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Essex MP calls for review of severe-weather warning system",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/essex-mp-calls-for-review-of-severe-weather-warning-system",
-      "published_date": "2026-08-06T10:26:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elopee wanted by cops after fleeing CAMH; tips sought on robbery suspect",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-elopee-wanted-after-fleeing-camh",
-      "published_date": "2026-08-06T02:38:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2,318 people assisted in Vernon from Bradley Creek wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/05/2318-people-assisted-in-vernon-from-bradley-creek-wildfire/",
-      "published_date": "2026-08-06T02:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Court overturns B.C.&#039;s unique law for forced treatment of people with mental illness",
+      "title": "Don&#039;t skip these 5 beach day essentials",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-court-overturns-bc-unique-law-forced-treatment-mentally-ill",
-      "published_date": "2026-08-05T23:45:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives surpass NDP in fundraising for second quarter in a row",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservatives-surpass-ndp-fundraising-second-quarter",
-      "published_date": "2026-08-05T23:39:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Viral bodycam footage shows El Paso motorcycle cop almost hit by speeding car after pulling over another vehicle",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/el-paso-motorcycle-cop-almost-hit-speeding-car-pulling-over-another-vehicle",
-      "published_date": "2026-08-05T23:33:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Gridlock by design: Why provinces have no excuses left for hospital bed-blocking crisis",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-gridlock-by-design-why-provinces-have-no-excuses-left-for-hospital-bed-blocking-crisis",
-      "published_date": "2026-08-05T23:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Instacart delivery driver's car stolen in Atlanta with toddler still in back seat",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/delivery-driver-has-car-stolen-kid-inside",
-      "published_date": "2026-08-05T22:54:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First students start classes at SFU&#039;s new medical school in Surrey",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/first-students-start-classes-sfu-new-medical-school-surrey",
-      "published_date": "2026-08-05T22:51:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four teens charged in Muskoka 'crime spree'; photos of Scarborough sex assault suspect released",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/four-teens-charged-in-muskoka-crime-spree-photos-of-scarborough-sex-assault-suspect-released",
-      "published_date": "2026-08-05T22:22:41Z",
+      "url": "https://vancouversun.com/life/fashion-beauty/dont-skip-these-5-beach-day-essentials",
+      "published_date": "2026-08-06T18:00:23Z",
       "category": "Local Events"
     }
   ]
