@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T01:42:04Z",
+  "generated_at": "2026-08-07T11:35:18Z",
   "country": "Canada",
-  "total_stories": 63,
+  "total_stories": 61,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,13 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IRAN WAR: Trump says disarmament agreement reached with Hamas",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-july-31",
-      "published_date": "2026-07-31T11:21:44Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Dyer: Trump likely doesn't understand stakes in Iran war",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/opinion/columnists/dyer-trump-likely-doesnt-understand-stakes-in-iran-war",
@@ -141,13 +134,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/female-sailor-sexually-ravaged-male-female-navy-comrades",
       "published_date": "2026-07-31T13:20:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "New book honours Pikwakanagan First World War veteran",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/new-book-honours-pikwakanagan-first-world-war-veteran",
-      "published_date": "2026-07-31T11:33:06Z",
       "category": "Military"
     },
     {
@@ -312,6 +298,41 @@
       "category": "Economy"
     },
     {
+      "title": "Leamington cocaine trafficker spared harsher sentence thanks to Crown, says judge",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/leamington-cocaine-trafficker-spared-harsher-sentence-thanks-to-crown-says-judge",
+      "published_date": "2026-08-07T11:26:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LumberFest reaches $12,000 milestone for cancer care in Pembroke",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/lumberfest-reaches-12000-milestone-for-cancer-care-in-pembroke",
+      "published_date": "2026-08-07T10:58:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Square dancers from near and far visited Swinging Swallows at Owl Rafting",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/square-dancers-from-near-and-far-visited-swinging-swallows-at-owl-rafting",
+      "published_date": "2026-08-07T10:52:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor dealership accepts return of new car from man who claims to forget buying it",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-dealership-accepts-return-of-new-car-from-man-who-claims-to-forget-buying-it",
+      "published_date": "2026-08-07T10:28:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Kelowna campers ‘blissfully unaware’ of nearby growing wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/west-kelowna-campers-blissfully-unaware-of-nearby-growing-wildfire/",
+      "published_date": "2026-08-07T03:53:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Brampton man accused of hobby shop break-ins; cops probe North York hit-and-run",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/brampton-man-accused-hobby-shop-breakins",
@@ -414,41 +435,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/06/b-c-home-second-to-be-built-with-fire-resistant-magnesium-oxide-panels/",
       "published_date": "2026-08-06T20:07:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. updates consumer protection laws to better regulate contracts",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/b-c-updates-consumer-protection-laws-to-better-regulate-contracts/",
-      "published_date": "2026-08-06T19:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake welcomes new staff sergeant",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/burns-lake-welcomes-new-staff-sergeant/",
-      "published_date": "2026-08-06T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga man shaken after Toronto police shooting near quiet neighbourhood: 'WHAT THE HECK IS GOING ON?'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mississauga-man-shaken-after-toronto-police-shooting-near-quiet-neighbourhood-what-the-heck-is-going-on",
-      "published_date": "2026-08-06T18:56:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's On Windsor: Pride parade, poolside Jaws, International DJ Benny Benassi and more",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-pride-parade-poolside-jaws-international-dj-benny-benassi-and-more",
-      "published_date": "2026-08-06T18:22:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Don&#039;t skip these 5 beach day essentials",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/dont-skip-these-5-beach-day-essentials",
-      "published_date": "2026-08-06T18:00:23Z",
       "category": "Local Events"
     }
   ]
