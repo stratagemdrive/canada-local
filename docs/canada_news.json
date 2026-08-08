@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T11:17:10Z",
+  "generated_at": "2026-08-08T23:31:44Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 55,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,13 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "New Telus CEO slashes dividend as first step in major remake as company posts a $1.8 billion Q2 loss",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/new-telus-ceo-slashes-dividend-as-first-step-in-major-remake-as-company-posts-a-1-8-billion-q2-loss",
-      "published_date": "2026-08-01T15:00:37Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Houthi attack kills 3 Yemeni military members as Iran war widens",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-august-7",
@@ -137,6 +130,20 @@
       "category": "Military"
     },
     {
+      "title": "GOLDSTEIN: Stop hoarding windfall federal fuel tax revenues and give consumers a break now",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/stop-hoarding-windfall-federal-fuel-tax-revenues-give-consumers-break",
+      "published_date": "2026-08-08T21:27:08Z",
+      "category": "Energy"
+    },
+    {
+      "title": "COLUMN: What a Columbia Valley power outage taught me about preparedness",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/column-what-a-columbia-valley-power-outage-taught-me-about-preparedness/",
+      "published_date": "2026-08-08T12:00:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Vaughn Palmer: David Eby faces growing challenge reconciling LNG support, commitment to climate change",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-david-eby-challenge-reconciling-lng-support-climate-change",
@@ -183,27 +190,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/turning-sewage-energy-sen%cc%93a%e1%b8%b5w-towers-development-vancouver",
       "published_date": "2026-08-05T13:00:43Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Data centres use too much electricity and water",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/0711-letter-bilda",
-      "published_date": "2026-08-01T15:35:50Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate change is being ignored at our peril",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/climate-change-is-being-ignored-at-our-peril",
-      "published_date": "2026-08-01T15:17:15Z",
-      "category": "Energy"
-    },
-    {
-      "title": "COLUMN: Keeping energy affordable takes focus—and commitment",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/01/column-keeping-energy-affordable-takes-focus-and-commitment/",
-      "published_date": "2026-08-01T12:30:00Z",
       "category": "Energy"
     },
     {
@@ -270,164 +256,143 @@
       "category": "Economy"
     },
     {
-      "title": "VUONG: Canadians need to stop cutting down our tall poppies",
+      "title": "Former SUNshine Girl 'embracing' life as she turns 50",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/vuong-canadians-need-to-stop-cutting-down-our-tall-poppies",
-      "published_date": "2026-08-01T19:30:30Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/former-sunshine-girl-embracing-life-turns-50",
+      "published_date": "2026-08-08T23:13:21Z",
+      "category": "Local Events"
     },
     {
-      "title": "Chalebois: Trump’s New Tariffs Put Canada’s Food Economy on the Menu",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/chalebois-trumps-new-tariffs-put-canadas-food-economy-on-the-menu",
-      "published_date": "2026-08-01T16:05:39Z",
-      "category": "Economy"
+      "title": "UPDATE: ‘Aggressive’ wildfire grows to 10,340 hectares in Summerland",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/district-of-summerland-evacuated-hwy-97-closed-due-to-raging-bald-range-wildfire/",
+      "published_date": "2026-08-08T22:37:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Charlebois: Alcohol bans are coming back to haunt Canada",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/charlebois-alcohol-bans-are-coming-back-to-haunt-canada",
-      "published_date": "2026-08-01T15:14:35Z",
-      "category": "Economy"
+      "title": "BLIZZARD: Canadians with British citizenship get dinged in wallet to visit U.K.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canadians-british-citizenship-pay-visit-uk-passport",
+      "published_date": "2026-08-08T22:35:53Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tractor-trailer taken off road after inspection near Pembroke",
+      "title": "Penticton Peach Festival pivots, schedules fire relief concert",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/penticton-peach-festival-pivots-schedules-fire-relief-concert/",
+      "published_date": "2026-08-08T22:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Porter flight from Victoria to Toronto cancelled after child refuses to be buckled in",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/porter-flight-cancelled-child-refuses-seatbelt",
+      "published_date": "2026-08-08T21:42:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump facing mid-term massacre or will fractious Dems implode?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/donald-trump-mid-term-massacre-fractious-dems-implode",
+      "published_date": "2026-08-08T20:50:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. declares provincial state of emergency 1 day after wildfire evacuates Summerland",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/b-c-declares-provincial-state-of-emergency-1-day-after-wildfire-evacuates-summerland/",
+      "published_date": "2026-08-08T20:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arizona drowning victim identified as Ontario man nearly 50 years later",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/arizona-drowning-victim-identified-ontario-man-nearly-50-years-later",
+      "published_date": "2026-08-08T20:30:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man, 78, arrested in assault case; two more charged for hate propaganda",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-arrested-assault-hate-propaganda-charges",
+      "published_date": "2026-08-08T20:05:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New evacuation orders issued for Ainslie Creek wildfire near Merritt",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/new-evacuation-orders-issued-for-ainslie-creek-wildfire-near-merritt/",
+      "published_date": "2026-08-08T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: Lloyd Robertson a true, old school journalist without bias",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/lloyd-robertson-true-old-school-journalist-without-bias",
+      "published_date": "2026-08-08T19:37:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Rush of 10,000 people’ come into Penticton, flee fast-moving Bald Range wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/rush-of-10000-people-come-into-penticton-flee-fast-moving-bald-range-wildfire/",
+      "published_date": "2026-08-08T19:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Petawawa's new letter sign tells the story of a community",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/tractor-trailer-taken-off-road-after-inspection-near-pembroke",
-      "published_date": "2026-08-08T10:50:46Z",
+      "url": "https://www.pembrokeobserver.com/news/petawawas-new-letter-sign-tells-the-story-of-a-community",
+      "published_date": "2026-08-08T19:13:44Z",
       "category": "Local Events"
     },
     {
-      "title": "UPDATE: Part of Peachland on evacuation alert as Bald Range wildfire pushes north",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/update-all-of-summerland-ordered-to-evacuate-as-wildfire-approaches-highway-97/",
-      "published_date": "2026-08-08T07:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An RV blew up in Abbotsford. The reason? Rodents.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/abbotsford-rv-explosion-rodents",
-      "published_date": "2026-08-08T04:06:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHOTOS: Wildfire rapidly spreading, encroaching on Peachland, Summerland",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/photos-wildfire-rapidly-spreading-encroaching-on-peachland-summerland/",
-      "published_date": "2026-08-08T04:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Some Westside residents can return home as OKIB rescinds evacuation order",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/widespread-smoke-decreased-fire-behaviour-at-bradley-creek-blaze/",
-      "published_date": "2026-08-08T01:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP investigating three more fires following string of suspcious blazes in Shuswap",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/rcmp-investigating-three-more-fires-following-string-of-suspcious-blazes-in-shuswap/",
-      "published_date": "2026-08-07T23:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I’ve lost about 8 people to suicide,’ youth delegate tells Inuit council in Nunavut",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/ive-lost-about-8-people-to-suicide-youth-delegate-tells-inuit-council-in-nunavut/",
-      "published_date": "2026-08-07T23:28:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ATVBC recommends members postpone riding due to fire risk",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/atvbc-recommends-members-postpone-riding-due-to-fire-risk/",
-      "published_date": "2026-08-07T23:15:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Evacuation alert rescinded for Inonoaklin Creek wildfire east of Vernon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/update-evacuation-alert-rescinded-for-inonoaklin-creek-wildfire-east-of-vernon/",
-      "published_date": "2026-08-07T23:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SNOBELEN: Mark Carney following mistakes with tough-guy promises",
+      "title": "Toronto cops arrest three in Mississauga as SIU probes fatal shooting",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-mistakes-tough-guy-promises",
-      "published_date": "2026-08-07T23:10:32Z",
+      "url": "https://torontosun.com/news/local-news/cops-arrest-three-mississauga-shooting-siu",
+      "published_date": "2026-08-08T19:08:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Auditor general of Canada reviewing Nunavut drinking water management",
+      "title": "BCHL to oversee Island hockey league under renewed deal",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/auditor-general-of-canada-reviewing-nunavut-drinking-water-management/",
-      "published_date": "2026-08-07T22:58:52Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/bchl-to-oversee-island-hockey-league-under-renewed-deal/",
+      "published_date": "2026-08-08T18:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Terrace pilot killed in helicopter crash while fighting wildfire in Greece",
+      "title": "Penticton Peach Festival cancels all Saturday activities due to Bald Range fire",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/terrace-pilot-killed-in-helicopter-crash-while-fighting-wildfire-in-greece/",
-      "published_date": "2026-08-07T22:29:59Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/penticton-peach-festival-cancels-all-saturday-activities-due-to-bald-range-fire/",
+      "published_date": "2026-08-08T18:22:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Shucks to be them: Four fishers fined $18,000 for shellfish harvesting violations",
+      "title": "Four fires burning near Clinton grow to nearly 200,000 hectares",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/four-fires-burning-near-clinton-grow-to-nearly-200000-hectares/",
+      "published_date": "2026-08-08T18:04:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The big beauty benefits of a lash lift and brow tint",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/fishers-fined-18000-for-shellfish-harvesting-violations",
-      "published_date": "2026-08-07T22:11:11Z",
+      "url": "https://vancouversun.com/life/fashion-beauty/the-big-beauty-benefits-of-a-lash-lift-and-brow-tint",
+      "published_date": "2026-08-08T18:00:03Z",
       "category": "Local Events"
     },
     {
-      "title": "UPDATE: Some residents not following evacuation orders for Quilpituk Creek wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/wind-causes-increased-fire-activity-at-quilpituk-creek-wildfire/",
-      "published_date": "2026-08-07T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna native shortlisted in Rugby Photographer of the Year contest",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/kelowna-native-shortlisted-in-rugby-photographer-of-the-year-contest/",
-      "published_date": "2026-08-07T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. government seeks to seize vehicle linked to Surrey extortion shooting",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/b-c-government-seeks-to-seize-vehicle-linked-to-surrey-extortion-shooting/",
-      "published_date": "2026-08-07T21:43:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inquest issues 7 recommendations to reform policing practices after Haida Elder’s death in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/inquest-issues-7-recommendations-to-reform-policing-practices-after-haida-elders-death-in-b-c/",
-      "published_date": "2026-08-07T21:38:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP officer cleared in 2024 Tsay Key Dene shooting",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/rcmp-officer-cleared-in-2024-tsay-key-dene-shooting/",
-      "published_date": "2026-08-07T21:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police Chief Myron Demkiw urges stiffer sentences for public space shooters",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/police-chief-myron-demkiw-stiffer-sentences-public-space-shooters",
-      "published_date": "2026-08-07T20:54:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motorcyclist seriously injured in Surrey crash near Highway 1",
+      "title": "Targeted shooting in Whalley leaves one man in hospital",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/motorcyclist-seriously-injured-in-surrey-crash-near-highway-1",
-      "published_date": "2026-08-07T20:21:23Z",
+      "url": "https://vancouversun.com/news/targeted-shooting-whalley",
+      "published_date": "2026-08-08T17:57:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver student wins top honours in national student art challenge",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-student-wins-top-honours-in-national-student-art-challenge",
+      "published_date": "2026-08-08T15:00:51Z",
       "category": "Local Events"
     }
   ]
