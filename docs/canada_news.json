@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T23:35:53Z",
+  "generated_at": "2026-08-08T11:17:10Z",
   "country": "Canada",
-  "total_stories": 58,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -137,6 +137,13 @@
       "category": "Military"
     },
     {
+      "title": "Vaughn Palmer: David Eby faces growing challenge reconciling LNG support, commitment to climate change",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-david-eby-challenge-reconciling-lng-support-climate-change",
+      "published_date": "2026-08-07T23:53:19Z",
+      "category": "Energy"
+    },
+    {
       "title": "Stunning images of sun's surface hailed as 'major step forward' for science",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/solar-telescope-captures-unprecedented-images-sun-surface",
@@ -198,6 +205,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/08/01/column-keeping-energy-affordable-takes-focus-and-commitment/",
       "published_date": "2026-08-01T12:30:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Canada’s biggest taxonomy lab to call Esquimalt home",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/canadas-biggest-taxonomy-lab-to-call-esquimalt-home/",
+      "published_date": "2026-08-08T00:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: Nurses&#039; job action about fairness and support, not just wages",
@@ -275,6 +289,48 @@
       "url": "https://windsorstar.com/opinion/columnists/charlebois-alcohol-bans-are-coming-back-to-haunt-canada",
       "published_date": "2026-08-01T15:14:35Z",
       "category": "Economy"
+    },
+    {
+      "title": "Tractor-trailer taken off road after inspection near Pembroke",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/tractor-trailer-taken-off-road-after-inspection-near-pembroke",
+      "published_date": "2026-08-08T10:50:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Part of Peachland on evacuation alert as Bald Range wildfire pushes north",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/update-all-of-summerland-ordered-to-evacuate-as-wildfire-approaches-highway-97/",
+      "published_date": "2026-08-08T07:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "An RV blew up in Abbotsford. The reason? Rodents.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/abbotsford-rv-explosion-rodents",
+      "published_date": "2026-08-08T04:06:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PHOTOS: Wildfire rapidly spreading, encroaching on Peachland, Summerland",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/photos-wildfire-rapidly-spreading-encroaching-on-peachland-summerland/",
+      "published_date": "2026-08-08T04:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Some Westside residents can return home as OKIB rescinds evacuation order",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/widespread-smoke-decreased-fire-behaviour-at-bradley-creek-blaze/",
+      "published_date": "2026-08-08T01:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP investigating three more fires following string of suspcious blazes in Shuswap",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/rcmp-investigating-three-more-fires-following-string-of-suspcious-blazes-in-shuswap/",
+      "published_date": "2026-08-07T23:37:00Z",
+      "category": "Local Events"
     },
     {
       "title": "‘I’ve lost about 8 people to suicide,’ youth delegate tells Inuit council in Nunavut",
@@ -372,48 +428,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/motorcyclist-seriously-injured-in-surrey-crash-near-highway-1",
       "published_date": "2026-08-07T20:21:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Petawawa chooses Ombudsman as closed meeting investigator",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/petawawa-chooses-ombudsman-as-closed-meeting-investigator",
-      "published_date": "2026-08-07T20:16:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police charge 13-year-old boy after east-end stabbing",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-charge-13-year-old-boy-after-east-end-stabbing",
-      "published_date": "2026-08-07T20:11:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP seize 17 firearms during Brudenell-Lyndoch and Raglan Twp. search",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/opp-seize-17-firearms-during-brudenell-lyndoch-and-raglan-twp-search",
-      "published_date": "2026-08-07T19:55:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: A morning jolt of crack and beer on the TTC",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/morning-jolt-crack-beer-ttc",
-      "published_date": "2026-08-07T19:14:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Union calls for $128M funding boost, 1,200 more workers for Windsor hospitals",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/union-calls-for-128m-funding-boost-1200-more-workers-for-windsor-hospitals",
-      "published_date": "2026-08-07T18:37:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver claims 'unstable' Toronto cop pulled gun during traffic stop",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/driver-claims-unstable-toronto-cop-pulled-gun-during-traffic-stop",
-      "published_date": "2026-08-07T18:30:31Z",
       "category": "Local Events"
     }
   ]
