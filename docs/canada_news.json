@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:31:44Z",
+  "generated_at": "2026-08-09T11:17:31Z",
   "country": "Canada",
   "total_stories": 55,
   "categories": [
@@ -67,11 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "City of Windsor and Spitfires once again deliver for Hockey Canada",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/city-of-windsor-and-spitfires-once-again-deliver-for-hockey-canada",
-      "published_date": "2026-08-02T10:00:20Z",
-      "category": "Diplomacy"
+      "title": "UPDATE: Power restored in parts of Summerland as crews continue to battle Bald Range wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/district-of-summerland-evacuated-hwy-97-closed-due-to-raging-bald-range-wildfire/",
+      "published_date": "2026-08-09T01:30:00Z",
+      "category": "Military"
     },
     {
       "title": "Houthi attack kills 3 Yemeni military members as Iran war widens",
@@ -256,6 +256,41 @@
       "category": "Economy"
     },
     {
+      "title": "UPDATE: Bradley Creek wildfire near Vernon being held",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/update-bradley-creek-wildfire-near-vernon-being-held/",
+      "published_date": "2026-08-09T03:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rourke’s return sparks B.C. Lions to 27-24 win over Hamilton Tiger-Cats",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/rourkes-return-sparks-b-c-lions-to-27-24-win-over-hamilton-tiger-cats/",
+      "published_date": "2026-08-09T02:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "13-year-old girl missing after falling off paddleboard at Cultus Lake",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/13-year-old-girl-missing-after-falling-off-paddleboard-on-cultus-lake",
+      "published_date": "2026-08-09T00:17:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey’s ‘Ugly Potato Day’ breaks Guinness World Record",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/surreys-ugly-potato-day-breaks-guinness-world-record/",
+      "published_date": "2026-08-09T00:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP working to confirm fatality from Summerland wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/rcmp-working-to-confirm-fatality-from-summerland-wildfire/",
+      "published_date": "2026-08-08T23:29:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Former SUNshine Girl 'embracing' life as she turns 50",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/former-sunshine-girl-embracing-life-turns-50",
@@ -358,41 +393,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/08/bchl-to-oversee-island-hockey-league-under-renewed-deal/",
       "published_date": "2026-08-08T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penticton Peach Festival cancels all Saturday activities due to Bald Range fire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/penticton-peach-festival-cancels-all-saturday-activities-due-to-bald-range-fire/",
-      "published_date": "2026-08-08T18:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four fires burning near Clinton grow to nearly 200,000 hectares",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/four-fires-burning-near-clinton-grow-to-nearly-200000-hectares/",
-      "published_date": "2026-08-08T18:04:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The big beauty benefits of a lash lift and brow tint",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/the-big-beauty-benefits-of-a-lash-lift-and-brow-tint",
-      "published_date": "2026-08-08T18:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Targeted shooting in Whalley leaves one man in hospital",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/targeted-shooting-whalley",
-      "published_date": "2026-08-08T17:57:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver student wins top honours in national student art challenge",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vancouver-student-wins-top-honours-in-national-student-art-challenge",
-      "published_date": "2026-08-08T15:00:51Z",
       "category": "Local Events"
     }
   ]
