@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T23:34:07Z",
+  "generated_at": "2026-08-10T11:38:27Z",
   "country": "Canada",
-  "total_stories": 57,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ukrainian ambassador summoned after drone explodes near pipeline in Bulgaria",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/ukrainian-ambassador-summoned-drone-explodes-bulgaria",
+      "published_date": "2026-08-10T00:06:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Douglas Todd: Religion is down dramatically in Canada, but not spiritual impulse",
       "source": "Vancouver Sun",
@@ -65,6 +72,13 @@
       "url": "https://torontosun.com/life/food/hersheys-chocolate-recall-almond-allergy-concerns",
       "published_date": "2026-08-03T13:06:23Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says Saudi-Pakistan-Turkey pact shows 'change in perception' towards U.S.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-august-10",
+      "published_date": "2026-08-10T11:02:27Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: IRGC says Strait of Hormuz won't reopen unless U.S. agrees to demands",
@@ -270,6 +284,48 @@
       "category": "Economy"
     },
     {
+      "title": "Renfrew County honours paramedics for years of dedicated service",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/renfrew-county-honours-paramedics-for-years-of-dedicated-service",
+      "published_date": "2026-08-10T10:42:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "John Yakabuski to discuss family's political legacy in Renfrew County",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/john-yakabuski-to-discuss-familys-political-legacy-in-renfrew-county",
+      "published_date": "2026-08-10T10:39:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor Pride Parade draws heavy turnout along Ottawa Street",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-pride-parade-draws-heavy-turnout-as-hundreds-march-along-ottawa-street",
+      "published_date": "2026-08-10T10:31:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City wants feedback on downtown Windsor revitalization plan",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/city-wants-feedback-on-downtown-windsor-revitalization-plan",
+      "published_date": "2026-08-10T10:23:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ottawa defends Windsor-Essex weather radar system after MP calls for upgrades",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/ottawa-defends-windsor-essex-weather-radar-system-after-mp-calls-for-upgrades",
+      "published_date": "2026-08-10T10:05:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP confirm fatality from Summerland wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/09/rcmp-confirm-fatality-from-summerland-wildfire/",
+      "published_date": "2026-08-10T00:52:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Air ambulance leaves scene of suspected bear attack in Maple Ridge",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bear-attack-maple-ridge-air-ambulance",
@@ -365,48 +421,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/letters-vancouver-storage-unit-ai-history",
       "published_date": "2026-08-09T15:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga music fundraiser for cancer returns this weekend: 'SOMETHING THAT BRINGS JOY'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mississauga-music-fundraiser-for-cancer-returns-this-weekend-something-that-brings-joy",
-      "published_date": "2026-08-09T14:58:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motorcyclist dead after Saturday morning collision on Riverside Drive East",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/motorcyclist-dead-after-saturday-morning-collision-on-riverside-drive-east",
-      "published_date": "2026-08-09T14:32:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$11M fraud trial begins in Chatham with one of three accused not present",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/11m-fraud-trial-begins-in-chatham-with-one-of-three-accused-not-present",
-      "published_date": "2026-08-09T14:21:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Political odd couple? Fred Francis appoints Brian Masse as his mayoral campaign manager",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/political-odd-couple-fred-francis-appoints-brian-masse-as-his-mayoral-campaign-manager",
-      "published_date": "2026-08-09T14:18:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New orange-lipped monkey species identified in Congo",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/new-monkey-species-identified-in-congo",
-      "published_date": "2026-08-09T13:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Bradley Creek wildfire near Vernon being held",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/update-bradley-creek-wildfire-near-vernon-being-held/",
-      "published_date": "2026-08-09T03:50:00Z",
       "category": "Local Events"
     }
   ]
