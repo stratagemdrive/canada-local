@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T11:38:27Z",
+  "generated_at": "2026-08-10T23:37:46Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -53,25 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "WestJet cabin crew strike ends, tentative agreement reached between union and staff",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/03/westjet-cabin-crew-strike-ends-tentative-agreement-reached-between-union-and-staff/",
-      "published_date": "2026-08-03T18:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "There&#039;s an unexpected installation at the heart of the new Canada Goose store in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/canada-goose-vancouver-store-installation",
-      "published_date": "2026-08-03T15:00:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hershey’s Kisses recalled in Canada over possible nut allergy concerns",
+      "title": "LILLEY: Ciao Canada! PM jets to Italy as trade war clock ticks",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/life/food/hersheys-chocolate-recall-almond-allergy-concerns",
-      "published_date": "2026-08-03T13:06:23Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/national/pm-jets-to-italy-as-trade-war-clock-ticks",
+      "published_date": "2026-08-10T23:12:14Z",
+      "category": "Military"
     },
     {
       "title": "Iran says Saudi-Pakistan-Turkey pact shows 'change in perception' towards U.S.",
@@ -151,6 +137,13 @@
       "category": "Military"
     },
     {
+      "title": "NextStar Energy workers ratify new contract",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/nextstar-energy-workers-ratify-new-contract",
+      "published_date": "2026-08-10T17:20:27Z",
+      "category": "Energy"
+    },
+    {
       "title": "Action needed to protect Line 5 in Sarnia: MP",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/action-needed-to-protect-line-5-in-sarnia-mp",
@@ -221,6 +214,27 @@
       "category": "Energy"
     },
     {
+      "title": "B.C.’s deficit ends fiscal year $3.2 billion lower than budget",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/b-c-s-deficit-ends-fiscal-year-3-2-billion-lower-than-budget/",
+      "published_date": "2026-08-10T23:17:09Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Vaughn Palmer: Budget trick just guarantees a larger deficit in B.C. next year",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-budget-trick-guarantees-larger-bc-deficit-next-year",
+      "published_date": "2026-08-10T23:02:59Z",
+      "category": "Economy"
+    },
+    {
+      "title": "WARMINGTON: Mark Carney turning blind eye to Canada by vacationing now",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/mark-carney-turning-blind-eye-canada-vacationing-now",
+      "published_date": "2026-08-10T21:34:59Z",
+      "category": "Economy"
+    },
+    {
       "title": "Canada’s biggest taxonomy lab to call Esquimalt home",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/07/canadas-biggest-taxonomy-lab-to-call-esquimalt-home/",
@@ -277,150 +291,143 @@
       "category": "Economy"
     },
     {
-      "title": "&#039;Seaweed School:&#039; How B.C. kids are being trained on Hornby Island to understand the ocean&#039;s forests",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/seaweed-school-bc-kids-hornby-island-ocean-forests",
-      "published_date": "2026-08-03T13:00:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Renfrew County honours paramedics for years of dedicated service",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/renfrew-county-honours-paramedics-for-years-of-dedicated-service",
-      "published_date": "2026-08-10T10:42:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Yakabuski to discuss family's political legacy in Renfrew County",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/john-yakabuski-to-discuss-familys-political-legacy-in-renfrew-county",
-      "published_date": "2026-08-10T10:39:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor Pride Parade draws heavy turnout along Ottawa Street",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-pride-parade-draws-heavy-turnout-as-hundreds-march-along-ottawa-street",
-      "published_date": "2026-08-10T10:31:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City wants feedback on downtown Windsor revitalization plan",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/city-wants-feedback-on-downtown-windsor-revitalization-plan",
-      "published_date": "2026-08-10T10:23:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ottawa defends Windsor-Essex weather radar system after MP calls for upgrades",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/ottawa-defends-windsor-essex-weather-radar-system-after-mp-calls-for-upgrades",
-      "published_date": "2026-08-10T10:05:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP confirm fatality from Summerland wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/09/rcmp-confirm-fatality-from-summerland-wildfire/",
-      "published_date": "2026-08-10T00:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air ambulance leaves scene of suspected bear attack in Maple Ridge",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bear-attack-maple-ridge-air-ambulance",
-      "published_date": "2026-08-09T21:59:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: 3 year old mauled by bear in the Lower Mainland",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/09/video-3-year-old-mauled-by-bear-in-the-lower-mainland/",
-      "published_date": "2026-08-09T21:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;We are here for each other&#039;: Stories of animal rescues, escapes from massive Summerland wildfire",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bald-range-wildfire-summerland-animal-rescues-evacuations",
-      "published_date": "2026-08-09T21:20:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: BC Wildfire to conduct ignitions around Quilpituk Creek blaze to reduce fuel",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/09/quilpituk-creek-wildfire-grows-to-1238-hectares/",
-      "published_date": "2026-08-09T20:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: B.C. rider celebrates becoming Canadian citizen with double victory",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/09/video-b-c-rider-celebrates-becoming-canadian-citizen-with-double-victory/",
-      "published_date": "2026-08-09T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: More evacuation orders issued due to Bald Range wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/09/summerland-hasnt-been-destroyed-due-to-bald-range-wildfire-cao-says/",
-      "published_date": "2026-08-09T19:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bradley Creek wildfire complex near Vernon still being held",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/09/bradley-creek-wildfire-complex-near-vernon-still-being-held/",
-      "published_date": "2026-08-09T18:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires near Clinton now over 213,000 hectares, remain out-of-control",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/09/wildfires-near-clinton-now-over-200000-hectares-remain-out-of-control/",
-      "published_date": "2026-08-09T18:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 men charged following gunpoint robbery, police chase in Toronto; Cops probing east-end assaults",
+      "title": "Hamilton man identified as victim of fatal west-end stabbing",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/2-men-charged-following-gunpoint-robbery-police-chase-in-toronto",
-      "published_date": "2026-08-09T17:49:32Z",
+      "url": "https://torontosun.com/news/local-news/hamilton-man-identified-west-end-stabbing",
+      "published_date": "2026-08-10T23:20:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Jewish groups welcome latest Toronto antisemitic protest probe arrests",
+      "title": "Man injured in grizzly bear attack near Pemberton",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/man-injured-in-grizzly-bear-attack-near-pemberton/",
+      "published_date": "2026-08-10T23:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: B.C. whale watching captain sounds alarm for tangled humpback calf",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/video-b-c-whale-watching-captain-sounds-alarm-for-tangled-humpback-calf/",
+      "published_date": "2026-08-10T22:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested in Summerland evacuation area as officials ask for patience",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/man-arrested-in-summerland-evacuation-area-as-officials-ask-for-patience/",
+      "published_date": "2026-08-10T22:11:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ontario woman accused of stealing gold, silver in U.S.; vehicles torched in Richmond Hill",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/jewish-groups-welcome-latest-toronto-antisemitic-protest-probe-arrests",
-      "published_date": "2026-08-09T16:43:21Z",
+      "url": "https://torontosun.com/news/local-news/canadian-arrested-gold-silver-theft-pennsylvania",
+      "published_date": "2026-08-10T22:07:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Man, 21, dead after overnight stabbing in Hamilton; St. Catharines man charged in deadly attack",
+      "title": "UPDATE: RCMP kills wrong bear following attack of 3 year old in Lower Mainland",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/rcmp-kills-wrong-bear-following-attack-of-3-year-old-in-lower-mainland/",
+      "published_date": "2026-08-10T21:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Okanagan RCMP seeking witnesses to ignition of fatal Bald Range wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/okanagan-rcmp-seeking-witnesses-to-ignition-of-fatal-bald-range-wildfire/",
+      "published_date": "2026-08-10T21:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feds launch $100M steel shipping support program amid U.S. trade squeeze",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-dead-overnight-stabbing-hamilton",
-      "published_date": "2026-08-09T16:36:48Z",
+      "url": "https://torontosun.com/news/national/feds-launch-steel-shipping-support-program",
+      "published_date": "2026-08-10T21:09:09Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. Wildfires Updates: &#039;High potential&#039; for new fires &#124; New evacuation order for Bald Range blaze &#124; State of emergency declared",
+      "title": "Man, 50, charged for four random assaults in 30 minutes in Vancouver",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-wildfires-live-updates-emergency-evacuations-summerland",
-      "published_date": "2026-08-09T16:34:16Z",
+      "url": "https://vancouversun.com/news/man-50-charged-for-four-random-assaults-in-30-minutes-in-vancouver",
+      "published_date": "2026-08-10T20:20:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Miss Universe Canada contestants slammed for 'cultural appropriation' in costume segment",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/miss-universe-canada-contestants-slammed-for-cultural-appropriation-in-costume-segment",
-      "published_date": "2026-08-09T15:54:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A forgotten box of letters in a Vancouver storage unit reveals a family&#039;s history — with help from AI",
+      "title": "B.C. Wildfires Updates: Bald Range fire grows as police probe origin &#124; Off-road vehicles banned &#124; Woman dies fleeing wildfire",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/letters-vancouver-storage-unit-ai-history",
-      "published_date": "2026-08-09T15:00:50Z",
+      "url": "https://vancouversun.com/news/bc-wildfires-updates-summerland-penticton-evacuations",
+      "published_date": "2026-08-10T20:01:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: The truth about Larry Brock leaving as Conservative MP",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/the-truth-about-larry-brock-leaving-as-a-conservative-mp",
+      "published_date": "2026-08-10T19:57:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: B.C. is fighting 21st-century wildfires with a 20th-century tool kit",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/bc-is-fighting-21st-century-wildfires-with-a-20th-century-toolkit",
+      "published_date": "2026-08-10T19:51:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "No off-road vehicles allowed on Crown land in parts of wildfire-hit southern B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/no-off-road-vehicles-allowed-on-crown-land-in-parts-of-wildfire-hit-southern-b-c/",
+      "published_date": "2026-08-10T19:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celebrity golfers bring in big cash for Smithers",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/celebrity-golfers-bring-in-big-cash-for-smithers/",
+      "published_date": "2026-08-10T19:23:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tory support slips as Liberals pull ahead: poll",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/tory-support-slips-as-liberals-pull-ahead-poll",
+      "published_date": "2026-08-10T19:23:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strap in: Victoria flight cancelled after child refused to wear seatbelt",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/strap-in-victoria-flight-cancelled-after-child-refused-to-wear-seatbelt/",
+      "published_date": "2026-08-10T18:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Third person charged in GTA synagogue shootings",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/third-person-charged-in-gta-synagogue-shootings",
+      "published_date": "2026-08-10T18:14:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/best-beauty-products-we-tried-this-week-6",
+      "published_date": "2026-08-10T18:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "1 charged with uttering death threats against Canadian Prime Minister Mark Carney",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/1-charged-with-uttering-death-threats-against-canadian-prime-minister-mark-carney/",
+      "published_date": "2026-08-10T17:22:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "First look: North Shore&#039;s oldest standing house gets new life as a waterfront restaurant and bar",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/navvy-house-navvy-jack-house-west-vancouver",
+      "published_date": "2026-08-10T17:00:13Z",
       "category": "Local Events"
     }
   ]
