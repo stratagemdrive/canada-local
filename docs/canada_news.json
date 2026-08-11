@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T23:37:46Z",
+  "generated_at": "2026-08-11T11:34:14Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 61,
   "categories": [
     "Diplomacy",
     "Military",
@@ -51,6 +51,13 @@
       "url": "https://torontosun.com/news/national/canada-u-s-trade-talks-back-on-in-washington",
       "published_date": "2026-08-04T18:17:53Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Lebanon says Israeli strike on south wounds 2",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-august-11",
+      "published_date": "2026-08-11T11:09:26Z",
+      "category": "Military"
     },
     {
       "title": "LILLEY: Ciao Canada! PM jets to Italy as trade war clock ticks",
@@ -127,13 +134,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/04/estimated-230-homes-destroyed-by-bradley-creek-fire-near-vernon-okanagan-chief/",
       "published_date": "2026-08-04T19:34:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRAN WAR: Ship attacked after Trump says Strait of Hormuz could reopen",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-aug-4",
-      "published_date": "2026-08-04T11:31:08Z",
       "category": "Military"
     },
     {
@@ -214,6 +214,13 @@
       "category": "Energy"
     },
     {
+      "title": "GOLDSTEIN: Corporate welfare is strangling Canadian economy: study",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/corporate-welfare-strangling-canadian-economy-study",
+      "published_date": "2026-08-11T09:00:32Z",
+      "category": "Economy"
+    },
+    {
       "title": "B.C.’s deficit ends fiscal year $3.2 billion lower than budget",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/10/b-c-s-deficit-ends-fiscal-year-3-2-billion-lower-than-budget/",
@@ -291,6 +298,90 @@
       "category": "Economy"
     },
     {
+      "title": "Petawawa Heritage Festival brings local history to life",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/petawawa-heritage-festival-brings-local-history-to-life",
+      "published_date": "2026-08-11T11:02:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Tony' star Dominic Sessa says Anthony Bourdain origin story really an ensemble film",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/movies/tony-star-dominic-sessa-says-anthony-bourdain-origin-story-really-an-ensemble-film",
+      "published_date": "2026-08-11T11:00:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Petawawa reviewing bylaw allowing e-scooter operation in the town",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/petawawa-reviewing-bylaw-allowing-e-scooter-operation-in-the-town",
+      "published_date": "2026-08-11T10:18:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police arrest man for alleged breach of bail, fleeing officers",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-man-for-alleged-breach-of-bail-fleeing-officers",
+      "published_date": "2026-08-11T10:13:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Ward 4 Coun. Chris Holt mounts comeback in Windsor political arena",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/former-ward-4-coun-chris-holt-mounts-comeback-in-windsor-political-arena",
+      "published_date": "2026-08-11T09:41:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Upper Ottawa Valley OPP lay charges in series of impaired driving incidents",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/upper-ottawa-valley-opp-lay-charges-in-series-of-impaired-driving-incidents",
+      "published_date": "2026-08-11T09:23:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Challenging overnight fire behaviour expected on Bald Range blaze in Summerland",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/bald-range-wildfire-west-of-summerland-grows-to-over-15000-hectares/",
+      "published_date": "2026-08-11T01:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shifting winds could increase activity on Quilpituk Creek wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/shifting-winds-potentially-to-increase-activity-on-quilpituk-creek-wildfire/",
+      "published_date": "2026-08-11T01:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brampton man accused of stabbing; cops probe arson at abandoned Fort Erie school",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/brampton-man-accused-mississauga-stabbing",
+      "published_date": "2026-08-11T00:54:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Once again, the Windsor Jr. Selects turned a second chance into a championship",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/once-again-the-windsor-jr-selects-turned-a-second-chance-into-a-championship",
+      "published_date": "2026-08-11T00:38:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. man charged with sexual assault in Ontario",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/b-c-man-charged-with-sexual-assault-in-ontario/",
+      "published_date": "2026-08-11T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evacuees consider uncertain future after harrowing escapes from B.C. wildfire",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/summerland-residents-harrowing-escapes-bald-range-wildfire-bc",
+      "published_date": "2026-08-11T00:08:03Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Hamilton man identified as victim of fatal west-end stabbing",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/hamilton-man-identified-west-end-stabbing",
@@ -344,90 +435,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/feds-launch-steel-shipping-support-program",
       "published_date": "2026-08-10T21:09:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 50, charged for four random assaults in 30 minutes in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-50-charged-for-four-random-assaults-in-30-minutes-in-vancouver",
-      "published_date": "2026-08-10T20:20:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Wildfires Updates: Bald Range fire grows as police probe origin &#124; Off-road vehicles banned &#124; Woman dies fleeing wildfire",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-wildfires-updates-summerland-penticton-evacuations",
-      "published_date": "2026-08-10T20:01:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: The truth about Larry Brock leaving as Conservative MP",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/the-truth-about-larry-brock-leaving-as-a-conservative-mp",
-      "published_date": "2026-08-10T19:57:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: B.C. is fighting 21st-century wildfires with a 20th-century tool kit",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/bc-is-fighting-21st-century-wildfires-with-a-20th-century-toolkit",
-      "published_date": "2026-08-10T19:51:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No off-road vehicles allowed on Crown land in parts of wildfire-hit southern B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/no-off-road-vehicles-allowed-on-crown-land-in-parts-of-wildfire-hit-southern-b-c/",
-      "published_date": "2026-08-10T19:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celebrity golfers bring in big cash for Smithers",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/celebrity-golfers-bring-in-big-cash-for-smithers/",
-      "published_date": "2026-08-10T19:23:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tory support slips as Liberals pull ahead: poll",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/tory-support-slips-as-liberals-pull-ahead-poll",
-      "published_date": "2026-08-10T19:23:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strap in: Victoria flight cancelled after child refused to wear seatbelt",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/strap-in-victoria-flight-cancelled-after-child-refused-to-wear-seatbelt/",
-      "published_date": "2026-08-10T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Third person charged in GTA synagogue shootings",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/third-person-charged-in-gta-synagogue-shootings",
-      "published_date": "2026-08-10T18:14:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/best-beauty-products-we-tried-this-week-6",
-      "published_date": "2026-08-10T18:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 charged with uttering death threats against Canadian Prime Minister Mark Carney",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/10/1-charged-with-uttering-death-threats-against-canadian-prime-minister-mark-carney/",
-      "published_date": "2026-08-10T17:22:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First look: North Shore&#039;s oldest standing house gets new life as a waterfront restaurant and bar",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/navvy-house-navvy-jack-house-west-vancouver",
-      "published_date": "2026-08-10T17:00:13Z",
       "category": "Local Events"
     }
   ]
