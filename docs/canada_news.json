@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T11:35:54Z",
+  "generated_at": "2026-08-12T23:45:08Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Former Miss Universe Canada calls out 'cultural appropriation' during pageant",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/former-miss-universe-canada-calls-out-cultural-appropriation-during-pageant",
+      "published_date": "2026-08-12T14:25:27Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Petition to kick out U.S. ambassador reaches nearly 30,000 signatures",
       "source": "Toronto Sun",
@@ -200,18 +207,18 @@
       "category": "Energy"
     },
     {
-      "title": "Canadians demand Ottawa scrap looming gas tax hike",
+      "title": "Senate Speaker drops nearly $900K on world travel: Canadian Taxpayers Federation",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadians-demand-ottawa-scrap-looming-gas-tax-hike",
-      "published_date": "2026-08-05T18:53:47Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/news/national/senate-speaker-drops-nearly-900k-on-world-travel-canadian-taxpayers-federation",
+      "published_date": "2026-08-12T20:46:22Z",
+      "category": "Economy"
     },
     {
-      "title": "Converting raw sewage into precious resource, Vancouver&#039;s Sen̓áḵw development aims for low-carbon future",
+      "title": "Blackwater gold mine expansion a major economic jolt for B.C.&#039;s Central Interior",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/turning-sewage-energy-sen%cc%93a%e1%b8%b5w-towers-development-vancouver",
-      "published_date": "2026-08-05T13:00:43Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/business/barely-open-blackwater-gold-mine-starts-work-on-expansion",
+      "published_date": "2026-08-12T13:00:39Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: When protectionism starts looking like supply management",
@@ -284,143 +291,143 @@
       "category": "Economy"
     },
     {
-      "title": "Renfrew County to push for Highway 17 'working group'?",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/renfrew-county-to-push-for-highway-17-working-group",
-      "published_date": "2026-08-12T10:33:26Z",
+      "title": "UPDATE: Evacuation orders, alerts to remain in place for Bald Range Wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/thunderstorms-winds-could-increase-fire-activity-at-bald-range-blaze-in-summerland/",
+      "published_date": "2026-08-12T23:43:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor police eye drones as first responders under new $3.2M border plan",
+      "title": "Missing Toronto woman found after high-level search; 4,000 cannabis plants seized",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-woman-found-high-level-search",
+      "published_date": "2026-08-12T23:27:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. lawsuit against parking app settled, 35 cent payout for members",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/b-c-lawsuit-against-parking-app-settled-35-cent-payout-for-members/",
+      "published_date": "2026-08-12T23:17:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Under David Eby, B.C. continues racking up eye-watering debt",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-continues-racking-up-eye-watering-debt-david-eby-bc-ndp",
+      "published_date": "2026-08-12T23:03:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mounties probing child's 'suspicious' death at Manitoba First Nation",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/rcmp-probing-manitoba-child-suspicious-death",
+      "published_date": "2026-08-12T22:36:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "All charges 'regretfully' withdrawn by Crown in deadly shooting of Toronto boy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/all-charges-regretfully-withdrawn-by-crown-in-deadly-shooting-of-toronto-boy",
+      "published_date": "2026-08-12T22:29:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Legislative committee calls on B.C. to back down on PST expansion",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/legislative-committee-calls-on-b-c-to-back-down-on-pst-expansion/",
+      "published_date": "2026-08-12T22:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: 'Worst of the worst' Brampton-based trucking firm has operating licence revoked",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/worst-of-the-worst-brampton-based-trucking-firm-has-operating-licence-revoked",
+      "published_date": "2026-08-12T22:11:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: How cost of the Ontario Line went from $10.9B to $34B",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/how-ontario-line-cost-hit-34-billion",
+      "published_date": "2026-08-12T22:02:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "White House Press Secretary Karoline Leavitt to step down at end of August",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/white-house-press-secretary-karoline-leavitt-step-down",
+      "published_date": "2026-08-12T21:44:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ontario government unveils new police helicopter in Peel Region",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/ontario-government-new-police-helicopter-peel-region",
+      "published_date": "2026-08-12T21:10:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PHOTOS: BC Wildfire Service sets up base in Okanagan Falls",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/photos-bc-wildfire-service-sets-up-base-in-okanagan-falls/",
+      "published_date": "2026-08-12T20:55:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;We’re incredibly grateful&#039;: Vancouver restaurant set to close Mount Pleasant location",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fable-diner-vancouver-restaurant-closing",
+      "published_date": "2026-08-12T20:43:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Butchart Gardens cancels fireworks as province declares wildfire emergency",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/butchart-gardens-cancels-fireworks-as-province-declares-wildfire-emergency/",
+      "published_date": "2026-08-12T20:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 players from 2018 junior team breached Hockey Canada code of conduct",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/5-players-from-2018-junior-team-breached-hockey-canada-code-of-conduct/",
+      "published_date": "2026-08-12T20:28:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fundraiser started to help parents of Maple Ridge bear attack victim",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/fundraiser-started-to-help-parents-of-maple-ridge-bear-attack-victim/",
+      "published_date": "2026-08-12T19:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver teacher gets lifetime ban after sexual assault conviction",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/vancouver-teacher-gets-lifetime-ban-after-sexual-assault-conviction/",
+      "published_date": "2026-08-12T18:54:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Evacuated residents at  Quilpituk Creek wildfire should prepare to head home",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/no-significant-fire-activity-despite-clearer-skies-at-quilpituk-creek-wildfire/",
+      "published_date": "2026-08-12T18:52:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Support urged for Summerland businesses",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/support-urged-for-summerland-businesses/",
+      "published_date": "2026-08-12T18:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nurse charged after alleged assault of child with special needs",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-eye-drones-as-first-responders-under-new-3-2m-border-plan",
-      "published_date": "2026-08-12T10:26:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke event to share different perspectives on immigration",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-event-to-share-different-perspectives-on-immigration",
-      "published_date": "2026-08-12T10:25:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Summerland landfill fire raises air-quality concerns, threatens water plant",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/summerland-landfill-fire-raises-air-quality-concerns-threatens-water-plant/",
-      "published_date": "2026-08-12T04:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. woman’s thesis examines wildfire misinformation amid Meta news ban",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/b-c-womans-thesis-examines-wildfire-misinformation-amid-meta-news-ban/",
-      "published_date": "2026-08-12T01:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Democrats' AOC moving from hard left to centre?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/is-democrats-aoc-moving-from-hard-left-to-centre",
-      "published_date": "2026-08-12T00:51:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child, adult critical after crash shuts down westbound 403; groups clash in Richmond Hill",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/child-adult-critical-highway-403-crash",
-      "published_date": "2026-08-12T00:46:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: B.C. first responders and legion welcomes the Rolling Barrage",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/video-b-c-first-responders-and-legion-welcomes-the-rolling-barrage/",
-      "published_date": "2026-08-12T00:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Summerland evacuees face lineups, uncertainty — and an outpouring of help",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-wildfires-summerland-evacuees-face-lineups-uncertainty-and-an-outpouring-of-help",
-      "published_date": "2026-08-12T00:15:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ainslie Creek fire moving towards Highways 5 and 8 as more orders, alerts issued",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/ainslie-creek-fire-moving-towards-highways-5-and-8-as-more-orders-alerts-issued/",
-      "published_date": "2026-08-11T23:41:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Polite Toronto bank robber admits to holding up five banks in 10 days",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/polite-toronto-bank-robber-pleads-guilty",
-      "published_date": "2026-08-11T23:25:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "You otter hear this rescue saga from B.C.&#039;s Alert Bay",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/baby-otter-rescue-saga-bc-alert-bay",
-      "published_date": "2026-08-11T23:24:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New St. Paul&#039;s Hospital, Surrey rapid transit and Highway 1 expansion among $4 billion in capital budget not spent by province",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-capital-budget-slippage-new-st-pauls-hospital-surrey-rapid-transit-highway-1-expansion-among-4-billion-not-spent-by-province",
-      "published_date": "2026-08-11T23:02:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penticton Search and Rescue asks travellers to be prepared before braving backroads",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/penticton-search-and-rescue-asks-travellers-to-be-prepared-before-braving-backroads/",
-      "published_date": "2026-08-11T22:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver artist’s Fallingwater residency shapes sculptural collection",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/vancouver-artists-fallingwater-residency-shapes-sculptural-collection",
-      "published_date": "2026-08-11T22:42:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BC Wildfire officials brace as fires blaze and more dry lightning expected",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/bc-wildfire-officials-brace-as-fires-blaze-and-more-dry-lightning-expected/",
-      "published_date": "2026-08-11T22:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "71-year-old Maine lifeguard recalls shark encounter",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/71-year-old-maine-lifeguard-recalls-shark-encounter",
-      "published_date": "2026-08-11T22:12:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ajax man accused of Bolton home invasion; T.O. parking enforcement officer assaulted",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ajax-man-bolton-home-invasion-parking-enforcement-officer-assault",
-      "published_date": "2026-08-11T21:59:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crews continue to patrol Hwy16 fire near Cedarvale",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/crews-continue-to-patrol-hwy16-fire-near-cedarvale/",
-      "published_date": "2026-08-11T21:55:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Evacuation orders, alerts to remain in place Quilpituk Creek wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/low-fire-behaviour-remains-planned-ignition-cancelled-at-quilpituk-creek-wildfire/",
-      "published_date": "2026-08-11T21:36:00Z",
+      "url": "https://windsorstar.com/news/local-news/nurse-charged-after-alleged-assault-of-child-with-special-needs",
+      "published_date": "2026-08-12T18:35:00Z",
       "category": "Local Events"
     }
   ]
