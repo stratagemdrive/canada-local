@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T23:43:36Z",
+  "generated_at": "2026-08-12T11:35:54Z",
   "country": "Canada",
-  "total_stories": 58,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Petition to kick out U.S. ambassador reaches nearly 30,000 signatures",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-petition-seeks-removal-us-ambassador",
+      "published_date": "2026-08-11T23:53:52Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "WARMINGTON: Ethics commissioner's advice to Mark Carney about Tuscany will remain secret",
       "source": "Toronto Sun",
@@ -51,6 +58,20 @@
       "url": "https://torontosun.com/news/local-news/toronto-police-charge-teen-young-man-in-second-u-s-consulate-shooting",
       "published_date": "2026-08-06T15:54:01Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "IRAN WAR: Trump says U.S. 'owns' and controls Strait of Hormuz",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/iran-war-latest-august-12",
+      "published_date": "2026-08-12T11:15:31Z",
+      "category": "Military"
+    },
+    {
+      "title": "Windsor honours fallen Canadian peacekeepers during memorial service",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-honours-fallen-canadian-peacekeepers-during-memorial-service",
+      "published_date": "2026-08-12T10:01:57Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Lebanon says Israeli strike on south wounds 2",
@@ -106,20 +127,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-aug-6",
       "published_date": "2026-08-06T11:44:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Strait of Hormuz will reopen 'very soon' or Iran will be attacked",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-aug-5",
-      "published_date": "2026-08-05T11:27:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "New Irish jet missing key part, thanks to anti-Israel ban",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/new-irish-jet-missing-key-part-thanks-to-anti-israel-ban",
-      "published_date": "2026-08-05T00:14:25Z",
       "category": "Military"
     },
     {
@@ -277,6 +284,69 @@
       "category": "Economy"
     },
     {
+      "title": "Renfrew County to push for Highway 17 'working group'?",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/renfrew-county-to-push-for-highway-17-working-group",
+      "published_date": "2026-08-12T10:33:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police eye drones as first responders under new $3.2M border plan",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-eye-drones-as-first-responders-under-new-3-2m-border-plan",
+      "published_date": "2026-08-12T10:26:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pembroke event to share different perspectives on immigration",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-event-to-share-different-perspectives-on-immigration",
+      "published_date": "2026-08-12T10:25:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Summerland landfill fire raises air-quality concerns, threatens water plant",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/summerland-landfill-fire-raises-air-quality-concerns-threatens-water-plant/",
+      "published_date": "2026-08-12T04:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. woman’s thesis examines wildfire misinformation amid Meta news ban",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/b-c-womans-thesis-examines-wildfire-misinformation-amid-meta-news-ban/",
+      "published_date": "2026-08-12T01:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Democrats' AOC moving from hard left to centre?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/is-democrats-aoc-moving-from-hard-left-to-centre",
+      "published_date": "2026-08-12T00:51:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Child, adult critical after crash shuts down westbound 403; groups clash in Richmond Hill",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/child-adult-critical-highway-403-crash",
+      "published_date": "2026-08-12T00:46:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: B.C. first responders and legion welcomes the Rolling Barrage",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/video-b-c-first-responders-and-legion-welcomes-the-rolling-barrage/",
+      "published_date": "2026-08-12T00:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Summerland evacuees face lineups, uncertainty — and an outpouring of help",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-wildfires-summerland-evacuees-face-lineups-uncertainty-and-an-outpouring-of-help",
+      "published_date": "2026-08-12T00:15:49Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ainslie Creek fire moving towards Highways 5 and 8 as more orders, alerts issued",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/11/ainslie-creek-fire-moving-towards-highways-5-and-8-as-more-orders-alerts-issued/",
@@ -351,69 +421,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/11/low-fire-behaviour-remains-planned-ignition-cancelled-at-quilpituk-creek-wildfire/",
       "published_date": "2026-08-11T21:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/internet-outage-affects-northern-bc-once-again/",
-      "published_date": "2026-08-11T21:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local jeweller accused of ties to Ryan Wedding won't fight extradition",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/local-jeweller-ryan-wedding-case-extradition",
-      "published_date": "2026-08-11T21:06:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burned pig among animals saved from Okanagan wildfires",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/burned-pig-among-animals-saved-from-okanagan-wildfires/",
-      "published_date": "2026-08-11T21:02:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Free food, boarding available for pets of B.C. wildfire evacuees",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/free-food-boarding-available-for-pets-of-b-c-wildfire-evacuees/",
-      "published_date": "2026-08-11T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Poll shows voters trust Mark Carney more than Pierre Poilievre",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/poll-shows-voters-trust-carney-more-than-poilievre",
-      "published_date": "2026-08-11T20:49:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Environment Canada implements targeted alert system for extreme weather warnings",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/meteorologists-implement-targeted-alert-system-for-extreme-weather-warnings",
-      "published_date": "2026-08-11T20:27:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lululemon releases a comically gigantic tote bag",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/lululemon-releases-gigantic-tote-bag",
-      "published_date": "2026-08-11T20:20:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey man charged with possession of child sexual exploitation materials",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-man-charged-possession-child-sexual-exploitation-materials",
-      "published_date": "2026-08-11T20:10:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netflix opens casting call for Love is Blind Canada",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/netflix-opens-casting-call-for-love-is-blind-canada/",
-      "published_date": "2026-08-11T19:42:03Z",
       "category": "Local Events"
     }
   ]
