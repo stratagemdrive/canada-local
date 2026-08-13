@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T11:35:50Z",
+  "generated_at": "2026-08-13T23:44:28Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 56,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: Doug Ford's cautious first steps in securing Ontario's AI-driven future",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/doug-ford-cautious-first-steps-securing-ontarios-ai-driven-future",
+      "published_date": "2026-08-13T21:07:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Queen’s University Faculty Association to hold strike vote",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/08/13/queens-university-faculty-association-to-hold-strike-vote/",
+      "published_date": "2026-08-13T19:14:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former Miss Universe Canada calls out 'cultural appropriation' during pageant",
       "source": "Windsor Star",
@@ -53,18 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Stellantis Canada CEO tight-lipped on whether company will use Gordie Howe bridge",
+      "title": "Province says Windsor's long-promised police helicopter still on the way",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/stellantis-canada-ceo-mum-on-whether-company-will-use-gordie-howe-bridge",
-      "published_date": "2026-08-06T16:12:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Toronto Police charge teen, young man in second U.S. Consulate shooting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-charge-teen-young-man-in-second-u-s-consulate-shooting",
-      "published_date": "2026-08-06T15:54:01Z",
-      "category": "Diplomacy"
+      "url": "https://windsorstar.com/news/local-news/province-says-windsors-long-promised-police-helicopter-still-on-the-way",
+      "published_date": "2026-08-13T16:57:10Z",
+      "category": "Military"
     },
     {
       "title": "Windsor police combat human trafficking with online portal, awareness campaign",
@@ -130,18 +137,18 @@
       "category": "Military"
     },
     {
-      "title": "Dyer: Trump likely doesn't understand stakes in Iran war",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/dyer-trump-likely-doesnt-understand-stakes-in-iran-war",
-      "published_date": "2026-08-06T19:09:31Z",
-      "category": "Military"
+      "title": "Vaughn Palmer: Two NDPs, two opposing positions on LNG",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-two-ndps-two-opposing-positions-on-lng",
+      "published_date": "2026-08-13T23:13:24Z",
+      "category": "Energy"
     },
     {
-      "title": "Iran says Strait of Hormuz deal close, but U.S. must agree",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-aug-6",
-      "published_date": "2026-08-06T11:44:52Z",
-      "category": "Military"
+      "title": "Solar Eclipse",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/solar-eclipse/",
+      "published_date": "2026-08-13T18:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Mental health among supports shared by minister in Okanagan amid wildfire emergency",
@@ -183,27 +190,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-david-eby-challenge-reconciling-lng-support-climate-change",
       "published_date": "2026-08-07T23:53:19Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Stunning images of sun's surface hailed as 'major step forward' for science",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/solar-telescope-captures-unprecedented-images-sun-surface",
-      "published_date": "2026-08-06T22:31:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Letter: Ontario vulnerable to Trump on Line 5",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/letter-ontario-vulnerable-to-trump-on-line-5",
-      "published_date": "2026-08-06T19:11:26Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Doran: A new pipeline to the East Coast would be a nation builder",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/doran-a-new-pipeline-to-the-east-coast-would-be-a-nation-builder",
-      "published_date": "2026-08-06T18:45:48Z",
       "category": "Energy"
     },
     {
@@ -277,157 +263,143 @@
       "category": "Economy"
     },
     {
-      "title": "Steelhead fishing restrictions could jeopardize Northwest jobs, report says",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/steelhead-fishing-restrictions-could-jeopardize-northwest-jobs-report-says/",
-      "published_date": "2026-08-06T22:48:00Z",
-      "category": "Economy"
+      "title": "Boy, 6, hit by SUV and killed in townhouse parking lot in Abbotsford",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/boy-6-hit-by-suv-and-killed-in-townhouse-parking-lot-in-abbotsford",
+      "published_date": "2026-08-13T23:17:18Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tariffs expose \nour strengths,\nweaknesses",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/06/tariffs-expose-our-strengthsweaknesses/",
-      "published_date": "2026-08-06T12:30:00Z",
-      "category": "Economy"
+      "title": "Luigi Mangione expected to plead guilty to federal stalking charges",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/luigi-mangione-expected-guilty-plea-stalking",
+      "published_date": "2026-08-13T22:41:27Z",
+      "category": "Local Events"
     },
     {
-      "title": "Windsor Hip Hop Festival gaining roots in the community",
+      "title": "MANDEL: Toronto widow killer free on parole – and he can now drink in bars",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-widow-killer-free-on-parole-can-now-drink-in-bars",
+      "published_date": "2026-08-13T22:17:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.&#039;s top Mountie relieved of his post after years-old allegations surface",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-top-mountie-relieved-of-his-post-after-years-old-allegations-surface",
+      "published_date": "2026-08-13T21:56:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexican national charged, extradited to B.C. in connection with 1996 murder",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/mexican-national-charged-extradited-to-b-c-in-connection-with-1996-murder/",
+      "published_date": "2026-08-13T21:38:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toddler airlifted to trauma centre as crash shuts down 401 in Pickering",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toddler-airlifted-trauma-centre-401-crash-pickering",
+      "published_date": "2026-08-13T21:19:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexican national charged with 1996 murder in Vancouver&#039;s West End",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/mexican-national-charged-1996-murder-muriel-lindsay-vancouver-west-end",
+      "published_date": "2026-08-13T20:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "100 Mile House timber supply impacted by wildfires",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/100-mile-house-timber-supply-impacted-by-wildfires/",
+      "published_date": "2026-08-13T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "United Way BC offering grants up to $15K for non-profits helping wildfire evacuees",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/united-way-bc-offering-grants-up-to-15k-for-non-profits-helping-wildfire-evacuees/",
+      "published_date": "2026-08-13T19:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Romanian men charged in York Region ATM cash-trap scheme",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/romanian-men-nabbed-atm-scheme-york-region",
+      "published_date": "2026-08-13T19:45:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Police bust break-and-enter ring, recover up to $1.5M in stolen goods",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/toronto-police-bust-break-and-enter-ring-recover-up-to-1-5m-in-stolen-goods",
+      "published_date": "2026-08-13T19:27:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver charged with impaired after crashing into Windsor home",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-hip-hop-festival-gaining-roots-in-the-community",
-      "published_date": "2026-08-13T11:17:22Z",
+      "url": "https://windsorstar.com/news/local-news/driver-charged-with-impaired-after-crashing-into-windsor-home",
+      "published_date": "2026-08-13T19:25:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Amherstburg's historic former high school to get a new future — with strings attached",
+      "title": "What's On Windsor: Dropped on Drouillard, island tours, dive-in movie, and more",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/amherstburgs-historic-former-high-school-to-get-a-new-future-with-strings-attached",
-      "published_date": "2026-08-13T11:09:24Z",
+      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-dropped-on-drouillard-island-tours-dive-in-movie-and-more",
+      "published_date": "2026-08-13T18:49:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Laurentian Hills appeals firefighter training regulation",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/laurentian-hills-appeals-firefighter-training-regulation",
-      "published_date": "2026-08-13T10:47:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Search warrant applications detail grim scene RCMP faced at Tumbler Ridge school",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/tumbler-ridge-mass-shooting-rcmp-search-warrant-documents",
-      "published_date": "2026-08-13T10:00:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Legendary B.C. sports broadcaster John McKeachie dies at 82",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/legendary-b-c-sports-broadcaster-john-mckeachie-dies-at-82",
-      "published_date": "2026-08-13T01:55:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Brunswick woman identified as victim of historic Niagara Falls homicide",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/victim-identified-historic-niagara-falls-homicide",
-      "published_date": "2026-08-13T00:53:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Search for bear continues in Lower Mainland attack",
+      "title": "Murray Creighton",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/search-for-bear-continues-in-lower-mainland-attack/",
-      "published_date": "2026-08-13T00:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/murray-creighton/",
+      "published_date": "2026-08-13T18:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. government rejects claim of massive, secret land transfers to First Nations",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-government-rejects-claim-of-massive-secret-land-transfers-to-first-nations",
-      "published_date": "2026-08-12T23:57:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Their busiest month, gone: Summerland&#039;s restaurants and cafés count the cost of a lost season",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/summerland-bc-bald-range-wildfire-restaurants-cafes-businesses-lost-season",
-      "published_date": "2026-08-12T23:46:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Evacuation orders, alerts to remain in place for Bald Range Wildfire",
+      "title": "Highway 97 opens between Penticton and Peachland for ‘through traffic only’",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/thunderstorms-winds-could-increase-fire-activity-at-bald-range-blaze-in-summerland/",
-      "published_date": "2026-08-12T23:43:26Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/highway-97-opens-between-penticton-and-peachland-for-through-traffic-only/",
+      "published_date": "2026-08-13T18:26:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Missing Toronto woman found after high-level search; 4,000 cannabis plants seized",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-woman-found-high-level-search",
-      "published_date": "2026-08-12T23:27:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. lawsuit against parking app settled, 35 cent payout for members",
+      "title": "BC SPCA working to save stranded animals in wildfire zones",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/b-c-lawsuit-against-parking-app-settled-35-cent-payout-for-members/",
-      "published_date": "2026-08-12T23:17:34Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/bc-spca-working-to-save-stranded-animals-in-wildfire-zones/",
+      "published_date": "2026-08-13T18:12:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: Under David Eby, B.C. continues racking up eye-watering debt",
+      "title": "A History of Motown returns with new stories and even bigger hits",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-continues-racking-up-eye-watering-debt-david-eby-bc-ndp",
-      "published_date": "2026-08-12T23:03:01Z",
+      "url": "https://vancouversun.com/entertainment/a-history-of-motown-returns-with-new-stories-and-even-bigger-hits",
+      "published_date": "2026-08-13T18:00:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Mounties probing child's 'suspicious' death at Manitoba First Nation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/rcmp-probing-manitoba-child-suspicious-death",
-      "published_date": "2026-08-12T22:36:12Z",
+      "title": "B.C.: 15 bestselling books for the week of August 8",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/local-arts/b-c-15-bestselling-books-for-the-week-of-august-8",
+      "published_date": "2026-08-13T18:00:05Z",
       "category": "Local Events"
     },
     {
-      "title": "All charges 'regretfully' withdrawn by Crown in deadly shooting of Toronto boy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/all-charges-regretfully-withdrawn-by-crown-in-deadly-shooting-of-toronto-boy",
-      "published_date": "2026-08-12T22:29:44Z",
+      "title": "International: 30 bestselling books of the week for August 8",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/books/international-30-bestselling-books-of-the-week-for-august-8",
+      "published_date": "2026-08-13T18:00:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Legislative committee calls on B.C. to back down on PST expansion",
+      "title": "Lifejackets save lives: Rise in B.C. drownings prompts reminder from EHS",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/legislative-committee-calls-on-b-c-to-back-down-on-pst-expansion/",
-      "published_date": "2026-08-12T22:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: 'Worst of the worst' Brampton-based trucking firm has operating licence revoked",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/worst-of-the-worst-brampton-based-trucking-firm-has-operating-licence-revoked",
-      "published_date": "2026-08-12T22:11:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: How cost of the Ontario Line went from $10.9B to $34B",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/how-ontario-line-cost-hit-34-billion",
-      "published_date": "2026-08-12T22:02:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "White House Press Secretary Karoline Leavitt to step down at end of August",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/white-house-press-secretary-karoline-leavitt-step-down",
-      "published_date": "2026-08-12T21:44:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario government unveils new police helicopter in Peel Region",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ontario-government-new-police-helicopter-peel-region",
-      "published_date": "2026-08-12T21:10:04Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/lifejackets-save-lives-rise-in-b-c-drownings-prompts-reminder-from-ehs/",
+      "published_date": "2026-08-13T17:42:00Z",
       "category": "Local Events"
     }
   ]
