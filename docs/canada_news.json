@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:45:08Z",
+  "generated_at": "2026-08-13T11:35:50Z",
   "country": "Canada",
   "total_stories": 60,
   "categories": [
@@ -65,6 +65,13 @@
       "url": "https://torontosun.com/news/local-news/toronto-police-charge-teen-young-man-in-second-u-s-consulate-shooting",
       "published_date": "2026-08-06T15:54:01Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Windsor police combat human trafficking with online portal, awareness campaign",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-combat-human-trafficking-with-online-portal-awareness-campaign",
+      "published_date": "2026-08-13T11:30:43Z",
+      "category": "Military"
     },
     {
       "title": "IRAN WAR: Trump says U.S. 'owns' and controls Strait of Hormuz",
@@ -200,11 +207,11 @@
       "category": "Energy"
     },
     {
-      "title": "Wildfire burning in Belcarra Park near Village of Anmore",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/wildfire-burning-belcarra-park-port-moody",
-      "published_date": "2026-08-06T00:30:59Z",
-      "category": "Energy"
+      "title": "Canadians spent more on taxes than basic necessities in 2025: Study",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/canadians-spend-more-on-taxes-than-basic-necessities-2025-study",
+      "published_date": "2026-08-13T09:00:19Z",
+      "category": "Economy"
     },
     {
       "title": "Senate Speaker drops nearly $900K on world travel: Canadian Taxpayers Federation",
@@ -284,11 +291,67 @@
       "category": "Economy"
     },
     {
-      "title": "Toronto Zoo releases video of endangered pygmy hippo calf birth",
+      "title": "Windsor Hip Hop Festival gaining roots in the community",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-hip-hop-festival-gaining-roots-in-the-community",
+      "published_date": "2026-08-13T11:17:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amherstburg's historic former high school to get a new future — with strings attached",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/amherstburgs-historic-former-high-school-to-get-a-new-future-with-strings-attached",
+      "published_date": "2026-08-13T11:09:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laurentian Hills appeals firefighter training regulation",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/laurentian-hills-appeals-firefighter-training-regulation",
+      "published_date": "2026-08-13T10:47:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Search warrant applications detail grim scene RCMP faced at Tumbler Ridge school",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/tumbler-ridge-mass-shooting-rcmp-search-warrant-documents",
+      "published_date": "2026-08-13T10:00:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Legendary B.C. sports broadcaster John McKeachie dies at 82",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/legendary-b-c-sports-broadcaster-john-mckeachie-dies-at-82",
+      "published_date": "2026-08-13T01:55:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Brunswick woman identified as victim of historic Niagara Falls homicide",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-zoo-welcomes-pygmy-hippo-calf",
-      "published_date": "2026-08-05T23:59:32Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/provincial/victim-identified-historic-niagara-falls-homicide",
+      "published_date": "2026-08-13T00:53:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Search for bear continues in Lower Mainland attack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/search-for-bear-continues-in-lower-mainland-attack/",
+      "published_date": "2026-08-13T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. government rejects claim of massive, secret land transfers to First Nations",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-government-rejects-claim-of-massive-secret-land-transfers-to-first-nations",
+      "published_date": "2026-08-12T23:57:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Their busiest month, gone: Summerland&#039;s restaurants and cafés count the cost of a lost season",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/summerland-bc-bald-range-wildfire-restaurants-cafes-businesses-lost-season",
+      "published_date": "2026-08-12T23:46:04Z",
+      "category": "Local Events"
     },
     {
       "title": "UPDATE: Evacuation orders, alerts to remain in place for Bald Range Wildfire",
@@ -365,69 +428,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/ontario-government-new-police-helicopter-peel-region",
       "published_date": "2026-08-12T21:10:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHOTOS: BC Wildfire Service sets up base in Okanagan Falls",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/photos-bc-wildfire-service-sets-up-base-in-okanagan-falls/",
-      "published_date": "2026-08-12T20:55:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;We’re incredibly grateful&#039;: Vancouver restaurant set to close Mount Pleasant location",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fable-diner-vancouver-restaurant-closing",
-      "published_date": "2026-08-12T20:43:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Butchart Gardens cancels fireworks as province declares wildfire emergency",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/butchart-gardens-cancels-fireworks-as-province-declares-wildfire-emergency/",
-      "published_date": "2026-08-12T20:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 players from 2018 junior team breached Hockey Canada code of conduct",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/5-players-from-2018-junior-team-breached-hockey-canada-code-of-conduct/",
-      "published_date": "2026-08-12T20:28:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fundraiser started to help parents of Maple Ridge bear attack victim",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/fundraiser-started-to-help-parents-of-maple-ridge-bear-attack-victim/",
-      "published_date": "2026-08-12T19:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver teacher gets lifetime ban after sexual assault conviction",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/vancouver-teacher-gets-lifetime-ban-after-sexual-assault-conviction/",
-      "published_date": "2026-08-12T18:54:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Evacuated residents at  Quilpituk Creek wildfire should prepare to head home",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/no-significant-fire-activity-despite-clearer-skies-at-quilpituk-creek-wildfire/",
-      "published_date": "2026-08-12T18:52:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Support urged for Summerland businesses",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/12/support-urged-for-summerland-businesses/",
-      "published_date": "2026-08-12T18:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nurse charged after alleged assault of child with special needs",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/nurse-charged-after-alleged-assault-of-child-with-special-needs",
-      "published_date": "2026-08-12T18:35:00Z",
       "category": "Local Events"
     }
   ]
