@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T23:44:28Z",
+  "generated_at": "2026-08-14T11:34:05Z",
   "country": "Canada",
-  "total_stories": 56,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -193,6 +193,34 @@
       "category": "Energy"
     },
     {
+      "title": "Windsor-Essex housing market dips in July, uncertainty over tariffs remains",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-essex-housing-market-dips-in-july-uncertainty-over-tariffs-remains",
+      "published_date": "2026-08-14T08:56:33Z",
+      "category": "Economy"
+    },
+    {
+      "title": "New Windsor bus tour explores border city's history, landmarks",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/new-windsor-bus-tour-explores-border-citys-history-landmarks",
+      "published_date": "2026-08-14T08:51:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "B.C. Finance Minister Brenda Bailey announces she has cancer, will say more on Friday",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-finance-minister-brenda-bailey-announces-she-has-cancer-will-reveal-next-steps-friday",
+      "published_date": "2026-08-14T00:49:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Temporary migrant workers braved smoke to send money home. Then a B.C. wildfire took their jobs",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/temporary-bc-migrant-workers-wildfire-took-their-jobs",
+      "published_date": "2026-08-13T23:54:56Z",
+      "category": "Economy"
+    },
+    {
       "title": "Canadians spent more on taxes than basic necessities in 2025: Study",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/canadians-spend-more-on-taxes-than-basic-necessities-2025-study",
@@ -256,11 +284,74 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: Nurses&#039; job action about fairness and support, not just wages",
+      "title": "KHR's community development coordinator accepts position in Pembroke",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/khrs-community-development-coordinator-accepts-position-in-pembroke",
+      "published_date": "2026-08-14T10:51:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Airborne Petawawa helps set new world skydiving record",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/airborne-petawawa-helps-set-new-world-skydiving-record",
+      "published_date": "2026-08-14T10:44:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UWindsor alum Antoni Cimolino takes his final bow as Stratford’s artistic director",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/uwindsor-alum-antoni-cimolino-takes-his-final-bow-as-stratfords-artistic-director",
+      "published_date": "2026-08-14T08:39:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Streaking B.C. Lions win 3rd in a row, dump Stampeders 30-26 in Calgary",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/streaking-b-c-lions-win-3rd-in-a-row-dump-stampeders-30-26-in-calgary/",
+      "published_date": "2026-08-14T04:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transit workers in Vancouver, Victoria, get set to strike",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-nurses-job-action-about-fairness-and-support-not-just-wages",
-      "published_date": "2026-08-06T23:45:06Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/transit-workers-in-vancouver-victoria-get-set-to-strike",
+      "published_date": "2026-08-14T02:11:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boy George and Culture Club appearance at the PNE is sparking controversy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/boy-george-and-culture-club-appearance-at-the-pne-is-sparking-controversy",
+      "published_date": "2026-08-14T01:00:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Crews responding to hot spot from Bradley Creek wildfire near Vernon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/extinguishing-hot-spots-mop-up-duties-taking-place-at-being-held-bradley-creek-wildfire/",
+      "published_date": "2026-08-14T00:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver company rescues archive of Canadian animator who worked on The Beatles&#039; Yellow Submarine, The Care Bears",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-company-rescues-archive-of-canadian-animator-who-worked-on-the-beatles-yellow-submarine-the-care-bears",
+      "published_date": "2026-08-14T00:26:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Summerland fruit growers face mounting losses as wildfire’s toll grows",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/summerland-area-fruit-grape-growers-face-crop-loss-as-wildfires-toll-mounts/",
+      "published_date": "2026-08-14T00:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sentencing begins for ex-B.C. Mountie who had consensual sex with woman he met with on duty",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/sentencing-begins-for-ex-b-c-mountie-who-had-consensual-sex-with-woman-he-met-with-on-duty/",
+      "published_date": "2026-08-14T00:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Boy, 6, hit by SUV and killed in townhouse parking lot in Abbotsford",
@@ -330,76 +421,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/romanian-men-nabbed-atm-scheme-york-region",
       "published_date": "2026-08-13T19:45:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Police bust break-and-enter ring, recover up to $1.5M in stolen goods",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/toronto-police-bust-break-and-enter-ring-recover-up-to-1-5m-in-stolen-goods",
-      "published_date": "2026-08-13T19:27:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver charged with impaired after crashing into Windsor home",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/driver-charged-with-impaired-after-crashing-into-windsor-home",
-      "published_date": "2026-08-13T19:25:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's On Windsor: Dropped on Drouillard, island tours, dive-in movie, and more",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-dropped-on-drouillard-island-tours-dive-in-movie-and-more",
-      "published_date": "2026-08-13T18:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murray Creighton",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/murray-creighton/",
-      "published_date": "2026-08-13T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Highway 97 opens between Penticton and Peachland for ‘through traffic only’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/highway-97-opens-between-penticton-and-peachland-for-through-traffic-only/",
-      "published_date": "2026-08-13T18:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BC SPCA working to save stranded animals in wildfire zones",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/bc-spca-working-to-save-stranded-animals-in-wildfire-zones/",
-      "published_date": "2026-08-13T18:12:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A History of Motown returns with new stories and even bigger hits",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/a-history-of-motown-returns-with-new-stories-and-even-bigger-hits",
-      "published_date": "2026-08-13T18:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.: 15 bestselling books for the week of August 8",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/local-arts/b-c-15-bestselling-books-for-the-week-of-august-8",
-      "published_date": "2026-08-13T18:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International: 30 bestselling books of the week for August 8",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/international-30-bestselling-books-of-the-week-for-august-8",
-      "published_date": "2026-08-13T18:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lifejackets save lives: Rise in B.C. drownings prompts reminder from EHS",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/lifejackets-save-lives-rise-in-b-c-drownings-prompts-reminder-from-ehs/",
-      "published_date": "2026-08-13T17:42:00Z",
       "category": "Local Events"
     }
   ]
