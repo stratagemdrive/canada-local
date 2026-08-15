@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T23:24:35Z",
+  "generated_at": "2026-08-15T11:07:34Z",
   "country": "Canada",
-  "total_stories": 63,
+  "total_stories": 61,
   "categories": [
     "Diplomacy",
     "Military",
@@ -186,13 +186,6 @@
       "category": "Energy"
     },
     {
-      "title": "Vaughn Palmer: David Eby faces growing challenge reconciling LNG support, commitment to climate change",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-david-eby-challenge-reconciling-lng-support-climate-change",
-      "published_date": "2026-08-07T23:53:19Z",
-      "category": "Energy"
-    },
-    {
       "title": "Vaughn Palmer: A new finance minister, but same old tax-and-spend Eby",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-a-new-finance-minister-but-same-old-tax-and-spend-eby",
@@ -305,11 +298,81 @@
       "category": "Economy"
     },
     {
-      "title": "Canada’s biggest taxonomy lab to call Esquimalt home",
+      "title": "Essex County looks to stop AI data centres as Ontario brings in strict ground rules",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/essex-county-looks-to-stop-ai-data-centres-as-ontario-brings-in-strict-ground-rules",
+      "published_date": "2026-08-15T10:59:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor's Ouellette Car Cruise revs up excitement among motor fans",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsors-ouellette-car-cruise-revs-up-excitement-among-motor-fans",
+      "published_date": "2026-08-15T10:47:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The environment has changed:’ residents returning to Clinton area told to be prepared for wildfire damage",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/07/canadas-biggest-taxonomy-lab-to-call-esquimalt-home/",
-      "published_date": "2026-08-08T00:30:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/the-environment-has-changed-residents-returning-to-clinton-area-told-to-be-prepared-for-wildfire-damage/",
+      "published_date": "2026-08-15T01:51:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BC Wildfire Service responding to blaze near off Highway 5 near Clearwater",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/bc-wildfire-service-responding-to-blaze-near-off-highway-5-near-clearwater/",
+      "published_date": "2026-08-15T01:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mounties got their bear in toddler attack, Conservation Service now says",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/mounties-got-their-bear-in-toddler-attack-conservation-service-now-says",
+      "published_date": "2026-08-15T00:58:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder charge downgraded to manslaughter in 2021 killing of a Naramata woman",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/murder-charge-downgraded-to-manslaughter-in-2021-killing-of-a-naramata-woman/",
+      "published_date": "2026-08-15T00:33:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Emotional’ end for Hockey Night in Canada’s Punjabi broadcast, cancelled after 18 years",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/emotional-end-for-hockey-night-in-canadas-punjabi-broadcast-cancelled-after-18-years/",
+      "published_date": "2026-08-15T00:32:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "As fires rage, B.C.’s ranchers band together to save their homes and cattle",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/as-fires-rage-b-c-s-ranchers-band-together-to-save-their-homes-and-cattle/",
+      "published_date": "2026-08-15T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Some Summerland residents return home as evacuation order partly lifts",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/some-summerland-residents-return-home-as-evacuation-order-partly-lifts",
+      "published_date": "2026-08-14T23:59:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toxic Drug Alert for the Northern Health region",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/toxic-drug-alert-for-the-northern-health-region/",
+      "published_date": "2026-08-14T23:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bear cub and mother put down in Nelson",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/bear-cub-and-mother-put-down-in-nelson/",
+      "published_date": "2026-08-14T23:32:37Z",
+      "category": "Local Events"
     },
     {
       "title": "Douglas Todd: How Norway’s amazing road tunnels get built, compared to B.C.",
@@ -372,83 +435,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/14/many-clinton-and-area-residents-given-go-ahead-to-go-home-saturday/",
       "published_date": "2026-08-14T22:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor councillor Ed Sleiman not seeking re-election",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-councillor-ed-sleiman-not-seeking-re-election",
-      "published_date": "2026-08-14T22:01:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Ontario man pleads guilty to attempted murder in vicious sword attack",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/northern-ontario-man-pleads-guilty-to-attempted-murder-vicious-sword-attack",
-      "published_date": "2026-08-14T21:25:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Ontario's Attorney General ends get out of jail free card for violent crime",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ontario-attorney-general-toughens-bail-ends-get-out-of-jail-free-card-for-violent-crime",
-      "published_date": "2026-08-14T20:59:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 person taken to hospital after bear attack prompts closure of Vancouver Island park",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/1-person-taken-to-hospital-after-bear-attack-prompts-closure-of-vancouver-island-park/",
-      "published_date": "2026-08-14T19:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver council approves ABC&#039;s public-safety plebiscite questions for October ballot",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/vancouver-council-approves-abc-public-safety-plebiscite-questions-october-ballot",
-      "published_date": "2026-08-14T19:43:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Justin Trudeau’s ‘special’ summer photo dump includes Katy Perry and the Obamas",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/justin-trudeaus-special-summer-photo-dump-includes-katy-perry-obamas",
-      "published_date": "2026-08-14T19:35:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHARLEBOIS: 10 myths Canadians need to stop believing about supply management",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/10-myths-canada-supply-management",
-      "published_date": "2026-08-14T19:13:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP charges driver after 11 passengers, including 8 kids, found crammed in SUV",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/opp-charges-driver-after-11-passengers-including-8-kids-found-crammed-in-suv",
-      "published_date": "2026-08-14T19:06:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Summerland’s Bald Range evacuation order partially downgraded to alert",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/hundreds-of-firefighters-battling-bald-range-blaze-near-summerland/",
-      "published_date": "2026-08-14T18:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Milobar leaves B.C. Conservatives, cites clash with leader Kerry-Lynne Findlay",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/peter-milobar-leaves-bc-conservative-caucus",
-      "published_date": "2026-08-14T18:44:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kamloops Centre MLA Peter Milobar quits B.C. Conservative caucus",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/14/kamloops-centre-mla-peter-milobar-quits-b-c-conservative-caucus/",
-      "published_date": "2026-08-14T18:43:00Z",
       "category": "Local Events"
     }
   ]
