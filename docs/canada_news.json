@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T11:08:25Z",
+  "generated_at": "2026-08-16T23:22:29Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -116,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: IRGC says Strait of Hormuz won't reopen unless U.S. agrees to demands",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-aug-10",
-      "published_date": "2026-08-09T18:38:25Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. climate news: More than 100 wildfires burning in B.C. &#124; Federal government sets aside $34.2 million for climate adaptation &#124; Report finds climate change made Canada&#039;s forests more likely to burn",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/climate-change-news-to-aug-16-26",
@@ -172,11 +165,11 @@
       "category": "Energy"
     },
     {
-      "title": "Action needed to protect Line 5 in Sarnia: MP",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/action-needed-to-protect-line-5-in-sarnia-mp",
-      "published_date": "2026-08-09T14:25:10Z",
-      "category": "Energy"
+      "title": "Where things stand in negotiations as punishing new U.S. tariff looms on Wednesday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/where-things-stand-canada-us-trade-negotiations",
+      "published_date": "2026-08-16T16:24:45Z",
+      "category": "Economy"
     },
     {
       "title": "Vaughn Palmer: A new finance minister, but same old tax-and-spend Eby",
@@ -291,6 +284,111 @@
       "category": "Economy"
     },
     {
+      "title": "Two stabbed during fight, another shot on Toronto streets: Cops",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/two-stabbed-fight-another-shot-toronto",
+      "published_date": "2026-08-16T23:14:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bald Range fire: Orders downgraded for some, alerts issued for others, Highway 97 reopened for all",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/16/bald-range-fire-orders-downgraded-for-some-alerts-issued-for-others-highway-97-reopened-for-all/",
+      "published_date": "2026-08-16T22:57:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hockey Night in Canada Punjabi&#039;s end after 18 years &#039;shocking&#039; to community",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/hockey-night-in-canada-punjabis-end-after-18-years-shocking-to-community",
+      "published_date": "2026-08-16T22:25:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-Cambridge prof Jason Arday found dead after plagiarism, DEI accusations",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/cambridge-jason-arday-dies-plagiarism-dei-accusations",
+      "published_date": "2026-08-16T20:34:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ainslie Creek wildfire burns to Alexandra Tunnel in Fraser Canyon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/16/ainslie-creek-wildfire-burns-to-alexandra-tunnel-in-fraser-canyon/",
+      "published_date": "2026-08-16T18:07:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire near Prince Rupert causing traffic delays",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/16/wildfire-near-prince-rupert-causing-traffic-delays/",
+      "published_date": "2026-08-16T17:36:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Multiple planned ignitions scheduled for Pear Lake fire near Clinton",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/16/multiple-planned-ignitions-scheduled-for-pear-lake-fire-near-clinton/",
+      "published_date": "2026-08-16T17:33:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "3-alarm blaze at Toronto's Zanzibar strip club could have been worse: chief",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/firefighters-battling-3-alarm-blaze-at-torontos-zanzibar-tavern",
+      "published_date": "2026-08-16T15:53:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "JONAH GOLDBERG: The GOP isn't always the best party for conservatives",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/gop-not-always-best-party-conservatives",
+      "published_date": "2026-08-16T15:32:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect charged in unprovoked Toronto stabbing; 1 dead, 3 hurt in Brampton crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspect-charged-unprovoked-toronto-stabbing",
+      "published_date": "2026-08-16T15:02:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One of Vancouver&#039;s top cultural gems, Dr. Sun Yat-Sen Garden celebrates 40th anniversary",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/dr-sun-yat-sen-garden-celebrates-40th-anniversary",
+      "published_date": "2026-08-16T15:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The original West Coast modern home is for sale in West Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/the-original-west-coast-modern-home-is-for-sale",
+      "published_date": "2026-08-16T15:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Face to Face: Windsor-Essex Hospice kicks off 24th annual fundraising campaign",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/face-to-face-windsor-essex-hospice-kicks-off-24th-annual-fundraising-campaign",
+      "published_date": "2026-08-16T14:58:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NOT SO NEIGHBOURLY? Resolving disputes best for your peace of mind",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/not-so-neighbourly-resolving-disputes-peace-of-mind",
+      "published_date": "2026-08-16T14:06:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Obit: Windsor father of 10 who died in motorcycle accident remembered as loving, loyal",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/obit-windsor-man-who-died-in-a-motorcycle-accident-remembered-as-a-loving-father-and-loyal-friend",
+      "published_date": "2026-08-16T13:24:08Z",
+      "category": "Local Events"
+    },
+    {
       "title": "City of Revelstoke issues wildfire evacuation order for 5 rural properties near Beaton",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/15/city-of-revelstoke-issues-evacuation-order-for-fish-river-road-area-due-to-wildfire/",
@@ -305,6 +403,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Okanagan protesters spread awareness of campaign to recall MLA Tara Armstrong",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/okanagan-protesters-spread-awareness-of-campaign-to-recall-mla-tara-armstrong/",
+      "published_date": "2026-08-15T23:00:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ainslie Creek wildfire showing growth on southwest flank in Fraser Canyon",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/15/ainslie-creek-wildfire-showing-growth-on-southwest-flank-in-fraser-canyon/",
@@ -316,118 +421,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/suspect-unprovoked-toronto-stabbing-gun-seized-pair-charged-st-catharines",
       "published_date": "2026-08-15T21:34:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: More Summerland wildfire evacuees could return home Sunday, CAO says",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/well-be-here-for-the-foreseeable-future-summerland-wildfire-grows-to-almost-20000-hectares/",
-      "published_date": "2026-08-15T21:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It&#039;s eerie’: Summerland residents begin returning home as wildfire moves northwest",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/summerland-residents-begin-return-home-wildfire-moves-northwest",
-      "published_date": "2026-08-15T20:43:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man found dead in Chilliwack was struck by train: RCMP",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-found-dead-chilliwack-struck-by-train-rcmp",
-      "published_date": "2026-08-15T20:22:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GOLDSTEIN: Claims Canada's crime rate is down aren’t reporting the real story",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/claims-canadas-crime-rate-down-arent-reporting-real-story",
-      "published_date": "2026-08-15T19:24:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pear Lake wildfire near Clinton estimated at 157,448 hectares",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/pear-lake-wildfire-near-clinton-estimated-at-157448-hectares/",
-      "published_date": "2026-08-15T19:05:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Search on for missing pilot in cottage country",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/durham-regional-police-search-missing-pilot-kawartha-lakes-oshawa-airport",
-      "published_date": "2026-08-15T18:55:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police charge man with sexual assault of two young boys",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-charge-man-with-sexual-assault-of-two-young-boys",
-      "published_date": "2026-08-15T18:55:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daniel Caesar in Vancouver: What to know about the shows",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/daniel-caesar-in-vancouver-what-to-know-about-the-shows",
-      "published_date": "2026-08-15T18:00:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga man, 36, faces new sex trafficking charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mississauga-man-faces-new-sex-trafficking-charges",
-      "published_date": "2026-08-15T17:22:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto cabbie accused of sexually assaulting passenger",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-cabbie-sexual-assault-passenger",
-      "published_date": "2026-08-15T16:36:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SEX OFFENDER ALERT! These guys are so bad the RCMP posts their pix",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/sex-offender-alert-rcmp-posts-photos",
-      "published_date": "2026-08-15T16:00:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Summer Art Camp wraps up four days of creativity",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/summer-art-camp-wraps-up-four-days-of-creativity/",
-      "published_date": "2026-08-15T16:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motorcyclist, 22, killed in high-speed Pickering crash on Hwy. 401",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/motorcyclist-killed-high-speed-pickering-crash-hwy-401",
-      "published_date": "2026-08-15T15:55:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NAKED AND THE DEAD: Mystery deaths in Jeffrey Epstein's kinky clique",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/mystery-deaths-jeffrey-epstein-kinky-clique",
-      "published_date": "2026-08-15T15:30:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Highway 97 through Clinton reopen to all traffic at noon Saturday",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/highway-97-through-clinton-reopen-to-all-traffic-at-noon-saturday/",
-      "published_date": "2026-08-15T15:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Appeal Court orders new trial for man who hit ex&#039;s dog over head with shoe",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-appeal-court-orders-new-trial-for-man-who-hit-exs-dog-over-head-with-shoe",
-      "published_date": "2026-08-15T15:18:40Z",
       "category": "Local Events"
     }
   ]
