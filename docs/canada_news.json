@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T23:22:32Z",
+  "generated_at": "2026-08-16T11:08:25Z",
   "country": "Canada",
-  "total_stories": 61,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -120,13 +120,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-aug-10",
       "published_date": "2026-08-09T18:38:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "UPDATE: Power restored in parts of Summerland as crews continue to battle Bald Range wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/08/district-of-summerland-evacuated-hwy-97-closed-due-to-raging-bald-range-wildfire/",
-      "published_date": "2026-08-09T01:30:00Z",
       "category": "Military"
     },
     {
@@ -298,6 +291,20 @@
       "category": "Economy"
     },
     {
+      "title": "City of Revelstoke issues wildfire evacuation order for 5 rural properties near Beaton",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/city-of-revelstoke-issues-evacuation-order-for-fish-river-road-area-due-to-wildfire/",
+      "published_date": "2026-08-16T06:00:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire Reported Along Highway 16 East of Prince Rupert",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/wildfire-reported-along-highway-16-west-of-prince-rupert/",
+      "published_date": "2026-08-16T04:07:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ainslie Creek wildfire showing growth on southwest flank in Fraser Canyon",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/15/ainslie-creek-wildfire-showing-growth-on-southwest-flank-in-fraser-canyon/",
@@ -421,20 +428,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/bc-appeal-court-orders-new-trial-for-man-who-hit-exs-dog-over-head-with-shoe",
       "published_date": "2026-08-15T15:18:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. wine industry steps up to help Summerland compatriots through wildfire crisis",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/bc-wine-industry-steps-up-to-help-summerland-compatriots-through-wildfire-crisis",
-      "published_date": "2026-08-15T15:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: These B.C. bottles scored platinum honours at the 2026 WineAlign National Wine Awards",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-these-b-c-bottles-scored-platinum-honours-at-the-2026-winealign-national-wine-awards",
-      "published_date": "2026-08-15T15:00:08Z",
       "category": "Local Events"
     }
   ]
