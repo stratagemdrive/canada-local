@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T23:22:29Z",
+  "generated_at": "2026-08-17T11:13:20Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 57,
   "categories": [
     "Diplomacy",
     "Military",
@@ -60,13 +60,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukrainian ambassador summoned after drone explodes near pipeline in Bulgaria",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/ukrainian-ambassador-summoned-drone-explodes-bulgaria",
-      "published_date": "2026-08-10T00:06:35Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Province says Windsor's long-promised police helicopter still on the way",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/province-says-windsors-long-promised-police-helicopter-still-on-the-way",
@@ -106,13 +99,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/pm-jets-to-italy-as-trade-war-clock-ticks",
       "published_date": "2026-08-10T23:12:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says Saudi-Pakistan-Turkey pact shows 'change in perception' towards U.S.",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-august-10",
-      "published_date": "2026-08-10T11:02:27Z",
       "category": "Military"
     },
     {
@@ -284,6 +270,41 @@
       "category": "Economy"
     },
     {
+      "title": "Tembo, the bronze elephant, gets a scrub down at Windsor's Sculpture Park",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/tembo-the-bronze-elephant-gets-a-scrub-down-at-windsors-sculpture-park",
+      "published_date": "2026-08-17T10:56:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why three Michigan officials attended the Canada-only Gordie Howe ribbon cutting",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/why-three-michigan-officials-attended-the-canada-only-gordie-howe-ribbon-cutting",
+      "published_date": "2026-08-17T10:34:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police investigate after seven Bird e-scooters stolen, stripped for parts",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-investigate-after-seven-bird-e-scooters-stolen-stripped-for-parts",
+      "published_date": "2026-08-17T10:14:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More evacuation orders downgraded to alerts for Bradley Creek wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/16/more-evacuation-orders-downgraded-to-alerts-for-bradley-creek-wildfire/",
+      "published_date": "2026-08-17T02:22:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "81 km solo swim across Stuart Lake in 9 days",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/16/81-km-solo-swim-across-stuart-lake-in-9-days/",
+      "published_date": "2026-08-17T01:44:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Two stabbed during fight, another shot on Toronto streets: Cops",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/two-stabbed-fight-another-shot-toronto",
@@ -386,41 +407,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/obit-windsor-man-who-died-in-a-motorcycle-accident-remembered-as-a-loving-father-and-loyal-friend",
       "published_date": "2026-08-16T13:24:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City of Revelstoke issues wildfire evacuation order for 5 rural properties near Beaton",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/city-of-revelstoke-issues-evacuation-order-for-fish-river-road-area-due-to-wildfire/",
-      "published_date": "2026-08-16T06:00:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire Reported Along Highway 16 East of Prince Rupert",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/wildfire-reported-along-highway-16-west-of-prince-rupert/",
-      "published_date": "2026-08-16T04:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Okanagan protesters spread awareness of campaign to recall MLA Tara Armstrong",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/okanagan-protesters-spread-awareness-of-campaign-to-recall-mla-tara-armstrong/",
-      "published_date": "2026-08-15T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ainslie Creek wildfire showing growth on southwest flank in Fraser Canyon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/15/ainslie-creek-wildfire-showing-growth-on-southwest-flank-in-fraser-canyon/",
-      "published_date": "2026-08-15T22:06:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect sought for unprovoked Toronto stabbing; gun seized, pair charged in St. Catharines",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-unprovoked-toronto-stabbing-gun-seized-pair-charged-st-catharines",
-      "published_date": "2026-08-15T21:34:10Z",
       "category": "Local Events"
     }
   ]
