@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T23:25:45Z",
+  "generated_at": "2026-08-18T11:12:52Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 58,
   "categories": [
     "Diplomacy",
     "Military",
@@ -123,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Lebanon says Israeli strike on south wounds 2",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-august-11",
-      "published_date": "2026-08-11T11:09:26Z",
-      "category": "Military"
-    },
-    {
       "title": "&#039;A bunch of nothing&#039;: Canada making slow progress on reducing climate risks such as wildfire, floods",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/canada-slow-progress-reducing-climate-risks-wildfire-floods",
@@ -177,6 +170,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/08/11/mental-health-among-supports-shared-by-minister-in-okanagan-amid-wildfire-emergency/",
       "published_date": "2026-08-11T19:16:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "GOLDSTEIN: Provincial taxes could skyrocket to pay for federal deficits, report says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/goldstein-provincial-taxes-could-skyrocket-to-pay-for-federal-deficits-report-says",
+      "published_date": "2026-08-18T09:00:50Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: Recent hockey analogies provide good place to try and make sense of latest CUSMA chaos",
@@ -277,11 +277,60 @@
       "category": "Economy"
     },
     {
-      "title": "GOLDSTEIN: Corporate welfare is strangling Canadian economy: study",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/corporate-welfare-strangling-canadian-economy-study",
-      "published_date": "2026-08-11T09:00:32Z",
-      "category": "Economy"
+      "title": "Dilkens, Francis at odds over $24K city hall review as election looms",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/dilkens-francis-at-odds-over-24k-city-hall-review-as-election-looms",
+      "published_date": "2026-08-18T11:00:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor losing its last source of fresh kosher meat as Superstore pivots to frozen",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-losing-its-last-source-of-fresh-kosher-meat-as-superstore-pivots-to-frozen",
+      "published_date": "2026-08-18T10:47:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: 4 people, pets safely airlifted from Johnson Creek wildfire as evacuation order continues near Beaton",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/city-of-revelstoke-issues-evacuation-order-for-fish-river-road-area-due-to-wildfire/",
+      "published_date": "2026-08-18T07:57:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man bitten by black bear in second recent Metro Vancouver attack",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/man-bitten-by-black-bear-in-second-recent-metro-vancouver-attack",
+      "published_date": "2026-08-18T02:05:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Around 150 structures damaged or destroyed in Bald Range wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/around-500-personnel-continues-to-battle-bald-range-wildfire-in-summerland/",
+      "published_date": "2026-08-18T01:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sooke man in prison for shooting neighbour ordered to pay him, wife, $1 million in damages",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/sooke-man-in-prison-for-shooting-neighbour-ordered-to-pay-him-wife-1-million-in-damages",
+      "published_date": "2026-08-18T00:23:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "E-cigarette maker JUUL Labs appeals B.C. court’s class action certification",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/e-cigarette-maker-juul-labs-appeals-b-c-courts-class-action-certification/",
+      "published_date": "2026-08-18T00:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three shootings in three weeks in Fort St. John has B.C. RCMP worried",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/three-shootings-in-three-weeks-fort-st-john-has-bc-rcmp-worried",
+      "published_date": "2026-08-18T00:12:17Z",
+      "category": "Local Events"
     },
     {
       "title": "Interior Wildlife Rehabilitation Society in Summerland burnt down due to wildfire",
@@ -365,62 +414,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/why-cant-windsor-child-sex-assault-suspect-be-deported",
       "published_date": "2026-08-17T19:01:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "32 orphaned raccoons prepare for the wild at B.C. rehab centre",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/32-orphaned-raccoons-prepare-for-the-wild-at-b-c-rehab-centre/",
-      "published_date": "2026-08-17T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Environment Canada rolls out new alert system for thunderstorms, tornadoes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/environment-canada-rolls-out-new-alert-system-for-thunderstorms-tornadoes/",
-      "published_date": "2026-08-17T18:44:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI tried to recruit Fang Fang before Eric Swalwell affair uncovered: docs",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/fbi-tried-to-recruit-fang-fang-before-eric-swalwell-affair-uncovered-docs",
-      "published_date": "2026-08-17T18:38:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prince Harry wants to return to U.K. 'more and more' after reunion with King Charles",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/prince-harry-wants-to-return-to-u-k-more-and-more-after-reunion-with-king-charles",
-      "published_date": "2026-08-17T18:14:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Author casts net to solve B.C. 56-year ‘Free Willy’ orca mystery",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/author-casts-net-to-solve-b-c-56-year-free-willy-orca-mystery/",
-      "published_date": "2026-08-17T18:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 out of control fires burning in the North Island",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/3-out-of-control-fires-burning-in-the-north-island/",
-      "published_date": "2026-08-17T17:26:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ainslie Creek wildfire threatens historic Alexandra Lodge in Fraser Canyon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/ainslie-creek-wildfire-threatens-historic-alexandra-lodge-in-fraser-canyon/",
-      "published_date": "2026-08-17T17:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman 'swept into the water' at Mississauga's Jack Darling Memorial Park dies",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/woman-swept-into-the-water-at-mississaugas-jack-darling-memorial-park-dies",
-      "published_date": "2026-08-17T14:57:10Z",
       "category": "Local Events"
     }
   ]
