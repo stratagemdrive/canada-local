@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T11:12:52Z",
+  "generated_at": "2026-08-18T23:24:37Z",
   "country": "Canada",
-  "total_stories": 58,
+  "total_stories": 64,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Tahltan Nation rejects claims of secrecy over land-agreement talks with province",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/tahltan-nation-rejects-claims-of-secrecy-over-land-agreement-talks-with-province/",
+      "published_date": "2026-08-18T21:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What could a modern treaty for five Vancouver Island First Nations mean for Royal Roads and Victoria?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/what-could-modern-treaty-five-vancouver-island-first-nations-mean-royal-roads-victoria",
+      "published_date": "2026-08-18T13:00:02Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Canada’s trade folly? Courting China while clashing with America",
       "source": "Toronto Sun",
@@ -81,18 +95,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "WARMINGTON: Ethics commissioner's advice to Mark Carney about Tuscany will remain secret",
+      "title": "MANDEL: Maple Leafs' John Tavares chasing victory in tax battle",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/ethics-commissioners-advice-to-mark-carney-secret",
-      "published_date": "2026-08-11T21:45:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ottawa eyes $1.5M Cannes pavilion amid austerity push",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/ottawa-eyes-cannes-pavilion-amid-austerity-push",
-      "published_date": "2026-08-11T20:35:32Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/local-news/maple-leafs-john-tavares-chasing-victory-tax-battle",
+      "published_date": "2026-08-18T22:41:25Z",
+      "category": "Military"
     },
     {
       "title": "Province says Windsor's long-promised police helicopter still on the way",
@@ -121,6 +128,13 @@
       "url": "https://windsorstar.com/news/local-news/windsor-honours-fallen-canadian-peacekeepers-during-memorial-service",
       "published_date": "2026-08-12T10:01:57Z",
       "category": "Military"
+    },
+    {
+      "title": "Opinion: B.C.&#039;s wildfires and fossil fuels: We need to connect the dots",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-wildfires-and-fossil-fuels-we-need-to-connect-the-dots",
+      "published_date": "2026-08-18T13:00:05Z",
+      "category": "Energy"
     },
     {
       "title": "&#039;A bunch of nothing&#039;: Canada making slow progress on reducing climate risks such as wildfire, floods",
@@ -165,11 +179,46 @@
       "category": "Energy"
     },
     {
-      "title": "Mental health among supports shared by minister in Okanagan amid wildfire emergency",
+      "title": "Pembroke hospital gets largest share of $7.4M Ontario investment",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/pembroke-hospital-gets-largest-share-of-7-4m-ontario-investment",
+      "published_date": "2026-08-18T22:15:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: Booze, autos and a midnight deadline — inside Canada's tariff standoff",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/booze-autos-and-a-midnight-deadline-inside-canadas-tariff-standoff",
+      "published_date": "2026-08-18T22:01:59Z",
+      "category": "Economy"
+    },
+    {
+      "title": "EDITORIAL: We were in trouble before Trump’s tariffs",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/editorial-we-were-in-trouble-before-trumps-tariffs",
+      "published_date": "2026-08-18T21:24:59Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canadians paying more for day-to-day expenses as new tariffs loom",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadians-paying-more-for-day-to-day-expenses-as-new-tariffs-loom",
+      "published_date": "2026-08-18T19:34:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "B.C. food bank delivers food, supplies to wildfire evacuees",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/11/mental-health-among-supports-shared-by-minister-in-okanagan-amid-wildfire-emergency/",
-      "published_date": "2026-08-11T19:16:00Z",
-      "category": "Energy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/b-c-food-bank-delivers-food-supplies-to-wildfire-evacuees/",
+      "published_date": "2026-08-18T19:07:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canadian home sales climb for fourth consecutive month",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/life/homes/canadian-home-sales-climb-for-fourth-consecutive-month",
+      "published_date": "2026-08-18T18:18:07Z",
+      "category": "Economy"
     },
     {
       "title": "GOLDSTEIN: Provincial taxes could skyrocket to pay for federal deficits, report says",
@@ -270,150 +319,143 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: When protectionism starts looking like supply management",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-when-protectionism-starts-looking-like-supply-management",
-      "published_date": "2026-08-11T23:00:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dilkens, Francis at odds over $24K city hall review as election looms",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/dilkens-francis-at-odds-over-24k-city-hall-review-as-election-looms",
-      "published_date": "2026-08-18T11:00:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor losing its last source of fresh kosher meat as Superstore pivots to frozen",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-losing-its-last-source-of-fresh-kosher-meat-as-superstore-pivots-to-frozen",
-      "published_date": "2026-08-18T10:47:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: 4 people, pets safely airlifted from Johnson Creek wildfire as evacuation order continues near Beaton",
+      "title": "B.C. disables employee directory, leaving public in the dark about who works for gov’t",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/city-of-revelstoke-issues-evacuation-order-for-fish-river-road-area-due-to-wildfire/",
-      "published_date": "2026-08-18T07:57:15Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/b-c-disables-employee-directory-leaving-public-in-the-dark-about-who-works-for-govt/",
+      "published_date": "2026-08-18T23:01:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Man bitten by black bear in second recent Metro Vancouver attack",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/man-bitten-by-black-bear-in-second-recent-metro-vancouver-attack",
-      "published_date": "2026-08-18T02:05:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Around 150 structures damaged or destroyed in Bald Range wildfire",
+      "title": "Summerland Strong: B.C. looks to support wildfire evacuees",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/around-500-personnel-continues-to-battle-bald-range-wildfire-in-summerland/",
-      "published_date": "2026-08-18T01:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/summerland-strong-b-c-looks-to-support-wildfire-evacuees/",
+      "published_date": "2026-08-18T22:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Sooke man in prison for shooting neighbour ordered to pay him, wife, $1 million in damages",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/sooke-man-in-prison-for-shooting-neighbour-ordered-to-pay-him-wife-1-million-in-damages",
-      "published_date": "2026-08-18T00:23:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "E-cigarette maker JUUL Labs appeals B.C. court’s class action certification",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/e-cigarette-maker-juul-labs-appeals-b-c-courts-class-action-certification/",
-      "published_date": "2026-08-18T00:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three shootings in three weeks in Fort St. John has B.C. RCMP worried",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/three-shootings-in-three-weeks-fort-st-john-has-bc-rcmp-worried",
-      "published_date": "2026-08-18T00:12:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Wildlife Rehabilitation Society in Summerland burnt down due to wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/interior-wildlife-rehabilitation-society-in-summerland-burnt-down-due-to-wildfire/",
-      "published_date": "2026-08-17T22:27:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;We overshot&#039;: SFU Pipe Band wins world championship in Glasgow",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/sfu-pipe-band-wins-world-championship-in-glasgow",
-      "published_date": "2026-08-17T21:40:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pembroke municipal election debates set for Festival Hall",
+      "title": "OPP lay numerous charges in Killaloe child exploitation case",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/city-hall/pembroke-municipal-election-debates-set-for-festival-hall",
-      "published_date": "2026-08-17T21:35:03Z",
+      "url": "https://www.pembrokeobserver.com/news/opp-lay-numerous-charges-in-killaloe-child-exploitation-case",
+      "published_date": "2026-08-18T21:48:00Z",
       "category": "Local Events"
     },
     {
-      "title": "WestJet boosts sun city service from Western Canada — but chops Vancouver flights to U.S.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/westjet-boosts-sun-city-service-western-canada-chops-vancouver-flights-to-usa",
-      "published_date": "2026-08-17T21:33:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police arrest four impaired drivers, including one at each local border crossing",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-four-impaired-drivers-including-one-at-each-border-crossing",
-      "published_date": "2026-08-17T21:20:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. student cycles 270 km, raises $7.7K for wildfire evacuees",
+      "title": "Evacuated residents begin to return home as B.C. wildfires ease",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/b-c-student-cycles-270-km-raises-7-7k-for-wildfire-evacuees/",
-      "published_date": "2026-08-17T21:07:30Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/evacuated-residents-begin-to-return-home-as-b-c-wildfires-ease/",
+      "published_date": "2026-08-18T21:48:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Support for gender diversity in Canada cooling, says StatsCan study",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/support-for-gender-diversity-in-canada-cooling-says-statscan-study",
-      "published_date": "2026-08-17T20:56:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AGAR: Toronto bike lanes ruling sheds light on legal system",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/toronto-bike-lanes-ruling-sheds-light-on-legal-system",
-      "published_date": "2026-08-17T20:45:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four drivers charged after separate Upper Ottawa Valley incidents",
+      "title": "80 vendors expected at Douglas' first Taste of the Valley",
       "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/four-drivers-charged-after-separate-upper-ottawa-valley-incidents",
-      "published_date": "2026-08-17T20:41:59Z",
+      "url": "https://www.pembrokeobserver.com/news/80-vendors-expected-at-douglas-first-taste-of-the-valley",
+      "published_date": "2026-08-18T21:33:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Northwest firefighters remain down south",
+      "title": "Regional District announces upcoming election",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/northwest-firefighters-remain-down-south/",
-      "published_date": "2026-08-17T20:25:23Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/regional-district-announces-upcoming-election/",
+      "published_date": "2026-08-18T21:01:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Use of ATV in Okanagan backcountry reignites concerns over encampments amid fire risk",
+      "title": "Video: Mission teens on electric vehicles flee police, get fined anyways",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/video-mission-bc-teens-on-electric-vehicles-flee-police-get-fined-anyways",
+      "published_date": "2026-08-18T21:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 Kelowna restaurants make OpenTable’s Top 100 outdoor dining list",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/17/use-of-atv-in-okanagan-backcountry-reignites-concerns-over-encampments-amid-fire-risk/",
-      "published_date": "2026-08-17T19:19:57Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/3-kelowna-restaurants-make-opentables-top-100-outdoor-dining-list/",
+      "published_date": "2026-08-18T20:59:56Z",
       "category": "Local Events"
     },
     {
-      "title": "HUNTER: Why can't Windsor child sex assault suspect be deported?",
+      "title": "Injured hunter airlifted from remote area near Kitamaat Village",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/injured-hunter-airlifted-from-remote-area-near-kitamaat-village/",
+      "published_date": "2026-08-18T20:33:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police arrest 62-year-old man following downtown arson",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-62-year-old-man-following-downtown-arson",
+      "published_date": "2026-08-18T20:28:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: Provinces should not rely too much on federal dollars",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/why-cant-windsor-child-sex-assault-suspect-be-deported",
-      "published_date": "2026-08-17T19:01:34Z",
+      "url": "https://torontosun.com/opinion/columnists/provinces-should-not-rely-too-much-on-federal-dollars",
+      "published_date": "2026-08-18T19:22:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Postal service resumes in Clinton as Pear Lake fire holds at 160,315 hectares",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/postal-service-resumes-in-clinton-as-pear-lake-fire-holds-at-160315-hectares/",
+      "published_date": "2026-08-18T19:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect in e-scooter thefts sought by police",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/suspect-in-e-scooter-thefts-sought-by-police",
+      "published_date": "2026-08-18T19:07:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dior's Mathilde Favier and film producer Nicolas Altmayer die in crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/life/fashion-beauty/diors-mathilde-favier-and-film-producer-nicolas-altmayer-die-in-crash",
+      "published_date": "2026-08-18T18:54:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "91-year-old Windsor woman wins fight against 56% rent hike, avoids eviction",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/91-year-old-windsor-senior-wins-fight-against-56-rent-hike-avoids-eviction",
+      "published_date": "2026-08-18T18:37:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beaver statues in Toronto that represented World Cup countries up for auction",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/beaver-statues-in-toronto-that-represented-world-cup-countries-up-for-auction",
+      "published_date": "2026-08-18T18:30:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Durham cop who assaulted kids legally allowed to work at Ontario camp",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/durham-cop-who-assaulted-kids-legally-allowed-to-work-at-ontario-camp",
+      "published_date": "2026-08-18T18:24:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: 'National treasure' Don Cherry boosts Hockey Night in Brampton",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/warmington-national-treasure-don-cherry-boosts-hockey-night-in-brampton",
+      "published_date": "2026-08-18T18:02:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amherstburg trail reopens following two-month closure protecting nesting turtles",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/amherstburg-trail-reopens-following-two-month-closure-protecting-nesting-turtles",
+      "published_date": "2026-08-18T17:35:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Wildfires Updates: Thousands more Summerland residents head home &#124; About 150 structures damaged or destroyed by Bald Range wildfire",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-wildfires-updates-live-evacuations-alerts-summerland-damage-smoke-warnings",
+      "published_date": "2026-08-18T14:37:54Z",
       "category": "Local Events"
     }
   ]
