@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T23:24:37Z",
+  "generated_at": "2026-08-19T11:12:42Z",
   "country": "Canada",
-  "total_stories": 64,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -88,11 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Petition to kick out U.S. ambassador reaches nearly 30,000 signatures",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-petition-seeks-removal-us-ambassador",
-      "published_date": "2026-08-11T23:53:52Z",
-      "category": "Diplomacy"
+      "title": "RCMP sergeant details weapon search in Grand Forks manslaughter trial",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/rcmp-sergeant-details-weapon-search-in-grand-forks-manslaughter-trial/",
+      "published_date": "2026-08-19T03:19:00Z",
+      "category": "Military"
     },
     {
       "title": "MANDEL: Maple Leafs' John Tavares chasing victory in tax battle",
@@ -120,13 +120,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/iran-war-latest-august-12",
       "published_date": "2026-08-12T11:15:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Windsor honours fallen Canadian peacekeepers during memorial service",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-honours-fallen-canadian-peacekeepers-during-memorial-service",
-      "published_date": "2026-08-12T10:01:57Z",
       "category": "Military"
     },
     {
@@ -177,6 +170,27 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/08/13/solar-eclipse/",
       "published_date": "2026-08-13T18:00:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Looming tariffs threaten to upend the auto industry",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/looming-tariffs-threaten-to-upend-the-auto-industry",
+      "published_date": "2026-08-19T10:30:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: Crisis averted as President Donald Trump pauses tariffs, says Canada, U.S. trade 'deal' is near",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/lilley-crisis-averted-as-president-donald-trump-pauses-tariffs-says-canada-u-s-strike-trade-deal",
+      "published_date": "2026-08-19T03:11:29Z",
+      "category": "Economy"
+    },
+    {
+      "title": "B.C. businesses bracing for &#039;severe consequences&#039; of 50 per cent tariffs",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-businesses-bracing-for-severe-consequences-of-50-per-cent-tariffs",
+      "published_date": "2026-08-18T23:55:12Z",
+      "category": "Economy"
     },
     {
       "title": "Pembroke hospital gets largest share of $7.4M Ontario investment",
@@ -298,25 +312,46 @@
       "category": "Economy"
     },
     {
-      "title": "Canadians spent more on taxes than basic necessities in 2025: Study",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/canadians-spend-more-on-taxes-than-basic-necessities-2025-study",
-      "published_date": "2026-08-13T09:00:19Z",
-      "category": "Economy"
+      "title": "Quilpituk Creek wildfire is reported under control: BCWS",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/quilpituk-creek-wildfire-is-reported-under-control-bcws/",
+      "published_date": "2026-08-19T03:13:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Senate Speaker drops nearly $900K on world travel: Canadian Taxpayers Federation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/senate-speaker-drops-nearly-900k-on-world-travel-canadian-taxpayers-federation",
-      "published_date": "2026-08-12T20:46:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Blackwater gold mine expansion a major economic jolt for B.C.&#039;s Central Interior",
+      "title": "Bad year for B.C. drownings continues with Vancouver Island death",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/barely-open-blackwater-gold-mine-starts-work-on-expansion",
-      "published_date": "2026-08-12T13:00:39Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/bad-year-for-bc-drownings-continues-with-vancouver-island-death",
+      "published_date": "2026-08-19T00:56:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: WNBA fans flock to downtown Toronto for chance to catch Fever",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/wnba-fans-flock-toronto-catch-fever",
+      "published_date": "2026-08-19T00:22:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP officer who killed B.C. Indigenous man in 2021 will not testify at inquest",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/rcmp-officer-who-killed-bc-indigenous-man-2021-will-not-testify-inquest",
+      "published_date": "2026-08-19T00:00:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Study from union says Ontario hospitals “pushed to brink”",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/08/18/study-from-union-says-ontario-hospitals-pushed-to-brink/",
+      "published_date": "2026-08-18T23:44:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Another Southern Georgian Bay OPP officer faces charges; supspect sought in sex assault",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/another-southern-georgian-bay-opp-officer-faces-charges-supspect-sought-in-sex-assault",
+      "published_date": "2026-08-18T23:40:55Z",
+      "category": "Local Events"
     },
     {
       "title": "B.C. disables employee directory, leaving public in the dark about who works for gov’t",
@@ -414,48 +449,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/life/fashion-beauty/diors-mathilde-favier-and-film-producer-nicolas-altmayer-die-in-crash",
       "published_date": "2026-08-18T18:54:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "91-year-old Windsor woman wins fight against 56% rent hike, avoids eviction",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/91-year-old-windsor-senior-wins-fight-against-56-rent-hike-avoids-eviction",
-      "published_date": "2026-08-18T18:37:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beaver statues in Toronto that represented World Cup countries up for auction",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/beaver-statues-in-toronto-that-represented-world-cup-countries-up-for-auction",
-      "published_date": "2026-08-18T18:30:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Durham cop who assaulted kids legally allowed to work at Ontario camp",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/durham-cop-who-assaulted-kids-legally-allowed-to-work-at-ontario-camp",
-      "published_date": "2026-08-18T18:24:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: 'National treasure' Don Cherry boosts Hockey Night in Brampton",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/warmington-national-treasure-don-cherry-boosts-hockey-night-in-brampton",
-      "published_date": "2026-08-18T18:02:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amherstburg trail reopens following two-month closure protecting nesting turtles",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/amherstburg-trail-reopens-following-two-month-closure-protecting-nesting-turtles",
-      "published_date": "2026-08-18T17:35:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Wildfires Updates: Thousands more Summerland residents head home &#124; About 150 structures damaged or destroyed by Bald Range wildfire",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-wildfires-updates-live-evacuations-alerts-summerland-damage-smoke-warnings",
-      "published_date": "2026-08-18T14:37:54Z",
       "category": "Local Events"
     }
   ]
