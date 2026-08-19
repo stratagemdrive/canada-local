@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T11:12:42Z",
+  "generated_at": "2026-08-19T23:25:13Z",
   "country": "Canada",
-  "total_stories": 63,
+  "total_stories": 66,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,11 +81,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Former Miss Universe Canada calls out 'cultural appropriation' during pageant",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/former-miss-universe-canada-calls-out-cultural-appropriation-during-pageant",
-      "published_date": "2026-08-12T14:25:27Z",
-      "category": "Diplomacy"
+      "title": "Crown appeals post-conviction mistrial in Frank Stronach sex assault case",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/crown-appeals-post-conviction-mistrial-frank-stronach-sex-assault",
+      "published_date": "2026-08-19T20:17:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s 35th Independence year brings War Up Close VR to Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/ukraines-35th-independence-year-brings-war-up-close-vr-to-kelowna/",
+      "published_date": "2026-08-19T20:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Military tattoo brings musical spectacle to first-time-at-the-PNE event",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/military-tattoo-first-pne-event",
+      "published_date": "2026-08-19T13:00:45Z",
+      "category": "Military"
     },
     {
       "title": "RCMP sergeant details weapon search in Grand Forks manslaughter trial",
@@ -116,11 +130,18 @@
       "category": "Military"
     },
     {
-      "title": "IRAN WAR: Trump says U.S. 'owns' and controls Strait of Hormuz",
+      "title": "GOLDSTEIN: Resurrecting Keystone XL pipeline would be win for Canada",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iran-war-latest-august-12",
-      "published_date": "2026-08-12T11:15:31Z",
-      "category": "Military"
+      "url": "https://torontosun.com/opinion/columnists/goldstein-resurrecting-keystone-xl-pipeline-would-be-win-for-canada",
+      "published_date": "2026-08-19T21:24:24Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Annual cost of fighting B.C. wildfires doubled in a decade, SFU report says",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/annual-bc-wildfire-costs-doubled-decade-sfu-report",
+      "published_date": "2026-08-19T15:30:55Z",
+      "category": "Energy"
     },
     {
       "title": "Opinion: B.C.&#039;s wildfires and fossil fuels: We need to connect the dots",
@@ -170,6 +191,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/08/13/solar-eclipse/",
       "published_date": "2026-08-13T18:00:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Tariff deal on the horizon, but outlook still uncertain for B.C. forestry",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/tariff-deal-on-the-horizon-but-outlook-still-uncertain-for-b-c-forestry/",
+      "published_date": "2026-08-19T22:55:59Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Province targets more than 1,000 new trainees in latest job fund rollout",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/province-targets-more-than-1000-new-trainees-in-latest-job-fund-rollout",
+      "published_date": "2026-08-19T19:33:54Z",
+      "category": "Economy"
     },
     {
       "title": "Looming tariffs threaten to upend the auto industry",
@@ -298,157 +333,143 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. Finance Minister Brenda Bailey announces she has cancer, will say more on Friday",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-finance-minister-brenda-bailey-announces-she-has-cancer-will-reveal-next-steps-friday",
-      "published_date": "2026-08-14T00:49:25Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Temporary migrant workers braved smoke to send money home. Then a B.C. wildfire took their jobs",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/temporary-bc-migrant-workers-wildfire-took-their-jobs",
-      "published_date": "2026-08-13T23:54:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Quilpituk Creek wildfire is reported under control: BCWS",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/quilpituk-creek-wildfire-is-reported-under-control-bcws/",
-      "published_date": "2026-08-19T03:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bad year for B.C. drownings continues with Vancouver Island death",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bad-year-for-bc-drownings-continues-with-vancouver-island-death",
-      "published_date": "2026-08-19T00:56:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: WNBA fans flock to downtown Toronto for chance to catch Fever",
+      "title": "WARMINGTON: No easy solutions for Toronto's Beaches-East York",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/wnba-fans-flock-toronto-catch-fever",
-      "published_date": "2026-08-19T00:22:35Z",
+      "url": "https://torontosun.com/news/local-news/no-easy-solutions-toronto-beaches-east-york",
+      "published_date": "2026-08-19T23:22:10Z",
       "category": "Local Events"
     },
     {
-      "title": "RCMP officer who killed B.C. Indigenous man in 2021 will not testify at inquest",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/rcmp-officer-who-killed-bc-indigenous-man-2021-will-not-testify-inquest",
-      "published_date": "2026-08-19T00:00:22Z",
+      "title": "High-risk sex offender arrested twice in six days",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/high-risk-sex-offender-arrested-twice-in-six-days/",
+      "published_date": "2026-08-19T23:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Study from union says Ontario hospitals “pushed to brink”",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/08/18/study-from-union-says-ontario-hospitals-pushed-to-brink/",
-      "published_date": "2026-08-18T23:44:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another Southern Georgian Bay OPP officer faces charges; supspect sought in sex assault",
+      "title": "MANDEL: Fugitive gunman goes on trial in Toronto murder of Smoke Dawg",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/another-southern-georgian-bay-opp-officer-faces-charges-supspect-sought-in-sex-assault",
-      "published_date": "2026-08-18T23:40:55Z",
+      "url": "https://torontosun.com/news/crime/fugitive-gunman-on-trial-toronto-murder-smoke-dawg",
+      "published_date": "2026-08-19T22:31:57Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. disables employee directory, leaving public in the dark about who works for gov’t",
+      "title": "Brief polling lead for B.C. Conservatives quickly erodes under new leader Findlay",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/b-c-disables-employee-directory-leaving-public-in-the-dark-about-who-works-for-govt/",
-      "published_date": "2026-08-18T23:01:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/brief-polling-lead-for-b-c-conservatives-quickly-erodes-under-new-leader-findlay/",
+      "published_date": "2026-08-19T22:22:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Summerland Strong: B.C. looks to support wildfire evacuees",
+      "title": "Abbotsford police investigate viral videos of 2 littering incidents",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/summerland-strong-b-c-looks-to-support-wildfire-evacuees/",
-      "published_date": "2026-08-18T22:31:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/abbotsford-police-investigate-viral-videos-of-2-littering-incidents/",
+      "published_date": "2026-08-19T22:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "OPP lay numerous charges in Killaloe child exploitation case",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/opp-lay-numerous-charges-in-killaloe-child-exploitation-case",
-      "published_date": "2026-08-18T21:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuated residents begin to return home as B.C. wildfires ease",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/evacuated-residents-begin-to-return-home-as-b-c-wildfires-ease/",
-      "published_date": "2026-08-18T21:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "80 vendors expected at Douglas' first Taste of the Valley",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/80-vendors-expected-at-douglas-first-taste-of-the-valley",
-      "published_date": "2026-08-18T21:33:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regional District announces upcoming election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/regional-district-announces-upcoming-election/",
-      "published_date": "2026-08-18T21:01:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: Mission teens on electric vehicles flee police, get fined anyways",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/video-mission-bc-teens-on-electric-vehicles-flee-police-get-fined-anyways",
-      "published_date": "2026-08-18T21:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 Kelowna restaurants make OpenTable’s Top 100 outdoor dining list",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/3-kelowna-restaurants-make-opentables-top-100-outdoor-dining-list/",
-      "published_date": "2026-08-18T20:59:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Injured hunter airlifted from remote area near Kitamaat Village",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/injured-hunter-airlifted-from-remote-area-near-kitamaat-village/",
-      "published_date": "2026-08-18T20:33:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police arrest 62-year-old man following downtown arson",
+      "title": "Police probe possible 'hate-motivated' vandalism at Windsor church",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-62-year-old-man-following-downtown-arson",
-      "published_date": "2026-08-18T20:28:50Z",
+      "url": "https://windsorstar.com/news/local-news/police-probe-possible-hate-motivated-vandalism-at-windsor-church",
+      "published_date": "2026-08-19T22:13:19Z",
       "category": "Local Events"
     },
     {
-      "title": "OPINION: Provinces should not rely too much on federal dollars",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/provinces-should-not-rely-too-much-on-federal-dollars",
-      "published_date": "2026-08-18T19:22:17Z",
+      "title": "Cold case cracked? VPD investigating if &#039;Lucky&#039; is a man missing from Vancouver for 33 years",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/cold-case-cracked-vpd-investigating-if-lucky-is-man-missing-from-vancouver-for-33-years",
+      "published_date": "2026-08-19T21:56:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Postal service resumes in Clinton as Pear Lake fire holds at 160,315 hectares",
+      "title": "Man struck by TransLink bus in Surrey has died",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-struck-by-translink-bus-in-surrey-has-died",
+      "published_date": "2026-08-19T21:49:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aaron Wiebe",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/postal-service-resumes-in-clinton-as-pear-lake-fire-holds-at-160315-hectares/",
-      "published_date": "2026-08-18T19:11:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/aaron-wiebe/",
+      "published_date": "2026-08-19T21:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Suspect in e-scooter thefts sought by police",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/suspect-in-e-scooter-thefts-sought-by-police",
-      "published_date": "2026-08-18T19:07:09Z",
+      "title": "‘Definition of a psychopath’ rejected for parole in violent Okanagan rape",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/definition-of-a-psychopath-rejected-for-parole-in-violent-okanagan-rape/",
+      "published_date": "2026-08-19T21:13:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Dior's Mathilde Favier and film producer Nicolas Altmayer die in crash",
+      "title": "Emergency preparedness is more than stockpiling water",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/emergency-preparedness-is-more-than-stockpiling-water/",
+      "published_date": "2026-08-19T20:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Push to recall Okanagan MLA Tara Armstrong on hold as campaign gathers resources",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/push-to-recall-okanagan-mla-tara-armstrong-on-hold-as-campaign-gathers-resources/",
+      "published_date": "2026-08-19T20:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP Black Hawk border patrol bill topping $50M",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/life/fashion-beauty/diors-mathilde-favier-and-film-producer-nicolas-altmayer-die-in-crash",
-      "published_date": "2026-08-18T18:54:01Z",
+      "url": "https://torontosun.com/news/rcmp-black-hawk-border-patrol-bill-topping-50m",
+      "published_date": "2026-08-19T20:23:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This year’s CNE food heats and sweetens up the tastebuds",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/this-years-cne-food-heats-and-sweetens-up-the-tastebuds",
+      "published_date": "2026-08-19T20:11:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Killaloe Craft Fair celebrates golden anniversary",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/killaloe-craft-fair-celebrates-golden-anniversary",
+      "published_date": "2026-08-19T19:57:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Online dating scheme allegedly led to victim extorted out of $6,000 in Brampton",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/online-dating-scheme-extortion-brampton",
+      "published_date": "2026-08-19T19:52:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Petawawa turns down proposed hybrid public transit solution",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/petawawa-turns-down-proposed-hybrid-public-transit-solution",
+      "published_date": "2026-08-19T19:14:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Summerland wildfire grows to almost 23,000 hectares as crews brace for strong winds",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/the-weather-conditions-arent-helping-us-much-bald-range-in-summerland-wildfire-continues-to-grow-northwest/",
+      "published_date": "2026-08-19T18:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPP drug raid leads to woman's arrest in Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/opp-search-leads-to-arrest-in-essex",
+      "published_date": "2026-08-19T18:42:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Restored ship showcases Japanese Canadian boatbuilding history at Richmond Maritime Festival",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/restored-crystal-s-showcases-japanese-canadian-boatbuilding-history-at-richmond-maritime-festival",
+      "published_date": "2026-08-19T18:00:37Z",
       "category": "Local Events"
     }
   ]
