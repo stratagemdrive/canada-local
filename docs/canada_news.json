@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T11:14:46Z",
+  "generated_at": "2026-08-20T23:27:44Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -81,18 +81,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: Doug Ford's cautious first steps in securing Ontario's AI-driven future",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/doug-ford-cautious-first-steps-securing-ontarios-ai-driven-future",
-      "published_date": "2026-08-13T21:07:39Z",
-      "category": "Diplomacy"
+      "title": "What happened to B.C.’s stalled Bear Smart program?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/bc-bear-smart-program-what-happened",
+      "published_date": "2026-08-20T23:21:35Z",
+      "category": "Military"
     },
     {
-      "title": "Queen’s University Faculty Association to hold strike vote",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/08/13/queens-university-faculty-association-to-hold-strike-vote/",
-      "published_date": "2026-08-13T19:14:00Z",
-      "category": "Diplomacy"
+      "title": "Windsor police say man charged with child sex assault fled to U.S. while on bail",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-say-man-charged-with-child-sex-assault-fled-to-u-s-while-on-bail",
+      "published_date": "2026-08-20T21:50:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "BTS is coming to Toronto — and the city is getting ready",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/bts-is-coming-to-toronto-and-the-city-is-getting-ready",
+      "published_date": "2026-08-20T18:55:09Z",
+      "category": "Military"
+    },
+    {
+      "title": "Crown seeking prison for Windsor gun collector who improperly stored firearms",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/crown-seeking-prison-for-windsor-gun-collector-who-improperly-stored-firearms",
+      "published_date": "2026-08-20T14:17:56Z",
+      "category": "Military"
     },
     {
       "title": "Crown appeals post-conviction mistrial in Frank Stronach sex assault case",
@@ -130,18 +144,11 @@
       "category": "Military"
     },
     {
-      "title": "Province says Windsor's long-promised police helicopter still on the way",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/province-says-windsors-long-promised-police-helicopter-still-on-the-way",
-      "published_date": "2026-08-13T16:57:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Windsor police combat human trafficking with online portal, awareness campaign",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-combat-human-trafficking-with-online-portal-awareness-campaign",
-      "published_date": "2026-08-13T11:30:43Z",
-      "category": "Military"
+      "title": "Kitimat gets $5 million from LNG Canada for planned Eco Depot",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/kitimat-gets-5-million-from-lng-canada-for-planned-eco-depot/",
+      "published_date": "2026-08-20T18:57:00Z",
+      "category": "Energy"
     },
     {
       "title": "GOLDSTEIN: Resurrecting Keystone XL pipeline would be win for Canada",
@@ -193,18 +200,11 @@
       "category": "Energy"
     },
     {
-      "title": "Vaughn Palmer: Two NDPs, two opposing positions on LNG",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-two-ndps-two-opposing-positions-on-lng",
-      "published_date": "2026-08-13T23:13:24Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar Eclipse",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/13/solar-eclipse/",
-      "published_date": "2026-08-13T18:00:00Z",
-      "category": "Energy"
+      "title": "EDITORIAL: It's not the deal Canada wanted",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/not-the-deal-canada-wanted-carney-trump-tariffs",
+      "published_date": "2026-08-20T22:17:42Z",
+      "category": "Economy"
     },
     {
       "title": "Tariff deal on the horizon, but outlook still uncertain for B.C. forestry",
@@ -340,150 +340,143 @@
       "category": "Economy"
     },
     {
-      "title": "New Windsor bus tour explores border city's history, landmarks",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/new-windsor-bus-tour-explores-border-citys-history-landmarks",
-      "published_date": "2026-08-14T08:51:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Charity ride rolls through Windsor-Essex to support local food banks",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/18th-annual-poker-run-to-raise-funds-for-local-food-banks",
-      "published_date": "2026-08-20T10:41:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP charge Laurentian Valley man over online threats",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/opp-charge-laurentian-valley-man-over-online-threats",
-      "published_date": "2026-08-20T10:35:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadline to run in upcoming municipal election looms",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/deadline-to-run-in-upcoming-municipal-election-looms",
-      "published_date": "2026-08-20T10:20:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Further delay in replacing Beachburg Road watermain",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/further-delay-in-replacing-beachburg-road-watermain",
-      "published_date": "2026-08-20T10:06:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aritzia Warehouse Sale 2026: Everything you need to know",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/aritzia-warehouse-sale-2026-everything-you-need-to-know",
-      "published_date": "2026-08-20T07:01:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Accused testifies he feared for his life in Grand Forks manslaughter trial",
+      "title": "Twin ceremonies herald new Indigenous services for Houston",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/accused-testifies-he-feared-for-his-life-in-grand-forks-manslaughter-trial/",
-      "published_date": "2026-08-20T04:36:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/twin-ceremonies-herald-new-indigenous-services-for-houston/",
+      "published_date": "2026-08-20T23:19:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Potential for aggressive behaviour at Brunswick Complex fire in Fraser Canyon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/minimal-growth-overnight-at-ainslie-creek-fire-in-fraser-canyon/",
-      "published_date": "2026-08-20T03:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More cuts coming to Global B.C., says industry source",
+      "title": "David Eby mum about lifting U.S. booze ban as B.C. restaurant industry supportive of prime minister&#039;s call",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/more-cuts-coming-global-bc-says-industry-source",
-      "published_date": "2026-08-20T01:37:22Z",
+      "url": "https://vancouversun.com/news/bc-premier-david-eby-mum-about-lifting-us-booze-ban-restaurant-industry-supportive-prime-minister-mark-carney-call",
+      "published_date": "2026-08-20T23:10:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Unidentified man accused of sex assault against child in downtown Toronto park",
+      "title": "Ottawa and B.C. putting up $106.5M to help recover salmon stocks",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/ottawa-and-b-c-putting-up-106-5m-to-help-recover-salmon-stocks/",
+      "published_date": "2026-08-20T22:55:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police ticket Abbotsford woman at centre of viral littering scandal",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/police-id-fine-abbotsford-woman-at-centre-of-viral-littering-scandal",
+      "published_date": "2026-08-20T22:34:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: Almost all of Summerland can return home; residents remain on alert amid wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/difficult-terrain-stubborn-fire-behaviour-causing-challenges-at-bald-range-blaze-near-summerland/",
+      "published_date": "2026-08-20T22:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bear attack in Anmore backyard injures woman",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bear-attack-in-anmore-backyard-injures-woman",
+      "published_date": "2026-08-20T22:03:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: No more California dreaming for the Sussexes",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/unidentified-man-accused-sex-assault-child-downtown-toronto",
-      "published_date": "2026-08-20T00:59:47Z",
+      "url": "https://torontosun.com/news/local-news/mandel-no-more-california-dreaming-for-the-sussexes",
+      "published_date": "2026-08-20T21:55:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Coroners&#039; inquest told Indigenous man killed by RCMP in 2021 came at police with weapon",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-coroners-inquest-told-indigenous-man-killed-by-rcmp-in-2021-came-at-police-with-weapon",
-      "published_date": "2026-08-19T23:59:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A dumpster fire in Kamloops under investigation",
+      "title": "Bulkley Nechako regional directors vote in pay hike for incoming board",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/a-dumpster-fire-near-wilson-street-and-tranquille-road-under-investigation/",
-      "published_date": "2026-08-19T23:57:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/regional-directors-vote-in-pay-hike-for-incoming-board/",
+      "published_date": "2026-08-20T21:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "LILLEY: Olivia Chow's drug playbook already failed in Vancouver",
+      "title": "MPP cuts Chris Moise loose, backs political newcomer",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/olivia-chow-drug-playbook-already-failed-vancouver",
-      "published_date": "2026-08-19T23:40:39Z",
+      "url": "https://torontosun.com/news/local-news/wong-tam-endorsement-stikuts-not-moise",
+      "published_date": "2026-08-20T21:23:08Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: No easy solutions for Toronto's Beaches-East York",
+      "title": "Early opening for busway replacing defunct Line 3",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/no-easy-solutions-toronto-beaches-east-york",
-      "published_date": "2026-08-19T23:22:10Z",
+      "url": "https://torontosun.com/news/local-news/early-opening-busway-replacing-defunct-line-3",
+      "published_date": "2026-08-20T21:03:54Z",
       "category": "Local Events"
     },
     {
-      "title": "High-risk sex offender arrested twice in six days",
+      "title": "UPDATE: RCMP confirm 2nd fatal drowning at Cultus Lake in less than 2 weeks",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/high-risk-sex-offender-arrested-twice-in-six-days/",
-      "published_date": "2026-08-19T23:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/update-rcmp-confirm-2nd-fatal-drowning-at-cultus-lake-in-less-than-2-weeks/",
+      "published_date": "2026-08-20T21:01:00Z",
       "category": "Local Events"
     },
     {
-      "title": "MANDEL: Fugitive gunman goes on trial in Toronto murder of Smoke Dawg",
+      "title": "LILLEY: Carney-appointed judge rejects Ontario cash bail rule in human trafficking case",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/fugitive-gunman-on-trial-toronto-murder-smoke-dawg",
-      "published_date": "2026-08-19T22:31:57Z",
+      "url": "https://torontosun.com/opinion/columnists/carney-appointed-judge-rejects-ontario-cash-bail-rule-human-trafficking-case",
+      "published_date": "2026-08-20T20:24:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Brief polling lead for B.C. Conservatives quickly erodes under new leader Findlay",
+      "title": "Woman in viral Abbotsford littering videos fined $1K",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/brief-polling-lead-for-b-c-conservatives-quickly-erodes-under-new-leader-findlay/",
-      "published_date": "2026-08-19T22:22:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/woman-in-viral-abbotsford-littering-videos-fined-1k/",
+      "published_date": "2026-08-20T20:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Abbotsford police investigate viral videos of 2 littering incidents",
+      "title": "B.C. and Washington fire crews continue to battle wildfire near Hope",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/abbotsford-police-investigate-viral-videos-of-2-littering-incidents/",
-      "published_date": "2026-08-19T22:20:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/b-c-and-washington-fire-crews-continue-to-battle-wildfire-near-hope/",
+      "published_date": "2026-08-20T20:07:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Police probe possible 'hate-motivated' vandalism at Windsor church",
+      "title": "‘Just in shock’: 13-year-old golfing phenom wins golf title in B.C. with playoff ace",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/just-in-shock-13-year-old-golfing-phenom-wins-bear-mountain-title-with-playoff-ace/",
+      "published_date": "2026-08-20T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "York Region soccer coach arrested after alleged sexual assault of youth",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/york-region-soccer-coach-arrested-after-alleged-sexual-assault-of-youth",
+      "published_date": "2026-08-20T19:58:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former mayoral candidate seeks council seat ahead of upcoming election",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/08/20/former-mayoral-candidate-seeks-council-seat-ahead-of-upcoming-election/",
+      "published_date": "2026-08-20T19:51:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Province denies commercial wilderness school land use for East Sooke Park",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/province-denies-commercial-wilderness-school-land-use-for-east-sooke-park/",
+      "published_date": "2026-08-20T19:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What's on Windsor: Prohibition-era fun, punk rock, carnival vibes, butterflies and more",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/police-probe-possible-hate-motivated-vandalism-at-windsor-church",
-      "published_date": "2026-08-19T22:13:19Z",
+      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-prohibition-era-fun-punk-rock-carnival-vibes-butterflies-and-more",
+      "published_date": "2026-08-20T19:37:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Cold case cracked? VPD investigating if &#039;Lucky&#039; is a man missing from Vancouver for 33 years",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/cold-case-cracked-vpd-investigating-if-lucky-is-man-missing-from-vancouver-for-33-years",
-      "published_date": "2026-08-19T21:56:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man struck by TransLink bus in Surrey has died",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-struck-by-translink-bus-in-surrey-has-died",
-      "published_date": "2026-08-19T21:49:46Z",
+      "title": "Pair of Essex County motorists face impaired driving charges",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/pair-of-essex-county-motorists-face-impaired-driving-charges",
+      "published_date": "2026-08-20T19:27:04Z",
       "category": "Local Events"
     }
   ]
