@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T23:25:13Z",
+  "generated_at": "2026-08-20T11:14:46Z",
   "country": "Canada",
-  "total_stories": 66,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: Carney's trade deal — all spin and few details",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carneys-trade-deal-all-spin-and-few-details",
+      "published_date": "2026-08-20T00:14:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump calls tariffs agreement with Canada 'a very fair deal for both'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/mark-carney-statement-donald-trump-pauses-tariffs",
+      "published_date": "2026-08-19T11:36:47Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tahltan Nation rejects claims of secrecy over land-agreement talks with province",
       "source": "Burns Lake District News",
@@ -333,6 +347,90 @@
       "category": "Economy"
     },
     {
+      "title": "Charity ride rolls through Windsor-Essex to support local food banks",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/18th-annual-poker-run-to-raise-funds-for-local-food-banks",
+      "published_date": "2026-08-20T10:41:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPP charge Laurentian Valley man over online threats",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/opp-charge-laurentian-valley-man-over-online-threats",
+      "published_date": "2026-08-20T10:35:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadline to run in upcoming municipal election looms",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/deadline-to-run-in-upcoming-municipal-election-looms",
+      "published_date": "2026-08-20T10:20:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Further delay in replacing Beachburg Road watermain",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/further-delay-in-replacing-beachburg-road-watermain",
+      "published_date": "2026-08-20T10:06:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aritzia Warehouse Sale 2026: Everything you need to know",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/aritzia-warehouse-sale-2026-everything-you-need-to-know",
+      "published_date": "2026-08-20T07:01:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Accused testifies he feared for his life in Grand Forks manslaughter trial",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/accused-testifies-he-feared-for-his-life-in-grand-forks-manslaughter-trial/",
+      "published_date": "2026-08-20T04:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Potential for aggressive behaviour at Brunswick Complex fire in Fraser Canyon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/minimal-growth-overnight-at-ainslie-creek-fire-in-fraser-canyon/",
+      "published_date": "2026-08-20T03:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More cuts coming to Global B.C., says industry source",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/more-cuts-coming-global-bc-says-industry-source",
+      "published_date": "2026-08-20T01:37:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unidentified man accused of sex assault against child in downtown Toronto park",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/unidentified-man-accused-sex-assault-child-downtown-toronto",
+      "published_date": "2026-08-20T00:59:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coroners&#039; inquest told Indigenous man killed by RCMP in 2021 came at police with weapon",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-coroners-inquest-told-indigenous-man-killed-by-rcmp-in-2021-came-at-police-with-weapon",
+      "published_date": "2026-08-19T23:59:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A dumpster fire in Kamloops under investigation",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/a-dumpster-fire-near-wilson-street-and-tranquille-road-under-investigation/",
+      "published_date": "2026-08-19T23:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Olivia Chow's drug playbook already failed in Vancouver",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/olivia-chow-drug-playbook-already-failed-vancouver",
+      "published_date": "2026-08-19T23:40:39Z",
+      "category": "Local Events"
+    },
+    {
       "title": "WARMINGTON: No easy solutions for Toronto's Beaches-East York",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/no-easy-solutions-toronto-beaches-east-york",
@@ -386,90 +484,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/man-struck-by-translink-bus-in-surrey-has-died",
       "published_date": "2026-08-19T21:49:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aaron Wiebe",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/aaron-wiebe/",
-      "published_date": "2026-08-19T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Definition of a psychopath’ rejected for parole in violent Okanagan rape",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/definition-of-a-psychopath-rejected-for-parole-in-violent-okanagan-rape/",
-      "published_date": "2026-08-19T21:13:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emergency preparedness is more than stockpiling water",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/emergency-preparedness-is-more-than-stockpiling-water/",
-      "published_date": "2026-08-19T20:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Push to recall Okanagan MLA Tara Armstrong on hold as campaign gathers resources",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/push-to-recall-okanagan-mla-tara-armstrong-on-hold-as-campaign-gathers-resources/",
-      "published_date": "2026-08-19T20:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP Black Hawk border patrol bill topping $50M",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/rcmp-black-hawk-border-patrol-bill-topping-50m",
-      "published_date": "2026-08-19T20:23:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This year’s CNE food heats and sweetens up the tastebuds",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/this-years-cne-food-heats-and-sweetens-up-the-tastebuds",
-      "published_date": "2026-08-19T20:11:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Killaloe Craft Fair celebrates golden anniversary",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/killaloe-craft-fair-celebrates-golden-anniversary",
-      "published_date": "2026-08-19T19:57:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Online dating scheme allegedly led to victim extorted out of $6,000 in Brampton",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/online-dating-scheme-extortion-brampton",
-      "published_date": "2026-08-19T19:52:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Petawawa turns down proposed hybrid public transit solution",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/petawawa-turns-down-proposed-hybrid-public-transit-solution",
-      "published_date": "2026-08-19T19:14:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Summerland wildfire grows to almost 23,000 hectares as crews brace for strong winds",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/the-weather-conditions-arent-helping-us-much-bald-range-in-summerland-wildfire-continues-to-grow-northwest/",
-      "published_date": "2026-08-19T18:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP drug raid leads to woman's arrest in Essex",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-search-leads-to-arrest-in-essex",
-      "published_date": "2026-08-19T18:42:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Restored ship showcases Japanese Canadian boatbuilding history at Richmond Maritime Festival",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/restored-crystal-s-showcases-japanese-canadian-boatbuilding-history-at-richmond-maritime-festival",
-      "published_date": "2026-08-19T18:00:37Z",
       "category": "Local Events"
     }
   ]
