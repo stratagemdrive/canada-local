@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:14:05Z",
+  "generated_at": "2026-08-21T23:26:16Z",
   "country": "Canada",
   "total_stories": 67,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ambassador Bridge company willing to give Windsor derelict west-end properties",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/ambassador-bridge-company-willing-to-give-windsor-derelict-west-end-properties",
+      "published_date": "2026-08-21T20:46:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "WARMINGTON: Manitoba Premier Wab Kinew spits on Trump, Carney and trade talks",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/manitoba-premier-wan-kinew-trump-carney-trade-talks",
+      "published_date": "2026-08-21T16:42:04Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Carney's trade deal — all spin and few details",
       "source": "Toronto Sun",
@@ -74,11 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: Mark Carney to be presented options after latest trade talks",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/mark-carney-options-trade-talks",
-      "published_date": "2026-08-14T13:17:43Z",
-      "category": "Diplomacy"
+      "title": "Letter: City must tackle human trafficking",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/letters/letter-city-must-tackle-human-trafficking",
+      "published_date": "2026-08-21T18:50:54Z",
+      "category": "Military"
     },
     {
       "title": "What happened to B.C.’s stalled Bear Smart program?",
@@ -144,6 +158,13 @@
       "category": "Military"
     },
     {
+      "title": "BC Hydro spending $90 million to upgrade Vancouver substation",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/bc-hydro-spending-90-million-to-upgrade-vancouver-substation/",
+      "published_date": "2026-08-21T20:26:31Z",
+      "category": "Energy"
+    },
+    {
       "title": "Kitimat gets $5 million from LNG Canada for planned Eco Depot",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/20/kitimat-gets-5-million-from-lng-canada-for-planned-eco-depot/",
@@ -193,11 +214,18 @@
       "category": "Energy"
     },
     {
-      "title": "Opinion: What practising medicine in B.C. teaches us about climate change",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-what-practising-medicine-in-bc-teaches-us-about-climate-change",
-      "published_date": "2026-08-14T20:00:39Z",
-      "category": "Energy"
+      "title": "MCCAUGHEY: AOC is unfit to lead the U.S.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/aoc-unfit-to-lead-us",
+      "published_date": "2026-08-21T22:17:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "WSIB cutting 131 Windsor jobs ‘short-sighted,’ says workers' union",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/wsib-cutting-131-windsor-jobs-short-sighted-says-workers-union",
+      "published_date": "2026-08-21T14:36:25Z",
+      "category": "Economy"
     },
     {
       "title": "400 jobs lost as Sunshine Coast chipping facility and pulp mill closes",
@@ -312,171 +340,143 @@
       "category": "Economy"
     },
     {
-      "title": "Vaughn Palmer: A new finance minister, but same old tax-and-spend Eby",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-a-new-finance-minister-but-same-old-tax-and-spend-eby",
-      "published_date": "2026-08-14T22:33:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Crime Briefs: Charges laid in taxicab killing of Taran Pandher &#124; Man convicted of stabbing VPD officer",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime-briefs-charges-laid-in-taxicab-killing-of-taran-pandher-man-convicted-of-stabbing-vpd-officer",
-      "published_date": "2026-08-14T22:16:44Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The best lip glosses for hydration and shine for every budget",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/best-lip-glosses-hydration-shine-budget",
-      "published_date": "2026-08-14T18:00:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Premier David Eby shuffles cabinet after Finance Minister Brenda Bailey&#039;s cancer diagnosis",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-david-eby-cabinet-shuffle-brenda-bailey-cancer-diagnosis",
-      "published_date": "2026-08-14T17:51:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Fraser Street residents ask Pembroke council to restore two-way traffic",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/fraser-street-residents-ask-pembroke-council-to-restore-two-way-traffic",
-      "published_date": "2026-08-21T10:55:53Z",
+      "title": "Tumbler Ridge shooting documents detail confusion around number of shooters",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/tumbler-ridge-shooting-documents-detail-confusion-around-number-of-shooters/",
+      "published_date": "2026-08-21T23:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Docuseries puts Windsor's creative community in the spotlight",
+      "title": "Letters to The Vancouver Sun: A novel idea: Transition Hastings Park to a &#8230; park!",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/letters-to-the-vancouver-sun-a-novel-idea-transition-hastings-park-to-a-park",
+      "published_date": "2026-08-21T23:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Douglas Todd: Carney champions our multicultural ‘mosaic’ despite some skepticism, domestic and global",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-carney-champions-multicultural-mosaic-despite-skepticism-domestic-and-global",
+      "published_date": "2026-08-21T23:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marion (Petter) Massey",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/marion-petter-massey/",
+      "published_date": "2026-08-21T22:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: More Summerland residents head home as staged re-entry moves ahead",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/a-lot-of-work-to-be-done-at-bald-range-wildfire-in-summerland/",
+      "published_date": "2026-08-21T22:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "State of emergency extended in B.C. due to wildfire risk",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/state-of-emergency-extended-in-b-c-due-to-wildfire-risk/",
+      "published_date": "2026-08-21T22:04:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IIO investigating Williams Lake incident that left woman seriously injured",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/iio-investigating-williams-lake-incident-that-left-woman-seriously-injured/",
+      "published_date": "2026-08-21T21:56:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Crime News: Stacks of counterfeit cash seized in Kelowna &#124; Teen shooting suspect turns himself in &#124; Stranger attack in East Van",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-crime-news-stacks-of-counterfeit-cash-seized-in-kelowna-teen-shooting-suspect-turns-himself-in-stranger-attack-in-east-van",
+      "published_date": "2026-08-21T21:48:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect wanted for downtown sex assault; Toronto man charged after shots fired in Vaughan",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspect-wanted-downtown-sex-assault-toronto-man-charged-shots-fired-vaughan",
+      "published_date": "2026-08-21T21:21:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna Events Centre, community volunteers make a big difference for wildfire evacuees",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/kelowna-events-centre-community-volunteers-make-a-big-difference-for-wildfire-evacuees/",
+      "published_date": "2026-08-21T21:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Big things come in small packages, Vapes are 'blowing up'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/big-things-small-packages-vapes-blowing-up",
+      "published_date": "2026-08-21T21:09:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. wildfires: Evacuees face health hazards, smoke-related illness as they return home",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-wildfires-evacuees-smoke-related-illness-upon-return-home",
+      "published_date": "2026-08-21T20:54:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quesnel Regional Airport runway temporarily closed after aircraft incident",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/quesnel-regional-airport-runway-temporarily-closed-after-aircraft-incident/",
+      "published_date": "2026-08-21T20:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Micromobility devices leading source of lithium-ion battery fires in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/micromobility-devices-leading-source-of-lithium-ion-battery-fires-in-toronto",
+      "published_date": "2026-08-21T20:46:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPP charge Windsor man with impaired driving, open liquor in Leamington",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/docuseries-puts-windsors-creative-community-in-the-spotlight",
-      "published_date": "2026-08-21T10:28:51Z",
+      "url": "https://windsorstar.com/news/local-news/opp-lay-impaired-driving-charges-against-leamington-motorist",
+      "published_date": "2026-08-21T20:33:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor surges to No. 4 among Canada's hottest rental markets",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-surges-to-no-4-among-canadas-hottest-rental-markets",
-      "published_date": "2026-08-21T10:28:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cultus Lake claims another drowning victim as RCMP issue warning",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/cultus-lake-claims-another-drowning-victim-as-rcmp-issue-warning",
-      "published_date": "2026-08-21T03:07:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Person in vehicle killed as plane crash lands on road near Prince George",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/person-in-vehicle-killed-as-plane-crash-lands-on-road-near-prince-george",
-      "published_date": "2026-08-21T01:03:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Divisions within B.C. Conservative caucus fester as party president quits",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/divisions-within-b-c-conservative-caucus-fester-as-party-president-quits/",
-      "published_date": "2026-08-21T00:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: More residents in Bradley Creek wildfire area near Vernon can return home",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/more-than-50-bcws-members-continue-to-battle-bradley-creek-wildfire-in-vernon/",
-      "published_date": "2026-08-21T00:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burned ‘warrior kitty’ dies after being found near Summerland wildfire",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/burned-warrior-kitty-dies-after-being-found-near-summerland-wildfire",
-      "published_date": "2026-08-20T23:58:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 dead after aircraft collides with vehicles on Prince George road",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/aircraft-collides-with-vehicles-on-prince-george-road-injuries-unknown/",
-      "published_date": "2026-08-20T23:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Twin ceremonies herald new Indigenous services for Houston",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/twin-ceremonies-herald-new-indigenous-services-for-houston/",
-      "published_date": "2026-08-20T23:19:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "David Eby mum about lifting U.S. booze ban as B.C. restaurant industry supportive of prime minister&#039;s call",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-premier-david-eby-mum-about-lifting-us-booze-ban-restaurant-industry-supportive-prime-minister-mark-carney-call",
-      "published_date": "2026-08-20T23:10:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ottawa and B.C. putting up $106.5M to help recover salmon stocks",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/ottawa-and-b-c-putting-up-106-5m-to-help-recover-salmon-stocks/",
-      "published_date": "2026-08-20T22:55:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police ticket Abbotsford woman at centre of viral littering scandal",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/police-id-fine-abbotsford-woman-at-centre-of-viral-littering-scandal",
-      "published_date": "2026-08-20T22:34:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Almost all of Summerland can return home; residents remain on alert amid wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/difficult-terrain-stubborn-fire-behaviour-causing-challenges-at-bald-range-blaze-near-summerland/",
-      "published_date": "2026-08-20T22:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bear attack in Anmore backyard injures woman",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bear-attack-in-anmore-backyard-injures-woman",
-      "published_date": "2026-08-20T22:03:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: No more California dreaming for the Sussexes",
+      "title": "Councillor ditches ward at last minute for vacant Danforth seat",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mandel-no-more-california-dreaming-for-the-sussexes",
-      "published_date": "2026-08-20T21:55:08Z",
+      "url": "https://torontosun.com/news/local-news/dianne-saxe-university-rosedale-danforth-switch",
+      "published_date": "2026-08-21T20:10:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Bulkley Nechako regional directors vote in pay hike for incoming board",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/regional-directors-vote-in-pay-hike-for-incoming-board/",
-      "published_date": "2026-08-20T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MPP cuts Chris Moise loose, backs political newcomer",
+      "title": "WARMINGTON: You may get egged if you dare to buy American booze again in Canada",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/wong-tam-endorsement-stikuts-not-moise",
-      "published_date": "2026-08-20T21:23:08Z",
+      "url": "https://torontosun.com/news/local-news/you-may-get-egged-if-you-buy-american-booze-again-in-canada",
+      "published_date": "2026-08-21T19:31:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Early opening for busway replacing defunct Line 3",
+      "title": "CBSA charges Montreal man in alleged immigration fraud scheme",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/early-opening-busway-replacing-defunct-line-3",
-      "published_date": "2026-08-20T21:03:54Z",
+      "url": "https://torontosun.com/news/national/montreal-man-immigration-fraud-scheme-cbsa",
+      "published_date": "2026-08-21T19:26:58Z",
       "category": "Local Events"
     },
     {
-      "title": "UPDATE: RCMP confirm 2nd fatal drowning at Cultus Lake in less than 2 weeks",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/20/update-rcmp-confirm-2nd-fatal-drowning-at-cultus-lake-in-less-than-2-weeks/",
-      "published_date": "2026-08-20T21:01:00Z",
+      "title": "Man charged after breaking into popular Chinatown bakery",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-charged-after-breaking-into-popular-chinatown-bakery",
+      "published_date": "2026-08-21T19:09:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CNE food posters spark debate over apparent use of AI",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/outrageous-cne-food-sparks-outrage-over-apparent-ai-generated-posters",
+      "published_date": "2026-08-21T19:03:04Z",
       "category": "Local Events"
     }
   ]
