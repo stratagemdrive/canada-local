@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T23:26:16Z",
+  "generated_at": "2026-08-22T11:09:10Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -86,6 +86,13 @@
       "url": "https://torontosun.com/opinion/editorials/forget-about-better-deal-than-cusma",
       "published_date": "2026-08-17T18:50:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ceremony marking 84th anniversary of Dieppe Raid honors fallen Canadian soldiers",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/ceremony-marking-84th-anniversary-of-dieppe-raid-honors-fallen-canadian-soldiers",
+      "published_date": "2026-08-22T09:43:01Z",
+      "category": "Military"
     },
     {
       "title": "Letter: City must tackle human trafficking",
@@ -340,6 +347,55 @@
       "category": "Economy"
     },
     {
+      "title": "Hwy. 400 speed limit increases to 110 km/h",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/hwy-400-speed-limit-increases-110-km-hour",
+      "published_date": "2026-08-22T00:42:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Montréal minor arrested, allegedly used AI to plan school attack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/montreal-minor-arrested-allegedly-used-ai-to-plan-school-attack/",
+      "published_date": "2026-08-22T00:35:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake dollar store not to return",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/burns-lake-dollar-store-not-to-return/",
+      "published_date": "2026-08-22T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Less than half expected sockeye returning to B.C.’s Fraser River this year",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/less-than-half-expected-sockeye-returning-to-b-c-s-fraser-river-this-year/",
+      "published_date": "2026-08-21T23:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Surprise return of Meghan and the prodigal prince",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/editorial-surprise-return-of-meghan-and-the-prodigal-prince",
+      "published_date": "2026-08-21T23:45:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. inquest told Indigenous man killed by RCMP in 2021 was not aggressive",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-inquest-told-indigenous-man-killed-by-rcmp-in-2021-was-not-aggressive",
+      "published_date": "2026-08-21T23:39:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. man sentenced to 22 years in jail for sex offences",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/21/b-c-man-sentenced-to-22-years-in-jail-for-sex-offences/",
+      "published_date": "2026-08-21T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Tumbler Ridge shooting documents detail confusion around number of shooters",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/21/tumbler-ridge-shooting-documents-detail-confusion-around-number-of-shooters/",
@@ -428,55 +484,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/21/quesnel-regional-airport-runway-temporarily-closed-after-aircraft-incident/",
       "published_date": "2026-08-21T20:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Micromobility devices leading source of lithium-ion battery fires in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/micromobility-devices-leading-source-of-lithium-ion-battery-fires-in-toronto",
-      "published_date": "2026-08-21T20:46:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP charge Windsor man with impaired driving, open liquor in Leamington",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-lay-impaired-driving-charges-against-leamington-motorist",
-      "published_date": "2026-08-21T20:33:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Councillor ditches ward at last minute for vacant Danforth seat",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/dianne-saxe-university-rosedale-danforth-switch",
-      "published_date": "2026-08-21T20:10:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: You may get egged if you dare to buy American booze again in Canada",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/you-may-get-egged-if-you-buy-american-booze-again-in-canada",
-      "published_date": "2026-08-21T19:31:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CBSA charges Montreal man in alleged immigration fraud scheme",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/montreal-man-immigration-fraud-scheme-cbsa",
-      "published_date": "2026-08-21T19:26:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged after breaking into popular Chinatown bakery",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-charged-after-breaking-into-popular-chinatown-bakery",
-      "published_date": "2026-08-21T19:09:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CNE food posters spark debate over apparent use of AI",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/outrageous-cne-food-sparks-outrage-over-apparent-ai-generated-posters",
-      "published_date": "2026-08-21T19:03:04Z",
       "category": "Local Events"
     }
   ]
