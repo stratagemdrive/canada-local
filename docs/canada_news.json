@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T11:09:20Z",
+  "generated_at": "2026-08-23T23:23:32Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 77,
   "categories": [
     "Diplomacy",
     "Military",
@@ -123,6 +123,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "WARMINGTON: Trump chirps Canada; feds roll out social programs",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/warmington-as-trump-says-canada-wanted-state-like-treatment-comes-canadian-state-funded-tariff-war-programs",
+      "published_date": "2026-08-23T15:47:29Z",
+      "category": "Military"
+    },
+    {
+      "title": "HANSON: Hating Israel fatigue",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/hanson-hating-israel-fatique",
+      "published_date": "2026-08-23T15:22:29Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump admin: Canada 'foolish' to believe it can win trade war with U.S.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trump-admin-canada-foolish-to-believe-it-can-win-trade-war-with-u-s",
+      "published_date": "2026-08-23T14:34:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Bookless Club: How do you handle jet lag, or hangovers?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-how-do-you-handle-jet-lag-or-hangovers",
+      "published_date": "2026-08-23T13:00:10Z",
+      "category": "Military"
+    },
+    {
       "title": "Ceremony marking 84th anniversary of Dieppe Raid honors fallen Canadian soldiers",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/ceremony-marking-84th-anniversary-of-dieppe-raid-honors-fallen-canadian-soldiers",
@@ -240,6 +268,20 @@
       "url": "https://vancouversun.com/news/canada-slow-progress-reducing-climate-risks-wildfire-floods",
       "published_date": "2026-08-17T13:00:48Z",
       "category": "Energy"
+    },
+    {
+      "title": "CHARLEBOIS: Ottawa’s tariff trap — don’t weaponize the grocery bill",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/ottawas-tariff-trap-dont-weaponize-the-grocery-bill",
+      "published_date": "2026-08-23T15:00:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "With council run, Erskine-Smith gets 'back up off the mat'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/nate-erskine-smith-beaches-council-run",
+      "published_date": "2026-08-23T14:51:19Z",
+      "category": "Economy"
     },
     {
       "title": "GOLDSTEIN: Job losses, inflation and bail-outs – the high costs of an all-out trade war",
@@ -368,18 +410,102 @@
       "category": "Economy"
     },
     {
-      "title": "GOLDSTEIN: Provincial taxes could skyrocket to pay for federal deficits, report says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/goldstein-provincial-taxes-could-skyrocket-to-pay-for-federal-deficits-report-says",
-      "published_date": "2026-08-18T09:00:50Z",
-      "category": "Economy"
+      "title": "Highway 1 from Yale to Boston Bar still closed due to Ainslie Creek fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/23/highway-1-from-yale-to-boston-bar-still-closed-due-to-ainslie-creek-fire/",
+      "published_date": "2026-08-23T23:03:24Z",
+      "category": "Local Events"
     },
     {
-      "title": "Opinion: Recent hockey analogies provide good place to try and make sense of latest CUSMA chaos",
+      "title": "Big Bar complex fires near Clinton still out of control",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/23/big-bar-complex-fires-near-clinton-still-out-of-control/",
+      "published_date": "2026-08-23T22:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamilton cyclist dead following crash; Toronto apartments struck by bullets",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hamilton-cyclist-dead-crash",
+      "published_date": "2026-08-23T21:12:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man drowns in Abbotsford lake",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-recent-hockey-analogies-provide-good-place-to-try-and-make-sense-of-latest-cusma-chaos",
-      "published_date": "2026-08-17T17:35:54Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/man-drowns-abbotsford-albert-dyck-park-lake",
+      "published_date": "2026-08-23T18:58:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ed Sheeran hints at a break as LOOP Tour hits Toronto's Rogers Centre",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/ed-sheeran-concert-review-toronto-rogers-centre-loop-tour",
+      "published_date": "2026-08-23T17:38:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Amateur Investor: Golden opportunities await",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/business/the-amateur-investor-golden-opportunities-await",
+      "published_date": "2026-08-23T15:07:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver farmers market vendors feel squeezed",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/packed-in-vancouver-farmers-market-vendors-want-more-space-long-term-infrastructure",
+      "published_date": "2026-08-23T15:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Second pool closure puts Vancouver swim club’s season in jeopardy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/second-pool-closure-puts-vancouver-swim-clubs-season-in-jeopardy",
+      "published_date": "2026-08-23T15:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "These two upstyles are among the most in-demand right now",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/hair-upstyles-french-twist-low-bun",
+      "published_date": "2026-08-23T15:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than half of Canadians delayed or skipped care: survey",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/more-than-half-canadians-delayed-skipped-care-survey",
+      "published_date": "2026-08-23T14:43:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Little library turns Island street into a creative community exchange",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/23/little-library-turns-island-street-into-a-creative-community-exchange/",
+      "published_date": "2026-08-23T14:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How SFU researchers found a way to use AI to discover new drugs",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ai-health-sfu-researchers-discovery-new-drugs",
+      "published_date": "2026-08-23T14:00:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey&#039;s downtown core has seen huge growth in recent years. How much more can it handle?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-city-centre-growth",
+      "published_date": "2026-08-23T14:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Houston recent resident survey seeks to attract newcomers",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/23/houston-recent-resident-survey-seeks-to-attract-newcomers/",
+      "published_date": "2026-08-23T12:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Wildfire sparks in Kelowna’s Black Mountain",
@@ -421,104 +547,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-wildfires-air-tankers-and-helicopters-fighting-new-fire-near-jacko-lake",
       "published_date": "2026-08-23T00:09:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: We need more than ‘Elbows Up’ Part II",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-we-need-more-than-elbows-up-part-ii",
-      "published_date": "2026-08-22T22:47:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Column: Darwin's reckoning: Why we must fight for evolution's castaways",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/column-darwins-reckoning-why-we-must-fight-for-evolutions-castaways",
-      "published_date": "2026-08-22T20:01:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charlebois Why Cheap Australian Beef May Be Canadian Beef’s Best Friend",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/columnists/charlebois-why-cheap-australian-beef-may-be-canadian-beefs-best-friend",
-      "published_date": "2026-08-22T20:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cop shoots suspect dead after 'interaction' in North York: Toronto Police",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/cop-shoots-suspect-dead-interaction-north-york-toronto-police",
-      "published_date": "2026-08-22T19:25:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Crews expect ‘erratic, gusty winds,’ as Summerland wildfire continues to grow",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/22/bald-range-wildfire-sits-at-24622-hectares-west-of-summerland/",
-      "published_date": "2026-08-22T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victoria police chief recognized nationally for leadership",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/22/victoria-police-chief-recognized-nationally-for-leadership/",
-      "published_date": "2026-08-22T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No luck: Mysterious Amsterdam man named Lucky is not the missing Vancouver man",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/mysterious-man-named-lucky-amsterdam-not-man-missing-from-vancouver",
-      "published_date": "2026-08-22T17:58:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More evacuation orders, alerts issued in response to Pear Lake fire near Clinton",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/22/more-evacuation-orders-alerts-issued-in-response-to-pear-lake-fire-near-clinton/",
-      "published_date": "2026-08-22T16:56:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuation order expanded for French Bar Creek fire west of Clinton",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/22/evacuation-order-expanded-for-french-bar-creek-fire-west-of-clinton/",
-      "published_date": "2026-08-22T16:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drug dealer, two others nabbed with gun in Brampton; arrest in North York synagogue break-in",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/drug-dealer-others-nabbed-with-gun-brampton-arrest-north-york-synagogue-break-in",
-      "published_date": "2026-08-22T15:49:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHAUDHRI: A summer reset is key for entrepreneurs",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/chaudhri-summer-reset-key-for-entrepreneurs",
-      "published_date": "2026-08-22T15:30:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Minter: What to know if you&#039;re thinking of adding a water feature to your yard",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/brian-minter-pondless-moving-water-feature-tips",
-      "published_date": "2026-08-22T15:00:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: How you can help B.C. wineries and distilleries affected by wildfires",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-how-you-can-help-b-c-wineries-and-distilleries-affected-by-wildfires",
-      "published_date": "2026-08-22T15:00:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1976: The SuperDogs debut at the PNE",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1976-the-superdogs-debut-at-the-pne",
-      "published_date": "2026-08-22T15:00:31Z",
       "category": "Local Events"
     }
   ]
