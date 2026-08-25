@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T23:24:38Z",
+  "generated_at": "2026-08-25T11:14:29Z",
   "country": "Canada",
-  "total_stories": 76,
+  "total_stories": 78,
   "categories": [
     "Diplomacy",
     "Military",
@@ -93,6 +93,20 @@
       "url": "https://vancouversun.com/news/what-could-modern-treaty-five-vancouver-island-first-nations-mean-royal-roads-victoria",
       "published_date": "2026-08-18T13:00:02Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "LILLEY: Trump and Ford trade insults as tariff war spirals",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/trump-and-ford-trade-insults-as-tariff-war-spirals",
+      "published_date": "2026-08-25T00:53:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "As trade war escalates, are B.C. grocery shoppers heeding call to &#039;buy local&#039;?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/us-trade-war-escalates-bc-grocery-shoppers-buy-local",
+      "published_date": "2026-08-25T00:16:08Z",
+      "category": "Military"
     },
     {
       "title": "Doug Ford to Donald Trump: 'Bring it on, buddy'",
@@ -263,6 +277,20 @@
       "category": "Energy"
     },
     {
+      "title": "Canada to announce retaliatory tariffs on U.S. Tuesday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-to-announce-retaliatory-tariffs-on-u-s-tuesday",
+      "published_date": "2026-08-25T00:09:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "B.C. businesses hope Carney counter-tariffs can provide new opportunities for them",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/bc-businesses-hope-mark-carney-counter-tariffs-new-opportunities",
+      "published_date": "2026-08-24T23:45:29Z",
+      "category": "Economy"
+    },
+    {
       "title": "Opinion: Canada&#039;s trade diversification depends on labour stability at B.C. ports",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-canadas-trade-diversification-depends-on-labour-stability-at-b-c-ports",
@@ -389,18 +417,46 @@
       "category": "Economy"
     },
     {
-      "title": "Pembroke hospital gets largest share of $7.4M Ontario investment",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-hospital-gets-largest-share-of-7-4m-ontario-investment",
-      "published_date": "2026-08-18T22:15:07Z",
-      "category": "Economy"
+      "title": "WARMINGTON: 'Zombies' on TTC show just how far Toronto has fallen",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/zombies-ttc-show-just-how-far-toronto-has-fallen",
+      "published_date": "2026-08-25T10:30:46Z",
+      "category": "Local Events"
     },
     {
-      "title": "LILLEY: Booze, autos and a midnight deadline — inside Canada's tariff standoff",
+      "title": "Bruce McCulloch, Jay Baruchel to induct The Tragically Hip into Canadian Songwriters Hall of Fame",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/booze-autos-and-a-midnight-deadline-inside-canadas-tariff-standoff",
-      "published_date": "2026-08-18T22:01:59Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/bruce-mcculloch-jay-baruchel-induct-the-tragically-hip-canadian-songwriters-hall-of-fame",
+      "published_date": "2026-08-25T10:30:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder charge laid in eight-year-old Quesnel killing",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/murder-charge-laid-in-eight-year-old-quesnel-bc-killing",
+      "published_date": "2026-08-25T01:58:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delta flight makes emergency landing in Newfoundland",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/delta-flight-makes-emergency-landing-in-newfoundland",
+      "published_date": "2026-08-25T00:33:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "1982 Wells Gray Park murderer denied parole again",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/1982-wells-gray-park-murderer-denied-parole-again/",
+      "published_date": "2026-08-25T00:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Findlay shuffles B.C. Conservative critic roles after Milobar, Paton departures",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/findlay-shuffles-b-c-conservative-critic-roles-after-milobar-paton-departures/",
+      "published_date": "2026-08-25T00:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "LILLEY: Progress Toronto’s radical agenda is no way to run a city",
@@ -498,48 +554,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/24/okanagan-mans-death-near-kamloops-still-a-mystery-one-year-later/",
       "published_date": "2026-08-24T17:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cutting edge smoke -detection cameras installed at top of Mount Benson",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/cutting-edge-smoke-detection-cameras-installed-at-top-of-mount-benson/",
-      "published_date": "2026-08-24T16:56:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. wildfires: Evacuation alert rescinded for Lions Bay residents",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-wildfires-evacuation-alert-issued-lions-bay-residents",
-      "published_date": "2026-08-24T16:13:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ian Paton leaves B.C. Conservatives, plans to form new party with Peter Milobar",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/ian-paton-leaves-b-c-conservatives-plans-to-form-new-party/",
-      "published_date": "2026-08-24T16:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Essex County OPP investigate 'sudden death' in Tecumseh",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/essex-county-opp-investigate-sudden-death-in-tecumseh",
-      "published_date": "2026-08-24T15:44:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ian Paton and Peter Milobar to form new centre-right party as alternative to B.C. Conservatives",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/delta-south-mla-ian-paton-steps-down-bc-conservatives-independent",
-      "published_date": "2026-08-24T15:36:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Doug Ford says Donald Trump 'can kiss my ass'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/doug-ford-says-donald-trump-can-kiss-my-ass",
-      "published_date": "2026-08-24T15:36:47Z",
       "category": "Local Events"
     }
   ]
