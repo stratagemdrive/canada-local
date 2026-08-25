@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T11:14:29Z",
+  "generated_at": "2026-08-25T23:26:35Z",
   "country": "Canada",
-  "total_stories": 78,
+  "total_stories": 75,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLLEY: Ottawa's latest tariffs mean higher prices and more questions",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/ottawas-latest-tariffs-mean-higher-prices-and-more-questions",
+      "published_date": "2026-08-25T22:40:39Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canada commits $11B to Quebec shipbuilding deal amid Trump's trade war",
       "source": "Toronto Sun",
@@ -78,20 +85,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/mark-carney-statement-donald-trump-pauses-tariffs",
       "published_date": "2026-08-19T11:36:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tahltan Nation rejects claims of secrecy over land-agreement talks with province",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/18/tahltan-nation-rejects-claims-of-secrecy-over-land-agreement-talks-with-province/",
-      "published_date": "2026-08-18T21:58:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What could a modern treaty for five Vancouver Island First Nations mean for Royal Roads and Victoria?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/what-could-modern-treaty-five-vancouver-island-first-nations-mean-royal-roads-victoria",
-      "published_date": "2026-08-18T13:00:02Z",
       "category": "Diplomacy"
     },
     {
@@ -228,13 +221,6 @@
       "category": "Military"
     },
     {
-      "title": "MANDEL: Maple Leafs' John Tavares chasing victory in tax battle",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/maple-leafs-john-tavares-chasing-victory-tax-battle",
-      "published_date": "2026-08-18T22:41:25Z",
-      "category": "Military"
-    },
-    {
       "title": "Pembroke, Renfrew County push regional priorities at AMO conference",
       "source": "Pembroke Observer",
       "url": "https://www.pembrokeobserver.com/news/pembroke-renfrew-county-push-regional-priorities-at-amo-conference",
@@ -270,11 +256,53 @@
       "category": "Energy"
     },
     {
-      "title": "Opinion: B.C.&#039;s wildfires and fossil fuels: We need to connect the dots",
+      "title": "Opinion: A 50 per cent tariff is a wall — and a wake-up call for Canadian wine",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-wildfires-and-fossil-fuels-we-need-to-connect-the-dots",
-      "published_date": "2026-08-18T13:00:05Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-a-50-per-cent-tariff-is-a-wall-and-a-wake-up-call-for-canadian-wine",
+      "published_date": "2026-08-25T23:00:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "EDITORIAL: Counter-tariffs raise our cost of living",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/counter-tariffs-raise-our-cost-of-living",
+      "published_date": "2026-08-25T22:52:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Before the bell rings: Why sleep matters for school success",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/before-the-bell-rings-why-sleep-matters-for-school-success",
+      "published_date": "2026-08-25T20:43:20Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canada announces retaliation measures, hits back with $27.6B tariff blitz on U.S. goods",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-retaliation-measures-tariff-blitz-us-goods",
+      "published_date": "2026-08-25T16:08:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Nightingale turns 10: How a temporary job became an &#039;exciting&#039; career",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/nightingale-turns-10-how-a-temporary-job-became-an-exciting-career",
+      "published_date": "2026-08-25T13:00:58Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: After years of disruption, businesses along Broadway corridor have reached a breaking point",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-after-years-of-disruption-businesses-along-broadway-corridor-have-reached-a-breaking-point",
+      "published_date": "2026-08-25T13:00:46Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Poilievre calls for continued fight against 'terrible' U.S. auto tariffs during Windsor stop",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/poilievre-calls-for-continued-fight-against-terrible-u-s-auto-tariffs-during-windsor-stop",
+      "published_date": "2026-08-25T12:12:13Z",
+      "category": "Economy"
     },
     {
       "title": "Canada to announce retaliatory tariffs on U.S. Tuesday",
@@ -368,192 +396,143 @@
       "category": "Economy"
     },
     {
-      "title": "400 jobs lost as Sunshine Coast chipping facility and pulp mill closes",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/400-jobs-lost-sunshine-coast-chipping-facility-and-pulp-mill-closes",
-      "published_date": "2026-08-21T00:28:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "EDITORIAL: It's not the deal Canada wanted",
+      "title": "Mississauga man arrested in 2022 Etobicoke shooting; knife-wielding teens charged in Oshawa",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/not-the-deal-canada-wanted-carney-trump-tariffs",
-      "published_date": "2026-08-20T22:17:42Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/crime/mississauga-man-arrested-in-2022-etobicoke-shooting",
+      "published_date": "2026-08-25T23:07:34Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tariff deal on the horizon, but outlook still uncertain for B.C. forestry",
+      "title": "B.C. RCMP arrest man in Ucluelet for alleged sex crimes against minor",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/19/tariff-deal-on-the-horizon-but-outlook-still-uncertain-for-b-c-forestry/",
-      "published_date": "2026-08-19T22:55:59Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/25/b-c-rcmp-arrest-man-in-ucluelet-for-alleged-sex-crimes-against-minor/",
+      "published_date": "2026-08-25T22:49:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Province targets more than 1,000 new trainees in latest job fund rollout",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/province-targets-more-than-1000-new-trainees-in-latest-job-fund-rollout",
-      "published_date": "2026-08-19T19:33:54Z",
-      "category": "Economy"
+      "title": "Weekend rain helping slow growth of South Cariboo’s Pear Lake fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/25/weekend-rain-helping-slow-growth-of-south-cariboos-pear-lake-fire/",
+      "published_date": "2026-08-25T22:41:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Looming tariffs threaten to upend the auto industry",
+      "title": "Port Moody yoga studio scrutinized by bylaw enforcers over rescue puppy yoga",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/port-moody-yoga-studio-puppy-rescue-scrutinized-bylaw-enforcers",
+      "published_date": "2026-08-25T22:15:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LaSalle's McNally looks to wait out the Storm as first-round pick opts not to report to 2027 Memorial Cup host",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/looming-tariffs-threaten-to-upend-the-auto-industry",
-      "published_date": "2026-08-19T10:30:03Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/sports/lasalles-mcnally-looks-to-wait-out-the-storm-as-first-round-pick-opts-not-to-report-to-2027-memorial-cup-host",
+      "published_date": "2026-08-25T21:52:49Z",
+      "category": "Local Events"
     },
     {
-      "title": "LILLEY: Crisis averted as President Donald Trump pauses tariffs, says Canada, U.S. trade 'deal' is near",
+      "title": "New chapter in recovery: $6.4M Bill’s Place expansion launches in Vernon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/25/new-chapter-in-recovery-6-4m-bills-place-expansion-launches-in-vernon/",
+      "published_date": "2026-08-25T21:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uber incident earns response from Kelowna RCMP",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/25/uber-incident-earns-response-from-kelowna-rcmp/",
+      "published_date": "2026-08-25T21:21:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judge rejects Ghislaine Maxwell's sex trafficking conviction appeal",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/lilley-crisis-averted-as-president-donald-trump-pauses-tariffs-says-canada-u-s-strike-trade-deal",
-      "published_date": "2026-08-19T03:11:29Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/judge-rejects-ghislaine-maxwells-sex-trafficking-conviction-appeal",
+      "published_date": "2026-08-25T21:11:56Z",
+      "category": "Local Events"
     },
     {
-      "title": "B.C. businesses bracing for &#039;severe consequences&#039; of 50 per cent tariffs",
+      "title": "Remembering Dolly Parton: A look back at her Vancouver concerts",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-businesses-bracing-for-severe-consequences-of-50-per-cent-tariffs",
-      "published_date": "2026-08-18T23:55:12Z",
-      "category": "Economy"
-    },
-    {
-      "title": "WARMINGTON: 'Zombies' on TTC show just how far Toronto has fallen",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/zombies-ttc-show-just-how-far-toronto-has-fallen",
-      "published_date": "2026-08-25T10:30:46Z",
+      "url": "https://vancouversun.com/entertainment/dolly-parton-obituary-vancouver-concerts",
+      "published_date": "2026-08-25T21:04:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Bruce McCulloch, Jay Baruchel to induct The Tragically Hip into Canadian Songwriters Hall of Fame",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bruce-mcculloch-jay-baruchel-induct-the-tragically-hip-canadian-songwriters-hall-of-fame",
-      "published_date": "2026-08-25T10:30:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder charge laid in eight-year-old Quesnel killing",
+      "title": "B.C. Conservatives lose second MLA in two days as Rosalyn Bird leaves caucus",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/murder-charge-laid-in-eight-year-old-quesnel-bc-killing",
-      "published_date": "2026-08-25T01:58:46Z",
+      "url": "https://vancouversun.com/news/bc-conservatives-lose-second-mla-in-two-days-rosalyn-bird-leaves-caucus",
+      "published_date": "2026-08-25T20:49:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Delta flight makes emergency landing in Newfoundland",
+      "title": "Video shows two missing kids' rescue in Georgia; babysitter charged",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/delta-flight-makes-emergency-landing-in-newfoundland",
-      "published_date": "2026-08-25T00:33:55Z",
+      "url": "https://torontosun.com/news/world/video-shows-two-missing-kids-rescue-in-georgia-babysitter-charged",
+      "published_date": "2026-08-25T20:23:04Z",
       "category": "Local Events"
     },
     {
-      "title": "1982 Wells Gray Park murderer denied parole again",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/1982-wells-gray-park-murderer-denied-parole-again/",
-      "published_date": "2026-08-25T00:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Findlay shuffles B.C. Conservative critic roles after Milobar, Paton departures",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/findlay-shuffles-b-c-conservative-critic-roles-after-milobar-paton-departures/",
-      "published_date": "2026-08-25T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Progress Toronto’s radical agenda is no way to run a city",
+      "title": "White House says Trump 'finally ending Canada's free ride'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/progress-torontos-radical-agenda-is-no-way-to-run-a-city",
-      "published_date": "2026-08-24T23:16:27Z",
+      "url": "https://torontosun.com/news/white-house-trump-ending-canadas-free-ride",
+      "published_date": "2026-08-25T20:19:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Drugs, stolen goods seized in eastern Ontario; Whitby cyclist dies from injuries after crash",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/drugs-stolen-goods-seized-in-eastern-ontario-whitby-cyclist-dies-from-injuries-after-crash",
-      "published_date": "2026-08-24T22:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuation orders, alerts downgraded for Ainslie Creek wildfire west of Coquihalla",
+      "title": "Prince George-Valemount MLA quits B.C. Conservatives, third to go in two weeks",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/evacuation-orders-alerts-downgraded-for-ainslie-creek-wildfire-west-of-coquihalla/",
-      "published_date": "2026-08-24T21:15:46Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/25/prince-george-valemount-mla-quits-b-c-conservatives-third-to-go-in-two-weeks/",
+      "published_date": "2026-08-25T20:14:34Z",
       "category": "Local Events"
     },
     {
-      "title": "2 fires near Fort St. James now under control",
+      "title": "B.C. rescue teams free sea lion with plastic wrapped around neck",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/2-fires-near-fort-st-james-now-under-control/",
-      "published_date": "2026-08-24T20:55:34Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/25/b-c-rescue-teams-free-sea-lion-with-plastic-wrapped-around-neck/",
+      "published_date": "2026-08-25T19:51:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Inside Victoria’s century-old legislative library preserving B.C.’s history",
+      "title": "Spill that Wine: Lightning Rock summer",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/inside-victorias-century-old-legislative-library-preserving-b-c-s-history/",
-      "published_date": "2026-08-24T20:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/25/spill-that-wine-lightning-rock-summer/",
+      "published_date": "2026-08-25T19:40:00Z",
       "category": "Local Events"
     },
     {
-      "title": "'Rapid growth' in online gambling among Canadian teens is 'concerning': Expert",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/health/rapid-growth-in-online-gambling-among-canadian-teens-is-concerning",
-      "published_date": "2026-08-24T19:33:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New direct TransLink route connects North Vancouver to Metrotown starting next month",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/new-direct-translink-route-connects-north-vancouver-to-metrotown-starting-next-month",
-      "published_date": "2026-08-24T19:29:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Smithers athlete achieves Pro bodybuilding status",
+      "title": "B.C. Conservative riding association president for Abbotsford-Mission steps down",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/former-smithers-athlete-achieves-pro-bodybuilding-status/",
-      "published_date": "2026-08-24T19:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/25/b-c-conservative-riding-association-president-for-abbotsford-mission-steps-down/",
+      "published_date": "2026-08-25T19:34:00Z",
       "category": "Local Events"
     },
     {
-      "title": "PHOTOS: B.C.’s buffest flex their skills at strongman provincials in Abbotsford",
+      "title": "OPP charge two Pembroke-area men in separate incidents",
+      "source": "Pembroke Observer",
+      "url": "https://www.pembrokeobserver.com/news/opp-charge-two-pembroke-area-men-in-separate-incidents",
+      "published_date": "2026-08-25T19:29:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Collision east of Burns Lake briefly closes Hwy 16",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/photos-b-c-s-buffest-flex-their-skills-at-strongman-provincials-in-abbotsford/",
-      "published_date": "2026-08-24T18:35:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/25/collision-east-of-burns-lake-briefly-closes-hwy-16/",
+      "published_date": "2026-08-25T19:13:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Hiker rescued from cliff above Smithers",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/hiker-rescued-from-cliff-above-smithers/",
-      "published_date": "2026-08-24T18:07:31Z",
+      "title": "Fugitive wanted since 2024 turns himself in at Windsor police headquarters",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/fugitive-wanted-since-2024-turns-himself-in-at-windsor-police-headquarters",
+      "published_date": "2026-08-25T19:12:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Made in Canada: Here&#039;s how to read food product labels at the store",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/how-read-food-product-labels-canada-bc-2026",
-      "published_date": "2026-08-24T17:36:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No kidding: ‘Goatscaping’ herd take bite out of wildfire risk in B.C. city",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/no-kidding-goatscaping-herd-take-bite-out-of-wildfire-risk-in-b-c-city/",
-      "published_date": "2026-08-24T17:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IDS Vancouver celebrates craft, creativity and considered design",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/ids-vancouver-2026-show-lineup",
-      "published_date": "2026-08-24T17:02:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Okanagan man’s death near Kamloops still a mystery one year later",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/24/okanagan-mans-death-near-kamloops-still-a-mystery-one-year-later/",
-      "published_date": "2026-08-24T17:00:00Z",
+      "title": "Windsor's African diaspora festival parade a hit despite heavy rainfall",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsors-african-diaspora-festival-parade-a-hit-despite-heavy-rainfall",
+      "published_date": "2026-08-25T19:07:48Z",
       "category": "Local Events"
     }
   ]
