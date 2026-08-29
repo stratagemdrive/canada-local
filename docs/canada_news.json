@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T04:03:41Z",
+  "generated_at": "2026-08-29T15:21:18Z",
   "country": "Canada",
-  "total_stories": 75,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -78,27 +78,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/22/indefensible-b-c-premier-eby-responds-to-collapsed-canada-u-s-trade-talks/",
       "published_date": "2026-08-22T19:16:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KINSELLA: Mark Carney walks away from Donald Trump's extortion table",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-walks-away-donald-trump-extortion-table-canada-united-states-trade",
-      "published_date": "2026-08-22T13:42:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WARMINGTON: Canada and U.S. plunged into full-on tariff war as trade talks collapse",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/canada-united-states-plunged-into-full-on-tariff-war-trade-talks-collapse",
-      "published_date": "2026-08-22T12:57:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "West-end residents applaud Windsor's plan to take over dilapidated Ambassador Bridge houses",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/sandwich-town-residents-applaud-windsors-plan-to-take-over-dilapidated-houses",
-      "published_date": "2026-08-22T11:05:33Z",
       "category": "Diplomacy"
     },
     {
@@ -221,11 +200,11 @@
       "category": "Military"
     },
     {
-      "title": "Ceremony marking 84th anniversary of Dieppe Raid honors fallen Canadian soldiers",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/ceremony-marking-84th-anniversary-of-dieppe-raid-honors-fallen-canadian-soldiers",
-      "published_date": "2026-08-22T09:43:01Z",
-      "category": "Military"
+      "title": "This Day in History, 1889: A floating cannery producing fish oil becomes a swimming bath",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1889-a-floating-cannery-producing-fish-oil-becomes-a-swimming-bath",
+      "published_date": "2026-08-29T15:00:08Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. Conservatives call for investigation into shortfall in projected natural gas revenues",
@@ -254,6 +233,20 @@
       "url": "https://www.pembrokeobserver.com/news/pembroke-renfrew-county-push-regional-priorities-at-amo-conference",
       "published_date": "2026-08-24T15:10:20Z",
       "category": "Energy"
+    },
+    {
+      "title": "Trump’s 50% auto tariff threat rattles Southwestern Ontario manufacturers",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/trumps-50-auto-tariff-threat-rattles-southwestern-ontario-manufacturers",
+      "published_date": "2026-08-29T10:16:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Trump’s 50% auto tariff threat could hurt U.S. automakers too",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/why-trumps-50-auto-tariff-threat-could-hurt-u-s-automakers-too",
+      "published_date": "2026-08-29T10:10:07Z",
+      "category": "Economy"
     },
     {
       "title": "&#039;Timing is fortuitous&#039;: New Prince Rupert port facility adds Canadian export capacity just as trade war heats up",
@@ -382,18 +375,60 @@
       "category": "Economy"
     },
     {
-      "title": "Canada announces retaliation measures, hits back with $27.6B tariff blitz on U.S. goods",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-retaliation-measures-tariff-blitz-us-goods",
-      "published_date": "2026-08-25T16:08:36Z",
-      "category": "Economy"
+      "title": "Concert Review: Noah Kahan brings The Great Divide Tour to Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/concert-review-noah-kahan-great-divide-tour-vancouver-review",
+      "published_date": "2026-08-29T15:04:10Z",
+      "category": "Local Events"
     },
     {
-      "title": "Nightingale turns 10: How a temporary job became an &#039;exciting&#039; career",
+      "title": "These beautiful B.C. landmarks cross the U.S.-Canada border. Will they be the next Trump target?",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/nightingale-turns-10-how-a-temporary-job-became-an-exciting-career",
-      "published_date": "2026-08-25T13:00:58Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/list-landmarks-straddle-canada-us-border",
+      "published_date": "2026-08-29T15:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Cape Cod Vampire a summer buzzkill in 1969",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/cape-cod-vampire-a-summer-buzzkill-in-1969",
+      "published_date": "2026-08-29T15:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: Here are the best wine picks for less than $30",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/anthony-gismondi-best-wines-under-30",
+      "published_date": "2026-08-29T15:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police seek suspect following sexual assault of 12-year-old boy at Windsor park",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/police-seek-suspect-following-sexual-assault-of-12-year-old-boy-at-windsor-park",
+      "published_date": "2026-08-29T13:39:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Houston hosts large grass volleyball tournament",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/29/houston-hosts-large-grass-volleyball-tournament/",
+      "published_date": "2026-08-29T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A walk for J: Bringing Cowichan community together to remember loved ones lost to toxic drug crisis",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/29/a-walk-for-j-bringing-cowichan-community-together-to-remember-loved-ones-lost-to-toxic-drug-crisis/",
+      "published_date": "2026-08-29T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Awesome' — At 103, Windsor native takes a stroll on the Gordie Howe bridge",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/awesome-at-103-windsor-native-takes-a-stroll-on-the-gordie-howe-bridge",
+      "published_date": "2026-08-29T10:16:02Z",
+      "category": "Local Events"
     },
     {
       "title": "Evacuation alert rescinded for Endako area following wildfire",
@@ -477,62 +512,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/28/province-announces-2-7m-to-help-northern-businesses-adapt-and-grow/",
       "published_date": "2026-08-28T22:18:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New order slashes water use to protect North Okanagan salmon amid drought",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/28/new-order-slashes-water-use-to-protect-north-okanagan-salmon-amid-drought/",
-      "published_date": "2026-08-28T22:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prediction market trading is gambling according to B.C. regulator",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/28/prediction-market-trading-is-gambling-according-to-b-c-regulator/",
-      "published_date": "2026-08-28T22:09:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family heads to Nepal to find missing B.C. couple as deadly floods spark relief efforts",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/family-travels-to-nepal-find-missing-bc-couple-as-deadly-floods-spark-relief-efforts",
-      "published_date": "2026-08-28T22:04:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "With no data until 2027, voters unable to weigh RapidTO 'trade-offs'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/rapidto-no-data-election-campaign-issue",
-      "published_date": "2026-08-28T21:49:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three arrested after gunfire in Abbotsford neighbourhood",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/abbotsford-neighbourhood-morning-gunfire",
-      "published_date": "2026-08-28T21:45:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miss USA crowns first-ever married mother from Virginia: 'WE MADE HISTORY'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/miss-usa-crowns-first-ever-married-mother-virginia-we-made-history",
-      "published_date": "2026-08-28T21:29:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Recreational sockeye opening on Fraser River not happening ‘at this time’: DFO",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/28/recreational-sockeye-opening-on-fraser-river-not-happening-at-this-time-dfo/",
-      "published_date": "2026-08-28T21:09:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nelson cub put down two weeks after mother and sibling",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/28/nelson-cub-put-down-two-weeks-after-mother-and-sibling/",
-      "published_date": "2026-08-28T20:52:51Z",
       "category": "Local Events"
     }
   ]
