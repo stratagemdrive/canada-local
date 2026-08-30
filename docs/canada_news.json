@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T01:09:22Z",
+  "generated_at": "2026-08-30T15:04:50Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,13 @@
       "url": "https://torontosun.com/news/national/canada-commits-11b-to-quebec-shipbuilding-deal-amid-trumps-trade-war",
       "published_date": "2026-08-24T19:11:37Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "TRADE WAR LATEST: Google Maps will show 'Lake America' in U.S. instead of 'Lake Ontario'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trade-war-latest-google-maps-lake-america-lake-ontario",
+      "published_date": "2026-08-30T14:47:27Z",
+      "category": "Military"
     },
     {
       "title": "WARMINGTON: Video of Canada Geese dolled up with Trump's hair armed for tariff war",
@@ -190,20 +197,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/hanson-hating-israel-fatique",
       "published_date": "2026-08-23T15:22:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump admin: Canada 'foolish' to believe it can win trade war with U.S.",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trump-admin-canada-foolish-to-believe-it-can-win-trade-war-with-u-s",
-      "published_date": "2026-08-23T14:34:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Bookless Club: How do you handle jet lag, or hangovers?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-how-do-you-handle-jet-lag-or-hangovers",
-      "published_date": "2026-08-23T13:00:10Z",
       "category": "Military"
     },
     {
@@ -382,6 +375,48 @@
       "category": "Economy"
     },
     {
+      "title": "Jumpin’ Jack Flash: Orca makes movie-myth-busting leap in B.C. waters",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/jumpin-jack-flash-orca-makes-movie-myth-busting-leap-in-b-c-waters/",
+      "published_date": "2026-08-30T15:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "East end construction will split annual Open Streets Windsor route in two",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/east-end-construction-will-split-annual-open-streets-windsor-route-in-two",
+      "published_date": "2026-08-30T13:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: What are your experiences with extreme weather?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-your-experiences-with-extreme-weather",
+      "published_date": "2026-08-30T13:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake Community Foundation supports senior safety and accessibility",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/burns-lake-community-foundation-supports-senior-safety-and-accessibility/",
+      "published_date": "2026-08-30T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake volunteer returns home from Special Olympics Summer Games",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/burns-lake-volunteer-returns-home-from-special-olympics-summer-games/",
+      "published_date": "2026-08-30T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amherstburg opens $3M waterfront plaza on former Duffy's Tavern site",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/amherstburg-opens-3m-waterfront-plaza-on-former-duffys-tavern-site",
+      "published_date": "2026-08-30T12:27:49Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Doug Ford unveils new Lake Ontario sign near Stoney Creek",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/doug-ford-lake-ontario-sign",
@@ -477,48 +512,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/list-landmarks-straddle-canada-us-border",
       "published_date": "2026-08-29T15:00:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Cape Cod Vampire a summer buzzkill in 1969",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/cape-cod-vampire-a-summer-buzzkill-in-1969",
-      "published_date": "2026-08-29T15:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: Here are the best wine picks for less than $30",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/anthony-gismondi-best-wines-under-30",
-      "published_date": "2026-08-29T15:00:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police seek suspect following sexual assault of 12-year-old boy at Windsor park",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/police-seek-suspect-following-sexual-assault-of-12-year-old-boy-at-windsor-park",
-      "published_date": "2026-08-29T13:39:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Houston hosts large grass volleyball tournament",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/29/houston-hosts-large-grass-volleyball-tournament/",
-      "published_date": "2026-08-29T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A walk for J: Bringing Cowichan community together to remember loved ones lost to toxic drug crisis",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/29/a-walk-for-j-bringing-cowichan-community-together-to-remember-loved-ones-lost-to-toxic-drug-crisis/",
-      "published_date": "2026-08-29T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Awesome' — At 103, Windsor native takes a stroll on the Gordie Howe bridge",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/awesome-at-103-windsor-native-takes-a-stroll-on-the-gordie-howe-bridge",
-      "published_date": "2026-08-29T10:16:02Z",
       "category": "Local Events"
     }
   ]
