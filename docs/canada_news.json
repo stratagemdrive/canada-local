@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:04:50Z",
+  "generated_at": "2026-08-31T01:12:03Z",
   "country": "Canada",
   "total_stories": 72,
   "categories": [
@@ -186,18 +186,18 @@
       "category": "Military"
     },
     {
-      "title": "WARMINGTON: Trump chirps Canada; feds roll out social programs",
+      "title": "LILLEY: Trump keeps talking about Canada, but we're not the real target",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/warmington-as-trump-says-canada-wanted-state-like-treatment-comes-canadian-state-funded-tariff-war-programs",
-      "published_date": "2026-08-23T15:47:29Z",
-      "category": "Military"
+      "url": "https://torontosun.com/opinion/columnists/trump-keeps-talking-about-canada-but-were-not-the-real-target",
+      "published_date": "2026-08-31T00:28:25Z",
+      "category": "Energy"
     },
     {
-      "title": "HANSON: Hating Israel fatigue",
+      "title": "STOSSEL: Ditching net zero hasn't gone as promised",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/hanson-hating-israel-fatique",
-      "published_date": "2026-08-23T15:22:29Z",
-      "category": "Military"
+      "url": "https://torontosun.com/opinion/columnists/stossel-ditching-net-zero-hasnt-gone-as-promised",
+      "published_date": "2026-08-30T20:10:56Z",
+      "category": "Energy"
     },
     {
       "title": "This Day in History, 1889: A floating cannery producing fish oil becomes a swimming bath",
@@ -375,6 +375,104 @@
       "category": "Economy"
     },
     {
+      "title": "CentreBC announces candidate for Abbotsford-Mission byelection",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/centrebc-announces-candidate-for-abbotsford-mission-byelection/",
+      "published_date": "2026-08-30T23:39:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Person sought in Cambridge voyeurism probe; two nabbed after Waterloo break-in",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/person-sought-cambridge-voyeurism-probe",
+      "published_date": "2026-08-30T22:01:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Community spirit shines bright at annual Light Up the Lake event",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/community-spirit-shines-bright-at-annual-light-up-the-lake-event/",
+      "published_date": "2026-08-30T21:24:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: In celebration of dogs",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/quiz-in-celebration-of-dogs-2/",
+      "published_date": "2026-08-30T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "TCHC vows to 'resolve' chemical wasteland site in Swansea",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/swansea-mews-chemical-contamination-tchc-pollution",
+      "published_date": "2026-08-30T19:00:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Windsor men charged following fentanyl trafficking investigation",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/three-windsor-men-charged-following-fentanyl-trafficking-investigation",
+      "published_date": "2026-08-30T18:39:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamilton's new AHL franchise looking to 'Hammer' down permanent home",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/hamiltons-new-ahl-franchise-looking-to-hammer-down-permanent-home",
+      "published_date": "2026-08-30T18:28:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man stabbed near Toronto waterfront; suspect sought for attempted murder in Burlington",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-stabbed-near-toronto-waterfront",
+      "published_date": "2026-08-30T17:33:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olivia Rodrigo brings out hero Sarah McLachlan at Daisy Chain Fields all-women festival",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/olivia-rodrigo-sarah-mclachlan-daisy-chain-fields-all-women-festival",
+      "published_date": "2026-08-30T16:08:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Google Maps changes Lake Ontario to Lake America for U.S. users",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/google-maps-changes-lake-ontario-to-lake-america-for-u-s-users",
+      "published_date": "2026-08-30T16:04:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BYELECTIONS: Voters to make their voices heard Monday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/byelections-voters-voices-heard",
+      "published_date": "2026-08-30T16:00:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro wrestlers and other unlikely characters who run for political office",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/pro-wrestlers-other-unlikely-characters-run-for-office",
+      "published_date": "2026-08-30T15:18:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is it curtains for one of Vancouver’s most iconic film locations?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/is-it-curtains-for-one-of-vancouvers-most-iconic-film-locations",
+      "published_date": "2026-08-30T15:00:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A &#039;deep and hidden&#039; problem in Cultus Lake could threaten summer fun for millions of British Columbians",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/a-deep-and-hidden-problem-in-cultus-lake-could-threaten-summer-fun-for-millions-of-british-columbians",
+      "published_date": "2026-08-30T15:00:24Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Jumpin’ Jack Flash: Orca makes movie-myth-busting leap in B.C. waters",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/08/30/jumpin-jack-flash-orca-makes-movie-myth-busting-leap-in-b-c-waters/",
@@ -414,104 +512,6 @@
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/amherstburg-opens-3m-waterfront-plaza-on-former-duffys-tavern-site",
       "published_date": "2026-08-30T12:27:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doug Ford unveils new Lake Ontario sign near Stoney Creek",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/doug-ford-lake-ontario-sign",
-      "published_date": "2026-08-29T23:19:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More properties downgraded to all clear as Pear Lake fire near Clinton shows minimal growth",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/29/more-properties-downgraded-to-all-clear-as-pear-lake-fire-near-clinton-shows-minimal-growth/",
-      "published_date": "2026-08-29T22:45:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHARLEBOIS: Meat losing ground as cottage cheese remains Canada's hottest grocery item",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/meat-losing-ground-cottage-cheese-canada-hottest-grocery-item",
-      "published_date": "2026-08-29T21:42:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuation orders, alerts downgraded in response to Ainslie Creek fire between Highways 1 and 5",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/29/evacuation-orders-alerts-downgraded-in-response-to-ainslie-creek-fire-between-highways-1-and-5/",
-      "published_date": "2026-08-29T20:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peel cops seeking additional victims in sex assault case; man injured in downtown stabbing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/peel-cops-seeking-additional-victims-sex-assault-case",
-      "published_date": "2026-08-29T20:34:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sault Ste. Marie lawyer suggests renaming Trump Lake in northern Ontario",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/sault-ste-marie-lawyer-suggests-renaming-trump-lake-in-northern-ontario",
-      "published_date": "2026-08-29T20:20:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could waterfront gondola be coming to Wasaga Beach?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/waterfront-gondola-wasaga-beach",
-      "published_date": "2026-08-29T20:09:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Premier calls byelection for electoral district of Abbotsford-Mission",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/29/premier-calls-byelection-for-electoral-district-of-abbotsford-mission/",
-      "published_date": "2026-08-29T19:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbotsford-Mission byelection called as Kerry-Lynne Findlay looks to brace B.C. Conservative leadership",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/abbotsford-mission-byelection-bc-conservatives",
-      "published_date": "2026-08-29T19:07:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grand Forks Fire Rescue snuffs out suspicious string of fires on Hardy Mountain",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/29/grand-forks-fire-rescue-snuffs-out-suspicious-string-of-fires-on-hardy-mountain/",
-      "published_date": "2026-08-29T18:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drake channels Tony Stark, shows up to CNE dressed as Iron Man",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/drake-cne-dressed-iron-man",
-      "published_date": "2026-08-29T18:48:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver jewelry designer Leah Alexandra sets up shop at Oakridge Park",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/vancouver-jewelry-designer-leah-alexandra-sets-up-shop-at-oakridge-park",
-      "published_date": "2026-08-29T18:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Concert Review: Noah Kahan brings The Great Divide Tour to Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/concert-review-noah-kahan-great-divide-tour-vancouver-review",
-      "published_date": "2026-08-29T15:04:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "These beautiful B.C. landmarks cross the U.S.-Canada border. Will they be the next Trump target?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/list-landmarks-straddle-canada-us-border",
-      "published_date": "2026-08-29T15:00:51Z",
       "category": "Local Events"
     }
   ]
