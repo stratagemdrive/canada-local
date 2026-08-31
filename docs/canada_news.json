@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T01:12:03Z",
+  "generated_at": "2026-08-31T17:43:25Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -179,13 +179,6 @@
       "category": "Military"
     },
     {
-      "title": "Conservatives demand Carney reconvene Parliament in wake of trade war",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/trade-war-conservatives-demand-mark-carney-reconvene-parliament",
-      "published_date": "2026-08-24T13:28:51Z",
-      "category": "Military"
-    },
-    {
       "title": "LILLEY: Trump keeps talking about Canada, but we're not the real target",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/trump-keeps-talking-about-canada-but-were-not-the-real-target",
@@ -228,11 +221,11 @@
       "category": "Energy"
     },
     {
-      "title": "Pembroke, Renfrew County push regional priorities at AMO conference",
-      "source": "Pembroke Observer",
-      "url": "https://www.pembrokeobserver.com/news/pembroke-renfrew-county-push-regional-priorities-at-amo-conference",
-      "published_date": "2026-08-24T15:10:20Z",
-      "category": "Energy"
+      "title": "Disbarred Brampton lawyer charged in $4.3M mortgage fraud",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/disbarred-brampton-lawyer-charged-4-3m-mortgage-fraud",
+      "published_date": "2026-08-31T17:22:46Z",
+      "category": "Economy"
     },
     {
       "title": "GOLDSTEIN: Our economy? Now for the bad news",
@@ -368,150 +361,143 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: A 50 per cent tariff is a wall — and a wake-up call for Canadian wine",
+      "title": "WOLF: Foods we love but somehow don’t eat very often",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/wolf-foods-we-love-but-somehow-dont-eat-very-often/",
+      "published_date": "2026-08-31T17:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peel cops hunting for suspect wanted in a double stabbing in Mississauga parking lot",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/peel-police-hunt-suspect-wanted-double-stabbing-missisauga",
+      "published_date": "2026-08-31T17:07:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'My least favourite day,' writes Princess Diana's brother on 29th anniversary of her death",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/princess-dianas-brother-marked-29th-anniversary-her-death",
+      "published_date": "2026-08-31T16:34:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chilliwack-Cultus Lake MLA Á’a:líya Warbus latest to quit Findlay’s B.C. Conservatives",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/chilliwack-cultus-lake-mla-aaliya-warbus-latest-to-quit-findlays-b-c-conservatives/",
+      "published_date": "2026-08-31T16:22:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Á’a:líya Warbus becomes latest to quit B.C. Conservatives after caucus meeting cancelled",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-a-50-per-cent-tariff-is-a-wall-and-a-wake-up-call-for-canadian-wine",
-      "published_date": "2026-08-25T23:00:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "CentreBC announces candidate for Abbotsford-Mission byelection",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/centrebc-announces-candidate-for-abbotsford-mission-byelection/",
-      "published_date": "2026-08-30T23:39:13Z",
+      "url": "https://vancouversun.com/news/aaliya-warbus-quits-bc-conservatives",
+      "published_date": "2026-08-31T16:02:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Person sought in Cambridge voyeurism probe; two nabbed after Waterloo break-in",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/person-sought-cambridge-voyeurism-probe",
-      "published_date": "2026-08-30T22:01:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Community spirit shines bright at annual Light Up the Lake event",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/community-spirit-shines-bright-at-annual-light-up-the-lake-event/",
-      "published_date": "2026-08-30T21:24:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: In celebration of dogs",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/quiz-in-celebration-of-dogs-2/",
-      "published_date": "2026-08-30T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TCHC vows to 'resolve' chemical wasteland site in Swansea",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/swansea-mews-chemical-contamination-tchc-pollution",
-      "published_date": "2026-08-30T19:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Windsor men charged following fentanyl trafficking investigation",
+      "title": "Millions in housing funds flow across Ontario, but no word on Windsor-Essex grants",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/three-windsor-men-charged-following-fentanyl-trafficking-investigation",
-      "published_date": "2026-08-30T18:39:17Z",
+      "url": "https://windsorstar.com/news/local-news/millions-in-housing-funds-flow-across-ontario-but-no-word-on-windsor-essex-grants",
+      "published_date": "2026-08-31T15:57:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Hamilton's new AHL franchise looking to 'Hammer' down permanent home",
+      "title": "OPP officer suspended, fined after blowing three times over the legal limit",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/hamiltons-new-ahl-franchise-looking-to-hammer-down-permanent-home",
-      "published_date": "2026-08-30T18:28:58Z",
+      "url": "https://torontosun.com/news/opp-officer-suspended-fined-blowing-over-legal-limit",
+      "published_date": "2026-08-31T15:53:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Man stabbed near Toronto waterfront; suspect sought for attempted murder in Burlington",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-stabbed-near-toronto-waterfront",
-      "published_date": "2026-08-30T17:33:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olivia Rodrigo brings out hero Sarah McLachlan at Daisy Chain Fields all-women festival",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/olivia-rodrigo-sarah-mclachlan-daisy-chain-fields-all-women-festival",
-      "published_date": "2026-08-30T16:08:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Google Maps changes Lake Ontario to Lake America for U.S. users",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/google-maps-changes-lake-ontario-to-lake-america-for-u-s-users",
-      "published_date": "2026-08-30T16:04:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BYELECTIONS: Voters to make their voices heard Monday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/byelections-voters-voices-heard",
-      "published_date": "2026-08-30T16:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro wrestlers and other unlikely characters who run for political office",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/pro-wrestlers-other-unlikely-characters-run-for-office",
-      "published_date": "2026-08-30T15:18:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is it curtains for one of Vancouver’s most iconic film locations?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/is-it-curtains-for-one-of-vancouvers-most-iconic-film-locations",
-      "published_date": "2026-08-30T15:00:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A &#039;deep and hidden&#039; problem in Cultus Lake could threaten summer fun for millions of British Columbians",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/a-deep-and-hidden-problem-in-cultus-lake-could-threaten-summer-fun-for-millions-of-british-columbians",
-      "published_date": "2026-08-30T15:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jumpin’ Jack Flash: Orca makes movie-myth-busting leap in B.C. waters",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/jumpin-jack-flash-orca-makes-movie-myth-busting-leap-in-b-c-waters/",
-      "published_date": "2026-08-30T15:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "East end construction will split annual Open Streets Windsor route in two",
+      "title": "Leamington traffic stop ends with three people facing firearms charges",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/east-end-construction-will-split-annual-open-streets-windsor-route-in-two",
-      "published_date": "2026-08-30T13:04:00Z",
+      "url": "https://windsorstar.com/news/local-news/opp-charge-three-with-numerous-firearms-counts",
+      "published_date": "2026-08-31T15:44:07Z",
       "category": "Local Events"
     },
     {
-      "title": "The Bookless Club: What are your experiences with extreme weather?",
+      "title": "2 dead, 15 believed missing in Grand Canyon flood",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/1-dead-15-believed-missing-in-grand-canyon-flood",
+      "published_date": "2026-08-31T15:13:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voters go to the polls in North Vancouver-Capilano federal byelection",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-your-experiences-with-extreme-weather",
-      "published_date": "2026-08-30T13:00:52Z",
+      "url": "https://vancouversun.com/news/north-vancouver-caplitano-federal-byelection",
+      "published_date": "2026-08-31T15:04:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Burns Lake Community Foundation supports senior safety and accessibility",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/burns-lake-community-foundation-supports-senior-safety-and-accessibility/",
-      "published_date": "2026-08-30T12:30:00Z",
+      "title": "Leafs forward Max Domi shows his softer side, announces his engagement on Sunday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/hockey/nhl/toronto-maple-leafs/leafs-max-domi-announces-his-engagement",
+      "published_date": "2026-08-31T14:55:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Burns Lake volunteer returns home from Special Olympics Summer Games",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/30/burns-lake-volunteer-returns-home-from-special-olympics-summer-games/",
-      "published_date": "2026-08-30T12:30:00Z",
+      "title": "Teen taekwondo medallist dies suddenly in her sleep",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/teen-taekwondo-medallist-dies-suddenly-in-her-sleep",
+      "published_date": "2026-08-31T14:40:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Amherstburg opens $3M waterfront plaza on former Duffy's Tavern site",
+      "title": "Spitfires get glimpse of future before O'Dell heads out while cutting down camp roster",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/amherstburg-opens-3m-waterfront-plaza-on-former-duffys-tavern-site",
-      "published_date": "2026-08-30T12:27:49Z",
+      "url": "https://windsorstar.com/sports/spitfires-get-glimpse-of-future-before-odell-heads-out-while-cutting-down-camp-roster",
+      "published_date": "2026-08-31T13:51:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The B.C. father and son behind tiny library models of Vancouver&#039;s charming architecture",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/father-son-little-libraries-tiny-replicas-vancouver-homes",
+      "published_date": "2026-08-31T13:00:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not seeing local apples in B.C. stores? Here&#039;s why",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/why-bc-apples-not-in-stores",
+      "published_date": "2026-08-31T13:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver entrepreneurs are dreaming up new ways to eat and drink. The city is still catching up",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-entrepreneurs-new-ways-eat-drink-city-catching-up",
+      "published_date": "2026-08-31T13:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver theatre: Five hot shows and a festival to see in September",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-theatre-plays-september-2026",
+      "published_date": "2026-08-31T13:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver&#039;s laundromats are folding, but there is hope for this rough and tumble business",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-laundromats-folding-as-costs-increase",
+      "published_date": "2026-08-31T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One dead after driver allegedly fails to stop for Windsor police",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/siu-investigates-fatal-collision-following-attempted-traffic-stop",
+      "published_date": "2026-08-31T12:45:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why wasn’t B.C. killer Vitali Stefanski charged with 1st-degree murder?",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/why-wasnt-b-c-killer-vitali-stefanski-charged-with-1st-degree-murder/",
+      "published_date": "2026-08-31T12:30:00Z",
       "category": "Local Events"
     }
   ]
