@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T01:43:06Z",
+  "generated_at": "2026-09-01T15:15:19Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,20 @@
       "url": "https://torontosun.com/opinion/columnists/ottawas-latest-tariffs-mean-higher-prices-and-more-questions",
       "published_date": "2026-08-25T22:40:39Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "U.S. war secretary mocked for dragging youth military cadets into MAGA war",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/hegseth-mocked-dragging-youth-cadets-maga-war",
+      "published_date": "2026-09-01T14:09:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Jet ski crash renews calls to remove Lake St. Clair rock hazard",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/jet-ski-crash-renews-calls-to-remove-lake-st-clair-rock-hazard",
+      "published_date": "2026-09-01T10:48:41Z",
+      "category": "Military"
     },
     {
       "title": "Langley man jailed for almost 12 years after police bust drugs and weapons operation",
@@ -361,6 +375,104 @@
       "category": "Economy"
     },
     {
+      "title": "Woman killed, man wounded in random stabbing incident at New York's Times Square",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/woman-killed-man-wounded-stabbing-incident-times-square",
+      "published_date": "2026-09-01T14:24:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ford government to begin removal process of Toronto bike lanes",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/ford-government-removal-process-of-toronto-bike-lanes",
+      "published_date": "2026-09-01T14:17:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hot, humid stretch ahead as yellow heat warning issued for Windsor-Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/hot-humid-stretch-ahead-as-yellow-heat-warning-issued-for-windsor-essex",
+      "published_date": "2026-09-01T14:04:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In a milestone year, Vancouver Chef David Hawksworth is counting his blessings",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/in-a-milestone-year-vancouver-chef-david-hawksworth-is-counting-his-blessings",
+      "published_date": "2026-09-01T13:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. boy bitten by rattlesnake his father picked up: &#039;We made a few mistakes&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-boy-bitten-by-rattlesnake-his-father-picked-up-we-made-a-few-mistakes",
+      "published_date": "2026-09-01T13:00:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Building Canada&#039;s volunteer sector before the next wildfire erupts",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-building-canadas-volunteer-sector-before-the-next-wildfire-erupts",
+      "published_date": "2026-09-01T13:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police search for suspect in bear spray incident",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-search-for-suspect-in-bear-spray-incident",
+      "published_date": "2026-09-01T12:46:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Liberals sweep federal byelections",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/liberals-sweep-federal-byelections",
+      "published_date": "2026-09-01T11:45:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Second annual Windsor Asian street food festival a hit with foodies",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/second-annual-windsor-asian-street-food-festival-a-hit-with-foodies",
+      "published_date": "2026-09-01T10:25:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The fight for our lives' — Unifor and Stellantis begin bargaining",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/the-fight-for-our-lives-unifor-and-stellantis-begin-talks-tuesday",
+      "published_date": "2026-09-01T10:17:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "GOLDSTEIN: Canada’s standard of living 'largely stagnated,' falling further behind U.S., report says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadas-standard-of-living-falling-further-behind-u-s-report",
+      "published_date": "2026-09-01T09:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evacuation orders, alerts downgraded for Cariboo’s Big Bar Complex wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/evacuation-orders-alerts-downgraded-for-cariboos-big-bar-complex-wildfire/",
+      "published_date": "2026-09-01T02:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire that forced Summerland to evacuate now under control, 25 days later",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/wildfire-that-forced-summerland-to-evacuate-now-under-control-25-days-later/",
+      "published_date": "2026-09-01T02:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighters battling Vernon church blaze",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/firefighters-battling-vernon-church-blaze/",
+      "published_date": "2026-09-01T01:53:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Delta police looking for white truck in suspicious death investigation",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/delta-police-looking-for-white-truck-in-suspicious-death-investigation",
@@ -389,115 +501,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Chilliwack-Cultus Lake MLA Á’a:líya Warbus latest to quit Findlay’s B.C. Conservatives",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/chilliwack-cultus-lake-mla-aaliya-warbus-latest-to-quit-findlays-b-c-conservatives/",
+      "published_date": "2026-08-31T22:25:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "LILLEY: Trudeau judge strikes down Ford’s bail crackdown",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/trudeau-judge-strikes-down-fords-bail-crackdown",
       "published_date": "2026-08-31T21:54:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One-third gone: Who’s out of the B.C. Conservatives?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservatives-one-third-gone",
-      "published_date": "2026-08-31T21:29:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump promises retribution for Iranian strikes against Jordan",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/trump-promises-retribution-for-iranian-strikes-against-jordan",
-      "published_date": "2026-08-31T20:46:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man sought in alleged hate-motivated assault in waterfront area; suspects sought in Etobicoke arson",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/man-sought-in-alleged-hate-motivated-assault-in-waterfront-area-man-who-shot-himself-in-leg-charged-in-hamilton",
-      "published_date": "2026-08-31T20:21:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lindsay Clancy: Jury has options in high-profile murder trial",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/lindsay-clancy-jury-options-murder-trial",
-      "published_date": "2026-08-31T19:34:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Corrupt former Surrey Mountie gets 18-month jail sentence",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/corrupt-former-surrey-mountie-sentenced",
-      "published_date": "2026-08-31T19:17:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TTC rolls out fare cap system Tuesday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ttc-rolls-out-fare-cap-system-tuesday",
-      "published_date": "2026-08-31T19:14:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mel Gibson apologizes after viral Fan Expo Canada video",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/video-of-mel-gibson-allegedly-mocking-asl-interpreter-sparks-debate-online",
-      "published_date": "2026-08-31T19:01:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liberal support on the rise as trade fight intensifies",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/liberal-support-on-the-rise-as-trade-fight-intensifies",
-      "published_date": "2026-08-31T18:55:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. couple take care of business, reunite rock icon Bachman with guitar",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/b-c-couple-take-care-of-business-reunite-rock-icon-bachman-with-guitar/",
-      "published_date": "2026-08-31T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Okanagan Forest Task Force asking province for help keeping backcountry safe",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/okanagan-forest-task-force-asking-province-for-help-keeping-backcountry-safe/",
-      "published_date": "2026-08-31T18:20:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Impaired drivers, e-scooter crash lead to charges in Essex County",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-charge-two-impaired-drivers-and-one-e-scooter-rider",
-      "published_date": "2026-08-31T18:05:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Humans and dogs pair up for Windsor edition of the Zulu Challenge at Malden Park",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/humans-and-dogs-pair-up-for-windsor-edition-of-the-zulu-challenge-at-malden-park",
-      "published_date": "2026-08-31T17:53:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seek suspect in $100K identity theft",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-ask-for-help-to-identify-fraud-suspect",
-      "published_date": "2026-08-31T17:41:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WOLF: Foods we love but somehow don’t eat very often",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/31/wolf-foods-we-love-but-somehow-dont-eat-very-often/",
-      "published_date": "2026-08-31T17:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peel cops hunting for suspect wanted in a double stabbing in Mississauga parking lot",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/peel-police-hunt-suspect-wanted-double-stabbing-missisauga",
-      "published_date": "2026-08-31T17:07:11Z",
       "category": "Local Events"
     }
   ]
