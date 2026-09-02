@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T00:53:24Z",
+  "generated_at": "2026-09-02T14:45:25Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -65,6 +65,13 @@
       "url": "https://torontosun.com/opinion/columnists/trade-talks-collapsed-in-the-fine-print-and-both-sides-say-the-other-is-to-blame",
       "published_date": "2026-08-26T18:07:02Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "WIFF doubles down on Canadian films amid U.S. trade war",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/wiff-doubles-down-on-canadian-films-amid-u-s-trade-war",
+      "published_date": "2026-09-02T14:05:29Z",
+      "category": "Military"
     },
     {
       "title": "Victoria hosts top military leaders from across the Pacific",
@@ -193,13 +200,6 @@
       "category": "Military"
     },
     {
-      "title": "Letter: Religious guidance for military disappointing",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/letters/letter-religious-guidance-for-military-disappointing",
-      "published_date": "2026-08-26T14:00:01Z",
-      "category": "Military"
-    },
-    {
       "title": "Feds force Google to scrub 'Lake America' from Canadian sites",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/feds-force-google-to-scrub-lake-america-from-canadian-sites",
@@ -247,6 +247,27 @@
       "url": "https://torontosun.com/news/local-news/olivia-chow-agrees-cutting-off-electricity-fight-trump-tariffs",
       "published_date": "2026-08-26T15:07:55Z",
       "category": "Energy"
+    },
+    {
+      "title": "LILLEY: Trade wars aren't won by matching punch for punch, Carney’s rhetoric has a price",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/trade-wars-arent-won-by-matching-punch-for-punch",
+      "published_date": "2026-09-02T14:00:29Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Column; Learning is good for dogs too",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/column-learning-is-good-for-dogs-too/",
+      "published_date": "2026-09-02T12:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "B.C. MLA says RCMP to interview him over Conservative leader allegations",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/01/b-c-mla-says-rcmp-to-interview-him-over-conservative-leader-allegations/",
+      "published_date": "2026-09-02T03:12:00Z",
+      "category": "Economy"
     },
     {
       "title": "Restricting steelhead catch would cost Northwest jobs: Report",
@@ -368,11 +389,60 @@
       "category": "Economy"
     },
     {
-      "title": "'Canadians must stand united' — Poilievre pushes Conservatives' economic plan during Windsor stop",
+      "title": "Severe storms to bring heavy rain, hail, tornado risk to GTA",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/severe-storms-heavy-rain-hail-tornado-risk-gta",
+      "published_date": "2026-09-02T13:43:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: What 500,000 World Cup fans didn&#039;t do in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-what-500000-world-cup-fans-didnt-do-in-vancouver",
+      "published_date": "2026-09-02T13:00:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative leader faces pivotal test in Abbotsford–Mission byelection",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-conservative-leader-faces-pivotal-test-in-abbotsford-mission-byelection",
+      "published_date": "2026-09-02T13:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man vs. AI: Who will triumph in an air hockey showdown at UBC?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-vs-ai-ubc-engineers-air-hockey-showdown",
+      "published_date": "2026-09-02T13:00:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Summerland artist writes song about community experience post-wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/summerland-artist-writes-song-about-community-experience-post-wildfire/",
+      "published_date": "2026-09-02T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Col: The crypto bros may get their way soon – and it will affect investors the world over",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/canadians-must-stand-united-poilievre-pushes-conservatives-economic-plan-during-windsor-stop",
-      "published_date": "2026-08-26T12:15:27Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/opinion/columnists/col-the-crypto-bros-may-get-their-way-soon-and-it-will-affect-investors-the-world-over",
+      "published_date": "2026-09-02T12:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stellantis has 'confidence in Canada' going into bargaining",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/stellantis-has-confidence-in-canada-going-into-bargaining",
+      "published_date": "2026-09-02T10:28:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna council pushing to close downtown supervised consumption site",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/01/kelowna-council-pushing-to-close-downtown-supervised-consumption-site/",
+      "published_date": "2026-09-02T02:44:36Z",
+      "category": "Local Events"
     },
     {
       "title": "OPP says crash that killed 6 still under investigation",
@@ -456,62 +526,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/01/pedestrian-struck-by-train-in-vanderhoof-criminality-not-suspected/",
       "published_date": "2026-09-01T22:40:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transit police check nets B.C. man wanted on 8 Canada-wide warrants in Sask.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/01/transit-police-check-nets-b-c-man-wanted-on-8-canada-wide-warrants-in-sask/",
-      "published_date": "2026-09-01T22:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Carney's Liberals romp in byelections while pressure mounts on Poilievre",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carneys-liberals-romp-in-byelections-while-pressure-mounts-on-poilievre",
-      "published_date": "2026-09-01T22:20:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paul Langlois reflects on The Tragically Hip’s final concert 10 years later",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/09/01/paul-langlois-reflects-on-the-tragically-hips-final-concert-10-years-later/",
-      "published_date": "2026-09-01T22:10:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Dethroned Ontario 'Crypto King' Aiden Pleterski now a pauper and lawyerless as trial nears",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ontario-crypto-king-aiden-pleterski-lawyerless-trial-nears",
-      "published_date": "2026-09-01T22:04:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Squamish pedestrian bridge designed to make people stop and look",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/squamish-pedestrian-bridge",
-      "published_date": "2026-09-01T22:04:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 60, severely injured in Colorado rollercoaster mishap",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/woman-severely-injured-colorado-rollercoaster-mishap",
-      "published_date": "2026-09-01T21:10:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police arrest two suspects after argument erupts in gunfire",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-two-suspects-after-argument-erupts-in-gunfire",
-      "published_date": "2026-09-01T20:42:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver killed after pickup fleeing Windsor police crashes into his vehicle",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/driver-of-vehicle-hit-by-fleeing-pickup-killed",
-      "published_date": "2026-09-01T19:42:34Z",
       "category": "Local Events"
     }
   ]
