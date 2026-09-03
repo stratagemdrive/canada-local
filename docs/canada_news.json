@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T01:00:23Z",
+  "generated_at": "2026-09-03T14:44:52Z",
   "country": "Canada",
-  "total_stories": 75,
+  "total_stories": 77,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,13 @@
       "url": "https://vancouversun.com/news/ubc-new-research-chairs-kathryn-whitehead",
       "published_date": "2026-08-27T16:40:31Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "&#039;Like a brick wall&#039;: Pro air hockey champs impressed by UBC robot",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/like-a-brick-wall-pro-air-hockey-champs-impressed-by-ubc-robot",
+      "published_date": "2026-09-03T13:00:37Z",
+      "category": "Military"
     },
     {
       "title": "WIFF doubles down on Canadian films amid U.S. trade war",
@@ -193,18 +200,18 @@
       "category": "Military"
     },
     {
-      "title": "Social media reacts to CBC directive to not refer to 9/11 attacks as ‘terrorist attacks’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/social-media-reacts-cbc-directive-9-11-terrorist-attacks",
-      "published_date": "2026-08-27T13:22:46Z",
-      "category": "Military"
+      "title": "Should B.C. hospitals ditch the Jell-O and meatloaf? UBC research suggests increasing plant-based meals",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ubc-research-plant-based-meals-bc-hospitals",
+      "published_date": "2026-09-03T13:00:57Z",
+      "category": "Energy"
     },
     {
-      "title": "Essex home that survived 1907 explosion honoured with heritage plaque",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/essex-home-that-survived-1907-explosion-honoured-with-heritage-plaque",
-      "published_date": "2026-08-27T12:00:10Z",
-      "category": "Military"
+      "title": "Canada wants to expand non-U. S. trade, report adds up $146 billion in new potential",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/canada-wants-to-expand-non-u-s-trade-report-adds-up-146-billion-in-new-potential",
+      "published_date": "2026-09-03T13:00:41Z",
+      "category": "Energy"
     },
     {
       "title": "Mystery of missing island near Mackenzie solved, BC Hydro says",
@@ -261,6 +268,20 @@
       "url": "https://vancouversun.com/news/bc-conservatives-call-for-investigation-into-shortfall-in-projected-natural-gas-revenues",
       "published_date": "2026-08-28T23:52:25Z",
       "category": "Energy"
+    },
+    {
+      "title": "B.C. film insiders weigh in on Donald Trump&#039;s proposed federal production tax incentive",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-film-insiders-trumps-proposed-federal-production-tax-incentive",
+      "published_date": "2026-09-03T13:00:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Province refuses to confirm if Highway 3 widening is on time or budget",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/province-refuses-to-confirm-if-highway-3-widening-is-on-time-or-budget",
+      "published_date": "2026-09-03T12:17:54Z",
+      "category": "Economy"
     },
     {
       "title": "Bank of Canada stands pat at 2.25%, but no immediate relief for debt-swamped Canadians",
@@ -389,11 +410,81 @@
       "category": "Economy"
     },
     {
-      "title": "Province invests $100K for economic rural planning in Windsor and Tecumseh",
+      "title": "Tens of thousands still in the dark as storm cleanup continues",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/tens-thousands-in-dark-storm-cleanup-continues",
+      "published_date": "2026-09-03T14:11:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gloria Steinem, feminist crusader and trailblazer, dies at 92",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/gloria-steinem-feminist-crusader-trailblazer-dies",
+      "published_date": "2026-09-03T13:37:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sale of 100-year-old Vancouver church reflects hard choice facing many congregations",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/real-estate/sale-100-year-old-point-grey-church-reflects-choice-facing-congregations",
+      "published_date": "2026-09-03T13:00:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pete McMartin: The things she does",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/pete-mcmartin-the-things-she-does",
+      "published_date": "2026-09-03T13:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Okanagan woman answers calls for help, builds livestock evacuation app amid wildfires",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/okanagan-woman-answers-calls-for-help-builds-livestock-evacuation-app-amid-wildfires/",
+      "published_date": "2026-09-03T12:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nature Nut: Bumblebees signal pleasure with their tongues",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/nature-nut-bumblebees-signal-pleasure-with-their-tongues/",
+      "published_date": "2026-09-03T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "You get what you ask for on social media",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/you-get-what-you-ask-for-on-social-media/",
+      "published_date": "2026-09-03T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Maestro's dying wish: WSO offers free tickets to cancer centre staff",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/province-invests-100k-for-economic-rural-planning-in-windsor-and-tecumseh",
-      "published_date": "2026-08-27T13:50:14Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/the-maestros-dying-wish-wso-offers-free-tickets-to-cancer-centre-staff",
+      "published_date": "2026-09-03T12:26:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nelson’s WildSafeBC coordinator steps down after grizzly bear deaths",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/nelsons-wildsafebc-coordinator-steps-down-after-grizzly-bear-deaths/",
+      "published_date": "2026-09-03T03:37:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Search begins for new Surrey Police Service chief constable",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/search-begins-for-new-surrey-police-service-chief-constable",
+      "published_date": "2026-09-03T03:22:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man accused of sex assaults in Brampton; charges laid in fatal Scarborough crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-accused-of-sex-assaults-brampton",
+      "published_date": "2026-09-03T03:19:52Z",
+      "category": "Local Events"
     },
     {
       "title": "Dramatic video of shooting in Whistler hotel lobby played at murder trial",
@@ -456,83 +547,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/02/cfl-suspends-current-bc-lion-former-okanagan-sun-football-player-2-games/",
       "published_date": "2026-09-02T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. Mint begins selling Donald Trump dollar coins to public",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/us-mint-donald-trump-dollar-coins",
-      "published_date": "2026-09-02T21:38:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "United Way BC celebrates Okanagan wildfire volunteers",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/united-way-bc-celebrates-okanagan-wildfire-volunteers/",
-      "published_date": "2026-09-02T21:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bookings nearly sold out for drivers bound for Vancouver Island aboard BC Ferries Friday",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/bookings-nearly-sold-out-for-drivers-bound-for-vancouver-island-aboard-bc-ferries-friday/",
-      "published_date": "2026-09-02T21:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Racing for change’: Greenwood motard club makes motorsports accessible",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/racing-for-change-greenwood-motard-club-makes-motorsports-accessible/",
-      "published_date": "2026-09-02T21:16:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHL to stream games free on YouTube for start of 2026-27 season",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/whl-to-stream-games-free-on-youtube-for-start-of-2026-27-season/",
-      "published_date": "2026-09-02T21:04:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homicide suspected after missing man&#039;s remains found in Fraser River",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/murder-suspected-missing-prince-george-man-remains-found-fraser",
-      "published_date": "2026-09-02T20:53:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Set the stage to showcase your house for sale",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/staging-your-home-to-sell",
-      "published_date": "2026-09-02T20:42:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. experiencing growing pet overpopulation crisis: Okanagan Human Society",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/b-c-experiencing-growing-pet-overpopulation-crisis-okanagan-human-society/",
-      "published_date": "2026-09-02T20:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Prince George mayor named Northern Health board chair",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/former-prince-george-mayor-named-northern-health-board-chair/",
-      "published_date": "2026-09-02T20:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man connected to Falkland drug lab pleads guilty to trying to send boxes of drugs to Philippines",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-connected-to-falkland-drug-lab-pleads-guilty-to-trying-to-send-boxes-of-drugs-to-philippines",
-      "published_date": "2026-09-02T20:12:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman charged with drunk driving after car smashes through E.C. Row Expressway guardrail",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/woman-charged-with-drunk-driving-after-car-smashes-through-e-c-row-expressway-guardrail",
-      "published_date": "2026-09-02T19:20:45Z",
       "category": "Local Events"
     }
   ]
