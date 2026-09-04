@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T14:44:52Z",
+  "generated_at": "2026-09-04T00:51:04Z",
   "country": "Canada",
-  "total_stories": 77,
+  "total_stories": 73,
   "categories": [
     "Diplomacy",
     "Military",
@@ -46,32 +46,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: Trade talks collapse under weight of politics on both sides of the border",
+      "title": "End of an era for high-flying Snowbirds at Canadian International Air Show",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/trade-talks-collapse-politics-both-sides",
-      "published_date": "2026-08-27T22:00:02Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/local-news/end-of-era-snowbirds-at-canadian-international-air-show-toronto",
+      "published_date": "2026-09-03T22:57:34Z",
+      "category": "Military"
     },
     {
-      "title": "U.S. Mail boat crew rescued pair of jet skiers stranded beneath Ambassador Bridge",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/u-s-mail-boat-crew-rescued-pair-of-jet-skiers-stranded-beneath-ambassador-bridge",
-      "published_date": "2026-08-27T19:30:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump signs executive order changing name of Lake Ontario to Lake America",
+      "title": "Trade war not to blame for USAF demo team pulling out of Toronto air show: organizers",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/trump-executive-order-changing-name-lake-ontario-america",
-      "published_date": "2026-08-27T18:31:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UBC lures top U.S. researchers amid Canada’s push to attract global talent",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/ubc-new-research-chairs-kathryn-whitehead",
-      "published_date": "2026-08-27T16:40:31Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/national/trade-war-not-to-blame-for-usaf-demo-team-pulling-out-toronto-air-show",
+      "published_date": "2026-09-03T20:18:23Z",
+      "category": "Military"
     },
     {
       "title": "&#039;Like a brick wall&#039;: Pro air hockey champs impressed by UBC robot",
@@ -179,25 +165,18 @@
       "category": "Military"
     },
     {
-      "title": "Two flight controllers allegedly left work early before fatal Air Canada jet crash at LaGuardia Airport",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/flight-controllers-allegedly-left-work-early-fatal-air-canada-jet-crash-laguardia-airport",
-      "published_date": "2026-08-27T22:26:20Z",
-      "category": "Military"
+      "title": "Work begins on B.C’s North Coast Transmission Line",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/work-begins-on-b-cs-north-coast-transmission-line-2/",
+      "published_date": "2026-09-03T22:49:00Z",
+      "category": "Energy"
     },
     {
-      "title": "LILLEY: If CBC can't call 9/11 terrorism, why should anyone trust it?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/cbc-9-11-terrorism-trust",
-      "published_date": "2026-08-27T20:30:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "WARMINGTON: As Trump escalates trade war, all eyes will be on NFL game in Buffalo",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/diplomacy-show-bills-fans-both-countries-really-feel",
-      "published_date": "2026-08-27T15:01:57Z",
-      "category": "Military"
+      "title": "Overnight storm snaps hydro poles, topples trees across Windsor-Essex",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/overnight-storm-snaps-hydro-poles-topples-trees-across-windsor-essex",
+      "published_date": "2026-09-03T20:09:08Z",
+      "category": "Energy"
     },
     {
       "title": "Should B.C. hospitals ditch the Jell-O and meatloaf? UBC research suggests increasing plant-based meals",
@@ -268,6 +247,13 @@
       "url": "https://vancouversun.com/news/bc-conservatives-call-for-investigation-into-shortfall-in-projected-natural-gas-revenues",
       "published_date": "2026-08-28T23:52:25Z",
       "category": "Energy"
+    },
+    {
+      "title": "LILLEY: Mark Carney embraces protectionism amid fight with Donald Trump",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-embraces-protectionism-amid-trump-tariffs",
+      "published_date": "2026-09-03T23:31:19Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. film insiders weigh in on Donald Trump&#039;s proposed federal production tax incentive",
@@ -396,157 +382,143 @@
       "category": "Economy"
     },
     {
-      "title": "UPDATE: 12-week strike ends for 300 Canadian railroaders as union settles with arbitration",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/27/railroaders-across-b-c-continue-11-week-strike-as-union-rejects-cpkc-offer/",
-      "published_date": "2026-08-27T22:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Vancouver startup battles back against &#039;decision fatigue&#039;",
+      "title": "Vancouver police officer arrested, charged with theft, fraud and breach of trust",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/vancouver-startup-battles-back-against-decision-fatigue",
-      "published_date": "2026-08-27T18:00:51Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/local-news/vancouver-police-officer-arrested-charged-with-theft-fraud-and-breach-of-trust",
+      "published_date": "2026-09-04T00:11:19Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tens of thousands still in the dark as storm cleanup continues",
+      "title": "Snowbird pilots making memorable moments across Canada",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/tens-thousands-in-dark-storm-cleanup-continues",
-      "published_date": "2026-09-03T14:11:32Z",
+      "url": "https://torontosun.com/news/local-news/snowbird-pilots-making-memorable-moments-across-canada",
+      "published_date": "2026-09-03T23:37:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Gloria Steinem, feminist crusader and trailblazer, dies at 92",
+      "title": "Man who fatally stabbed dad of toddler on Starbucks patio guilty of manslaughter",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/man-who-fatally-stabbed-dad-of-toddler-on-starbucks-patio-guilty-of-manslaughter",
+      "published_date": "2026-09-03T23:36:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Provincial byelections underway in three Toronto and Hamilton-area ridings",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/gloria-steinem-feminist-crusader-trailblazer-dies",
-      "published_date": "2026-09-03T13:37:41Z",
+      "url": "https://torontosun.com/news/local-news/provincial-byelections-underway-toronto-area-ridings",
+      "published_date": "2026-09-03T23:05:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Sale of 100-year-old Vancouver church reflects hard choice facing many congregations",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/real-estate/sale-100-year-old-point-grey-church-reflects-choice-facing-congregations",
-      "published_date": "2026-09-03T13:00:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pete McMartin: The things she does",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/pete-mcmartin-the-things-she-does",
-      "published_date": "2026-09-03T13:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Okanagan woman answers calls for help, builds livestock evacuation app amid wildfires",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/okanagan-woman-answers-calls-for-help-builds-livestock-evacuation-app-amid-wildfires/",
-      "published_date": "2026-09-03T12:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nature Nut: Bumblebees signal pleasure with their tongues",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/nature-nut-bumblebees-signal-pleasure-with-their-tongues/",
-      "published_date": "2026-09-03T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "You get what you ask for on social media",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/you-get-what-you-ask-for-on-social-media/",
-      "published_date": "2026-09-03T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Maestro's dying wish: WSO offers free tickets to cancer centre staff",
+      "title": "Violent storm rips roof from Windsor home, hurling it a block away onto another house",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/the-maestros-dying-wish-wso-offers-free-tickets-to-cancer-centre-staff",
-      "published_date": "2026-09-03T12:26:55Z",
+      "url": "https://windsorstar.com/news/local-news/violent-storm-rips-roof-from-windsor-home-hurling-it-a-block-away-onto-another-home",
+      "published_date": "2026-09-03T23:00:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Nelson’s WildSafeBC coordinator steps down after grizzly bear deaths",
+      "title": "Fraud, theft charges for Vancouver cop who runs Surrey foundation for kids",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/nelsons-wildsafebc-coordinator-steps-down-after-grizzly-bear-deaths/",
-      "published_date": "2026-09-03T03:37:41Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/fraud-theft-charges-for-vancouver-cop-who-runs-surrey-foundation-for-kids/",
+      "published_date": "2026-09-03T22:37:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Search begins for new Surrey Police Service chief constable",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/search-begins-for-new-surrey-police-service-chief-constable",
-      "published_date": "2026-09-03T03:22:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man accused of sex assaults in Brampton; charges laid in fatal Scarborough crash",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-accused-of-sex-assaults-brampton",
-      "published_date": "2026-09-03T03:19:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dramatic video of shooting in Whistler hotel lobby played at murder trial",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/dramatic-video-murder-trial-shooting-whistler-hotel-lobby",
-      "published_date": "2026-09-03T00:12:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man found shot inside car in Maple Ridge last month has died",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/man-found-shot-inside-car-in-maple-ridge-last-month-has-died",
-      "published_date": "2026-09-02T23:51:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vandal leaves threats, bacon on Fleetwood Islamic Centre in Surrey",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/vandal-leaves-threats-bacon-on-fleetwood-islamic-centre-surrey",
-      "published_date": "2026-09-02T23:21:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Third man wanted in Waterloo sex assault; Toronto man charged in suspected hate crime",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/third-man-wanted-waterloo-sex-assault",
-      "published_date": "2026-09-02T23:02:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interior Health defends downtown safe consumption site amid Kelowna’s shutdown request",
+      "title": "Cyclists tracking birds from Alaska to Patagonia reach Williams Lake",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/interior-health-defends-downtown-safe-consumption-site-amid-kelownas-shutdown-request/",
-      "published_date": "2026-09-02T22:34:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/cyclists-tracking-birds-from-alaska-to-patagonia-reach-williams-lake/",
+      "published_date": "2026-09-03T22:22:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Man who stole gong from Kitchener hospital regrets theft",
+      "title": "Whistler visitor watched suspect with gun run from murder scene",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/whistler-visitor-watched-suspect-with-gun-run-from-murder-scene",
+      "published_date": "2026-09-03T22:18:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnaby teen hit with hefty fines for e-dirtbike infractions",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/burnaby-teen-hit-with-hefty-fines-for-e-dirtbike-infractions",
+      "published_date": "2026-09-03T21:52:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lindsay Clancy murder trial: Jury to continue deliberations Friday",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/man-who-stole-gong-from-kitchener-hospital-regrets-theft",
-      "published_date": "2026-09-02T22:31:13Z",
+      "url": "https://torontosun.com/news/world/lindsay-clancy-murder-trial-jury-deliberations-friday",
+      "published_date": "2026-09-03T21:48:40Z",
       "category": "Local Events"
     },
     {
-      "title": "MANDEL: Pickering tow truck driver's family tells teen killer of great anguish",
+      "title": "Disputes between OneBC MLA and former staff escalates into series of litigation",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/disputes-between-onebc-mla-and-former-staff-escalates-into-series-of-litigation/",
+      "published_date": "2026-09-03T21:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "$50,000 reward in Ontario First Nation murder probe; 80-year-old accused of harassing girls",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/pickering-tow-truck-driver-family-pain-sorrow",
-      "published_date": "2026-09-02T22:21:48Z",
+      "url": "https://torontosun.com/news/local-news/50000-reward-ontario-first-nation-murder-probe",
+      "published_date": "2026-09-03T21:25:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Police dog Basko begins training in Nanaimo",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/police-dog-basko-begins-training-in-nanaimo/",
-      "published_date": "2026-09-02T22:00:00Z",
+      "title": "B.C. man who left food for bears and coyotes hit with $27,000 fine",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-man-left-food-for-bears-and-coyotes-on-the-north-shore-now-hes-been-fined-27000",
+      "published_date": "2026-09-03T21:08:01Z",
       "category": "Local Events"
     },
     {
-      "title": "CFL suspends current BC Lion, former Okanagan Sun football player 2 games",
+      "title": "Winnipeg and Toronto lead poll as Canada's most unsafe cities",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/winnipeg-toronto-lead-poll-as-canadas-most-unsafe-cities",
+      "published_date": "2026-09-03T20:55:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family shocked as B.C. teen’s killer moved to minimum-security facility",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/cfl-suspends-current-bc-lion-former-okanagan-sun-football-player-2-games/",
-      "published_date": "2026-09-02T22:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/family-shocked-as-b-c-teens-killer-moved-to-minimum-security-facility/",
+      "published_date": "2026-09-03T20:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian Coast Guard’s Inshore Rescue Boat stations winding down for season",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/canadian-coast-guards-inshore-rescue-boat-stations-winding-down-for-season/",
+      "published_date": "2026-09-03T20:21:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Long live the King on new Canadian $20 bill",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/long-live-the-king-on-new-canadian-20-dollar-bill",
+      "published_date": "2026-09-03T20:10:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manning Park marketing video draws divisive feedback",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/manning-park-marketing-video-draws-divisive-feedback/",
+      "published_date": "2026-09-03T20:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bear with unusual backside captured on Comox porch cam",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/bear-with-unusual-backside-captured-on-comox-porch-cam/",
+      "published_date": "2026-09-03T20:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luxury beauty brand opens first Vancouver boutique at Holt Renfrew",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/luxury-beauty-brand-opens-first-vancouver-boutique-holt-renfrew",
+      "published_date": "2026-09-03T20:01:15Z",
       "category": "Local Events"
     }
   ]
