@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T00:43:38Z",
+  "generated_at": "2026-09-06T13:49:57Z",
   "country": "Canada",
-  "total_stories": 73,
+  "total_stories": 74,
   "categories": [
     "Diplomacy",
     "Military",
@@ -177,6 +177,13 @@
       "url": "https://torontosun.com/news/world/trade-war-latest-trump-asked-apple-to-change-lake-ontario-to-lake-america-on-maps",
       "published_date": "2026-08-30T14:47:27Z",
       "category": "Military"
+    },
+    {
+      "title": "The Bookless Club: What are you doing about the quality of air you breathe?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-you-doing-about-the-quality-of-air-you-breathe",
+      "published_date": "2026-09-06T13:00:10Z",
+      "category": "Energy"
     },
     {
       "title": "Work begins on B.C’s North Coast Transmission Line",
@@ -382,6 +389,27 @@
       "category": "Economy"
     },
     {
+      "title": "St. Joseph's school addition opens five months early, but classroom capacity 'pressures' continue",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/st-josephs-school-addition-opens-five-months-early-but-classroom-capacity-pressures-continue",
+      "published_date": "2026-09-06T12:46:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man wanted on drug charges arrested with fentanyl, cocaine: Windsor police",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/man-wanted-on-drug-charges-arrested-with-fentanyl-cocaine-windsor-police",
+      "published_date": "2026-09-06T12:39:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Candidates for Abbotsford-Mission byelection locked in",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/candidates-for-abbotsford-mission-byelection-locked-in",
+      "published_date": "2026-09-06T02:04:46Z",
+      "category": "Local Events"
+    },
+    {
       "title": "U.S. airline passenger duct-taped to seat after wild outburst",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/us-airline-passenger-duct-taped-seat-wild-outburst",
@@ -498,27 +526,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-cities-highest-child-care-fees-report",
       "published_date": "2026-09-05T15:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Butters the dog 'eager on the leash' but otherwise pretty perfect",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/butters-dog-adoption-toronto-humane-society",
-      "published_date": "2026-09-05T13:38:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resident takes aim at Houston’s cat problem",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/05/resident-takes-aim-at-houstons-cat-problem/",
-      "published_date": "2026-09-05T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heritage Gallery celebrates banner season with quilting exhibition",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/05/heritage-gallery-celebrates-banner-season-with-quilting-exhibition/",
-      "published_date": "2026-09-05T12:30:00Z",
       "category": "Local Events"
     }
   ]
