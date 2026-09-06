@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T13:35:05Z",
+  "generated_at": "2026-09-06T00:43:38Z",
   "country": "Canada",
-  "total_stories": 76,
+  "total_stories": 73,
   "categories": [
     "Diplomacy",
     "Military",
@@ -39,11 +39,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Driver arrested for attempting to evade Ambassador Bridge checkpoint: Windsor police",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/crime/driver-arrested-for-attempting-to-evade-ambassador-bridge-checkpoint-windsor-police",
-      "published_date": "2026-08-29T20:23:39Z",
-      "category": "Diplomacy"
+      "title": "Anthony Gismondi: A few fabulous B.C. reds can help you do your part in trade war",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/anthony-gismondi-a-few-fabulous-b-c-reds-can-help-you-do-your-part-in-trade-war",
+      "published_date": "2026-09-05T15:00:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Kal Dosanjh? VPD officer facing charges started youth charity, featured in reality TV show",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/who-is-kal-dosanjh-vpd-officer-facing-charges-started-youth-charity-featured-in-reality-tv-show",
+      "published_date": "2026-09-05T15:00:06Z",
+      "category": "Military"
     },
     {
       "title": "Poll finds nearly 70% of Canadian small businesses rely on ties to U.S.",
@@ -172,20 +179,6 @@
       "category": "Military"
     },
     {
-      "title": "WARMINGTON: Video of Canada Geese dolled up with Trump's hair armed for tariff war",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/video-canada-geese-trump-hair-armed-tariff-war",
-      "published_date": "2026-08-29T20:02:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "KINSELLA: CBC's 9/11 climbdown acknowledges historical reality",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/cbc-9-11-climbdown-acknowledges-historical-reality",
-      "published_date": "2026-08-29T17:32:11Z",
-      "category": "Military"
-    },
-    {
       "title": "Work begins on B.C’s North Coast Transmission Line",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/03/work-begins-on-b-cs-north-coast-transmission-line-2/",
@@ -256,11 +249,11 @@
       "category": "Energy"
     },
     {
-      "title": "This Day in History, 1889: A floating cannery producing fish oil becomes a swimming bath",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1889-a-floating-cannery-producing-fish-oil-becomes-a-swimming-bath",
-      "published_date": "2026-08-29T15:00:08Z",
-      "category": "Energy"
+      "title": "GOLDSTEIN: Mark Carney’s latest counter-tariffs a multi-billion-dollar tax on Canadians",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/goldstein-mark-carneys-latest-counter-tariffs-a-multi-billion-dollar-tax-on-canadians",
+      "published_date": "2026-09-05T16:57:28Z",
+      "category": "Economy"
     },
     {
       "title": "Cerasa abandons legal challenge over Amherstburg mayoral nomination",
@@ -389,18 +382,130 @@
       "category": "Economy"
     },
     {
-      "title": "GOLDSTEIN: Our economy? Now for the bad news",
+      "title": "U.S. airline passenger duct-taped to seat after wild outburst",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canada-economy-bad-news",
-      "published_date": "2026-08-29T20:53:01Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/us-airline-passenger-duct-taped-seat-wild-outburst",
+      "published_date": "2026-09-06T00:11:33Z",
+      "category": "Local Events"
     },
     {
-      "title": "Telkwa BBQ coming up on Labour Day weekend",
+      "title": "Metro Vancouver ousts top executive weeks before election",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-ousts-top-executive-weeks-before-election",
+      "published_date": "2026-09-05T22:56:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "It&#039;s time to say farewell to the giant soccer ball at Science World",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/science-world-soccer-ball-coming-down",
+      "published_date": "2026-09-05T21:45:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Yes, we have a crime problem",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/yes-we-have-a-crime-problem",
+      "published_date": "2026-09-05T21:06:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;She is a survivor&#039;: Squamish mountain runner missing on the Matterhorn",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/squamish-mountain-runner-missing-matterhorn",
+      "published_date": "2026-09-05T21:03:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "She&#039;s battled B.C.&#039;s wait-list crisis, chemo, now this Surrey woman is raising money for cancer",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-wait-list-crisis-chemo-surrey-woman-raising-money-cancer",
+      "published_date": "2026-09-05T20:46:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barrie man charged in child exploitation probe; booze stolen from Toronto Islands eatery",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/barrie-man-charged-child-exploitation-probe-elderly-woman-dies-collision-scarborough",
+      "published_date": "2026-09-05T20:25:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two teens charged, two sought for violent Brampton home invasion",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/two-teens-charged-sought-violent-brampton-home-invasion",
+      "published_date": "2026-09-05T19:09:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Donato’s time with the Toronto Sun draws to a close",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/andy-donatos-time-with-toronto-sun-draws-to-close",
+      "published_date": "2026-09-05T18:38:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. police watchdog investigating RCMP-involved shooting near Salmo",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/08/29/telkwa-bbq-coming-up-on-labour-day-weekend/",
-      "published_date": "2026-08-29T16:12:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/05/b-c-police-watchdog-investigating-rcmp-involved-shooting-near-salmo/",
+      "published_date": "2026-09-05T17:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman injured in bear attack near Whistler",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/woman-injured-bear-attack-whistler",
+      "published_date": "2026-09-05T17:41:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 24, accused of setting vehicles ablaze at Scarborough MP's home",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-24-accused-of-setting-vehicles-ablaze-at-scarborough-mps-home",
+      "published_date": "2026-09-05T16:06:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Signals and signs are positive' for expansion PWHL Hamilton",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/hockey/pwhl/signals-signs-positive-for-expansion-pwhl-hamilton",
+      "published_date": "2026-09-05T16:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: Donald Trump's superpowers fading",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/united-states-president-donald-trump-superpowers-fading",
+      "published_date": "2026-09-05T15:01:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Week in History, 1945: The Flashlight Burglar targets Yvonne De Carlo&#039;s jewels",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/history-1945-flashlight-burglar-targets-yvonne-de-carlos-jewels",
+      "published_date": "2026-09-05T15:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brian Minter: New varieties add colour, foliage and heat tolerance as you plan for next year&#039;s garden",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/brian-minter-new-varieties-add-colour-foliage-and-heat-tolerance-as-you-plan-for-next-years-garden",
+      "published_date": "2026-09-05T15:00:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. cities have Canada&#039;s highest child-care fees: Report",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-cities-highest-child-care-fees-report",
+      "published_date": "2026-09-05T15:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Butters the dog 'eager on the leash' but otherwise pretty perfect",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/butters-dog-adoption-toronto-humane-society",
+      "published_date": "2026-09-05T13:38:46Z",
+      "category": "Local Events"
     },
     {
       "title": "Resident takes aim at Houston’s cat problem",
@@ -414,132 +519,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/05/heritage-gallery-celebrates-banner-season-with-quilting-exhibition/",
       "published_date": "2026-09-05T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Small Town Makers Spotlight: Exploring Vanderhoof waters",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/05/small-town-makers-spotlight-exploring-vanderhoof-waters/",
-      "published_date": "2026-09-05T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: A tasty celebration of food",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/05/quiz-a-tasty-celebration-of-food/",
-      "published_date": "2026-09-05T11:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tornado touched down in Detroit, tore through east Windsor, investigators confirm",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/detroit-tornado-crossed-river-tore-through-east-windsor-investigators-confirm",
-      "published_date": "2026-09-05T11:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Journey of a lifetime' — Windsor mother-son duo eliminated from Amazing Race Canada",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/journey-of-a-lifetime-windsor-mother-son-duo-eliminated-from-amazing-race-canada",
-      "published_date": "2026-09-05T10:14:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor Dance eXperience moves to long-vacant Monarch Mattress building",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-dance-experience-moves-to-long-vacant-monarch-mattress-building",
-      "published_date": "2026-09-05T09:59:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerry Dobrovolny out as top executive at Metro Vancouver regional district",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/jerry-dobrovolny-out-as-top-executive-at-metro-vancouver-regional-district",
-      "published_date": "2026-09-05T04:20:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hiker missing for six days in Squamish-area wilderness found safe",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/hiker-missing-six-days-squamish-wilderness-found-safe",
-      "published_date": "2026-09-05T03:04:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Lions see 5-game win streak end in 37-30 loss to Montreal Alouettes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/04/b-c-lions-see-5-game-win-streak-end-in-37-30-loss-to-montreal-alouettes/",
-      "published_date": "2026-09-05T02:49:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hiker attacked by grizzly bear on forest service road near Sicamous",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/hiker-attacked-by-grizzly-bear-on-forest-service-road-near-sicamous",
-      "published_date": "2026-09-05T00:42:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "California cops rescue stranded hikers who used AI for climbing trip",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/california-cops-rescue-stranded-hikers-ai",
-      "published_date": "2026-09-05T00:42:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How the B.C. Conservatives went from rising force to party in turmoil",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/04/how-the-b-c-conservatives-went-from-rising-force-to-party-in-turmoil/",
-      "published_date": "2026-09-05T00:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second beluga whale rescued from Marineland dies at Chicago aquarium",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/second-beluga-whale-rescued-from-marineland-dies-chicago-aquarium",
-      "published_date": "2026-09-05T00:13:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Haunted by the 'lost decade'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-haunted-by-the-lost-decade",
-      "published_date": "2026-09-05T00:01:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arson suspect arrested after three fires in Squamish-Whistler area",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/arson-suspect-arrested-after-three-fires-in-squamish-whistler-area",
-      "published_date": "2026-09-04T23:40:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Phil Verster failed Ontario, now he's advising Mark Carney on high-speed rail",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/phil-verster-failed-ontario-now-advising-mark-carney-on-high-speed-rail",
-      "published_date": "2026-09-04T23:04:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Vancouver Sun: Lessons learned since racist policy proposal of 1939 should never be forgotten",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/letters-to-the-vancouver-sun-lessons-learned-since-racist-policy-proposal-of-1939-should-never-be-forgotten",
-      "published_date": "2026-09-04T23:00:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Okanagan Mayors to bring mandatory care facility pitch to province at UBCM",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/04/okanagan-mayors-to-bring-mandatory-care-facility-pitch-to-province-at-ubcm/",
-      "published_date": "2026-09-04T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hunter rescued after serious leg injury northeast of Kitimat",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/04/hunter-rescued-after-serious-leg-injury-northeast-of-kitimat/",
-      "published_date": "2026-09-04T22:48:00Z",
       "category": "Local Events"
     }
   ]
