@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T13:49:57Z",
+  "generated_at": "2026-09-07T00:46:48Z",
   "country": "Canada",
-  "total_stories": 74,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -165,20 +165,6 @@
       "category": "Military"
     },
     {
-      "title": "TRADE WAR LATEST: Google Maps will show 'Lake America' in U.S. instead of 'Lake Ontario'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trade-war-latest-google-maps-lake-america-lake-ontario",
-      "published_date": "2026-08-30T14:47:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "TRADE WAR LATEST: Trump asked Apple to change Lake Ontario to 'Lake America' on its maps, U.S. official says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trade-war-latest-trump-asked-apple-to-change-lake-ontario-to-lake-america-on-maps",
-      "published_date": "2026-08-30T14:47:27Z",
-      "category": "Military"
-    },
-    {
       "title": "The Bookless Club: What are you doing about the quality of air you breathe?",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-you-doing-about-the-quality-of-air-you-breathe",
@@ -242,18 +228,11 @@
       "category": "Energy"
     },
     {
-      "title": "LILLEY: Trump keeps talking about Canada, but we're not the real target",
+      "title": "CHARLEBOIS: Counter-tariffs are coming — and so is more shrinkflation",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/trump-keeps-talking-about-canada-but-were-not-the-real-target",
-      "published_date": "2026-08-31T00:28:25Z",
-      "category": "Energy"
-    },
-    {
-      "title": "STOSSEL: Ditching net zero hasn't gone as promised",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/stossel-ditching-net-zero-hasnt-gone-as-promised",
-      "published_date": "2026-08-30T20:10:56Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/news/world/counter-tariffs-are-coming-and-so-is-more-shrinkflation",
+      "published_date": "2026-09-06T22:12:10Z",
+      "category": "Economy"
     },
     {
       "title": "GOLDSTEIN: Mark Carney’s latest counter-tariffs a multi-billion-dollar tax on Canadians",
@@ -389,6 +368,76 @@
       "category": "Economy"
     },
     {
+      "title": "Canada's currency imbalance with U.S. 'unacceptable,' Donald Trump says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-currency-rate-unacceptable-trump-says",
+      "published_date": "2026-09-06T22:32:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro Vancouver police investigate two overnight vehicle-related shootings",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-police-investigate-two-overnight-vehicle-related-shootings",
+      "published_date": "2026-09-06T21:16:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lululemon founder Chip Wilson and wife Shannon &#039;Summer&#039; Wilson are divorcing",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/lululemon-founder-chip-wilson-and-wife-shannon-summer-wilson-are-divorcing",
+      "published_date": "2026-09-06T19:45:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disturbing ‘Cat in the Hat’ trend hits Fort St. James, authorities investigating",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/06/disturbing-cat-in-the-hat-trend-hits-fort-st-james-authorities-investigating/",
+      "published_date": "2026-09-06T19:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Person shot in Richmond Hill home; Man sought for 32 vehicle break-ins in Mississauga",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/person-shot-in-richmond-hill-home-cops",
+      "published_date": "2026-09-06T18:55:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP in Salmo shoot and seriously injure man",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/rcmp-in-salmo-shoot-and-seriously-injure-man",
+      "published_date": "2026-09-06T18:26:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spitfires may have gotten a few answers to some roster questions with road win over Greyhounds",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-may-have-gotten-a-few-answers-to-some-roster-questions-with-road-win-over-greyhounds",
+      "published_date": "2026-09-06T17:26:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guelph mayor laughs after finding dartboard with his face on it at Goodwill",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/guelph-mayor-laughs-after-finding-dartboard-with-his-face-on-it-at-goodwill",
+      "published_date": "2026-09-06T16:59:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Back to school means closer look at youth smartphone use",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/back-to-school-means-closer-look-at-youth-smartphone-use",
+      "published_date": "2026-09-06T14:50:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada ranks among top OnlyFans spenders of 2026",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-ranks-among-top-onlyfans-spenders-of-2026",
+      "published_date": "2026-09-06T14:33:44Z",
+      "category": "Local Events"
+    },
+    {
       "title": "St. Joseph's school addition opens five months early, but classroom capacity 'pressures' continue",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/st-josephs-school-addition-opens-five-months-early-but-classroom-capacity-pressures-continue",
@@ -456,76 +505,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/barrie-man-charged-child-exploitation-probe-elderly-woman-dies-collision-scarborough",
       "published_date": "2026-09-05T20:25:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two teens charged, two sought for violent Brampton home invasion",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/two-teens-charged-sought-violent-brampton-home-invasion",
-      "published_date": "2026-09-05T19:09:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Donato’s time with the Toronto Sun draws to a close",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/andy-donatos-time-with-toronto-sun-draws-to-close",
-      "published_date": "2026-09-05T18:38:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. police watchdog investigating RCMP-involved shooting near Salmo",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/05/b-c-police-watchdog-investigating-rcmp-involved-shooting-near-salmo/",
-      "published_date": "2026-09-05T17:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman injured in bear attack near Whistler",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/woman-injured-bear-attack-whistler",
-      "published_date": "2026-09-05T17:41:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 24, accused of setting vehicles ablaze at Scarborough MP's home",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-24-accused-of-setting-vehicles-ablaze-at-scarborough-mps-home",
-      "published_date": "2026-09-05T16:06:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Signals and signs are positive' for expansion PWHL Hamilton",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/hockey/pwhl/signals-signs-positive-for-expansion-pwhl-hamilton",
-      "published_date": "2026-09-05T16:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Donald Trump's superpowers fading",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/united-states-president-donald-trump-superpowers-fading",
-      "published_date": "2026-09-05T15:01:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Week in History, 1945: The Flashlight Burglar targets Yvonne De Carlo&#039;s jewels",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/history-1945-flashlight-burglar-targets-yvonne-de-carlos-jewels",
-      "published_date": "2026-09-05T15:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Minter: New varieties add colour, foliage and heat tolerance as you plan for next year&#039;s garden",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/brian-minter-new-varieties-add-colour-foliage-and-heat-tolerance-as-you-plan-for-next-years-garden",
-      "published_date": "2026-09-05T15:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. cities have Canada&#039;s highest child-care fees: Report",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-cities-highest-child-care-fees-report",
-      "published_date": "2026-09-05T15:00:07Z",
       "category": "Local Events"
     }
   ]
