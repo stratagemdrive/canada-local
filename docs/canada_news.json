@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T00:46:48Z",
+  "generated_at": "2026-09-07T16:07:59Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -37,6 +37,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/08/31/north-vancouver-voters-head-to-the-polls-for-1-of-3-federal-byelections/",
       "published_date": "2026-08-31T21:48:07Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Why Trump’s renaming of New Mexico faces a hard constitutional wall",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trumps-renaming-new-mexico-hard-constitutional-wall",
+      "published_date": "2026-09-07T15:20:50Z",
+      "category": "Military"
     },
     {
       "title": "Anthony Gismondi: A few fabulous B.C. reds can help you do your part in trade war",
@@ -228,6 +235,27 @@
       "category": "Energy"
     },
     {
+      "title": "OPINION: Celebrating B.C.’s workers on Labour Day",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/07/opinion-celebrating-b-c-s-workers-on-labour-day/",
+      "published_date": "2026-09-07T15:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "B.C. clothing, beauty brands are still struggling through the tariff uncertainty",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/bc-clothing-beauty-brands-are-still-struggling-through-the-tariff-uncertainty",
+      "published_date": "2026-09-07T13:00:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "QUIZ: A celebration of labour",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/07/quiz-a-celebration-of-labour/",
+      "published_date": "2026-09-07T11:30:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "CHARLEBOIS: Counter-tariffs are coming — and so is more shrinkflation",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/counter-tariffs-are-coming-and-so-is-more-shrinkflation",
@@ -347,25 +375,67 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. MLA says RCMP to interview him over Conservative leader allegations",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/01/b-c-mla-says-rcmp-to-interview-him-over-conservative-leader-allegations/",
-      "published_date": "2026-09-02T03:12:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Restricting steelhead catch would cost Northwest jobs: Report",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/01/restricting-steelhead-catch-would-cost-northwest-jobs-report/",
-      "published_date": "2026-09-01T20:20:20Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Disbarred Brampton lawyer charged in $4.3M mortgage fraud",
+      "title": "Donald Trump’s Space Force uniform inspired by fascistic sci-fi film: 'SPACE NAZI'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/disbarred-brampton-lawyer-charged-4-3m-mortgage-fraud",
-      "published_date": "2026-08-31T17:22:46Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/donald-trumps-space-force-uniform-inspired-sci-fi-film",
+      "published_date": "2026-09-07T15:45:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Purr-fect ending' as cat reunited with Montreal owner after 16 days lost at Pearson",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/cat-reunited-montreal-owner-16-days-lost-pearson",
+      "published_date": "2026-09-07T15:40:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of University of Toronto workers in strike position on Tuesday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/thousands-university-of-toronto-workers-strike-position-tuesday",
+      "published_date": "2026-09-07T15:30:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Snoop Dogg hiring ice cream taster for $10K US a month",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/snoop-dogg-hiring-ice-cream-taster-10k-a-month",
+      "published_date": "2026-09-07T14:26:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump slashes at Prime Minister Mark Carney with hockey cartoon",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/trump-slashes-mark-carney-hockey-cartoon",
+      "published_date": "2026-09-07T14:21:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pippa Middleton could be in line for her own royal role",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/pippa-middleton-could-be-in-line-royal-role",
+      "published_date": "2026-09-07T13:24:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Railtown: Rethinking Vancouver&#039;s industrial-creative enclave, without creating &#039;another Yaletown&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/railtown-vancouvers-industrial-creative-enclave-yaletown",
+      "published_date": "2026-09-07T13:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigate suspicious injuries that left two Essex County horses dead",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/police-investigate-suspicious-injuries-that-left-two-essex-county-horses-dead",
+      "published_date": "2026-09-07T11:15:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caught on the wrong side? What to know about Gordie Howe bridge path closures",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/caught-on-the-wrong-side-what-to-know-about-gordie-howe-bridge-path-closures",
+      "published_date": "2026-09-07T11:00:57Z",
+      "category": "Local Events"
     },
     {
       "title": "Canada's currency imbalance with U.S. 'unacceptable,' Donald Trump says",
@@ -417,6 +487,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Education trustee Brian Evoy seeks reelection in Kingston and the Islands",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/09/06/education-trustee-brian-evoy-seeks-reelection-in-kingston-and-the-islands/",
+      "published_date": "2026-09-06T17:20:13Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Guelph mayor laughs after finding dartboard with his face on it at Goodwill",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/guelph-mayor-laughs-after-finding-dartboard-with-his-face-on-it-at-goodwill",
@@ -435,76 +512,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/canada-ranks-among-top-onlyfans-spenders-of-2026",
       "published_date": "2026-09-06T14:33:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "St. Joseph's school addition opens five months early, but classroom capacity 'pressures' continue",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/st-josephs-school-addition-opens-five-months-early-but-classroom-capacity-pressures-continue",
-      "published_date": "2026-09-06T12:46:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man wanted on drug charges arrested with fentanyl, cocaine: Windsor police",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/man-wanted-on-drug-charges-arrested-with-fentanyl-cocaine-windsor-police",
-      "published_date": "2026-09-06T12:39:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Candidates for Abbotsford-Mission byelection locked in",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/candidates-for-abbotsford-mission-byelection-locked-in",
-      "published_date": "2026-09-06T02:04:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. airline passenger duct-taped to seat after wild outburst",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/us-airline-passenger-duct-taped-seat-wild-outburst",
-      "published_date": "2026-09-06T00:11:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metro Vancouver ousts top executive weeks before election",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-ousts-top-executive-weeks-before-election",
-      "published_date": "2026-09-05T22:56:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It&#039;s time to say farewell to the giant soccer ball at Science World",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/science-world-soccer-ball-coming-down",
-      "published_date": "2026-09-05T21:45:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Yes, we have a crime problem",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/yes-we-have-a-crime-problem",
-      "published_date": "2026-09-05T21:06:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;She is a survivor&#039;: Squamish mountain runner missing on the Matterhorn",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/squamish-mountain-runner-missing-matterhorn",
-      "published_date": "2026-09-05T21:03:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "She&#039;s battled B.C.&#039;s wait-list crisis, chemo, now this Surrey woman is raising money for cancer",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-wait-list-crisis-chemo-surrey-woman-raising-money-cancer",
-      "published_date": "2026-09-05T20:46:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barrie man charged in child exploitation probe; booze stolen from Toronto Islands eatery",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/barrie-man-charged-child-exploitation-probe-elderly-woman-dies-collision-scarborough",
-      "published_date": "2026-09-05T20:25:32Z",
       "category": "Local Events"
     }
   ]
