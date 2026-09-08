@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T00:59:59Z",
+  "generated_at": "2026-09-08T14:47:50Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 66,
   "categories": [
     "Diplomacy",
     "Military",
@@ -137,20 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "U.S. war secretary mocked for dragging youth military cadets into MAGA war",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/hegseth-mocked-dragging-youth-cadets-maga-war",
-      "published_date": "2026-09-01T14:09:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Jet ski crash renews calls to remove Lake St. Clair rock hazard",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/jet-ski-crash-renews-calls-to-remove-lake-st-clair-rock-hazard",
-      "published_date": "2026-09-01T10:48:41Z",
-      "category": "Military"
-    },
-    {
       "title": "The Bookless Club: What are you doing about the quality of air you breathe?",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-you-doing-about-the-quality-of-air-you-breathe",
@@ -205,6 +191,27 @@
       "url": "https://torontosun.com/news/national/solar-panels-rooftop-homes-canada-makes-only-limited-economic-sense-fed-memo",
       "published_date": "2026-09-02T21:13:49Z",
       "category": "Energy"
+    },
+    {
+      "title": "Sapporo shifting some of its Canadian production to the U.S. in response to American tariffs",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/sapporo-shifting-some-canadian-production-to-u-s",
+      "published_date": "2026-09-08T14:15:34Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Local jobs, worker solidarity on display at Windsor Labour Day parade",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/local-jobs-worker-solidarity-on-display-at-windsor-labour-day-parade",
+      "published_date": "2026-09-08T11:15:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Affordable housing top priority for Windsor mayoral hopeful Pasquach",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/affordable-housing-top-priority-for-windsor-mayoral-hopeful-pasquach",
+      "published_date": "2026-09-08T10:54:57Z",
+      "category": "Economy"
     },
     {
       "title": "LILLEY: Ignore Donald Trump’s trolling, what he does next should concern us",
@@ -326,25 +333,60 @@
       "category": "Economy"
     },
     {
-      "title": "Bank of Canada stands pat at 2.25%, but no immediate relief for debt-swamped Canadians",
+      "title": "Iceland summons U.S. envoy after Trump map claims island for America",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/bank-of-canada-stands-pat-at-2-25-but-no-immediate-relief-for-debt-swamped-canadians",
-      "published_date": "2026-09-02T21:35:01Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/iceland-summons-u-s-envoy-trump-map-island-america",
+      "published_date": "2026-09-08T14:00:06Z",
+      "category": "Local Events"
     },
     {
-      "title": "RCMP interview former B.C. Conservative over his claim of job offer to quit as MLA",
+      "title": "‘Surprised’ Prince Harry, Meghan hit back at King Charles’ letter about their royal status",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/surprised-prince-harry-meghan-hit-back-king-charles-letter",
+      "published_date": "2026-09-08T13:47:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The transformation of Marine Landing: From industrial hub to Vancouver’s southern gateway",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/rcmp-meeting-with-former-conservative-who-says-he-was-offered-job-to-quit-as-mla",
-      "published_date": "2026-09-02T18:54:41Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/vancouver-marine-landing-transformation",
+      "published_date": "2026-09-08T13:00:59Z",
+      "category": "Local Events"
     },
     {
-      "title": "LILLEY: Trade wars aren't won by matching punch for punch, Carney’s rhetoric has a price",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/trade-wars-arent-won-by-matching-punch-for-punch",
-      "published_date": "2026-09-02T14:00:29Z",
-      "category": "Economy"
+      "title": "Telus manager alleged to have charged $1.1M worth of goods to company credit cards: B.C. lawsuit",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/telus-manager-allegedly-charged-1-million-goods-company-credit-cards-bc-lawsuit",
+      "published_date": "2026-09-08T13:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna man facing deportation after arrest for meth smuggling",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/kelowna-man-facing-deportation-ukraine-arrest-meth-smuggling",
+      "published_date": "2026-09-08T13:00:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why patients trust fake doctor reviews online over real ones, and how that&#039;s a health risk",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/health/why-patients-trust-fake-doctor-reviews-online-over-real-ones",
+      "published_date": "2026-09-08T13:00:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "After year-long delay, Essex County OPP board settles funding dispute",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/opp-south-board-meeting",
+      "published_date": "2026-09-08T10:41:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged fraud case against VPD officer Kal Dosanjh lists 24 investors plus five &#039;investigated parties&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/alleged-fraud-case-vancouver-police-officer-kal-dosanjh-lists-24-investors-plus-five-investigated-parties",
+      "published_date": "2026-09-08T02:58:54Z",
+      "category": "Local Events"
     },
     {
       "title": "Hurricane warning issued for Hawaii as Lowell bears down",
@@ -428,62 +470,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/donald-trumps-space-force-uniform-inspired-sci-fi-film",
       "published_date": "2026-09-07T15:45:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Purr-fect ending' as cat reunited with Montreal owner after 16 days lost at Pearson",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/cat-reunited-montreal-owner-16-days-lost-pearson",
-      "published_date": "2026-09-07T15:40:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of University of Toronto workers in strike position on Tuesday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/thousands-university-of-toronto-workers-strike-position-tuesday",
-      "published_date": "2026-09-07T15:30:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Snoop Dogg hiring ice cream taster for $10K US a month",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/snoop-dogg-hiring-ice-cream-taster-10k-a-month",
-      "published_date": "2026-09-07T14:26:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump slashes at Prime Minister Mark Carney with hockey cartoon",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/trump-slashes-mark-carney-hockey-cartoon",
-      "published_date": "2026-09-07T14:21:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pippa Middleton could be in line for her own royal role",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/pippa-middleton-could-be-in-line-royal-role",
-      "published_date": "2026-09-07T13:24:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Railtown: Rethinking Vancouver&#039;s industrial-creative enclave, without creating &#039;another Yaletown&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/railtown-vancouvers-industrial-creative-enclave-yaletown",
-      "published_date": "2026-09-07T13:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police investigate suspicious injuries that left two Essex County horses dead",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/police-investigate-suspicious-injuries-that-left-two-essex-county-horses-dead",
-      "published_date": "2026-09-07T11:15:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caught on the wrong side? What to know about Gordie Howe bridge path closures",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/caught-on-the-wrong-side-what-to-know-about-gordie-howe-bridge-path-closures",
-      "published_date": "2026-09-07T11:00:57Z",
       "category": "Local Events"
     }
   ]
