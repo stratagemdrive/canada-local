@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T01:05:58Z",
+  "generated_at": "2026-09-09T14:50:23Z",
   "country": "Canada",
-  "total_stories": 66,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "While trade tensions rise, Canada and U.S. remain united on the ice",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/while-trade-tensions-rise-canada-and-u-s-remain-united-on-the-ice",
+      "published_date": "2026-09-09T13:38:15Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canadian women’s national hockey team to battle rival Americans at WFCU Centre",
       "source": "Windsor Star",
@@ -37,6 +44,13 @@
       "url": "https://torontosun.com/news/world/lutnick-accuses-carney-of-sabotaging-trade-talks-singles-out-ontario-in-51st-state-comments",
       "published_date": "2026-09-02T21:22:39Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Windsor memorial service honours Canadians who served, died in Afghanistan",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-memorial-service-honours-canadians-who-served-died-in-afghanistan",
+      "published_date": "2026-09-09T11:02:53Z",
+      "category": "Military"
     },
     {
       "title": "B.C. border signs to declare Canada &#039;never the 51st state&#039; in province&#039;s response to trade war",
@@ -130,13 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "WIFF doubles down on Canadian films amid U.S. trade war",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/wiff-doubles-down-on-canadian-films-amid-u-s-trade-war",
-      "published_date": "2026-09-02T14:05:29Z",
-      "category": "Military"
-    },
-    {
       "title": "The Bookless Club: What are you doing about the quality of air you breathe?",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-you-doing-about-the-quality-of-air-you-breathe",
@@ -191,6 +198,13 @@
       "url": "https://torontosun.com/news/national/solar-panels-rooftop-homes-canada-makes-only-limited-economic-sense-fed-memo",
       "published_date": "2026-09-02T21:13:49Z",
       "category": "Energy"
+    },
+    {
+      "title": "LILLEY: Trump escalates trade war, targets Canadian whisky and more",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/trump-escalates-trade-war-targets-canadian-whisky-and-more",
+      "published_date": "2026-09-09T01:43:51Z",
+      "category": "Economy"
     },
     {
       "title": "LILLEY: Carney invokes history while eyeing China and EU to replace US",
@@ -326,11 +340,53 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: Mark Carney embraces protectionism amid fight with Donald Trump",
+      "title": "AI researcher quits, says AI could 'kill us all'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carney-embraces-protectionism-amid-trump-tariffs",
-      "published_date": "2026-09-03T23:31:19Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/technology/ai-researcher-quits-says-ai-could-kill-us-all",
+      "published_date": "2026-09-09T14:43:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "John Mulaney sends message to fans after Mississauga comedy festival was abruptly cancelled",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/john-mulaney-message-fans-mississauga-comedy-festival-cancelled",
+      "published_date": "2026-09-09T13:22:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dovetail&#039;s younger sibling just landed in Yaletown — but it wants its own identity",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/bevel-restaurant-yaletown-vancouver",
+      "published_date": "2026-09-09T13:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elizabeth Hurley stars in Canadian clothing company&#039;s new campaign",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/elizabeth-hurley-stars-in-canadian-clothing-companys-new-campaign",
+      "published_date": "2026-09-09T13:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Big challenges ahead for Metro Vancouver after exit of region&#039;s top executive",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/big-challenges-ahead-for-metro-vancouver-after-exit-of-regions-top-executive",
+      "published_date": "2026-09-09T13:00:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police seeking suspect after $21k bank fraud",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seeking-suspect-after-21k-bank-fraud",
+      "published_date": "2026-09-09T11:21:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of drones light up Windsor sky with Canadian pride",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/hundreds-of-drones-light-up-windsor-sky-with-canadian-pride",
+      "published_date": "2026-09-09T11:16:04Z",
+      "category": "Local Events"
     },
     {
       "title": "4 nabbed in violent Richmond Hill home invasion; person stabbed in Scarborough",
@@ -421,55 +477,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/trump-vows-banning-canada-from-us-contracts",
       "published_date": "2026-09-08T22:25:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brace for more stormy weather Wednesday in GTA",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brace-for-stormy-weather-gta",
-      "published_date": "2026-09-08T22:08:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "30 more lawsuits filed against OpenAI, Altman in Tumbler Ridge mass shooting",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/30-more-lawsuits-filed-against-openai-altman-in-tumbler-ridge-mass-shooting/",
-      "published_date": "2026-09-08T22:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Report points to elevated CO exposure at Alberta hockey rink",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/report-points-to-elevated-co-exposure-alberta-arena",
-      "published_date": "2026-09-08T21:53:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fans can win/bid on big prizes tied to Canucks charity golf tourney, Sept. 14 in Surrey",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/fans-can-win-bid-on-big-prizes-tied-to-canucks-charity-golf-tourney-sept-14-in-surrey/",
-      "published_date": "2026-09-08T21:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Indigenous high school opens in Kitwanga (Gitwangak)",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/new-indigenous-high-school-opens-in-kitwanga-gitwangak/",
-      "published_date": "2026-09-08T21:22:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iskut Band honoured for land code achievement",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/iskut-band-honoured-for-land-code-achievement/",
-      "published_date": "2026-09-08T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It's official: Windsor's second Costco opening in November",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/its-official-windsors-second-costco-opening-in-november",
-      "published_date": "2026-09-08T20:30:59Z",
       "category": "Local Events"
     }
   ]
