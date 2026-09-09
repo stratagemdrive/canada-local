@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:47:50Z",
+  "generated_at": "2026-09-09T01:05:58Z",
   "country": "Canada",
   "total_stories": 66,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Canadian women’s national hockey team to battle rival Americans at WFCU Centre",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/canadian-womens-national-hockey-team-to-battle-rival-americans-at-wfcu-centre",
+      "published_date": "2026-09-08T17:45:36Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Border services seize tobacco worth $300K at Ambassador Bridge",
       "source": "Windsor Star",
@@ -30,6 +37,20 @@
       "url": "https://torontosun.com/news/world/lutnick-accuses-carney-of-sabotaging-trade-talks-singles-out-ontario-in-51st-state-comments",
       "published_date": "2026-09-02T21:22:39Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "B.C. border signs to declare Canada &#039;never the 51st state&#039; in province&#039;s response to trade war",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-border-signs-to-declare-canada-never-the-51st-state-in-provinces-response-to-canada-u-s-trade-war",
+      "published_date": "2026-09-08T23:39:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Eby planting new signs at B.C. border to welcome Americans during trade war",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/eby-planting-new-signs-at-b-c-border-to-welcome-americans-during-trade-war/",
+      "published_date": "2026-09-08T22:48:55Z",
+      "category": "Military"
     },
     {
       "title": "Why Trump’s renaming of New Mexico faces a hard constitutional wall",
@@ -116,27 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "Victoria hosts top military leaders from across the Pacific",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/01/victoria-hosts-top-military-leaders-across-the-pacific/",
-      "published_date": "2026-09-01T23:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russians blamed for attempted drone attack at German airport",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/russians-blamed-leipzig-airport-drone-attack",
-      "published_date": "2026-09-01T22:12:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "‘Embarrassment’: U.S. war secretary trolls B.C. cadets",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/01/embarrassment-u-s-war-secretary-trolls-b-c-cadets/",
-      "published_date": "2026-09-01T19:47:00Z",
-      "category": "Military"
-    },
-    {
       "title": "The Bookless Club: What are you doing about the quality of air you breathe?",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-you-doing-about-the-quality-of-air-you-breathe",
@@ -191,6 +191,20 @@
       "url": "https://torontosun.com/news/national/solar-panels-rooftop-homes-canada-makes-only-limited-economic-sense-fed-memo",
       "published_date": "2026-09-02T21:13:49Z",
       "category": "Energy"
+    },
+    {
+      "title": "LILLEY: Carney invokes history while eyeing China and EU to replace US",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-invokes-history-while-eyeing-china-and-eu-to-replace-us",
+      "published_date": "2026-09-08T23:06:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "WARMINGTON: Mark Carney says Canada can 'pivot' from U.S., but at what cost?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/pivoting-from-american-trade-comes-at-cost",
+      "published_date": "2026-09-08T21:09:07Z",
+      "category": "Economy"
     },
     {
       "title": "Sapporo shifting some of its Canadian production to the U.S. in response to American tariffs",
@@ -319,157 +333,143 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. film insiders weigh in on Donald Trump&#039;s proposed federal production tax incentive",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-film-insiders-trumps-proposed-federal-production-tax-incentive",
-      "published_date": "2026-09-03T13:00:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Province refuses to confirm if Highway 3 widening is on time or budget",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/province-refuses-to-confirm-if-highway-3-widening-is-on-time-or-budget",
-      "published_date": "2026-09-03T12:17:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Iceland summons U.S. envoy after Trump map claims island for America",
+      "title": "4 nabbed in violent Richmond Hill home invasion; person stabbed in Scarborough",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/iceland-summons-u-s-envoy-trump-map-island-america",
-      "published_date": "2026-09-08T14:00:06Z",
+      "url": "https://torontosun.com/news/local-news/four-charged-violent-richmond-hill-home-invasion",
+      "published_date": "2026-09-09T00:27:13Z",
       "category": "Local Events"
     },
     {
-      "title": "‘Surprised’ Prince Harry, Meghan hit back at King Charles’ letter about their royal status",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/surprised-prince-harry-meghan-hit-back-king-charles-letter",
-      "published_date": "2026-09-08T13:47:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The transformation of Marine Landing: From industrial hub to Vancouver’s southern gateway",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-marine-landing-transformation",
-      "published_date": "2026-09-08T13:00:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Telus manager alleged to have charged $1.1M worth of goods to company credit cards: B.C. lawsuit",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/telus-manager-allegedly-charged-1-million-goods-company-credit-cards-bc-lawsuit",
-      "published_date": "2026-09-08T13:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna man facing deportation after arrest for meth smuggling",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/kelowna-man-facing-deportation-ukraine-arrest-meth-smuggling",
-      "published_date": "2026-09-08T13:00:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why patients trust fake doctor reviews online over real ones, and how that&#039;s a health risk",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/health/why-patients-trust-fake-doctor-reviews-online-over-real-ones",
-      "published_date": "2026-09-08T13:00:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After year-long delay, Essex County OPP board settles funding dispute",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-south-board-meeting",
-      "published_date": "2026-09-08T10:41:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged fraud case against VPD officer Kal Dosanjh lists 24 investors plus five &#039;investigated parties&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/alleged-fraud-case-vancouver-police-officer-kal-dosanjh-lists-24-investors-plus-five-investigated-parties",
-      "published_date": "2026-09-08T02:58:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hurricane warning issued for Hawaii as Lowell bears down",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/hurricane-warning-issued-for-hawaii-as-lowell-bears-down",
-      "published_date": "2026-09-08T00:40:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lakes District Fall Fair celebrates 80th year this weekend",
+      "title": "Residents at powerless B.C. trailer park form protest against owner",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/07/lakes-district-fall-fair-celebrates-80th-year-this-weekend/",
-      "published_date": "2026-09-08T00:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/residents-at-powerless-b-c-trailer-park-form-protest-against-owner/",
+      "published_date": "2026-09-09T00:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Suspect on lam after multiple attempted carjackings; woman accused of shelter stabbing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-wanted-brampton-stabbing-attempted-carjackings",
-      "published_date": "2026-09-07T22:51:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-F1 boss Ecclestone stopped by police for taking shotgun to Portugal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/ex-f1-boss-ecclestone-stopped-by-police-shotgun-portugal",
-      "published_date": "2026-09-07T22:05:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027 could be warmest globally thanks to El Niño",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/2027-could-be-warmest-globally-el-nino",
-      "published_date": "2026-09-07T21:32:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigators called to scene of police-involved crash in Surrey",
+      "title": "Killers captured on video arriving at Whistler hotel minutes before shooting, court hears",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/investigators-called-to-scene-of-police-involved-crash-in-surrey",
-      "published_date": "2026-09-07T21:13:35Z",
+      "url": "https://vancouversun.com/news/crime/killers-captured-on-video-arriving-at-whistler-hotel-minutes-before-shooting-court-hears",
+      "published_date": "2026-09-09T00:05:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Grand Forks muralist nears 150 murals painted after Dolly Parton tribute",
+      "title": "East York resident wants city to get to root of his tree-removal problem",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/east-york-resident-wants-tree-problem-fixed",
+      "published_date": "2026-09-08T23:52:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woolly dog pelt returns to Coast Salish territory for the first time",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/woolly-dog-pelt-returns-to-coast-salish-territory-ubc-for-first-time",
+      "published_date": "2026-09-08T23:51:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: &#039;It&#039;s a fun question&#039;, says David Eby about possible early B.C. election",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-david-eby-possible-early-bc-election",
+      "published_date": "2026-09-08T23:30:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: After years together, handler loses custody of Toronto's first therapy dog",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/handler-loses-custody-toronto-therapy-dog",
+      "published_date": "2026-09-08T23:24:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince George starts first day at tony Eton College",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/prince-george-starts-first-day-at-tony-eton-college",
+      "published_date": "2026-09-08T23:15:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woolly dog pelt on loan to B.C. museum from the Smithsonian",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/07/grand-forks-muralist-nears-150-murals-painted-after-dolly-parton-tribute/",
-      "published_date": "2026-09-07T21:09:34Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/woolly-dog-pelt-on-loan-to-b-c-museum-from-the-smithsonian/",
+      "published_date": "2026-09-08T23:07:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Cops probe another home-invasion shooting in York Region; Kitchener man facing 10 charges after pellet gun incident",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/cops-probe-another-home-invasion-shooting-york-region",
-      "published_date": "2026-09-07T20:52:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver park board commissioner pulls out of race for re-election",
+      "title": "West Kelowna RCMP not laughing over Cat in the Hat prank",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-park-board-commissioner-pulls-out-of-race-for-re-election",
-      "published_date": "2026-09-07T20:48:27Z",
+      "url": "https://vancouversun.com/news/west-kelowna-rcmp-not-laughing-over-cat-in-the-hat-prank",
+      "published_date": "2026-09-08T23:04:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Massive T&T supermarket to take over Hudson's Bay space",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/massive-tt-supermarket-to-take-over-hudsons-bay-space",
-      "published_date": "2026-09-07T20:22:20Z",
+      "title": "Opinion: On Sept. 11, the memorial ceremony at Peace Arch reminds us that some things rise above borders",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-on-sept-11-the-memorial-ceremony-at-peace-arch-reminds-us-that-some-things-rise-above-borders",
+      "published_date": "2026-09-08T23:00:02Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: Donald Trump says U.S. will ground sale of Canadian Bombardier products",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/donald-trump-says-us-will-ground-sale-of-bombardier-products",
-      "published_date": "2026-09-07T19:55:14Z",
+      "title": "Young girl chased in West Kelowna by someone in a Dr. Seuss costume",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/young-girl-chased-in-west-kelowna-by-someone-in-a-dr-seuss-costume/",
+      "published_date": "2026-09-08T22:39:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Donald Trump’s Space Force uniform inspired by fascistic sci-fi film: 'SPACE NAZI'",
+      "title": "Donald Trump vows to ban Canadian companies from U.S. government contracts",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/donald-trumps-space-force-uniform-inspired-sci-fi-film",
-      "published_date": "2026-09-07T15:45:32Z",
+      "url": "https://torontosun.com/news/national/trump-vows-banning-canada-from-us-contracts",
+      "published_date": "2026-09-08T22:25:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brace for more stormy weather Wednesday in GTA",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/brace-for-stormy-weather-gta",
+      "published_date": "2026-09-08T22:08:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "30 more lawsuits filed against OpenAI, Altman in Tumbler Ridge mass shooting",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/30-more-lawsuits-filed-against-openai-altman-in-tumbler-ridge-mass-shooting/",
+      "published_date": "2026-09-08T22:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Report points to elevated CO exposure at Alberta hockey rink",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/report-points-to-elevated-co-exposure-alberta-arena",
+      "published_date": "2026-09-08T21:53:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fans can win/bid on big prizes tied to Canucks charity golf tourney, Sept. 14 in Surrey",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/fans-can-win-bid-on-big-prizes-tied-to-canucks-charity-golf-tourney-sept-14-in-surrey/",
+      "published_date": "2026-09-08T21:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Indigenous high school opens in Kitwanga (Gitwangak)",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/new-indigenous-high-school-opens-in-kitwanga-gitwangak/",
+      "published_date": "2026-09-08T21:22:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iskut Band honoured for land code achievement",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/iskut-band-honoured-for-land-code-achievement/",
+      "published_date": "2026-09-08T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "It's official: Windsor's second Costco opening in November",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/its-official-windsors-second-costco-opening-in-november",
+      "published_date": "2026-09-08T20:30:59Z",
       "category": "Local Events"
     }
   ]
