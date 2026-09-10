@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T14:50:23Z",
+  "generated_at": "2026-09-10T00:54:34Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -11,10 +11,31 @@
   ],
   "stories": [
     {
+      "title": "LILLEY: Diversify, yes. Pretend Europe can replace America? No.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/diversify-yes-pretend-europe-can-replace-america-no",
+      "published_date": "2026-09-09T21:54:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dawson shooting families demand Carney deliver on long-promised gun bans",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/dawson-shooting-families-carney-gun-bans",
+      "published_date": "2026-09-09T15:29:35Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "While trade tensions rise, Canada and U.S. remain united on the ice",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/sports/while-trade-tensions-rise-canada-and-u-s-remain-united-on-the-ice",
       "published_date": "2026-09-09T13:38:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada, EU plan stronger ties as trade war intensifies",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-eu-plan-stronger-ties-as-trade-war-intensifies",
+      "published_date": "2026-09-08T20:54:46Z",
       "category": "Diplomacy"
     },
     {
@@ -25,6 +46,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "U of T and USW reach a tentative deal, just before classes began on Tuesday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/u-of-t-usw-reach-tentative-deal",
+      "published_date": "2026-09-08T15:26:15Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Border services seize tobacco worth $300K at Ambassador Bridge",
       "source": "Windsor Star",
       "url": "https://windsorstar.com/news/local-news/cbsa-seizes-tobacco-worth-300k-at-ambassador-bridge",
@@ -32,18 +60,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How China is paying big bucks to target Ottawa power brokers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/how-china-is-paying-big-bucks-to-target-ottawa-power-brokers",
-      "published_date": "2026-09-03T00:12:45Z",
-      "category": "Diplomacy"
+      "title": "Vaughn Palmer: B.C. premier ducks key questions on tariff war",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-premier-david-eby-ducks-key-questions-us-tariff-war",
+      "published_date": "2026-09-09T23:04:30Z",
+      "category": "Military"
     },
     {
-      "title": "Lutnick accuses Carney of sabotaging trade talks, singles out Ontario in '51st state' comments",
+      "title": "Tories blast Ottawa over quietly resuming military dialogue with China",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/lutnick-accuses-carney-of-sabotaging-trade-talks-singles-out-ontario-in-51st-state-comments",
-      "published_date": "2026-09-02T21:22:39Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/tories-blast-ottawa-resuming-military-dialogue-with-china",
+      "published_date": "2026-09-09T19:39:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Neo-Nazi from Toronto guilty of terrorism",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-neo-nazi-guilty-of-terrorism",
+      "published_date": "2026-09-09T19:08:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Racing Waters dives into the Pacific Northwest world of war canoe racing",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/racing-waters-dives-into-the-pacific-northwest-world-of-war-canoe-racing",
+      "published_date": "2026-09-09T18:00:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "DNA may be key to solving teen's murder 25 years ago at CFB Trenton",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/dna-key-solving-kathleen-macvicar-2001-murder-cfb-trenton",
+      "published_date": "2026-09-09T17:47:29Z",
+      "category": "Military"
+    },
+    {
+      "title": "HUNTER: Terrorist's mom who blamed Canada running for Halton school trustee",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/terrorists-mom-running-for-school-trustee",
+      "published_date": "2026-09-09T15:07:10Z",
+      "category": "Military"
     },
     {
       "title": "Windsor memorial service honours Canadians who served, died in Afghanistan",
@@ -179,25 +235,53 @@
       "category": "Energy"
     },
     {
-      "title": "Mystery of missing island near Mackenzie solved, BC Hydro says",
+      "title": "B.C. forestry groups say industry at ‘breaking point’",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/02/mystery-of-missing-island-near-mackenzie-solved-bc-hydro-says/",
-      "published_date": "2026-09-03T00:08:09Z",
-      "category": "Energy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/b-c-forestry-groups-say-industry-at-breaking-point/",
+      "published_date": "2026-09-09T21:48:06Z",
+      "category": "Economy"
     },
     {
-      "title": "Opinion: B.C. losing out on billions in revenue due to oil and gas royalty framework",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-losing-out-on-billions-in-revenue-due-to-oil-and-gas-royalty-framework",
-      "published_date": "2026-09-02T23:00:59Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar panels on rooftop homes in Canada make only 'limited' economic sense: Fed memo",
+      "title": "Man duct-taped to seat during mid-flight disturbance fired from his job",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/solar-panels-rooftop-homes-canada-makes-only-limited-economic-sense-fed-memo",
-      "published_date": "2026-09-02T21:13:49Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/news/world/man-duct-taped-to-seat-during-mid-flight-disturbance-fired-from-job",
+      "published_date": "2026-09-09T19:44:26Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump tariff retaliation will squeeze Canadian biz: Industry group",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/trump-tariff-retaliation-will-squeeze-canadian-biz-industry-group",
+      "published_date": "2026-09-09T18:30:33Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Taxi impounded for going 133 km/h in an 80 zone on B.C.’s Sea to Sky Highway",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/taxi-impounded-for-going-133-km-h-in-an-80-zone-on-b-c-s-sea-to-sky-highway/",
+      "published_date": "2026-09-09T18:20:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "More than 200 traffic charges laid in Essex County during Labour Day weekend: OPP",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/more-than-200-traffic-charges-laid-in-essex-county-during-labour-day-weekend-opp",
+      "published_date": "2026-09-09T18:04:58Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ontario Chamber of Commerce calls for tariff de-escalation",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/ontario-chamber-of-commerce-tariff-de-escalation",
+      "published_date": "2026-09-09T16:40:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "WARMINGTON: As Canadians struggle to put food on table, Carney and cabinet dine in Banff",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/canadians-struggle-food-table-carney-cabinet-dine-banff",
+      "published_date": "2026-09-09T16:31:33Z",
+      "category": "Economy"
     },
     {
       "title": "LILLEY: Trump escalates trade war, targets Canadian whisky and more",
@@ -218,6 +302,13 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/pivoting-from-american-trade-comes-at-cost",
       "published_date": "2026-09-08T21:09:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "COUNTER-TARIFFS: Wide range of U.S. goods hit with new import fee",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/counter-tariffs-us-goods-hit-import-fee",
+      "published_date": "2026-09-08T18:48:12Z",
       "category": "Economy"
     },
     {
@@ -284,199 +375,143 @@
       "category": "Economy"
     },
     {
-      "title": "Cerasa abandons legal challenge over Amherstburg mayoral nomination",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/cerasa-abandons-legal-challenge-over-amherstburg-mayoral-nomination",
-      "published_date": "2026-09-05T11:00:05Z",
-      "category": "Economy"
+      "title": "Seattle cops run into burning apartment to rescue sleeping residents",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/seattle-cops-run-into-burning-apartment-building",
+      "published_date": "2026-09-10T00:33:30Z",
+      "category": "Local Events"
     },
     {
-      "title": "B.C. dropped 5,500 jobs in August, says StatCan report",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-dropped-5500-jobs-in-statscan-august-employment-report",
-      "published_date": "2026-09-05T00:03:44Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Opinion: Workers are the real engine of B.C.’s economy — and our governments need to act like it",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-workers-are-the-real-engine-of-b-c-s-economy-and-our-governments-need-to-act-like-it",
-      "published_date": "2026-09-04T23:00:04Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C. sheds 5,500 jobs in August amid nationwide losses",
+      "title": "Two northern B.C. First Nations mark opening of majority Indigenous-owned B.C. port",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/04/b-c-sheds-5500-jobs-in-august-amid-nationwide-losses/",
-      "published_date": "2026-09-04T18:49:52Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/two-northern-b-c-first-nations-mark-opening-of-majority-indigenous-owned-b-c-port/",
+      "published_date": "2026-09-10T00:26:45Z",
+      "category": "Local Events"
     },
     {
-      "title": "Canadian wage growth plunges to 9-year low while 42,000 jobs vanish: StatsCan",
+      "title": "AC/DC concert cancelled after 'severe' storm damage to Rogers Stadium",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-wage-growth-plunges-9-year-low",
-      "published_date": "2026-09-04T14:29:20Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/entertainment/music/toronto-acdc-concert-cancelled-stadium-damaged",
+      "published_date": "2026-09-10T00:25:44Z",
+      "category": "Local Events"
     },
     {
-      "title": "Finally in Windsor, Red Wings prospect Svrcek looks like a piece set to fit nicely in Spitfires' lineup puzzle",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/finally-in-windsor-red-wings-prospect-svrcek-looks-like-a-piece-set-to-fit-nicely-in-spitfires-lineup-puzzle",
-      "published_date": "2026-09-04T13:51:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Conversations That Matter: Construction stuck in neutral",
+      "title": "Officer testifies about pulling over suspects in Whistler murders",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/conversations-that-matter-construction-stuck-in-neutral",
-      "published_date": "2026-09-04T13:00:48Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/crime/officer-testifies-about-possible-blood-on-accused-killers-shoes",
+      "published_date": "2026-09-09T23:56:08Z",
+      "category": "Local Events"
     },
     {
-      "title": "Opinion: David Eby should spike the PST expansion to make B.C. more competitive during trade war",
+      "title": "U.S. executive order severs relationship-building with B.C. wine",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/opinion-spike-the-pst-expansion-david-eby-should-make-bc-more-competitive-amid-trade-war",
-      "published_date": "2026-09-04T13:00:11Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/local-news/us-executive-order-severs-relationship-building-with-bc-wine",
+      "published_date": "2026-09-09T23:43:18Z",
+      "category": "Local Events"
     },
     {
-      "title": "AI researcher quits, says AI could 'kill us all'",
+      "title": "Texas deputy screams as 'dead' deer gets up, walks away",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/technology/ai-researcher-quits-says-ai-could-kill-us-all",
-      "published_date": "2026-09-09T14:43:03Z",
+      "url": "https://torontosun.com/news/world/texas-deputy-screams-as-dead-deer-gets-up-walks-away",
+      "published_date": "2026-09-09T23:32:04Z",
       "category": "Local Events"
     },
     {
-      "title": "John Mulaney sends message to fans after Mississauga comedy festival was abruptly cancelled",
+      "title": "Rewiring the way we think about lighting",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/rewiring-the-way-we-think-about-lighting",
+      "published_date": "2026-09-09T23:25:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Shattered&#039;: Family mourns Burnaby senior killed by stray bullet",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/shattered-family-mourns-burnaby-senior-killed-in-apartment-by-stray-bullet",
+      "published_date": "2026-09-09T23:12:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Woman involved in disposing of Toronto filmmaker's body wants a break",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/john-mulaney-message-fans-mississauga-comedy-festival-cancelled",
-      "published_date": "2026-09-09T13:22:39Z",
+      "url": "https://torontosun.com/news/crime/woman-involved-with-body-disposal-wants-break",
+      "published_date": "2026-09-09T23:08:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Dovetail&#039;s younger sibling just landed in Yaletown — but it wants its own identity",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/bevel-restaurant-yaletown-vancouver",
-      "published_date": "2026-09-09T13:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elizabeth Hurley stars in Canadian clothing company&#039;s new campaign",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/elizabeth-hurley-stars-in-canadian-clothing-companys-new-campaign",
-      "published_date": "2026-09-09T13:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Big challenges ahead for Metro Vancouver after exit of region&#039;s top executive",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/big-challenges-ahead-for-metro-vancouver-after-exit-of-regions-top-executive",
-      "published_date": "2026-09-09T13:00:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seeking suspect after $21k bank fraud",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seeking-suspect-after-21k-bank-fraud",
-      "published_date": "2026-09-09T11:21:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of drones light up Windsor sky with Canadian pride",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/hundreds-of-drones-light-up-windsor-sky-with-canadian-pride",
-      "published_date": "2026-09-09T11:16:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 nabbed in violent Richmond Hill home invasion; person stabbed in Scarborough",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/four-charged-violent-richmond-hill-home-invasion",
-      "published_date": "2026-09-09T00:27:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents at powerless B.C. trailer park form protest against owner",
+      "title": "Family of 85-year-old killed by stray bullet in Burnaby makes plea for answers",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/residents-at-powerless-b-c-trailer-park-form-protest-against-owner/",
-      "published_date": "2026-09-09T00:15:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/family-of-85-year-old-killed-by-stray-bullet-in-burnaby-makes-plea-for-answers/",
+      "published_date": "2026-09-09T23:04:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Killers captured on video arriving at Whistler hotel minutes before shooting, court hears",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/killers-captured-on-video-arriving-at-whistler-hotel-minutes-before-shooting-court-hears",
-      "published_date": "2026-09-09T00:05:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "East York resident wants city to get to root of his tree-removal problem",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/east-york-resident-wants-tree-problem-fixed",
-      "published_date": "2026-09-08T23:52:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woolly dog pelt returns to Coast Salish territory for the first time",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/woolly-dog-pelt-returns-to-coast-salish-territory-ubc-for-first-time",
-      "published_date": "2026-09-08T23:51:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: &#039;It&#039;s a fun question&#039;, says David Eby about possible early B.C. election",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-david-eby-possible-early-bc-election",
-      "published_date": "2026-09-08T23:30:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: After years together, handler loses custody of Toronto's first therapy dog",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/handler-loses-custody-toronto-therapy-dog",
-      "published_date": "2026-09-08T23:24:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prince George starts first day at tony Eton College",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/prince-george-starts-first-day-at-tony-eton-college",
-      "published_date": "2026-09-08T23:15:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woolly dog pelt on loan to B.C. museum from the Smithsonian",
+      "title": "THE MOJ: B.C. Lions look for some revenge against Als Saturday at BC Place",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/woolly-dog-pelt-on-loan-to-b-c-museum-from-the-smithsonian/",
-      "published_date": "2026-09-08T23:07:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/the-moj-b-c-lions-look-for-some-revenge-against-als-saturday-at-bc-place/",
+      "published_date": "2026-09-09T22:44:39Z",
       "category": "Local Events"
     },
     {
-      "title": "West Kelowna RCMP not laughing over Cat in the Hat prank",
+      "title": "Find out where Michael Bublé goes to celebrate his birthday",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/west-kelowna-rcmp-not-laughing-over-cat-in-the-hat-prank",
-      "published_date": "2026-09-08T23:04:37Z",
+      "url": "https://vancouversun.com/entertainment/michael-buble-celebrates-his-birthday-in-true-vancouver-style",
+      "published_date": "2026-09-09T22:28:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: On Sept. 11, the memorial ceremony at Peace Arch reminds us that some things rise above borders",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-on-sept-11-the-memorial-ceremony-at-peace-arch-reminds-us-that-some-things-rise-above-borders",
-      "published_date": "2026-09-08T23:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young girl chased in West Kelowna by someone in a Dr. Seuss costume",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/young-girl-chased-in-west-kelowna-by-someone-in-a-dr-seuss-costume/",
-      "published_date": "2026-09-08T22:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump vows to ban Canadian companies from U.S. government contracts",
+      "title": "Burlington vape store owner charged with sex assault; 4 nabbed in Peel retail theft bust",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/trump-vows-banning-canada-from-us-contracts",
-      "published_date": "2026-09-08T22:25:19Z",
+      "url": "https://torontosun.com/news/crime/burlington-vape-store-owner-charged-with-sex-assault",
+      "published_date": "2026-09-09T22:14:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Discharge permit for proposed magnesium mine near Rossland draws local opposition",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/discharge-permit-for-proposed-magnesium-mine-near-rossland-draws-local-opposition/",
+      "published_date": "2026-09-09T22:09:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Topley duo part of province-wide firefighting effort",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/topley-duo-part-of-province-wide-firefighting-effort/",
+      "published_date": "2026-09-09T21:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: No one in home, break-and-enter evidence not found at police presence in Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/update-no-one-in-home-break-and-enter-evidence-not-found-at-police-presence-in-kelowna/",
+      "published_date": "2026-09-09T20:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scottish woman's rare condition leaves her with large breasts",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/scottish-woman-rare-condition-large-breasts",
+      "published_date": "2026-09-09T20:58:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto sets new annual record for lithium-ion battery fires in September",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-sets-record-lithium-ion-battery-fires",
+      "published_date": "2026-09-09T20:50:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Social media threats against Lakes District Secondary not credible: RCMP",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/social-media-threats-against-lakes-district-secondary-not-credible-rcmp/",
+      "published_date": "2026-09-09T20:42:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Want to hear the music of Wicked live on a Vancouver stage? Here&#039;s how to do it",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/want-to-hear-the-music-of-wicked-live-on-a-vancouver-stage-heres-how-to-do-it",
+      "published_date": "2026-09-09T20:18:17Z",
       "category": "Local Events"
     }
   ]
