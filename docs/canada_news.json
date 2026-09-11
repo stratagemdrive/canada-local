@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:51:59Z",
+  "generated_at": "2026-09-11T14:38:59Z",
   "country": "Canada",
   "total_stories": 70,
   "categories": [
@@ -67,10 +67,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "25 years later: Windsor-Detroit still feeling impacts of 9/11 terror attacks",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/25-years-later-windsor-detroit-still-feeling-impacts-of-9-11-terror-attacks",
+      "published_date": "2026-09-11T10:22:17Z",
+      "category": "Military"
+    },
+    {
       "title": "Massive overhaul to build 'war-fighting' Canadian Army",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/massive-overhaul-to-build-war-fighting-canadian-army",
       "published_date": "2026-09-11T00:47:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "9/11: Days of horror, heartache and heroism that launched War on Terror",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/9-11-notebook-a-thousand-strands-combined-for-horror-new-york-world-trade-center",
+      "published_date": "2026-09-10T20:18:52Z",
       "category": "Military"
     },
     {
@@ -193,20 +207,6 @@
       "category": "Military"
     },
     {
-      "title": "Columnist, Clooney latest to condemn tweet mocking Vernon Army Camp",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/04/columnist-clooney-latest-to-condemn-tweet-mocking-vernon-army-camp/",
-      "published_date": "2026-09-04T18:50:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Police seek northwestern B.C. man on sex assault charges",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/04/police-seek-northwestern-b-c-man-on-sex-assault-charges/",
-      "published_date": "2026-09-04T15:18:45Z",
-      "category": "Military"
-    },
-    {
       "title": "LILLEY: Michigan Governor’s reckless Line 5 crusade puts Ontario’s energy security at risk",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/whitmers-reckless-line-5-crusade-puts-ontarios-energy-security-at-risk",
@@ -219,6 +219,48 @@
       "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-you-doing-about-the-quality-of-air-you-breathe",
       "published_date": "2026-09-06T13:00:10Z",
       "category": "Energy"
+    },
+    {
+      "title": "James Stewart: You don't protect auto industry jobs by sacrificing them",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/columnists/james-stewart-you-dont-protect-auto-industry-jobs-by-sacrificing-them",
+      "published_date": "2026-09-11T13:14:30Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Vaughn Palmer: Uncertainty piles on uncertainty for property owners in Cowichan claims area",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-uncertainty-for-property-owners-cowichan-claims-area",
+      "published_date": "2026-09-11T13:00:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Investors listed as victims sued VPD officer for share of profits in real estate deals",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/investors-listed-as-victims-sued-vpd-officer-kal-dosanjh-for-share-of-profits-in-real-estate-deals",
+      "published_date": "2026-09-11T13:00:30Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: A tax on public safety. Why the B.C. government must reverse its Oct. 1 PST expansion",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-a-tax-on-public-safety-why-the-bc-government-must-reverse-its-oct-1-pst-expansion",
+      "published_date": "2026-09-11T13:00:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dilkens promises low property taxes, more financial oversight",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/dilkens-promises-low-property-taxes-more-financial-oversight",
+      "published_date": "2026-09-11T10:33:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Despite Trump trade war, auto investments continue in Ontario and Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/despite-trump-trade-war-auto-investments-continue-in-ontario-and-windsor",
+      "published_date": "2026-09-11T10:18:57Z",
+      "category": "Economy"
     },
     {
       "title": "Proposed WorkSafeBC changes would require employers to consider ‘psychosocial hazards’",
@@ -319,46 +361,95 @@
       "category": "Economy"
     },
     {
-      "title": "WARMINGTON: Mark Carney says Canada can 'pivot' from U.S., but at what cost?",
+      "title": "Generic pain reliever recalled due to ‘foreign material’",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/pivoting-from-american-trade-comes-at-cost",
-      "published_date": "2026-09-08T21:09:07Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/generic-pain-reliever-recalled-foreign-material",
+      "published_date": "2026-09-11T14:25:03Z",
+      "category": "Local Events"
     },
     {
-      "title": "COUNTER-TARIFFS: Wide range of U.S. goods hit with new import fee",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/counter-tariffs-us-goods-hit-import-fee",
-      "published_date": "2026-09-08T18:48:12Z",
-      "category": "Economy"
+      "title": "Burns Lake welcomes five new doctors",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/11/burns-lake-welcomes-five-new-doctors/",
+      "published_date": "2026-09-11T14:08:07Z",
+      "category": "Local Events"
     },
     {
-      "title": "Sapporo shifting some of its Canadian production to the U.S. in response to American tariffs",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/sapporo-shifting-some-canadian-production-to-u-s",
-      "published_date": "2026-09-08T14:15:34Z",
-      "category": "Economy"
+      "title": "Conversations That Matter: Here&#039;s why people are leaving B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/conversations-that-matter-heres-why-people-are-leaving-b-c",
+      "published_date": "2026-09-11T14:00:58Z",
+      "category": "Local Events"
     },
     {
-      "title": "Local jobs, worker solidarity on display at Windsor Labour Day parade",
+      "title": "Justin Trudeau brings his red carpet tour to TIFF with new venture",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/movies/justin-trudeau-red-carpet-tour-tiff-new-venture",
+      "published_date": "2026-09-11T13:42:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Housing costs aren’t entirely local, but housing solutions can be",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-housing-costs-arent-entirely-local-but-housing-solutions-can-be",
+      "published_date": "2026-09-11T13:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weezer plays Vancouver this week: What to know before you go to the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/weezer-vancouver-concert-2026-what-know",
+      "published_date": "2026-09-11T13:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Douglas Todd: Accused Canadian author Steven Galloway makes major progress in libel case",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-accused-canadian-author-steven-galloway-makes-major-progress-in-libel-case",
+      "published_date": "2026-09-11T13:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;You never forget it&#039;: Grief doesn&#039;t fade for B.C. firefighters who went to New York after 9/11",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-firefighters-new-york-9-11-grieving",
+      "published_date": "2026-09-11T13:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What TV shows and movies are filming in Metro Vancouver this fall",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/what-tv-shows-movies-filming-in-metro-vancouver-this-fall",
+      "published_date": "2026-09-11T13:00:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sidewalk construction has turned into an election flashpoint in Surrey",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-election-2026-sidewalk-construction-issue",
+      "published_date": "2026-09-11T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPP drug bust leads to two arrests in Leamington",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/local-jobs-worker-solidarity-on-display-at-windsor-labour-day-parade",
-      "published_date": "2026-09-08T11:15:14Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/opp-drug-bust-leads-to-two-arrests-in-leamington",
+      "published_date": "2026-09-11T12:51:30Z",
+      "category": "Local Events"
     },
     {
-      "title": "Affordable housing top priority for Windsor mayoral hopeful Pasquach",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/affordable-housing-top-priority-for-windsor-mayoral-hopeful-pasquach",
-      "published_date": "2026-09-08T10:54:57Z",
-      "category": "Economy"
+      "title": "Vancouver Canucks, Seattle Kraken reveal rosters for Prospects Showcase in Abbotsford",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/vancouver-canucks-seattle-kraken-reveal-rosters-for-prospects-showcase-in-abbotsford/",
+      "published_date": "2026-09-11T05:44:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "LILLEY: Ignore Donald Trump’s trolling, what he does next should concern us",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/ignore-trump-trolling-watch-what-he-does-next",
-      "published_date": "2026-09-07T21:59:34Z",
-      "category": "Economy"
+      "title": "Kootenay family asks for support after aggressive Stage 4 cancer diagnosis",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/kootenay-family-asks-for-support-after-aggressive-stage-4-cancer-diagnosis-2/",
+      "published_date": "2026-09-11T00:59:37Z",
+      "category": "Local Events"
     },
     {
       "title": "ICBC to replace all 140 intersection cameras with updated technology",
@@ -407,97 +498,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/durham-police-arrest-four-teens-200-charges-project-magenta",
       "published_date": "2026-09-10T22:08:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Advocacy group urges Toronto candidates to stick to city hall basics",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-candidates-urged-stick-to-basic",
-      "published_date": "2026-09-10T21:50:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Houston suffers more forestry layoffs",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/houston-suffers-more-forestry-layoffs/",
-      "published_date": "2026-09-10T21:36:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: Man escapes knife-wielding assailant by hanging off moving Tesla",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/video-man-escapes-knife-wielding-assailant-by-hanging-off-moving-tesla",
-      "published_date": "2026-09-10T21:35:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeanne Lynn (Evans) Parkinson",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/jeanne-lynn-evans-parkinson/",
-      "published_date": "2026-09-10T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UBCM to take province to task for secrecy, funding cuts at annual conference",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/ubcm-to-take-province-to-task-for-secrecy-funding-cuts-at-annual-conference/",
-      "published_date": "2026-09-10T21:25:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Terrace teacher banned following sexual relationship with former student",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/former-terrace-teacher-banned-following-sexual-relationship-with-former-student/",
-      "published_date": "2026-09-10T21:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Police seeking vehicle linked to fatal crash; cops probe death in Burlington",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-seeking-vehicle-fatal-crash",
-      "published_date": "2026-09-10T20:49:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Time running out for municipal election candidates, school trustees in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/time-running-out-for-municipal-election-candidates-school-trustees-in-b-c/",
-      "published_date": "2026-09-10T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police arrest man following two vehicle fires",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-man-following-two-vehicle-fires",
-      "published_date": "2026-09-10T19:57:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Montrose man charged in murder of estranged wife opts for judge-alone trial",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/montrose-man-charged-in-murder-of-estranged-wife-opts-for-judge-alone-trial/",
-      "published_date": "2026-09-10T19:54:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traffic alert: Oak Street closed near VGH until Sept. 22",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/traffic-alert-oak-street-closed-near-vgh-until-sept-22",
-      "published_date": "2026-09-10T19:09:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor man wins $442K Lottario jackpot",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-man-wins-442k-lottario-jackpot",
-      "published_date": "2026-09-10T18:19:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police charge social worker over alleged $1,200 insurance fraud",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-charge-social-worker-over-alleged-1200-insurance-fraud",
-      "published_date": "2026-09-10T18:12:55Z",
       "category": "Local Events"
     }
   ]
