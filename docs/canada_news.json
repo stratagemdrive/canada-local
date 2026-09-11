@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:40:33Z",
+  "generated_at": "2026-09-11T00:51:59Z",
   "country": "Canada",
   "total_stories": 70,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "DEA operated &#039;illegally&#039; in Canada, B.C. Supreme Court judge says",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/dea-operated-illegally-in-canada-bc-supreme-court-judge-says",
+      "published_date": "2026-09-10T23:00:42Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Diversify, yes. Pretend Europe can replace America? No.",
       "source": "Toronto Sun",
@@ -58,6 +65,27 @@
       "url": "https://windsorstar.com/news/local-news/cbsa-seizes-tobacco-worth-300k-at-ambassador-bridge",
       "published_date": "2026-09-04T19:26:32Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Massive overhaul to build 'war-fighting' Canadian Army",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/massive-overhaul-to-build-war-fighting-canadian-army",
+      "published_date": "2026-09-11T00:47:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "14-year-old charged after apparent gun incident near downtown Windsor",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/14-year-old-charged-after-apparent-gun-incident-near-downtown-windsor",
+      "published_date": "2026-09-10T19:59:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Al-Qaida is stronger than ever 25 years after 9/11, experts warn",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/al-qaida-is-stronger-than-ever-25-years-after-9-11-experts-warn",
+      "published_date": "2026-09-10T18:48:24Z",
+      "category": "Military"
     },
     {
       "title": "Was James Woods on a flight with 9/11 terrorists?",
@@ -179,25 +207,11 @@
       "category": "Military"
     },
     {
-      "title": "What's On Windsor: Foodie festival, birthday bash, drone show and more",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/whats-on-windsor-foodie-festival-birthday-bash-drone-show-and-more",
-      "published_date": "2026-09-04T10:08:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "End of an era for high-flying Snowbirds at Canadian International Air Show",
+      "title": "LILLEY: Michigan Governor’s reckless Line 5 crusade puts Ontario’s energy security at risk",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/end-of-era-snowbirds-at-canadian-international-air-show-toronto",
-      "published_date": "2026-09-03T22:57:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trade war not to blame for USAF demo team pulling out of Toronto air show: organizers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/trade-war-not-to-blame-for-usaf-demo-team-pulling-out-toronto-air-show",
-      "published_date": "2026-09-03T20:18:23Z",
-      "category": "Military"
+      "url": "https://torontosun.com/opinion/columnists/whitmers-reckless-line-5-crusade-puts-ontarios-energy-security-at-risk",
+      "published_date": "2026-09-10T22:49:39Z",
+      "category": "Energy"
     },
     {
       "title": "The Bookless Club: What are you doing about the quality of air you breathe?",
@@ -207,18 +221,18 @@
       "category": "Energy"
     },
     {
-      "title": "Work begins on B.C’s North Coast Transmission Line",
+      "title": "Proposed WorkSafeBC changes would require employers to consider ‘psychosocial hazards’",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/03/work-begins-on-b-cs-north-coast-transmission-line-2/",
-      "published_date": "2026-09-03T22:49:00Z",
-      "category": "Energy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/proposed-worksafebc-changes-would-require-employers-to-consider-psychosocial-hazards/",
+      "published_date": "2026-09-10T23:17:25Z",
+      "category": "Economy"
     },
     {
-      "title": "Overnight storm snaps hydro poles, topples trees across Windsor-Essex",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/overnight-storm-snaps-hydro-poles-topples-trees-across-windsor-essex",
-      "published_date": "2026-09-03T20:09:08Z",
-      "category": "Energy"
+      "title": "Reflecting on 10 years of community forest investment: FESBC",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/reflecting-on-10-years-of-community-forest-investment-fesbc/",
+      "published_date": "2026-09-10T20:36:00Z",
+      "category": "Economy"
     },
     {
       "title": "The key to unite the right in B.C.? More focus on the economy, less &#039;culture wars,&#039; Christy Clark says",
@@ -347,157 +361,143 @@
       "category": "Economy"
     },
     {
-      "title": "OPINION: Celebrating B.C.’s workers on Labour Day",
+      "title": "ICBC to replace all 140 intersection cameras with updated technology",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/07/opinion-celebrating-b-c-s-workers-on-labour-day/",
-      "published_date": "2026-09-07T15:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C. clothing, beauty brands are still struggling through the tariff uncertainty",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/bc-clothing-beauty-brands-are-still-struggling-through-the-tariff-uncertainty",
-      "published_date": "2026-09-07T13:00:50Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Windsor-Detroit border crossings to close for 9/11 ceremonies",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-detroit-border-crossings-to-close-for-9-11-ceremonies",
-      "published_date": "2026-09-10T14:11:13Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/icbc-to-replace-all-140-intersection-cameras-with-updated-technology/",
+      "published_date": "2026-09-10T23:53:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Harry Styles sets Toronto shows with Lainey Wilson at Rogers Stadium",
+      "title": "Florida senior shot dead by cops after firing gun inside police station",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/music/harry-styles-toronto-shows-lainey-wilson-rogers-stadium",
-      "published_date": "2026-09-10T14:10:00Z",
+      "url": "https://torontosun.com/news/world/florida-woman-killed-by-cops-shots-fired",
+      "published_date": "2026-09-10T23:34:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Manning Park Resort outlines expansion plan, seeks public input",
+      "title": "‘People are scared’: B.C. politicians push for safer Highway 1 after string of fatal collisions",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/manning-park-resort-outlines-expansion-plan-seeks-public-input/",
-      "published_date": "2026-09-10T13:52:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/people-are-scared-b-c-politicians-push-for-safer-highway-1-after-string-of-fatal-collisions/",
+      "published_date": "2026-09-10T23:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump vows to give $5,000 US to every American voter — if Republicans win midterms",
+      "title": "Several B.C. Conservative MLAs wait to see what happens with Kerry-Lynne Findlay as byelection looms",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/several-bc-conservative-wait-what-happens-with-kerry-lynne-findlay-byelection",
+      "published_date": "2026-09-10T23:19:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Second man accused of 2022 slaying of Toronto businessman Ding Ping Wang",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trump-vows-to-give-5000-to-american-voter",
-      "published_date": "2026-09-10T13:29:54Z",
+      "url": "https://torontosun.com/news/local-news/second-man-accused-ding-ping-wang-murder",
+      "published_date": "2026-09-10T23:19:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor storms, tornado trigger 1,000-plus requests to city forestry crews",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-storms-tornado-trigger-1000-plus-requests-to-city-forestry-crews",
-      "published_date": "2026-09-10T13:22:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metro Vancouver pumpkin patches: Here are 11 patches to visit this fall",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/metro-vancouver-pumpkin-patches-here-are-11-patches-to-visit-this-fall",
-      "published_date": "2026-09-10T13:00:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: B.C. public hates PST expansion, but government going ahead with it anyway",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-public-hates-pst-expansion-but-government-going-ahead-with-it-anyway",
-      "published_date": "2026-09-10T13:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Promise of weight-loss drugs to treat other ailments given a boost, B.C. specialists say",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/health/bc-specialists-promise-of-weight-loss-drugs-to-treat-other-ailments-given-a-boost",
-      "published_date": "2026-09-10T13:00:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Want new denim for your fall wardrobe? Here are 5 pieces from Canadian brands",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/want-new-denim-for-your-fall-wardrobe-here-are-5-pieces-from-canadian-brands",
-      "published_date": "2026-09-10T13:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "COLUMN; What happens to your pet if you’re no longer here?",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/column-what-happens-to-your-pet-if-youre-no-longer-here/",
-      "published_date": "2026-09-10T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nature Nut: Vole infestation bad for veggies, good for raptors",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/nature-nut-vole-infestation-bad-for-veggies-good-for-raptors/",
-      "published_date": "2026-09-10T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "COLUMN: You may call me a dreamer",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/column-you-may-call-me-a-dreamer/",
-      "published_date": "2026-09-10T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catching the buzz: 26 TIFF titles we can't wait to watch",
+      "title": "Florida motorcyclist knocks down officer while fleeing traffic stop: Cops",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/movies/toronto-international-film-festival-25-movies-to-watch",
-      "published_date": "2026-09-10T12:00:36Z",
+      "url": "https://torontosun.com/news/world/florida-motorcyclist-knocks-down-cop-fleeing-traffic-stop",
+      "published_date": "2026-09-10T22:58:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Mayoral hopeful Francis pledges 'open and transparent' city hall",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/mayoral-hopeful-francis-pledges-open-and-transparent-city-hall",
-      "published_date": "2026-09-10T10:32:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor officer cleared after punching handcuffed man during arrest",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-officer-cleared-after-punching-handcuffed-man-during-arrest",
-      "published_date": "2026-09-10T10:01:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MLA candidates clash on affordability, budgets and future of Abbotsford-Mission",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/mla-candidates-clash-on-affordability-budgets-and-future-of-abbotsford-mission/",
-      "published_date": "2026-09-10T02:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake unveils new mural",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/burns-lake-unveils-new-mural/",
-      "published_date": "2026-09-10T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southside Volunteer Fire Dept. tackles previous burns",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/southside-volunteer-fire-dept-tackles-previous-burns/",
-      "published_date": "2026-09-10T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seattle cops run into burning apartment to rescue sleeping residents",
+      "title": "Durham Police arrest four teens on 200 charges in Project Magenta",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/seattle-cops-run-into-burning-apartment-building",
-      "published_date": "2026-09-10T00:33:30Z",
+      "url": "https://torontosun.com/news/durham-police-arrest-four-teens-200-charges-project-magenta",
+      "published_date": "2026-09-10T22:08:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Two northern B.C. First Nations mark opening of majority Indigenous-owned B.C. port",
+      "title": "Advocacy group urges Toronto candidates to stick to city hall basics",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-candidates-urged-stick-to-basic",
+      "published_date": "2026-09-10T21:50:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Houston suffers more forestry layoffs",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/two-northern-b-c-first-nations-mark-opening-of-majority-indigenous-owned-b-c-port/",
-      "published_date": "2026-09-10T00:26:45Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/houston-suffers-more-forestry-layoffs/",
+      "published_date": "2026-09-10T21:36:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Man escapes knife-wielding assailant by hanging off moving Tesla",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/video-man-escapes-knife-wielding-assailant-by-hanging-off-moving-tesla",
+      "published_date": "2026-09-10T21:35:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jeanne Lynn (Evans) Parkinson",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/jeanne-lynn-evans-parkinson/",
+      "published_date": "2026-09-10T21:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UBCM to take province to task for secrecy, funding cuts at annual conference",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/ubcm-to-take-province-to-task-for-secrecy-funding-cuts-at-annual-conference/",
+      "published_date": "2026-09-10T21:25:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Terrace teacher banned following sexual relationship with former student",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/former-terrace-teacher-banned-following-sexual-relationship-with-former-student/",
+      "published_date": "2026-09-10T21:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Police seeking vehicle linked to fatal crash; cops probe death in Burlington",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-seeking-vehicle-fatal-crash",
+      "published_date": "2026-09-10T20:49:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Time running out for municipal election candidates, school trustees in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/time-running-out-for-municipal-election-candidates-school-trustees-in-b-c/",
+      "published_date": "2026-09-10T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police arrest man following two vehicle fires",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-arrest-man-following-two-vehicle-fires",
+      "published_date": "2026-09-10T19:57:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Montrose man charged in murder of estranged wife opts for judge-alone trial",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/10/montrose-man-charged-in-murder-of-estranged-wife-opts-for-judge-alone-trial/",
+      "published_date": "2026-09-10T19:54:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Traffic alert: Oak Street closed near VGH until Sept. 22",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/traffic-alert-oak-street-closed-near-vgh-until-sept-22",
+      "published_date": "2026-09-10T19:09:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor man wins $442K Lottario jackpot",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-man-wins-442k-lottario-jackpot",
+      "published_date": "2026-09-10T18:19:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police charge social worker over alleged $1,200 insurance fraud",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-charge-social-worker-over-alleged-1200-insurance-fraud",
+      "published_date": "2026-09-10T18:12:55Z",
       "category": "Local Events"
     }
   ]
