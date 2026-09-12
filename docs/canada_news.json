@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T00:57:20Z",
+  "generated_at": "2026-09-12T13:47:10Z",
   "country": "Canada",
   "total_stories": 70,
   "categories": [
@@ -65,6 +65,20 @@
       "url": "https://torontosun.com/news/u-of-t-usw-reach-tentative-deal",
       "published_date": "2026-09-08T15:26:15Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Randy Essex: Trump won't give up on tariffs as his favourite weapon",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/opinion/editorials/randy-essex-trump-wont-give-up-on-tariffs-as-his-favourite-weapon",
+      "published_date": "2026-09-12T11:00:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Niagara cop accused of causing crash while driving drunk",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/niagara-cop-accused-causing-crash-driving-drunk",
+      "published_date": "2026-09-12T00:55:00Z",
+      "category": "Military"
     },
     {
       "title": "Zohran Mamdani shares laugh with AOC during sombre 9/11 memorial",
@@ -190,20 +204,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/trumps-renaming-new-mexico-hard-constitutional-wall",
       "published_date": "2026-09-07T15:20:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Anthony Gismondi: A few fabulous B.C. reds can help you do your part in trade war",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/anthony-gismondi-a-few-fabulous-b-c-reds-can-help-you-do-your-part-in-trade-war",
-      "published_date": "2026-09-05T15:00:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Who is Kal Dosanjh? VPD officer facing charges started youth charity, featured in reality TV show",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/who-is-kal-dosanjh-vpd-officer-facing-charges-started-youth-charity-featured-in-reality-tv-show",
-      "published_date": "2026-09-05T15:00:06Z",
       "category": "Military"
     },
     {
@@ -361,6 +361,48 @@
       "category": "Economy"
     },
     {
+      "title": "Fatal crash in Harrow under investigation",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/fatal-crash-in-harrow-under-investigation",
+      "published_date": "2026-09-12T13:22:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police seek other victims after arrest made in sex assault investigation",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-other-victims-after-arrest-made-in-sex-assault-investigation",
+      "published_date": "2026-09-12T13:08:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LaSalle students, firefighters climb to honour 9/11 first responders",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/lasalle-students-firefighters-climb-to-honour-9-11-first-responders",
+      "published_date": "2026-09-12T12:05:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Essex firefighters now carry sensory kits for people with autism and other needs",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/essex-firefighters-now-carry-sensory-kits-for-people-with-autism-and-other-needs",
+      "published_date": "2026-09-12T11:58:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spitfires do the little things right in beating Firebirds",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-do-the-little-things-right-in-beating-firebirds",
+      "published_date": "2026-09-12T02:57:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brampton man, 27, accused of stabbing, home invasion and attempted carjackings",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/brampton-man-stabbing-home-invasion-attempted-carjackings",
+      "published_date": "2026-09-12T01:06:31Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Vaughn Palmer: Internet trolls get vicious for and against Kerry-Lynne Findlay",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-internet-trolls-get-vicious-for-and-against-kerry-lynne-findlay",
@@ -456,48 +498,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/11/one-air-lifted-to-hospital-following-single-vehicle-collision-west-of-williams-lake/",
       "published_date": "2026-09-11T21:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Fringe 2026: Five ways to explore the choose-your-own-adventure theatre extravaganza",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/local-arts/vancouver-fringe-2026-five-ways-to-explore-the-choose-your-own-adventure-theatre-extravaganza",
-      "published_date": "2026-09-11T21:04:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in kidnapped teen raid near Barrie released to mom",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/suspect-kidnapped-teen-raid-near-barrie-released-to-mom",
-      "published_date": "2026-09-11T20:21:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Journey set to play in 5 Canadian cities this fall, including Toronto on Nov. 4",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/journey-set-to-play-in-5-canadian-cities-this-fall-including-toronto-on-nov-4",
-      "published_date": "2026-09-11T20:08:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MLA Teresa Wat to join other Conservative defectors in new party",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/mla-teresa-wat-joins-conservative-defectors-new-bc-party",
-      "published_date": "2026-09-11T20:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: The vaccine injured told their truth at Allison Inquiry – government should listen",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/vaccine-injured-told-their-truth-allison-inquiry-government-should-listen",
-      "published_date": "2026-09-11T19:44:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Cattlemen partner with Alberta Beef Producers to provide feed to local ranchers in need",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/11/b-c-cattlemen-partner-with-alberta-beef-producers-to-provide-feed-to-local-ranchers-in-need/",
-      "published_date": "2026-09-11T19:38:39Z",
       "category": "Local Events"
     }
   ]
