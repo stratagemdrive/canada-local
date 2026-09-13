@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T00:41:06Z",
+  "generated_at": "2026-09-13T14:43:23Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 71,
   "categories": [
     "Diplomacy",
     "Military",
@@ -228,13 +228,6 @@
       "category": "Energy"
     },
     {
-      "title": "The Bookless Club: What are you doing about the quality of air you breathe?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-you-doing-about-the-quality-of-air-you-breathe",
-      "published_date": "2026-09-06T13:00:10Z",
-      "category": "Energy"
-    },
-    {
       "title": "Newcomer Karanjeet Singh enters Burns Lake mayoral race",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/11/newcomer-karanjeet-singh-enters-burns-lake-mayoral-race/",
@@ -375,6 +368,55 @@
       "category": "Economy"
     },
     {
+      "title": "The Bookless Club: Is traffic getting more treacherous?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-is-traffic-getting-more-treacherous",
+      "published_date": "2026-09-13T13:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "After the death of 10 million birds, a glimmer of hope for B.C.&#039;s poultry farmers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/after-death-10-million-birds-hope-for-bc-poultry-farmers",
+      "published_date": "2026-09-13T13:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: Preparing for the school year",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/13/quiz-preparing-for-the-school-year/",
+      "published_date": "2026-09-13T12:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spitfires get what team needed from exhibition play as start of regular season now looms",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/sports/spitfires-get-what-team-needed-from-exhibition-play-as-start-of-regular-season-now-looms",
+      "published_date": "2026-09-13T10:00:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Lions earn revenge, thump visiting Montreal Alouettes 48-29",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/b-c-lions-earn-revenge-thump-visting-montreal-alouettes-48-29/",
+      "published_date": "2026-09-13T05:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seattle Kraken earn 7-3 win over Vancouver Canucks in game one of Prospects Showcase",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/seattle-kraken-earn-7-3-win-over-vancouver-canucks-in-game-one-of-prospects-showcase/",
+      "published_date": "2026-09-13T04:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Queen’s welcomes more than 4,800 students during move-in weekend",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/09/12/queens-welcomes-more-than-4800-students-during-move-in-weekend/",
+      "published_date": "2026-09-12T22:55:05Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Digital traffic sign in Toronto hacked to display profane messages",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/digital-traffic-sign-toronto-hacked-profane-messages",
@@ -463,55 +505,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/12/remembering-9-11-canadians-americans-gather-at-b-c-border/",
       "published_date": "2026-09-12T15:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: Here are some red blends and varietal wines to sip this fall",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-here-are-some-red-blends-and-varietal-wines-to-sip-this-fall",
-      "published_date": "2026-09-12T15:00:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voters in Abbotsford-Mission to play outsized role in future of B.C. politics",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/voters-in-abbotsford-mission-could-play-outsized-role-in-future-of-bc-politics",
-      "published_date": "2026-09-12T15:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Week in History, 1920: Teddy Lyons delights kids from the B.C. Electric observation car",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-week-in-history-1920-teddy-lyons-delights-kids-from-the-b-c-electric-observation-car",
-      "published_date": "2026-09-12T15:00:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More B.C. parents opting for private schools: Report",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/more-bc-parents-opting-independent-schools-report",
-      "published_date": "2026-09-12T15:00:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clock ticking on effort to head off Howe Sound mill closure",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/clock-ticking-on-effort-to-head-off-howe-sound-mill-closure",
-      "published_date": "2026-09-12T15:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Adopt-A-School: Join the Sedins to grind it out to help schoolchildren",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/adopt-a-school-henrik-and-daniel-sedin-grind-it-out-to-help-school-children",
-      "published_date": "2026-09-12T15:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Memoir by Terrace author takes reader into remote Afghanistan",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/memoir-by-terrace-author-takes-reader-into-remote-afghanistan/",
-      "published_date": "2026-09-12T15:00:00Z",
       "category": "Local Events"
     }
   ]
