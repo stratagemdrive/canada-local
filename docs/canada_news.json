@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T13:47:10Z",
+  "generated_at": "2026-09-13T00:41:06Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: Winning polls is easy – selling a trade deal is not",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/winning-polls-easy-selling-trade-deal-is-not-canada-carney-united-states-trump",
+      "published_date": "2026-09-12T20:33:59Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Building new B.C. ferries in China cost Canada $1.5B in lost GDP, report finds",
       "source": "Burns Lake District News",
@@ -207,6 +214,13 @@
       "category": "Military"
     },
     {
+      "title": "Opinion: Why Canada&#039;s new pipeline proposal threatens the Salish Sea",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-why-canadas-new-pipeline-proposal-threatens-the-salish-sea",
+      "published_date": "2026-09-12T23:00:32Z",
+      "category": "Energy"
+    },
+    {
       "title": "LILLEY: Michigan Governor’s reckless Line 5 crusade puts Ontario’s energy security at risk",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/whitmers-reckless-line-5-crusade-puts-ontarios-energy-security-at-risk",
@@ -361,143 +375,143 @@
       "category": "Economy"
     },
     {
-      "title": "Fatal crash in Harrow under investigation",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/fatal-crash-in-harrow-under-investigation",
-      "published_date": "2026-09-12T13:22:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Windsor police seek other victims after arrest made in sex assault investigation",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-police-seek-other-victims-after-arrest-made-in-sex-assault-investigation",
-      "published_date": "2026-09-12T13:08:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LaSalle students, firefighters climb to honour 9/11 first responders",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/lasalle-students-firefighters-climb-to-honour-9-11-first-responders",
-      "published_date": "2026-09-12T12:05:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Essex firefighters now carry sensory kits for people with autism and other needs",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/essex-firefighters-now-carry-sensory-kits-for-people-with-autism-and-other-needs",
-      "published_date": "2026-09-12T11:58:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spitfires do the little things right in beating Firebirds",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/spitfires-do-the-little-things-right-in-beating-firebirds",
-      "published_date": "2026-09-12T02:57:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brampton man, 27, accused of stabbing, home invasion and attempted carjackings",
+      "title": "Digital traffic sign in Toronto hacked to display profane messages",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brampton-man-stabbing-home-invasion-attempted-carjackings",
-      "published_date": "2026-09-12T01:06:31Z",
+      "url": "https://torontosun.com/news/local-news/digital-traffic-sign-toronto-hacked-profane-messages",
+      "published_date": "2026-09-12T22:38:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: Internet trolls get vicious for and against Kerry-Lynne Findlay",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-internet-trolls-get-vicious-for-and-against-kerry-lynne-findlay",
-      "published_date": "2026-09-12T00:06:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man wanted in Mississauga robberies; four charged in firearms probe",
+      "title": "Toronto woman, 40, wanted for dog attack that injured pet owner and pooch",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-wanted-mississauga-robberies",
-      "published_date": "2026-09-11T23:48:36Z",
+      "url": "https://torontosun.com/news/local-news/toronto-woman-wanted-dog-attack-injured-pet-owner-pooch",
+      "published_date": "2026-09-12T20:45:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Jurors shown accused killers&#039; clothes and shoes with blood spots on them",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/jurors-shown-accused-killers-clothes-and-shoes-with-blood-spots",
-      "published_date": "2026-09-11T23:47:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coroner&#039;s inquest set to investigate death of prisoner in Abbotsford",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/coroners-inquest-set-to-investigate-death-of-prisoner-in-abbotsford",
-      "published_date": "2026-09-11T23:19:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Schoolgirl killer Paul Bernardo set to torture families again",
+      "title": "EDITORIAL: We’re cozying up to China, again",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/schoolgirl-killer-paul-bernardo-set-to-torture-families-again",
-      "published_date": "2026-09-11T23:11:01Z",
+      "url": "https://torontosun.com/opinion/editorials/canada-cozying-up-to-china-again",
+      "published_date": "2026-09-12T20:18:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Letters to The Sun: World will judge Americans if there is overall support for GOP agenda in November",
+      "title": "OPINION: Canada’s homegrown BDS Coalition more extreme than Palestinian original",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canadas-homegrown-bds-more-extreme-than-palestinian-original-that-should-alarm-everyone",
+      "published_date": "2026-09-12T19:55:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHAUDHRI: Flawed Investigation fails RBC in wrongful dismissal case",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/flawed-investigation-fails-rbc-wrongful-dismissal-case",
+      "published_date": "2026-09-12T18:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.: 15 bestselling books for the week of Sept. 5",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-sun-world-will-judge-americans-if-there-is-overall-support-for-gop-agenda-in-november",
-      "published_date": "2026-09-11T23:00:11Z",
+      "url": "https://vancouversun.com/entertainment/books/bc-15-bestselling-books-for-the-week-of-sept-5",
+      "published_date": "2026-09-12T18:00:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Conditional discharge for ex-B.C. Mountie, who had sex with vulnerable woman",
+      "title": "Get the look: 5 neutral lip colours to try this fall",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/get-the-look-5-neutral-lip-colours-to-try-this-fall",
+      "published_date": "2026-09-12T18:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Nashville songbird was a Jane Doe. Who killed her?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-nashville-songbird-was-a-jane-doe-who-killed-her",
+      "published_date": "2026-09-12T17:30:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man fleeing police on Polaris Slingshot dies after head-on crash in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-fleeing-police-on-polaris-slingshot-dies-after-head-on-crash-in-vancouver",
+      "published_date": "2026-09-12T17:28:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Wildlife Centre rebuilding after storm wreaks havoc",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/toronto-wildlife-centre-rebuilding-after-storm-wreaks-havoc",
+      "published_date": "2026-09-12T17:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna athlete and therapist conquers prestigious trail race in France",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/11/conditional-discharge-for-ex-b-c-mountie-who-had-sex-with-vulnerable-woman/",
-      "published_date": "2026-09-11T22:08:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/kelowna-athlete-and-therapist-conquers-prestigious-trail-race-in-france/",
+      "published_date": "2026-09-12T16:50:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Alberta First Nation moving ahead with plans to protect gender-affirming care",
+      "title": "Candidate aghast at $500Gs bill for 'field with fence' dog park",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/half-million-scarborough-dog-park-funding",
+      "published_date": "2026-09-12T15:31:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Remembering 9/11: Canadians, Americans gather at B.C. border",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/11/alberta-first-nation-moving-ahead-with-plans-to-protect-gender-affirming-care/",
-      "published_date": "2026-09-11T22:03:48Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/remembering-9-11-canadians-americans-gather-at-b-c-border/",
+      "published_date": "2026-09-12T15:07:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor mayor asked police to sweep city hall for covert listening devices",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-mayor-asked-police-to-sweep-city-hall-for-covert-listening-devices",
-      "published_date": "2026-09-11T21:55:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stranger attacks in Vancouver leave one man in custody",
+      "title": "Anthony Gismondi: Here are some red blends and varietal wines to sip this fall",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/downtown-vancouver-stranger-attacks",
-      "published_date": "2026-09-11T21:46:11Z",
+      "url": "https://vancouversun.com/life/anthony-gismondi-here-are-some-red-blends-and-varietal-wines-to-sip-this-fall",
+      "published_date": "2026-09-12T15:00:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Human remains found in Barrie belong to victim of 2025 double murder",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/human-remains-found-barrie-victim-2025-double-double",
-      "published_date": "2026-09-11T21:33:30Z",
+      "title": "Voters in Abbotsford-Mission to play outsized role in future of B.C. politics",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/voters-in-abbotsford-mission-could-play-outsized-role-in-future-of-bc-politics",
+      "published_date": "2026-09-12T15:00:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Williams Lake joins firefighters in remembering those lost in 9/11",
+      "title": "This Week in History, 1920: Teddy Lyons delights kids from the B.C. Electric observation car",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-week-in-history-1920-teddy-lyons-delights-kids-from-the-b-c-electric-observation-car",
+      "published_date": "2026-09-12T15:00:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More B.C. parents opting for private schools: Report",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/more-bc-parents-opting-independent-schools-report",
+      "published_date": "2026-09-12T15:00:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clock ticking on effort to head off Howe Sound mill closure",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/clock-ticking-on-effort-to-head-off-howe-sound-mill-closure",
+      "published_date": "2026-09-12T15:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Adopt-A-School: Join the Sedins to grind it out to help schoolchildren",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/adopt-a-school-henrik-and-daniel-sedin-grind-it-out-to-help-school-children",
+      "published_date": "2026-09-12T15:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Memoir by Terrace author takes reader into remote Afghanistan",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/11/williams-lake-joins-firefighters-in-remembering-those-lost-in-9-11/",
-      "published_date": "2026-09-11T21:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sankofa Square’s smouldering TTC trash heap really burns candidate up",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/sankofa-square-tate-ttc-garbage-bag-fire",
-      "published_date": "2026-09-11T21:19:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One airlifted to hospital following single-vehicle collision west of Williams Lake",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/11/one-air-lifted-to-hospital-following-single-vehicle-collision-west-of-williams-lake/",
-      "published_date": "2026-09-11T21:12:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/memoir-by-terrace-author-takes-reader-into-remote-afghanistan/",
+      "published_date": "2026-09-12T15:00:00Z",
       "category": "Local Events"
     }
   ]
