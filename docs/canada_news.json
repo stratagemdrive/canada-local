@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T00:49:39Z",
+  "generated_at": "2026-09-14T16:39:16Z",
   "country": "Canada",
   "total_stories": 72,
   "categories": [
@@ -235,6 +235,20 @@
       "category": "Energy"
     },
     {
+      "title": "&#039;Big trouble&#039;: Vancouver&#039;s increasing real estate foreclosures indicate a disturbing economy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/real-estate/vancouver-new-wave-foreclosures",
+      "published_date": "2026-09-14T13:00:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump backtracks on rock salt tariffs as U.S. depends on Windsor supply",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/trump-backtracks-on-rock-salt-tariffs-as-u-s-depends-on-windsor-supply",
+      "published_date": "2026-09-14T10:30:37Z",
+      "category": "Economy"
+    },
+    {
       "title": "Mississauga mayoral race officially underway as top candidates launch campaigns",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/mississauga-mayoral-candidates-officially-launch-campaigns",
@@ -361,18 +375,109 @@
       "category": "Economy"
     },
     {
-      "title": "Taxi impounded for going 133 km/h in an 80 zone on B.C.’s Sea to Sky Highway",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/09/taxi-impounded-for-going-133-km-h-in-an-80-zone-on-b-c-s-sea-to-sky-highway/",
-      "published_date": "2026-09-09T18:20:14Z",
-      "category": "Economy"
+      "title": "Trump says calls to slow AI 'sick conspiracy'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trump-says-calls-to-slow-ai-sick-conspiracy",
+      "published_date": "2026-09-14T16:32:35Z",
+      "category": "Local Events"
     },
     {
-      "title": "More than 200 traffic charges laid in Essex County during Labour Day weekend: OPP",
+      "title": "BLACK DAHLIA: Inside the horror hotel where she was slain in 1947",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/solving-80-year-old-cold-case-murder-of-black-dahlia",
+      "published_date": "2026-09-14T15:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cat in the Hat meme is no laughing matter to authorities",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/cat-in-the-hat-meme-no-laughing-matter-to-authorities",
+      "published_date": "2026-09-14T15:46:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japanese porn queen Hana Kuraki in Tokyo suicide death mystery",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/japanese-porn-queen-hana-kuraki-tokyo-death-mystery",
+      "published_date": "2026-09-14T14:49:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Google to snoop search, video history to spot underrage users",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/google-to-snoop-search-video-history-underrage-users",
+      "published_date": "2026-09-14T14:42:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor police charge man following sexual assault of teen",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/more-than-200-traffic-charges-laid-in-essex-county-during-labour-day-weekend-opp",
-      "published_date": "2026-09-09T18:04:58Z",
-      "category": "Economy"
+      "url": "https://windsorstar.com/news/local-news/windsor-man-arrested-for-sexual-assault-of-teen",
+      "published_date": "2026-09-14T14:36:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPP charge 3 Essex County motorists with impaired driving",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/opp-charge-3-essex-county-motorists-with-impaired-driving",
+      "published_date": "2026-09-14T14:32:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man says city has ‘worst dating scene’ in the world",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-says-city-worst-dating-scene-in-world",
+      "published_date": "2026-09-14T13:48:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Online responses boost 2026 Census to near-record high",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/online-responses-boost-2026-census-to-near-record-high",
+      "published_date": "2026-09-14T13:26:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Should B.C. doctors inform new patients of treatments they won&#039;t do because of religious belief?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/health/should-bc-doctors-inform-patients-treatments-they-wont-do-because-religious-belief",
+      "published_date": "2026-09-14T13:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake rock band prepares to record first album",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/burns-lake-rock-band-prepares-to-record-first-album/",
+      "published_date": "2026-09-14T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Neil Peart TIFF doc sort of a 'zeitgeist moment' occurring same time as Rush's new tour",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/movies/neil-peart-tiff-doc-zeitgeist-moment-rushs-new-tour",
+      "published_date": "2026-09-14T11:00:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Third shift at Windsor Assembly Plant a sticking point as Unifor, Stellantis pause talks",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/third-shift-at-windsor-assembly-plant-a-sticking-point-as-unifor-stellantis-pause-talks",
+      "published_date": "2026-09-14T10:42:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: We watched antisemitism at TMU from sidelines; silence isn't an option",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/silence-not-option-tmu-antisemitism-unchecked",
+      "published_date": "2026-09-14T10:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Novotny’s three-point game powers Vancouver Canucks to 5-2 win over Seattle Kraken",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/13/novotnys-three-point-game-powers-vancouver-canucks-to-5-2-win-over-seattle-kraken/",
+      "published_date": "2026-09-14T00:46:00Z",
+      "category": "Local Events"
     },
     {
       "title": "B.C. budgets $15 million for FireSmart projects in 2027",
@@ -407,111 +512,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/places-to-enjoy-lake-ontario-in-canada",
       "published_date": "2026-09-13T18:08:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BLACK DAHLIA: Is L.A.'s most infamous murder close to being solved?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/is-black-dahlia-murder-almost-solved",
-      "published_date": "2026-09-13T17:34:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coast Mountain Bus Company gets tentative deal with drivers and mechanics",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/coast-mountain-bus-company-gets-tentative-deal-with-drivers-and-mechanics",
-      "published_date": "2026-09-13T17:33:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elopee wanted by cops after escaping from CAMH; man shot in North York",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/elopee-wanted-by-toronto-cops-escaped-camh",
-      "published_date": "2026-09-13T16:51:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SIMMONS: The legend of George Chuvalo will live on forever",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/george-chuvalo-legend-will-live-forever",
-      "published_date": "2026-09-13T15:53:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. sent its next ferries contract to China. A new report says that was a $1.5B missed opportunity",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-sent-its-next-ferries-to-china-a-new-report-says-that-was-a-missed-opportunity",
-      "published_date": "2026-09-13T15:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dan Fumano: Police, protest, and art intersect again at Vancouver&#039;s Woodward&#039;s building — 55 years later",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/dan-fumano-police-protest-and-art-intersect-again-at-vancouvers-woodwards-building-55-years-later",
-      "published_date": "2026-09-13T15:00:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Is traffic getting more treacherous?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-is-traffic-getting-more-treacherous",
-      "published_date": "2026-09-13T13:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After the death of 10 million birds, a glimmer of hope for B.C.&#039;s poultry farmers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/after-death-10-million-birds-hope-for-bc-poultry-farmers",
-      "published_date": "2026-09-13T13:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: Preparing for the school year",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/13/quiz-preparing-for-the-school-year/",
-      "published_date": "2026-09-13T12:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spitfires get what team needed from exhibition play as start of regular season now looms",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/sports/spitfires-get-what-team-needed-from-exhibition-play-as-start-of-regular-season-now-looms",
-      "published_date": "2026-09-13T10:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Lions earn revenge, thump visiting Montreal Alouettes 48-29",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/b-c-lions-earn-revenge-thump-visting-montreal-alouettes-48-29/",
-      "published_date": "2026-09-13T05:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seattle Kraken earn 7-3 win over Vancouver Canucks in game one of Prospects Showcase",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/seattle-kraken-earn-7-3-win-over-vancouver-canucks-in-game-one-of-prospects-showcase/",
-      "published_date": "2026-09-13T04:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Queen’s welcomes more than 4,800 students during move-in weekend",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/09/12/queens-welcomes-more-than-4800-students-during-move-in-weekend/",
-      "published_date": "2026-09-12T22:55:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Digital traffic sign in Toronto hacked to display profane messages",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/digital-traffic-sign-toronto-hacked-profane-messages",
-      "published_date": "2026-09-12T22:38:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto woman, 40, wanted for dog attack that injured pet owner and pooch",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-woman-wanted-dog-attack-injured-pet-owner-pooch",
-      "published_date": "2026-09-12T20:45:07Z",
       "category": "Local Events"
     }
   ]
