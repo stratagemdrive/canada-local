@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T14:43:23Z",
+  "generated_at": "2026-09-14T00:49:39Z",
   "country": "Canada",
-  "total_stories": 71,
+  "total_stories": 72,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: Mark Carney wants to make Canada an 'associate' EU member",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-seeks-associate-eu-member-status",
+      "published_date": "2026-09-13T14:43:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Winning polls is easy – selling a trade deal is not",
       "source": "Toronto Sun",
@@ -72,6 +79,20 @@
       "url": "https://torontosun.com/news/u-of-t-usw-reach-tentative-deal",
       "published_date": "2026-09-08T15:26:15Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Defence warns of ‘dangerous witnesses’ as B.C. shooting-murder trial closes",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/13/defence-warns-of-dangerous-witnesses-as-b-c-shooting-murder-trial-closes/",
+      "published_date": "2026-09-13T23:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Boris Johnson, other European officials at Ukrainian train station before Russian strike",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/boris-johnson-european-officials-russian-strike",
+      "published_date": "2026-09-13T18:57:48Z",
+      "category": "Military"
     },
     {
       "title": "Randy Essex: Trump won't give up on tariffs as his favourite weapon",
@@ -200,20 +221,6 @@
       "category": "Military"
     },
     {
-      "title": "Eby planting new signs at B.C. border to welcome Americans during trade war",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/08/eby-planting-new-signs-at-b-c-border-to-welcome-americans-during-trade-war/",
-      "published_date": "2026-09-08T22:48:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Why Trump’s renaming of New Mexico faces a hard constitutional wall",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trumps-renaming-new-mexico-hard-constitutional-wall",
-      "published_date": "2026-09-07T15:20:50Z",
-      "category": "Military"
-    },
-    {
       "title": "Opinion: Why Canada&#039;s new pipeline proposal threatens the Salish Sea",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-why-canadas-new-pipeline-proposal-threatens-the-salish-sea",
@@ -226,6 +233,20 @@
       "url": "https://torontosun.com/opinion/columnists/whitmers-reckless-line-5-crusade-puts-ontarios-energy-security-at-risk",
       "published_date": "2026-09-10T22:49:39Z",
       "category": "Energy"
+    },
+    {
+      "title": "Mississauga mayoral race officially underway as top candidates launch campaigns",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/mississauga-mayoral-candidates-officially-launch-campaigns",
+      "published_date": "2026-09-13T21:42:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "CHARLEBOIS: Canada's food inflation problem isn’t Donald Trump, it’s Canada",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canada-food-inflation-problem-isnt-trump",
+      "published_date": "2026-09-13T16:29:21Z",
+      "category": "Economy"
     },
     {
       "title": "Newcomer Karanjeet Singh enters Burns Lake mayoral race",
@@ -354,18 +375,81 @@
       "category": "Economy"
     },
     {
-      "title": "Ontario Chamber of Commerce calls for tariff de-escalation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ontario-chamber-of-commerce-tariff-de-escalation",
-      "published_date": "2026-09-09T16:40:15Z",
-      "category": "Economy"
+      "title": "B.C. budgets $15 million for FireSmart projects in 2027",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/13/b-c-budgets-15-million-for-firesmart-projects-in-2027/",
+      "published_date": "2026-09-14T00:29:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: As Canadians struggle to put food on table, Carney and cabinet dine in Banff",
+      "title": "Demolition derbies part of fall fair fun across Greater Toronto Area",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/canadians-struggle-food-table-carney-cabinet-dine-banff",
-      "published_date": "2026-09-09T16:31:33Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/fall-fairs-offer-fun-demolition-derbies",
+      "published_date": "2026-09-13T20:08:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roseland Golf Club celebrates 100 years",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/roseland-golf-club-celebrates-100-years",
+      "published_date": "2026-09-13T19:46:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Think the Toronto Public Library is just about books? Think again",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-public-library-about-more-than-books",
+      "published_date": "2026-09-13T18:37:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LAKE ONTARIO FOREVER: Ten spots to enjoy the great lake in Canada",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/places-to-enjoy-lake-ontario-in-canada",
+      "published_date": "2026-09-13T18:08:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BLACK DAHLIA: Is L.A.'s most infamous murder close to being solved?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/is-black-dahlia-murder-almost-solved",
+      "published_date": "2026-09-13T17:34:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coast Mountain Bus Company gets tentative deal with drivers and mechanics",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/coast-mountain-bus-company-gets-tentative-deal-with-drivers-and-mechanics",
+      "published_date": "2026-09-13T17:33:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elopee wanted by cops after escaping from CAMH; man shot in North York",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/elopee-wanted-by-toronto-cops-escaped-camh",
+      "published_date": "2026-09-13T16:51:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SIMMONS: The legend of George Chuvalo will live on forever",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/george-chuvalo-legend-will-live-forever",
+      "published_date": "2026-09-13T15:53:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. sent its next ferries contract to China. A new report says that was a $1.5B missed opportunity",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-sent-its-next-ferries-to-china-a-new-report-says-that-was-a-missed-opportunity",
+      "published_date": "2026-09-13T15:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dan Fumano: Police, protest, and art intersect again at Vancouver&#039;s Woodward&#039;s building — 55 years later",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/dan-fumano-police-protest-and-art-intersect-again-at-vancouvers-woodwards-building-55-years-later",
+      "published_date": "2026-09-13T15:00:23Z",
+      "category": "Local Events"
     },
     {
       "title": "The Bookless Club: Is traffic getting more treacherous?",
@@ -428,83 +512,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-woman-wanted-dog-attack-injured-pet-owner-pooch",
       "published_date": "2026-09-12T20:45:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: We’re cozying up to China, again",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/canada-cozying-up-to-china-again",
-      "published_date": "2026-09-12T20:18:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Canada’s homegrown BDS Coalition more extreme than Palestinian original",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canadas-homegrown-bds-more-extreme-than-palestinian-original-that-should-alarm-everyone",
-      "published_date": "2026-09-12T19:55:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHAUDHRI: Flawed Investigation fails RBC in wrongful dismissal case",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/flawed-investigation-fails-rbc-wrongful-dismissal-case",
-      "published_date": "2026-09-12T18:00:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.: 15 bestselling books for the week of Sept. 5",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/bc-15-bestselling-books-for-the-week-of-sept-5",
-      "published_date": "2026-09-12T18:00:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Get the look: 5 neutral lip colours to try this fall",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/get-the-look-5-neutral-lip-colours-to-try-this-fall",
-      "published_date": "2026-09-12T18:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Nashville songbird was a Jane Doe. Who killed her?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-nashville-songbird-was-a-jane-doe-who-killed-her",
-      "published_date": "2026-09-12T17:30:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man fleeing police on Polaris Slingshot dies after head-on crash in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-fleeing-police-on-polaris-slingshot-dies-after-head-on-crash-in-vancouver",
-      "published_date": "2026-09-12T17:28:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Wildlife Centre rebuilding after storm wreaks havoc",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/toronto-wildlife-centre-rebuilding-after-storm-wreaks-havoc",
-      "published_date": "2026-09-12T17:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna athlete and therapist conquers prestigious trail race in France",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/kelowna-athlete-and-therapist-conquers-prestigious-trail-race-in-france/",
-      "published_date": "2026-09-12T16:50:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Candidate aghast at $500Gs bill for 'field with fence' dog park",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/half-million-scarborough-dog-park-funding",
-      "published_date": "2026-09-12T15:31:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remembering 9/11: Canadians, Americans gather at B.C. border",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/12/remembering-9-11-canadians-americans-gather-at-b-c-border/",
-      "published_date": "2026-09-12T15:07:00Z",
       "category": "Local Events"
     }
   ]
