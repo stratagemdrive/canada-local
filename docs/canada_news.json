@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T01:15:53Z",
+  "generated_at": "2026-09-15T15:18:07Z",
   "country": "Canada",
-  "total_stories": 76,
+  "total_stories": 77,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Carney responds to Trump’s latest Canada-U.S. trade deal comments: 'WHEN IT MAKES SENSE'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/carney-responds-to-trumps-latest-trade-deal-comments",
+      "published_date": "2026-09-15T15:09:21Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "More than 270,000 crossings recorded at Gordie Howe bridge in August, says Statistics Canada",
       "source": "Windsor Star",
@@ -86,6 +93,13 @@
       "url": "https://torontosun.com/news/u-of-t-usw-reach-tentative-deal",
       "published_date": "2026-09-08T15:26:15Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Sally Field sends love to Canada amid trade war in Emmys speech: 'OUR NEIGHBOURS, OUR FRIENDS'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/sally-field-sends-love-to-canada-emmys-speech",
+      "published_date": "2026-09-15T14:11:57Z",
+      "category": "Military"
     },
     {
       "title": "Former B.C. attorneys general sign letter in defence of modern treaties as land claim controversy continues",
@@ -218,13 +232,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/terrorists-mom-running-for-school-trustee",
       "published_date": "2026-09-09T15:07:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Windsor memorial service honours Canadians who served, died in Afghanistan",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-memorial-service-honours-canadians-who-served-died-in-afghanistan",
-      "published_date": "2026-09-09T11:02:53Z",
       "category": "Military"
     },
     {
@@ -403,6 +410,132 @@
       "category": "Economy"
     },
     {
+      "title": "Soggy dogs celebrate end of summer with Pooch Plunge",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/soggy-dogs-celebrate-end-of-summer-with-pooch-plunge",
+      "published_date": "2026-09-15T15:14:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Charles Manson's second banana Bruce Davis dies after 57 years in prison",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/charles-manson-second-banana-bruce-davis-dies",
+      "published_date": "2026-09-15T14:21:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aging Massey Tunnel closed overnight this weekend for maintenance",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/aging-massey-tunnel-closed-overnight-this-weekend-for-maintenance",
+      "published_date": "2026-09-15T13:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. judge builds delay into ruling in case that could worsen rural doctor shortage",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/bc-judge-delays-decision-in-case-that-could-affect-rural-doctor-shortage",
+      "published_date": "2026-09-15T13:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;That moment of gasp and joy&#039;: Arts Club plans the perfect Heist to open its new season",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/that-moment-of-gasp-and-joy-arts-club-plans-the-perfect-heist-to-open-its-new-season",
+      "published_date": "2026-09-15T13:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Douglas Todd: Vancouver’s TEAM party stands out for opposing five mass upzoning plans",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/douglas-todd-vancouvers-team-party-stands-out-for-opposing-five-mass-upzoning-plans",
+      "published_date": "2026-09-15T13:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "$4.4 billion worth of new condos sitting unsold across Metro Vancouver — and many aren’t small",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/real-estate/4-billion-worth-of-new-condos-sitting-unsold-across-metro-vancouver-and-many-arent-small",
+      "published_date": "2026-09-15T13:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Why are we still telling kids needles don’t hurt?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-why-are-we-still-telling-kids-needles-dont-hurt",
+      "published_date": "2026-09-15T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SD91 candidates announced for Oct. 17 election",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/15/sd91-candidates-announced-for-oct-17-election/",
+      "published_date": "2026-09-15T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Chow says Toronto is thriving, but the numbers tell a different story",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/chow-says-toronto-thriving-numbers-tell-different-story",
+      "published_date": "2026-09-15T11:29:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Downtown Windsor library moving to City Hall Square",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/downtown-windsor-library-moving-to-city-hall-square",
+      "published_date": "2026-09-15T10:44:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Essex County participants enjoy a Fest-for-All",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/essex-county-participants-enjoy-a-fest-for-all",
+      "published_date": "2026-09-15T10:32:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Windsor child killer serving life sentence granted temporary leave from prison",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/windsor-child-killer-serving-life-sentence-granted-temporary-leave-from-prison",
+      "published_date": "2026-09-15T10:20:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New poll finds many Toronto restaurants facing ongoing cost pressures",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/poll-toronto-restaurants-ongoing-cost-pressures",
+      "published_date": "2026-09-15T10:05:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Many Ontarians feeling less financially secure than year ago, survey shows",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/many-ontarians-less-financially-secure-survey",
+      "published_date": "2026-09-15T10:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MLA hopefuls spar in Abbotsford-Mission byelection debate",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/mla-hopefuls-spar-in-abbotsford-mission-byelection-debate/",
+      "published_date": "2026-09-15T05:15:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver takes some civic election candidates to court over Chinese-character names",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-takes-some-civic-election-candidates-to-court-over-chinese-character-names",
+      "published_date": "2026-09-15T03:49:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local candidate shares kid friendly resources ahead of elections",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/09/14/local-candidate-shares-kid-friendly-resources-ahead-of-elections/",
+      "published_date": "2026-09-15T03:12:29Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Teen boy slain in North York during brazen daylight shooting",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/teen-boy-slain-north-york-shooting",
@@ -414,132 +547,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-man-accused-stealing-ttc-truck",
       "published_date": "2026-09-15T00:41:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security firm that struggled to staff World Cup events lands city shelter contract",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/star-security-toronto-homeless-shelter-contract",
-      "published_date": "2026-09-14T23:43:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "All 3 youth pleaded guilty to manslaughter in death of Penticton’s Taig Savage",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/all-3-youth-pleaded-guilty-to-manslaughter-in-death-of-pentictons-taig-savage/",
-      "published_date": "2026-09-14T23:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man sought in deadly Hamilton assault; cops on the hunt for federal offender",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-sought-after-deadly-hamilton-assault",
-      "published_date": "2026-09-14T23:02:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major Crime Unit investigating homicide after Fort St. James man dead",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/rcmp-investigating-fort-st-james-homicide-77-year-old-man-dead/",
-      "published_date": "2026-09-14T22:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clinton community rallies together following Pear Lake wildfire",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/clinton-community-rallies-together-following-pear-lake-wildfire/",
-      "published_date": "2026-09-14T22:25:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teens accused of assaulting, threatening seniors in shocking GO Transit video",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/teens-accused-assault-threats-go-train",
-      "published_date": "2026-09-14T22:15:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chemical spill forces Leamington road closures",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/chemical-spill-forces-leamington-road-closures",
-      "published_date": "2026-09-14T22:04:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Settlement reached over Staccato cherry dispute",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/settlement-reached-over-staccato-cherry-dispute/",
-      "published_date": "2026-09-14T21:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Postmedia reporters named as Webster Award finalists",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/three-postmedia-reporters-named-as-webster-award-finalists",
-      "published_date": "2026-09-14T21:29:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RDBN releases candidate list for Oct. 17 election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/rdbn-releases-candidate-list-for-oct-17-election/",
-      "published_date": "2026-09-14T21:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alberta man sues Kelowna RCMP officers over alleged unlawful search, seizure",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/alberta-man-sues-kelowna-rcmp-officers-over-alleged-unlawful-search-seizure/",
-      "published_date": "2026-09-14T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Mark Carney needs to come clean on what he'd surrender to join European Union",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carney-must-unveil-european-union-dealings",
-      "published_date": "2026-09-14T20:29:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP investigating report of human remains found  near Salmon Arm",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/rcmp-investigating-report-of-human-remains-found-near-salmon-arm/",
-      "published_date": "2026-09-14T20:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. tourist warns Americans after driving on Toronto-area highway: 'DO NOT DRIVE IN CANADA'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/u-s-tourist-warns-americans-after-driving-on-toronto-area-highway-do-not-drive-in-canada",
-      "published_date": "2026-09-14T19:45:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video shows York cop tackling motorcyclist accused of fleeing crash",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/video-shows-york-cop-tackling-motorcyclist",
-      "published_date": "2026-09-14T19:33:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "High-risk sex offender moving into Surrey, police warn",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/high-risk-sex-offender-moving-into-surrey-police-warn",
-      "published_date": "2026-09-14T19:29:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TV hosts Ant and Dec set up shop in B.C. for spin-off series",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/im-a-celebrity-reality-show-franchise-filming-in-bc-canada",
-      "published_date": "2026-09-14T19:10:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman accused of stripping naked on Miami flight, engaging in ‘indecent acts’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/woman-accused-stripping-naked-on-flight",
-      "published_date": "2026-09-14T19:03:13Z",
       "category": "Local Events"
     }
   ]
