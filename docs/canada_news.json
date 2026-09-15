@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T16:39:16Z",
+  "generated_at": "2026-09-15T01:15:53Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 76,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "More than 270,000 crossings recorded at Gordie Howe bridge in August, says Statistics Canada",
+      "source": "Windsor Star",
+      "url": "https://windsorstar.com/news/local-news/more-than-270000-crossings-recorded-at-gordie-howe-bridge-in-august-says-statistics-canada",
+      "published_date": "2026-09-14T17:37:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Mark Carney wants to make Canada an 'associate' EU member",
       "source": "Toronto Sun",
@@ -79,6 +86,13 @@
       "url": "https://torontosun.com/news/u-of-t-usw-reach-tentative-deal",
       "published_date": "2026-09-08T15:26:15Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Former B.C. attorneys general sign letter in defence of modern treaties as land claim controversy continues",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/former-bc-attorneys-general-letter-defending-modern-treaties-land-claim-controversy",
+      "published_date": "2026-09-14T17:43:43Z",
+      "category": "Military"
     },
     {
       "title": "Defence warns of ‘dangerous witnesses’ as B.C. shooting-murder trial closes",
@@ -214,11 +228,25 @@
       "category": "Military"
     },
     {
-      "title": "B.C. border signs to declare Canada &#039;never the 51st state&#039; in province&#039;s response to trade war",
+      "title": "Vaughn Palmer: Numbers contradict B.C. finance minister&#039;s optimistic tone",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-border-signs-to-declare-canada-never-the-51st-state-in-provinces-response-to-canada-u-s-trade-war",
-      "published_date": "2026-09-08T23:39:57Z",
-      "category": "Military"
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-numbers-contradict-bc-finance-ministers-optimistic-tone",
+      "published_date": "2026-09-14T23:44:41Z",
+      "category": "Energy"
+    },
+    {
+      "title": "B.C. finance minister faces heat over increasing deficit, projection errors",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-now-projecting-a-deficit-of-over-13-7-billion-amid-errors-on-natural-gas-revenue",
+      "published_date": "2026-09-14T19:56:27Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Seniors’ caravan rolls through Revelstoke in call for Canada to tackle climate change",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/seniors-caravan-rolls-through-revelstoke-in-call-for-canada-to-tackle-climate-change/",
+      "published_date": "2026-09-14T17:49:00Z",
+      "category": "Energy"
     },
     {
       "title": "Opinion: Why Canada&#039;s new pipeline proposal threatens the Salish Sea",
@@ -233,6 +261,20 @@
       "url": "https://torontosun.com/opinion/columnists/whitmers-reckless-line-5-crusade-puts-ontarios-energy-security-at-risk",
       "published_date": "2026-09-10T22:49:39Z",
       "category": "Energy"
+    },
+    {
+      "title": "B.C.’s deficit rises to nearly $13.8B after first quarter report released",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/b-c-s-deficit-rises-to-nearly-13-8b-after-first-quarter-report-released/",
+      "published_date": "2026-09-14T23:19:20Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mystery CN business train sparks curiosity in Kitimat",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/mystery-cn-business-train-sparks-curiosity-in-kitimat/",
+      "published_date": "2026-09-14T22:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "&#039;Big trouble&#039;: Vancouver&#039;s increasing real estate foreclosures indicate a disturbing economy",
@@ -361,157 +403,143 @@
       "category": "Economy"
     },
     {
-      "title": "Man duct-taped to seat during mid-flight disturbance fired from his job",
+      "title": "Teen boy slain in North York during brazen daylight shooting",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/man-duct-taped-to-seat-during-mid-flight-disturbance-fired-from-job",
-      "published_date": "2026-09-09T19:44:26Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump tariff retaliation will squeeze Canadian biz: Industry group",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/trump-tariff-retaliation-will-squeeze-canadian-biz-industry-group",
-      "published_date": "2026-09-09T18:30:33Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump says calls to slow AI 'sick conspiracy'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trump-says-calls-to-slow-ai-sick-conspiracy",
-      "published_date": "2026-09-14T16:32:35Z",
+      "url": "https://torontosun.com/news/local-news/teen-boy-slain-north-york-shooting",
+      "published_date": "2026-09-15T01:04:13Z",
       "category": "Local Events"
     },
     {
-      "title": "BLACK DAHLIA: Inside the horror hotel where she was slain in 1947",
+      "title": "Toronto man accused of causing carnage in stolen TTC truck; shots fired at Ajax home",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/solving-80-year-old-cold-case-murder-of-black-dahlia",
-      "published_date": "2026-09-14T15:58:00Z",
+      "url": "https://torontosun.com/news/local-news/toronto-man-accused-stealing-ttc-truck",
+      "published_date": "2026-09-15T00:41:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Cat in the Hat meme is no laughing matter to authorities",
+      "title": "Security firm that struggled to staff World Cup events lands city shelter contract",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/cat-in-the-hat-meme-no-laughing-matter-to-authorities",
-      "published_date": "2026-09-14T15:46:16Z",
+      "url": "https://torontosun.com/news/local-news/star-security-toronto-homeless-shelter-contract",
+      "published_date": "2026-09-14T23:43:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Japanese porn queen Hana Kuraki in Tokyo suicide death mystery",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/japanese-porn-queen-hana-kuraki-tokyo-death-mystery",
-      "published_date": "2026-09-14T14:49:52Z",
+      "title": "All 3 youth pleaded guilty to manslaughter in death of Penticton’s Taig Savage",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/all-3-youth-pleaded-guilty-to-manslaughter-in-death-of-pentictons-taig-savage/",
+      "published_date": "2026-09-14T23:13:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Google to snoop search, video history to spot underrage users",
+      "title": "Man sought in deadly Hamilton assault; cops on the hunt for federal offender",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/google-to-snoop-search-video-history-underrage-users",
-      "published_date": "2026-09-14T14:42:51Z",
+      "url": "https://torontosun.com/news/local-news/man-sought-after-deadly-hamilton-assault",
+      "published_date": "2026-09-14T23:02:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Windsor police charge man following sexual assault of teen",
+      "title": "Major Crime Unit investigating homicide after Fort St. James man dead",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/rcmp-investigating-fort-st-james-homicide-77-year-old-man-dead/",
+      "published_date": "2026-09-14T22:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clinton community rallies together following Pear Lake wildfire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/clinton-community-rallies-together-following-pear-lake-wildfire/",
+      "published_date": "2026-09-14T22:25:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teens accused of assaulting, threatening seniors in shocking GO Transit video",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/teens-accused-assault-threats-go-train",
+      "published_date": "2026-09-14T22:15:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chemical spill forces Leamington road closures",
       "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/windsor-man-arrested-for-sexual-assault-of-teen",
-      "published_date": "2026-09-14T14:36:31Z",
+      "url": "https://windsorstar.com/news/local-news/chemical-spill-forces-leamington-road-closures",
+      "published_date": "2026-09-14T22:04:46Z",
       "category": "Local Events"
     },
     {
-      "title": "OPP charge 3 Essex County motorists with impaired driving",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/opp-charge-3-essex-county-motorists-with-impaired-driving",
-      "published_date": "2026-09-14T14:32:06Z",
+      "title": "Settlement reached over Staccato cherry dispute",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/settlement-reached-over-staccato-cherry-dispute/",
+      "published_date": "2026-09-14T21:59:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Toronto man says city has ‘worst dating scene’ in the world",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-says-city-worst-dating-scene-in-world",
-      "published_date": "2026-09-14T13:48:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Online responses boost 2026 Census to near-record high",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/online-responses-boost-2026-census-to-near-record-high",
-      "published_date": "2026-09-14T13:26:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Should B.C. doctors inform new patients of treatments they won&#039;t do because of religious belief?",
+      "title": "Three Postmedia reporters named as Webster Award finalists",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/health/should-bc-doctors-inform-patients-treatments-they-wont-do-because-religious-belief",
-      "published_date": "2026-09-14T13:00:23Z",
+      "url": "https://vancouversun.com/news/three-postmedia-reporters-named-as-webster-award-finalists",
+      "published_date": "2026-09-14T21:29:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Burns Lake rock band prepares to record first album",
+      "title": "RDBN releases candidate list for Oct. 17 election",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/burns-lake-rock-band-prepares-to-record-first-album/",
-      "published_date": "2026-09-14T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/rdbn-releases-candidate-list-for-oct-17-election/",
+      "published_date": "2026-09-14T21:27:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Neil Peart TIFF doc sort of a 'zeitgeist moment' occurring same time as Rush's new tour",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/movies/neil-peart-tiff-doc-zeitgeist-moment-rushs-new-tour",
-      "published_date": "2026-09-14T11:00:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Third shift at Windsor Assembly Plant a sticking point as Unifor, Stellantis pause talks",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/third-shift-at-windsor-assembly-plant-a-sticking-point-as-unifor-stellantis-pause-talks",
-      "published_date": "2026-09-14T10:42:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: We watched antisemitism at TMU from sidelines; silence isn't an option",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/silence-not-option-tmu-antisemitism-unchecked",
-      "published_date": "2026-09-14T10:00:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Novotny’s three-point game powers Vancouver Canucks to 5-2 win over Seattle Kraken",
+      "title": "Alberta man sues Kelowna RCMP officers over alleged unlawful search, seizure",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/13/novotnys-three-point-game-powers-vancouver-canucks-to-5-2-win-over-seattle-kraken/",
-      "published_date": "2026-09-14T00:46:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/alberta-man-sues-kelowna-rcmp-officers-over-alleged-unlawful-search-seizure/",
+      "published_date": "2026-09-14T20:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. budgets $15 million for FireSmart projects in 2027",
+      "title": "LILLEY: Mark Carney needs to come clean on what he'd surrender to join European Union",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-must-unveil-european-union-dealings",
+      "published_date": "2026-09-14T20:29:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP investigating report of human remains found  near Salmon Arm",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/13/b-c-budgets-15-million-for-firesmart-projects-in-2027/",
-      "published_date": "2026-09-14T00:29:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/rcmp-investigating-report-of-human-remains-found-near-salmon-arm/",
+      "published_date": "2026-09-14T20:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Demolition derbies part of fall fair fun across Greater Toronto Area",
+      "title": "U.S. tourist warns Americans after driving on Toronto-area highway: 'DO NOT DRIVE IN CANADA'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/fall-fairs-offer-fun-demolition-derbies",
-      "published_date": "2026-09-13T20:08:53Z",
+      "url": "https://torontosun.com/news/local-news/u-s-tourist-warns-americans-after-driving-on-toronto-area-highway-do-not-drive-in-canada",
+      "published_date": "2026-09-14T19:45:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Roseland Golf Club celebrates 100 years",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/roseland-golf-club-celebrates-100-years",
-      "published_date": "2026-09-13T19:46:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Think the Toronto Public Library is just about books? Think again",
+      "title": "Video shows York cop tackling motorcyclist accused of fleeing crash",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-public-library-about-more-than-books",
-      "published_date": "2026-09-13T18:37:05Z",
+      "url": "https://torontosun.com/news/local-news/video-shows-york-cop-tackling-motorcyclist",
+      "published_date": "2026-09-14T19:33:16Z",
       "category": "Local Events"
     },
     {
-      "title": "LAKE ONTARIO FOREVER: Ten spots to enjoy the great lake in Canada",
+      "title": "High-risk sex offender moving into Surrey, police warn",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/high-risk-sex-offender-moving-into-surrey-police-warn",
+      "published_date": "2026-09-14T19:29:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "TV hosts Ant and Dec set up shop in B.C. for spin-off series",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/im-a-celebrity-reality-show-franchise-filming-in-bc-canada",
+      "published_date": "2026-09-14T19:10:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman accused of stripping naked on Miami flight, engaging in ‘indecent acts’",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/places-to-enjoy-lake-ontario-in-canada",
-      "published_date": "2026-09-13T18:08:01Z",
+      "url": "https://torontosun.com/news/world/woman-accused-stripping-naked-on-flight",
+      "published_date": "2026-09-14T19:03:13Z",
       "category": "Local Events"
     }
   ]
