@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T01:01:34Z",
+  "generated_at": "2026-09-19T14:00:56Z",
   "country": "Canada",
   "total_stories": 70,
   "categories": [
@@ -95,6 +95,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "This Day in History, 1942: Fierce fighting turns Stalingrad into a &#039;Cauldron of Death&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1942-fierce-fighting-turns-stalingrad-into-a-cauldron-of-death",
+      "published_date": "2026-09-19T13:00:56Z",
+      "category": "Military"
+    },
+    {
       "title": "Interpreter for Canadian troops during Afghanistan war denied immigration to B.C.",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/interpreter-for-canadian-troops-during-afghanistan-war-denied-immigration-to-bc",
@@ -176,13 +183,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/boris-johnson-european-officials-russian-strike",
       "published_date": "2026-09-13T18:57:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Randy Essex: Trump won't give up on tariffs as his favourite weapon",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/opinion/editorials/randy-essex-trump-wont-give-up-on-tariffs-as-his-favourite-weapon",
-      "published_date": "2026-09-12T11:00:44Z",
       "category": "Military"
     },
     {
@@ -361,6 +361,27 @@
       "category": "Economy"
     },
     {
+      "title": "Vancouver election heats up with seven parties and five mayoral candidates in the mix",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-election-heats-up",
+      "published_date": "2026-09-19T13:50:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Foo Fighters in Vancouver: What to know about the show",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/foo-fighters-vancouver-what-to-know-about-the-concert",
+      "published_date": "2026-09-19T13:00:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Who is sex maniac cops call worst L.A. serial killer?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-who-is-sex-maniac-cops-call-worst-l-a-serial-killer",
+      "published_date": "2026-09-19T12:00:16Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Arrest made after stabbing near Nanaimo overdose prevention site",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/18/arrest-made-after-stabbing-at-nanaimo-overdose-prevention-site/",
@@ -477,27 +498,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-premier-david-eby-slams-brakes-expanding-pst-professional-services",
       "published_date": "2026-09-18T19:46:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto's SickKids named world's best children's hospital for second year in a row",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/health/torontos-sickkids-named-worlds-best-childrens-hospital-for-second-year-in-a-row",
-      "published_date": "2026-09-18T19:30:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eby suspends planned B.C. PST expansion, pledges future ferries to be built locally",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/18/eby-suspends-planned-b-c-pst-expansion-pledges-future-ferries-to-be-built-locally/",
-      "published_date": "2026-09-18T19:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police charge youth following death threats, assault with pepper spray",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/police-charge-youth-following-death-threats",
-      "published_date": "2026-09-18T19:06:36Z",
       "category": "Local Events"
     }
   ]
