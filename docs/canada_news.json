@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T00:48:39Z",
+  "generated_at": "2026-09-20T14:21:52Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -86,6 +86,13 @@
       "url": "https://torontosun.com/opinion/columnists/carney-seeks-associate-eu-member-status",
       "published_date": "2026-09-13T14:43:29Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "QUIZ: Understanding international trade agreements",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/20/quiz-understanding-international-trade-agreements/",
+      "published_date": "2026-09-20T12:20:00Z",
+      "category": "Military"
     },
     {
       "title": "This Day in History, 1942: Fierce fighting turns Stalingrad into a &#039;Cauldron of Death&#039;",
@@ -347,6 +354,27 @@
       "category": "Economy"
     },
     {
+      "title": "Toronto's CrateryCon not your typical music festival and record fair",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/craterycon-not-typical-music-festival-record-fair",
+      "published_date": "2026-09-20T14:04:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Omineca Ski Club faces critical volunteer deficit ahead of Centennial year",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/20/omineca-ski-club-faces-critical-volunteer-deficit-ahead-of-centennial-year/",
+      "published_date": "2026-09-20T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake CAO from Armstrong earns provincial honour",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/20/burns-lake-cao-from-armstrong-earns-provincial-honour/",
+      "published_date": "2026-09-20T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "See the list of B.C. and Yukon Book Prize winners, including two Vancouver writers",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/entertainment/books/see-list-bc-yukon-book-prize-winners",
@@ -463,27 +491,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/crime-hunter-who-is-sex-maniac-cops-call-worst-l-a-serial-killer",
       "published_date": "2026-09-19T12:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrest made after stabbing near Nanaimo overdose prevention site",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/18/arrest-made-after-stabbing-at-nanaimo-overdose-prevention-site/",
-      "published_date": "2026-09-19T00:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. judge rules Vancouver city candidates can use Chinese names on ballot",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-judge-rules-vancouver-city-candidates-can-use-chinese-names-on-ballot",
-      "published_date": "2026-09-18T23:21:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air India families shocked that RCMP investigation at a dead end after 41 years",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/air-india-families-shocked-investigation-dead-end-after-41-years",
-      "published_date": "2026-09-18T22:50:47Z",
       "category": "Local Events"
     }
   ]
