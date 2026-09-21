@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T14:21:52Z",
+  "generated_at": "2026-09-21T00:55:20Z",
   "country": "Canada",
-  "total_stories": 69,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: While the world burns, the UN looks away",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/while-the-world-burns-the-un-looks-away",
+      "published_date": "2026-09-20T17:13:04Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU CANADA! What joining Europe's elite club means for your wallet, passport",
       "source": "Toronto Sun",
@@ -81,11 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: Mark Carney wants to make Canada an 'associate' EU member",
+      "title": "Trump says Washington triumphal arch will serve as a 'military complex'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carney-seeks-associate-eu-member-status",
-      "published_date": "2026-09-13T14:43:29Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/trump-says-washington-triumphal-arch-will-serve-as-a-military-complex",
+      "published_date": "2026-09-20T17:25:18Z",
+      "category": "Military"
     },
     {
       "title": "QUIZ: Understanding international trade agreements",
@@ -169,20 +176,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/former-bc-attorneys-general-letter-defending-modern-treaties-land-claim-controversy",
       "published_date": "2026-09-14T17:43:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "Defence warns of ‘dangerous witnesses’ as B.C. shooting-murder trial closes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/13/defence-warns-of-dangerous-witnesses-as-b-c-shooting-murder-trial-closes/",
-      "published_date": "2026-09-13T23:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Boris Johnson, other European officials at Ukrainian train station before Russian strike",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/boris-johnson-european-officials-russian-strike",
-      "published_date": "2026-09-13T18:57:48Z",
       "category": "Military"
     },
     {
@@ -354,6 +347,111 @@
       "category": "Economy"
     },
     {
+      "title": "SLC nursing faculty lead research selected for federal funding",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/09/20/slc-nursing-faculty-lead-research-selected-for-federal-funding/",
+      "published_date": "2026-09-21T00:25:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keeping risk factors in check crucial part of warding off dementia",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/keeping-risk-factors-checked-dementia-prevention",
+      "published_date": "2026-09-21T00:20:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Experts sound alarm with dementia care 'abandoned politically' in Canada",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/experts-sound-alarm-dementia-care-abandoned",
+      "published_date": "2026-09-20T22:34:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey wins bid to host long-awaited B.C. South Asian heritage museum",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/south-asian-heritage-museum-surrey",
+      "published_date": "2026-09-20T21:47:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boxing champ George Chuvalo's funeral set for Monday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/boxing-champ-george-chuvalos-funeral-set-for-monday",
+      "published_date": "2026-09-20T21:09:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerry-Lynne Findlay steps down as leader of B.C. Conservatives",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/20/kerry-lynne-findlay-steps-down-as-leader-of-b-c-conservatives/",
+      "published_date": "2026-09-20T20:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerry-Lynne Findlay buckles under pressure, resigns as B.C. Conservative leader",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-conversative-leader-kerry-lynne-findlay-resigns",
+      "published_date": "2026-09-20T20:45:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey MLA Linda Hepner latest to leave B.C. Conservative caucus",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-mla-linda-hepner-latest-to-leave-b-c-conservative-caucus",
+      "published_date": "2026-09-20T20:23:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MLA Linda Hepner leaves B.C. Conservative caucus",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/20/mla-linda-hepner-leaves-b-c-conservative-caucus/",
+      "published_date": "2026-09-20T18:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged in fatal North York shooting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-charged-in-fatal-north-york-shooting",
+      "published_date": "2026-09-20T18:30:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Winning $32 million Lotto 6/49 ticket purchased in Surrey on Saturday",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/winning-32-million-lotto-6-49-ticket-purchased-in-surrey-on-saturday",
+      "published_date": "2026-09-20T17:54:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Group sues City of Toronto, claims law broken in picking shelter spots",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/safe-neighbourhoods-toronto-city-shelter-lawsuit",
+      "published_date": "2026-09-20T15:42:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey 2026 election taking shape, with three familiar parties vying for top spot again",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-2026-election-taking-shape-with-three-familiar-parties-vying-for-top-spot-again",
+      "published_date": "2026-09-20T15:00:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Get the look: Refresh faded, overgrown hair with grey blending and a chic cropped French bob",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/makeover-grey-blending-cropped-french-bob",
+      "published_date": "2026-09-20T15:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raise-a-Reader: Surrey and White Rock literacy-support program offers story walk kits for kids",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/raise-a-reader-surrey-white-rock-literacy-support-program",
+      "published_date": "2026-09-20T15:00:01Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Toronto's CrateryCon not your typical music festival and record fair",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/craterycon-not-typical-music-festival-record-fair",
@@ -386,111 +484,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/obituary-bc-judge-thomas-gove-pioneering-bc-judge",
       "published_date": "2026-09-19T22:09:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRACKED: TTC's disastrous electric bus experience exposed",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ttc-crack-proterra-electric-bus-failures",
-      "published_date": "2026-09-19T21:41:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 33, sought for crime spree targeting vehicles in Mississauga",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/woman-sought-crime-spree-targeting-vehicles-mississauga",
-      "published_date": "2026-09-19T21:16:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. government partners with UBC, McGill to develop life-saving gene therapy for Surrey boy",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/19/b-c-government-partners-with-ubc-mcgill-to-develop-life-saving-gene-therapy-for-surrey-boy/",
-      "published_date": "2026-09-19T20:19:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. arrest involving less-lethal weapons, police dog sparks IIO probe",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/19/b-c-arrest-involving-less-lethal-weapons-police-dog-sparks-iio-probe/",
-      "published_date": "2026-09-19T19:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scammers tricking some B.C. residents into sending them their cellphones",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/scammers-bc-sending-cellphones",
-      "published_date": "2026-09-19T19:02:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Many reasons to embrace enhanced relationship with Europe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/reasons-embrace-enhanced-relationship-europe",
-      "published_date": "2026-09-19T16:27:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto woman, 23, and unknown male wanted for Scarborough distraction robbery",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-woman-23-and-unknown-male-wanted-for-scarborough-distraction-robbery",
-      "published_date": "2026-09-19T15:09:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Vancouver Sun: Bewildered over Vancouver land development policies",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-bewildered-over-vancouver-land-development-policies",
-      "published_date": "2026-09-19T15:00:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dan Fumano: Mental-health struggles of B.C.&#039;s local politicians are a problem for everyone",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/mental-health-support-municipal-officials-bc",
-      "published_date": "2026-09-19T15:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Identity of man sought for suspected hate-motivated assault; two injured in Toronto stabbing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/two-injured-toronto-stabbing-shots-fired-markham-home",
-      "published_date": "2026-09-19T14:10:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: How the Summerland wildfire affected wineries — and what you can do about it",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/anthony-gismondi-how-the-summerland-wildfire-affects-wineries-and-what-you-can-do-about-it",
-      "published_date": "2026-09-19T14:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fred Hollingsworth&#039;s West Coast Modern &#039;Mahogany House&#039; for sale in North Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/real-estate/fred-hollingsworths-west-coast-modern-mahogany-house-for-sale-north-vancouver",
-      "published_date": "2026-09-19T14:00:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver election heats up with seven parties and five mayoral candidates in the mix",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-election-heats-up",
-      "published_date": "2026-09-19T13:50:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foo Fighters in Vancouver: What to know about the show",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/foo-fighters-vancouver-what-to-know-about-the-concert",
-      "published_date": "2026-09-19T13:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Who is sex maniac cops call worst L.A. serial killer?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-who-is-sex-maniac-cops-call-worst-l-a-serial-killer",
-      "published_date": "2026-09-19T12:00:16Z",
       "category": "Local Events"
     }
   ]
