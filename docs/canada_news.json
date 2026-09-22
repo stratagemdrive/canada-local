@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T16:39:37Z",
+  "generated_at": "2026-09-22T01:29:41Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 65,
   "categories": [
     "Diplomacy",
     "Military",
@@ -78,13 +78,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/carney-responds-to-trumps-latest-trade-deal-comments",
       "published_date": "2026-09-15T15:09:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "More than 270,000 crossings recorded at Gordie Howe bridge in August, says Statistics Canada",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/more-than-270000-crossings-recorded-at-gordie-howe-bridge-in-august-says-statistics-canada",
-      "published_date": "2026-09-14T17:37:55Z",
       "category": "Diplomacy"
     },
     {
@@ -172,13 +165,6 @@
       "category": "Military"
     },
     {
-      "title": "Former B.C. attorneys general sign letter in defence of modern treaties as land claim controversy continues",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/former-bc-attorneys-general-letter-defending-modern-treaties-land-claim-controversy",
-      "published_date": "2026-09-14T17:43:43Z",
-      "category": "Military"
-    },
-    {
       "title": "Concert Review: Foo Fighters serve up 30 years of crowd-pleasers",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/entertainment/music/concert-review-foo-fighters-30-years-crowd-pleasers",
@@ -200,25 +186,18 @@
       "category": "Energy"
     },
     {
-      "title": "Vaughn Palmer: Numbers contradict B.C. finance minister&#039;s optimistic tone",
+      "title": "Exports up as Port of Vancouver handles record cargo at half-year mark",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-numbers-contradict-bc-finance-ministers-optimistic-tone",
-      "published_date": "2026-09-14T23:44:41Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/business/exports-up-port-of-vancouver-handles-record-cargo-half-year-mark",
+      "published_date": "2026-09-21T23:09:10Z",
+      "category": "Economy"
     },
     {
-      "title": "B.C. finance minister faces heat over increasing deficit, projection errors",
+      "title": "Vaughn Palmer: David Eby about to call a totally unnecessary B.C. election",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-now-projecting-a-deficit-of-over-13-7-billion-amid-errors-on-natural-gas-revenue",
-      "published_date": "2026-09-14T19:56:27Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Seniors’ caravan rolls through Revelstoke in call for Canada to tackle climate change",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/seniors-caravan-rolls-through-revelstoke-in-call-for-canada-to-tackle-climate-change/",
-      "published_date": "2026-09-14T17:49:00Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-david-eby-about-to-call-a-totally-unnecessary-bc-election",
+      "published_date": "2026-09-21T23:03:26Z",
+      "category": "Economy"
     },
     {
       "title": "Trump targets Canadian potash in talks with Belarus",
@@ -347,157 +326,143 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: Decision to open Canadian airports to private investment should be welcomed",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/bring-on-carney-airport-investment-plan",
-      "published_date": "2026-09-15T21:54:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C.’s deficit rises to nearly $13.8B after first quarter report released",
+      "title": "CONCERT REVIEW: Foo Fighters bring 31 years of big rock hits to BC Place",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/14/b-c-s-deficit-rises-to-nearly-13-8b-after-first-quarter-report-released/",
-      "published_date": "2026-09-14T23:19:20Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/21/concert-review-foo-fighters-bring-31-years-of-big-rock-hits-to-bc-place/",
+      "published_date": "2026-09-22T01:08:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "'Suspicious' early morning blaze in Mississauga sends 11 to hospital",
+      "title": "OPP rescues raccoon trapped in highway catch basin; Barrie senior scammed of $200,000",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/suspicious-early-morning-blaze-in-mississauga",
-      "published_date": "2026-09-21T15:57:31Z",
+      "url": "https://torontosun.com/news/local-news/opp-rescues-raccoon-trapped-on-highway",
+      "published_date": "2026-09-22T00:26:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Counterfeit laser therapy systems from China recalled from clinics over possible ‘serious health risks’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/counterfeit-laser-therapy-systems-recalled",
-      "published_date": "2026-09-21T15:22:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lindsay Clancy's ex-hubby blasts ghouls: 'Deeply harmful' to kids' legacy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/lindsay-clancys-ex-hubby-blasts-ghouls",
-      "published_date": "2026-09-21T14:16:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Fall Home Show: Smash + Tess will have pop-up shop on site",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/vancouver-fall-home-show/vancouver-fall-home-show-smash-tess-will-have-pop-up-shop-on-site",
-      "published_date": "2026-09-21T14:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Busy summer gives way to busy fall House of Commons sitting",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/busy-summer-gives-way-busy-fall-house-of-commons-sitting",
-      "published_date": "2026-09-21T13:55:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BELLEVILLE SYNAGOGUE SHOOTING THE LATEST: Carney says 'Jewish people must be able to worship safely'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/belleville-synagogue-shooting-latest-updates",
-      "published_date": "2026-09-21T13:23:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Skunk in the Kootenay Lake region tests positive for rabies",
+      "title": "Burnaby Hospital redevelopment back on after ‘brief’ cancellation",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/21/skunk-in-the-kootenay-lake-region-tests-positive-for-rabies/",
-      "published_date": "2026-09-21T13:13:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/21/burnaby-hospital-redevelopment-back-on-after-brief-cancellation/",
+      "published_date": "2026-09-22T00:15:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Porsche driver left without ICBC insurance for car that burned on racetrack",
+      "title": "Behind Kerry-Lynne Findlay&#039;s exit as B.C. Conservative leader. What comes next?",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/porsche-driver-left-without-icbc-insurance-car-burned-racetrack",
-      "published_date": "2026-09-21T13:00:47Z",
+      "url": "https://vancouversun.com/news/behind-kerry-lynne-findlays-exit-as-bc-conservative-leader-what-comes-next",
+      "published_date": "2026-09-22T00:06:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Municipal Election 2026:  5 races to watch, plus Metro Vancouver on the ballot",
+      "title": "New York City lifestyle brand teams up with The North Face",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/municipal-election-2026-races-to-watch-plus-metro-vancouver-on-the-ballot",
-      "published_date": "2026-09-21T13:00:43Z",
+      "url": "https://vancouversun.com/life/fashion-beauty/new-york-city-lifestyle-brand-teams-up-with-the-north-face",
+      "published_date": "2026-09-21T23:57:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Multi-vehicle crash closes Granville Street Bridge Sunday afternoon",
+      "title": "ABC Vancouver wants to &#039;reestablish social norms&#039; around public drug use, but rivals question the party&#039;s record so far",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/granville-street-bridge-closed-in-both-directions-due-to-a-multi-vehicle-crash",
-      "published_date": "2026-09-21T03:49:29Z",
+      "url": "https://vancouversun.com/opinion/columnists/abc-vancouver-wants-to-reestablish-social-norms-around-public-drug-use-but-rivals-question-the-partys-record-so-far",
+      "published_date": "2026-09-21T23:43:36Z",
       "category": "Local Events"
     },
     {
-      "title": "KINSELLA: 'Devastating' Yom Kippur synagogue shooting rocks Belleville",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/devastating-synagogue-shooting-rocks-belleville",
-      "published_date": "2026-09-21T02:00:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SLC nursing faculty lead research selected for federal funding",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/09/20/slc-nursing-faculty-lead-research-selected-for-federal-funding/",
-      "published_date": "2026-09-21T00:25:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keeping risk factors in check crucial part of warding off dementia",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/keeping-risk-factors-checked-dementia-prevention",
-      "published_date": "2026-09-21T00:20:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Experts sound alarm with dementia care 'abandoned politically' in Canada",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/experts-sound-alarm-dementia-care-abandoned",
-      "published_date": "2026-09-20T22:34:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey wins bid to host long-awaited B.C. South Asian heritage museum",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/south-asian-heritage-museum-surrey",
-      "published_date": "2026-09-20T21:47:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boxing champ George Chuvalo's funeral set for Monday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/boxing-champ-george-chuvalos-funeral-set-for-monday",
-      "published_date": "2026-09-20T21:09:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerry-Lynne Findlay steps down as leader of B.C. Conservatives",
+      "title": "Fatal train strikes more than double in B.C.",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/20/kerry-lynne-findlay-steps-down-as-leader-of-b-c-conservatives/",
-      "published_date": "2026-09-20T20:48:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/21/fatal-train-strikes-more-than-double-in-b-c/",
+      "published_date": "2026-09-21T23:37:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Kerry-Lynne Findlay buckles under pressure, resigns as B.C. Conservative leader",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conversative-leader-kerry-lynne-findlay-resigns",
-      "published_date": "2026-09-20T20:45:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey MLA Linda Hepner latest to leave B.C. Conservative caucus",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-mla-linda-hepner-latest-to-leave-b-c-conservative-caucus",
-      "published_date": "2026-09-20T20:23:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MLA Linda Hepner leaves B.C. Conservative caucus",
+      "title": "B.C. Conservatives appoint Lorne Doerkson interim leader as ousted MLAs rejoin party",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/20/mla-linda-hepner-leaves-b-c-conservative-caucus/",
-      "published_date": "2026-09-20T18:40:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/21/b-c-conservatives-appoint-lorne-doerkson-interim-leader/",
+      "published_date": "2026-09-21T23:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. legislature begins special hearing into first five years of ICBC&#039;s no-fault insurance",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/bc-legislature-begins-special-hearing-first-five-years-icbc-no-fault-insurance",
+      "published_date": "2026-09-21T22:43:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI 'actress' Tilly Norwood glitches during Piers Morgan interview",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/ai-actress-tilly-norwood-glitches-piers-morgan-interview",
+      "published_date": "2026-09-21T22:38:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seniors dead after Scarborough shooting; Hamilton teen charged with attempted murder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/senior-couple-dead-after-scarborough-shooting",
+      "published_date": "2026-09-21T22:25:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Lorne Doerkson? Meet the B.C. Conservatives&#039; new interim leader",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/who-is-lorne-doerkson-meet-the-bc-conservatives-new-interim-leader",
+      "published_date": "2026-09-21T22:05:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Brunswick ponders restricting U.S. hunters, anglers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/new-brunswick-ponders-restricting-us-hunters-anglers",
+      "published_date": "2026-09-21T21:58:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "No criminality: Woman’s body found 10 years after disappearance near Salmon Arm",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/21/no-criminality-womans-body-found-10-years-after-disappearance-near-salmon-arm/",
+      "published_date": "2026-09-21T21:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tories making affordability key issue in fall session",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/tories-making-affordability-key-issue-in-fall-session",
+      "published_date": "2026-09-21T21:18:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Columbia River – Revelstoke MLA McInnis rejoins Conservative caucus",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/21/mla-mcinnis-rejoins-conservatives/",
+      "published_date": "2026-09-21T21:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Whitby man, 19, accused of threatening to shoot up synagogue in Durham Region",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/whitby-man-accused-synagogue-shooting-threats",
+      "published_date": "2026-09-21T20:57:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Property Watch: Sprawling Coquitlam luxury home boasts eight bedrooms, nine bathrooms",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/sprawling-coquitlam-luxury-home-listed-3million",
+      "published_date": "2026-09-21T20:41:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. launches lawsuit against OpenAI over Tumbler Ridge mass shooting",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-lawsuit-against-openai-tumbler-ridge-mass-shooting",
+      "published_date": "2026-09-21T20:04:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Castlegar cancer survivor alleges unsafe Kelowna hospital stay after surgery",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/21/castlegar-cancer-survivor-alleges-unsafe-kelowna-hospital-stay-after-surgery/",
+      "published_date": "2026-09-21T19:50:58Z",
       "category": "Local Events"
     }
   ]
