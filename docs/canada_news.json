@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T01:19:29Z",
+  "generated_at": "2026-09-23T15:12:22Z",
   "country": "Canada",
-  "total_stories": 64,
+  "total_stories": 61,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,20 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Frozen raspberries recalled in Canada over norovirus risk",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/frozen-raspberries-recalled-norovirus-risk",
-      "published_date": "2026-09-16T14:13:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WARMINGTON: Europe is ready to welcome Canada, but do Canadians want this?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/europe-ready-to-welcome-canada-but-do-canadians-want-this",
-      "published_date": "2026-09-16T13:16:25Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "B.C. premier&#039;s decision to call election came down to Trump chaos and Conservative disorder",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-premier-david-eby-decision-snap-election-trump-chaos-conservative-disorder",
@@ -151,13 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "48 banners honour Windsor veterans along Wyandotte Street East",
-      "source": "Windsor Star",
-      "url": "https://windsorstar.com/news/local-news/48-banners-honour-windsor-veterans-along-wyandotte-street-east",
-      "published_date": "2026-09-16T10:55:29Z",
-      "category": "Military"
-    },
-    {
       "title": "Concert Review: Foo Fighters serve up 30 years of crowd-pleasers",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/entertainment/music/concert-review-foo-fighters-30-years-crowd-pleasers",
@@ -177,6 +156,13 @@
       "url": "https://vancouversun.com/news/outdoor-recreation-contributes-6-billion-to-bc-economy",
       "published_date": "2026-09-17T20:00:18Z",
       "category": "Energy"
+    },
+    {
+      "title": "Tories push back as House finance committee tables pre-budget report",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/tories-push-back-house-finance-committee-tables-pre-budget-report",
+      "published_date": "2026-09-23T14:52:09Z",
+      "category": "Economy"
     },
     {
       "title": "Important dates and timelines for the 2026 B.C. provincial election",
@@ -312,11 +298,102 @@
       "category": "Economy"
     },
     {
-      "title": "U.S. interest rates hiked after Trump urged lower borrowing costs",
+      "title": "Calgary girls' hockey team victim of theft, $10-15k worth of sticks stolen",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/us-interest-rates-hike-trump-urged-lower-borrowing-costs",
-      "published_date": "2026-09-16T21:19:06Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/calgary-girls-hockey-team-victim-of-theft",
+      "published_date": "2026-09-23T14:47:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Gone far too soon’: Motorcyclist who died in Kelowna crash identified",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/gone-far-too-soon-motorcyclist-who-died-in-kelowna-crash-identified/",
+      "published_date": "2026-09-23T14:38:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carnival cruise passenger who jumped overboard ID’d as California dad of three",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/carnival-cruise-passenger-jumped-overboard-california-dad",
+      "published_date": "2026-09-23T13:45:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Historic building with stone facade torn down on Vancouver&#039;s Main Street",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/real-estate/historic-building-stone-facade-torn-down-main-street-vancouver",
+      "published_date": "2026-09-23T13:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Douglas Todd: Canada’s rent control debate thunders on",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-canada-rent-control-debate",
+      "published_date": "2026-09-23T13:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raise-A-Reader: Building a love of reading, one Saturday at a time",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/raise-a-reader-building-a-love-of-reading-one-saturday-at-a-time",
+      "published_date": "2026-09-23T13:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Up against a giant&#039;: Burnaby’s political status quo faces biggest test in years this election",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/burnaby-political-status-quo-biggest-test",
+      "published_date": "2026-09-23T13:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raise-a-Reader funds a week of festivities in Campbell River",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/raise-a-reader-festivities-campbell-river",
+      "published_date": "2026-09-23T13:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coquitlam houses find a new home in Haida Gwaii",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/coquitlam-houses-find-a-new-home-in-haida-gwaii",
+      "published_date": "2026-09-23T13:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Printers brace for another election sign rush in B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/printers-brace-for-another-election-sign-rush-bc",
+      "published_date": "2026-09-23T13:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kick it up a notch with these 5 fall sneakers — all available at Canadian retailers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/best-sneakers-fall-2026",
+      "published_date": "2026-09-23T13:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chilliwack housing roundtable discusses Indigenous development hurdles",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/chilliwack-housing-roundtable-discusses-indigenous-development-hurdles/",
+      "published_date": "2026-09-23T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cocaine shipment mistakenly arrives at Vancouver business",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/record-cocaine-shipment-mistakenly-arrives-at-vancouver-business",
+      "published_date": "2026-09-23T04:55:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rivals take aim at Olivia Chow during Toronto Region Board of Trade mayoral debate",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/bradford-alexander-target-chow-mayoral-debate",
+      "published_date": "2026-09-23T01:39:02Z",
+      "category": "Local Events"
     },
     {
       "title": "Kingston community celebrates opening of first inclusive playground",
@@ -358,104 +435,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/22/kelowna-sees-heroes-fly-in-the-landmark-district-for-easter-seals/",
       "published_date": "2026-09-23T00:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Schools still teaching kids that Canada, being white are the real problems",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/schools-teaching-kids-canada-being-white-problematic",
-      "published_date": "2026-09-22T23:55:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stunt driver on Hwy. 404 busted in mom's car; moose captured in Collingwood",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/stunt-driver-on-hwy-404-busted-in-moms-car",
-      "published_date": "2026-09-22T23:50:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservative Leader Doerkson responds to election call",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/22/b-c-conservative-leader-doerkson-responds-to-election-call/",
-      "published_date": "2026-09-22T23:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: B.C.&#039;s left-wing premier&#039;s snap election call unites the right",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-left-wing-premier-snap-election-call-unites-the-right",
-      "published_date": "2026-09-22T23:37:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Record $100M donation launches Princess Margaret's ambitious cancer campaign",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/record-100m-donation-launches-princess-margarets-ambitious-cancer-campaign",
-      "published_date": "2026-09-22T23:35:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canucks, Kalamazoo Wings continuing partnership for 2026-27 season",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/22/canucks-kalamazoo-wings-continuing-partnership-for-2026-27-season/",
-      "published_date": "2026-09-22T23:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Found not criminally responsible of killing his wife, Ontario man wants to move back to scene of slaying",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/found-not-criminally-responsible-of-killing-his-wife-he-wants-to-move-back-to-scene-of-the-slaying",
-      "published_date": "2026-09-22T23:28:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health Minister Ravi Kahlon says he does not plan to run in upcoming election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/22/health-minister-ravi-kahlon-say-he-does-not-plan-to-run-in-upcoming-election/",
-      "published_date": "2026-09-22T23:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey’s Elenore Sturko named leader of CentreBC as MLAs leave",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/22/surreys-elenore-sturko-is-the-sole-incumbent-mla-for-centrebc-ahead-of-election/",
-      "published_date": "2026-09-22T23:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in custody, another wanted for Niagara Falls slaying; cops warn of sex assault",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-arrested-another-wanted-niagara-homicide",
-      "published_date": "2026-09-22T22:56:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Snap provincial election called in B.C. for Oct. 24",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/22/premier-david-eby-expected-to-call-provincial-snap-election-today/",
-      "published_date": "2026-09-22T22:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Fall Home Show: Wildfire preparation starts before the fire arrives",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/vancouver-fall-home-show/vancouver-fall-home-show-wildfire-preparation-starts-before-the-fire-arrives",
-      "published_date": "2026-09-22T22:15:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Nations say KSM review must reflect updated territorial understanding",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/22/first-nations-say-ksm-review-must-reflect-updated-territorial-understanding/",
-      "published_date": "2026-09-22T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Hells Angels trafficker pleads guilty in long-running island case",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-hells-angels-trafficker-pleads-guilty-long-running-island-case",
-      "published_date": "2026-09-22T21:41:04Z",
       "category": "Local Events"
     }
   ]
