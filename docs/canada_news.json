@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T01:14:03Z",
+  "generated_at": "2026-09-24T15:31:55Z",
   "country": "Canada",
   "total_stories": 58,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "There’s always next season… sigh",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/theres-always-next-season-sigh/",
+      "published_date": "2026-09-24T12:30:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Air India families request urgent meeting with Canada&#039;s public safety minister",
       "source": "Vancouver Sun",
@@ -46,25 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU CANADA! What joining Europe's elite club means for your wallet, passport",
+      "title": "Carney says he’s examined ‘extreme’ risk of U.S. military action against Canada",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/what-canada-joining-eu-means-for-wallet-passport",
-      "published_date": "2026-09-17T14:47:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WARMINGTON: Canada a step closer to joining Europe while moving away from Trump's USA",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-step-closer-to-joining-europe-moving-away-trumps-usa",
-      "published_date": "2026-09-17T13:08:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Donald Trump says he could consider Canada-EU partnership a 'hostile act'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/trump-sounds-off-canada-eu-partnership",
-      "published_date": "2026-09-17T02:05:18Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/carney-examined-risk-u-s-military-action-against-canada",
+      "published_date": "2026-09-24T13:45:46Z",
+      "category": "Military"
     },
     {
       "title": "B.C. premier&#039;s decision to call election came down to Trump chaos and Conservative disorder",
@@ -116,6 +109,13 @@
       "category": "Military"
     },
     {
+      "title": "Vancouver student fights back after wildfire smoke causes health issues",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-student-fights-back-after-wildfire-smoke-causes-health-issues",
+      "published_date": "2026-09-24T14:00:34Z",
+      "category": "Energy"
+    },
+    {
       "title": "Concert Review: Foo Fighters serve up 30 years of crowd-pleasers",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/entertainment/music/concert-review-foo-fighters-30-years-crowd-pleasers",
@@ -135,6 +135,13 @@
       "url": "https://vancouversun.com/news/outdoor-recreation-contributes-6-billion-to-bc-economy",
       "published_date": "2026-09-17T20:00:18Z",
       "category": "Energy"
+    },
+    {
+      "title": "First-time homebuyer tax rebate stalls out nationwide",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/first-time-homebuyer-tax-rebate-stalls-out-nationwide",
+      "published_date": "2026-09-24T14:31:14Z",
+      "category": "Economy"
     },
     {
       "title": "David Eby bets big on potential for more major projects in &#039;Build B.C. Strong&#039; platform",
@@ -270,11 +277,88 @@
       "category": "Economy"
     },
     {
-      "title": "EDITORIAL: New border signs appalling",
+      "title": "JARVIS: Ford needs to tackle Ontario’s worsening debt problem",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/ford-needs-to-tackle-ontarios-worsening-debt-problem",
+      "published_date": "2026-09-24T14:44:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Zoo welcomes new 'pouch potato' wombat",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-zoo-welcomes-new-pouch-potato-wombat",
+      "published_date": "2026-09-24T14:24:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Belleville Police set to address synagogue shooting case today",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/belleville-police-set-to-address-synagogue-shooting",
+      "published_date": "2026-09-24T14:02:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raise-a-Reader Collingwood Neighbourhood House needs your help",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/raise-a-reader-collingwood-neighbourhood-house",
+      "published_date": "2026-09-24T14:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jay Baruchel says 'Stunt Driver' feat more likely than Leafs Cup win",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/movies/jay-baruchel-says-stunt-driver-feat-more-likely-than-leafs-cup-win",
+      "published_date": "2026-09-24T14:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Overdose prevention site planned for new St. Paul&#039;s Hospital — but government mum on details",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/overdose-prevention-site-planned-for-new-st-pauls-hospital-vancouver-bc-government-mum-on-details",
+      "published_date": "2026-09-24T13:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: An election is a chance to put B.C.’s main streets back at the centre",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-an-election-chance-to-put-bc-main-streets-back-at-the-centre",
+      "published_date": "2026-09-24T13:00:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.&#039;s own superstar astrologer Chani Nicholas on the power of the stars",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/bc-superstar-astrologer-chani-nicholas-on-the-power-of-the-stars",
+      "published_date": "2026-09-24T13:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Foreign police broke Canadian law — and it keeps happening",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-foreign-police-broke-canadian-law-and-it-keeps-happening",
+      "published_date": "2026-09-24T13:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "COLUMN; Trigger stacking: Understanding the build-up before the blow-up",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/17/editorial-new-border-signs-appalling/",
-      "published_date": "2026-09-17T12:30:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/column-trigger-stacking-understanding-the-build-up-before-the-blow-up/",
+      "published_date": "2026-09-24T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nature Nut: A very unusual lifeform",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/nature-nut-a-very-unusual-lifeform/",
+      "published_date": "2026-09-24T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former B.C. Conservative leader John Rustad not seeking re-election",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/former-b-c-conservative-leader-john-rustad-not-seeking-re-election/",
+      "published_date": "2026-09-24T01:36:00Z",
+      "category": "Local Events"
     },
     {
       "title": "2 deaths confirmed in serious crash on Kelowna’s Bennett Bridge",
@@ -330,90 +414,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/strong-circumstantial-evidence-against-accused-in-whistler-murders-crown-says",
       "published_date": "2026-09-23T23:32:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parties leaders set for a five-way race to B.C. election day",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/parties-leaders-set-for-a-five-way-race-to-b-c-election-day/",
-      "published_date": "2026-09-23T23:25:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eby focuses on U.S. health worker recruitment at Surrey border stop",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/eby-focuses-on-u-s-health-worker-recruitment-at-surrey-border-stop/",
-      "published_date": "2026-09-23T23:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niagara restaurant retains two stars in new 2026 Michelin Guide",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/niagara-restaurant-retains-two-stars-new-2026-michelin-guide",
-      "published_date": "2026-09-23T23:03:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "N.W.T. officially ending seasonal time changes",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/n-w-t-officially-ending-seasonal-time-changes",
-      "published_date": "2026-09-23T22:51:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: No antidote to pain caused by poison merchant Kenneth Law",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/no-antidote-to-pain-caused-by-poison-merchant-kenneth-law",
-      "published_date": "2026-09-23T22:33:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Fall Home Show: Tannis Seufert transforms resin into colourful works of art",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/vancouver-fall-home-show/vancouver-fall-home-show-tannis-seufert-transforms-resin-into-colourful-works-of-art",
-      "published_date": "2026-09-23T22:23:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lorne Doerkson to remain as B.C. Conservative leader if elected premier",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/lorne-doerkson-to-remain-as-b-c-conservative-leader-if-elected-premier/",
-      "published_date": "2026-09-23T22:20:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto's food scene gets boost from New York Times",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-food-scene-boost-new-york-times",
-      "published_date": "2026-09-23T22:11:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Help wanted: Elections B.C. now hiring staff to work provincial election day",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/elections-bc-provincial-election-jobs-help-wanted",
-      "published_date": "2026-09-23T22:07:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In their own words: RDBN  Area B Director candidate Michael Riis-Christianson",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/in-their-own-words-rdbn-area-b-director-candidate-michael-riis-christianson/",
-      "published_date": "2026-09-23T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Whitby man, 57, accused of promoting anti-Muslim hatred online",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/whitby-man-accused-promoting-anti-muslim-hatred-social-media-hunting-permit",
-      "published_date": "2026-09-23T20:50:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver man experiences Okanagan wildfire season on cross-country coffee bike tour",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/vancouver-man-experiences-okanagan-wildfire-season-on-cross-country-coffee-bike-tour/",
-      "published_date": "2026-09-23T20:35:32Z",
       "category": "Local Events"
     }
   ]
