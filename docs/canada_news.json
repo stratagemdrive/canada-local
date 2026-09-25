@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:15:04Z",
+  "generated_at": "2026-09-25T15:35:53Z",
   "country": "Canada",
   "total_stories": 59,
   "categories": [
@@ -109,11 +109,11 @@
       "category": "Military"
     },
     {
-      "title": "Interpreter for Canadian troops during Afghanistan war denied immigration to B.C.",
+      "title": "As diesel prices climb, thieves siphon fuel from B.C. construction sites",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/interpreter-for-canadian-troops-during-afghanistan-war-denied-immigration-to-bc",
-      "published_date": "2026-09-18T13:00:21Z",
-      "category": "Military"
+      "url": "https://vancouversun.com/news/as-diesel-prices-climb-thieves-siphon-fuel-from-bc-construction-sites",
+      "published_date": "2026-09-25T13:00:53Z",
+      "category": "Energy"
     },
     {
       "title": "LNG Canada Phase 2 decision could come as early as October",
@@ -144,6 +144,34 @@
       "category": "Energy"
     },
     {
+      "title": "Opinion: B.C.’s economic security runs through our watersheds",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-economic-security-runs-through-our-watersheds",
+      "published_date": "2026-09-25T13:00:59Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: Surrey needs to get involved in affordable housing",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-surrey-needs-to-get-involved-in-affordable-housing",
+      "published_date": "2026-09-25T13:00:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Video: Kareem Allam says city must tackle crime, cost of living, to stop flight of young people",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/video-kareem-allam-city-crime-cost-living",
+      "published_date": "2026-09-25T13:00:04Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mining Roadshow explores opportunities for Northwest at Terrace luncheon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/mining-roadshow-explores-opportunities-for-northwest-at-terrace-luncheon/",
+      "published_date": "2026-09-25T12:30:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "LILLEY: Toronto stalls as taxes soar under Olivia Chow's mayoralty",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/toronto-stalls-taxes-soar-under-olivia-chow",
@@ -155,6 +183,13 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-with-election-call-imminent-ndp-drops-any-pretence-of-fiscal-prudence",
       "published_date": "2026-09-24T23:15:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Running simultaneous with municipal race, Sicamous mayor calls snap election ‘disrespectful’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/running-simultaneous-with-municipal-race-sicamous-mayor-calls-snap-election-disrespectful/",
+      "published_date": "2026-09-24T22:30:00Z",
       "category": "Economy"
     },
     {
@@ -249,39 +284,88 @@
       "category": "Economy"
     },
     {
-      "title": "Taxpayer watchdog tells Ottawa to slash debt, spending as MPs return",
+      "title": "'American Idol' alum Caleb Flynn’s ex-mistress reads text during murder trial: ‘I NEED HER GONE’",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/taxpayer-watchdog-tells-ottawa-to-slash-debt-spending",
-      "published_date": "2026-09-21T14:27:46Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/american-idol-alum-mistress-text-messages-murder-trial",
+      "published_date": "2026-09-25T15:29:04Z",
+      "category": "Local Events"
     },
     {
-      "title": "GOLDSTEIN: U.S., not EU, the priority on trade",
+      "title": "WARMINGTON: Convicted murderer Mason Jenkins has escaped from Collins Bay pen",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/us-not-eu-trade-priority-canada",
-      "published_date": "2026-09-19T20:00:18Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/provincial/convicted-murderer-has-escaped-from-collins-bay-pen",
+      "published_date": "2026-09-25T14:32:25Z",
+      "category": "Local Events"
     },
     {
-      "title": "Opinion: Why Canada may become the European Union’s first ‘associate member’",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-why-canada-may-become-the-european-unions-first-associate-member",
-      "published_date": "2026-09-19T15:00:30Z",
-      "category": "Economy"
+      "title": "Teacher, 10-year-old student die during school field trip in Iowa",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/teacher-student-die-during-field-trip-in-iowa",
+      "published_date": "2026-09-25T14:11:39Z",
+      "category": "Local Events"
     },
     {
-      "title": "Brian Minter: This time of year your garden soil needs some help. Here&#039;s how",
+      "title": "Conversations That Matter: Kareem Allam of Vote Vancouver",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/gardening/brian-minter-garden-soil-regenerative-help",
-      "published_date": "2026-09-19T14:00:58Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/conversations-that-matter-kareem-allam-of-vote-vancouver",
+      "published_date": "2026-09-25T14:00:34Z",
+      "category": "Local Events"
     },
     {
-      "title": "Peter Milobar, Mike Bernier announce merger of centre-right alternative parties",
+      "title": "Starbucks to close 250 more locations in Canada, U.S. this week",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/business/money-news/starbucks-to-close-250-more-locations-in-canada-u-s",
+      "published_date": "2026-09-25T13:38:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raise-a-Reader: &#039;We are all learning&#039;",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/peter-milobar-mike-bernier-announce-centre-right-alternative-bc-party",
-      "published_date": "2026-09-18T22:02:11Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/d-by-lifelong-learning",
+      "published_date": "2026-09-25T13:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDP resurrects Burnaby Hospital project but critics say it falls short of promise",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ndp-resurrects-burnaby-hospital-project-critics-falls-short",
+      "published_date": "2026-09-25T13:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jason Priestley returns to TV with B.C.-shot Private Eyes West Coast",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/north-vans-jason-priestley-returns-to-tv-with-vancouver-shot-private-eyes-west-coast",
+      "published_date": "2026-09-25T13:00:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 23, awarded almost $5 million after being injured as child in fall at Burnaby pool",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-awarded-5-million-fall-burnaby-pool",
+      "published_date": "2026-09-25T13:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Douglas Todd: B.C. Conservatives oppose David Eby’s upzoning mandates",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/douglas-todd-bc-conservatives-oppose-ebys-upzoning-mandates",
+      "published_date": "2026-09-25T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedestrian struck by GO train leads to significant transit delays in Toronto's west end",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/pedestrian-struck-by-go-train-significant-delays-toronto",
+      "published_date": "2026-09-25T12:37:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Earmarks of a scam:’ Shuswap Bird society goes dark after RCMP raises concerns",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/earmarks-of-a-scam-shuswap-bird-society-goes-dark-after-rcmp-raises-concerns/",
+      "published_date": "2026-09-25T12:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Cyclist sought for Scarborough sex assault; woman stabbed at Stoney Creek mall",
@@ -337,90 +421,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/24/4-vernon-taekwon-do-athletes-ready-to-take-on-world-cup-in-spain/",
       "published_date": "2026-09-24T22:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police confirm Belleville synagogue shooting was 'hate-motivated crime'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/police-confirm-belleville-synagogue-shooting-hate-motivated",
-      "published_date": "2026-09-24T21:05:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Alcohol is believed to be a contributing factor’ in double fatality on W.R. Bennett Bridge",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/alcohol-is-believed-to-be-a-contributing-factor-in-double-fatality-on-w-r-bennett-bridge/",
-      "published_date": "2026-09-24T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives take early lead as election campaign gets underway: Poll",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-polls-conservatives-early-lead",
-      "published_date": "2026-09-24T20:54:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Buy Canadian campaign announcement made by David Eby at Lower Mainland stop",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/buy-canadian-campaign-announcement-made-by-david-eby-at-lower-mainland-stop/",
-      "published_date": "2026-09-24T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Search for missing paddleboarder on Okanagan Lake paused after ‘extensive search’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/search-for-missing-paddleboarder-on-okanagan-lake-paused-after-extensive-search/",
-      "published_date": "2026-09-24T20:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chipotle Mexican Grill nears opening day in Kelowna",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/chipotle-mexican-grill-nears-opening-day-in-kelowna/",
-      "published_date": "2026-09-24T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starbucks to close 250 North American stores, no word on Vancouver locations",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/starbucks-close-250-north-american-stores",
-      "published_date": "2026-09-24T19:29:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "United passenger claims she was 'trapped' with masturbating seatmate",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/united-passenger-claims-trapped-masturbating-seatmate",
-      "published_date": "2026-09-24T19:28:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finding room to live and work on burgeoning Burke Mountain",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/finding-room-to-live-and-work-on-burgeoning-burke-mountain",
-      "published_date": "2026-09-24T18:50:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kimberley developer urges municipal election candidates to consider emergency response",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/kimberley-developer-urges-municipal-election-candidates-to-consider-emergency-response/",
-      "published_date": "2026-09-24T18:46:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$1,000 reward to find person who trapped Langley raccoon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/1000-reward-for-person-who-trapped-langley-raccoon/",
-      "published_date": "2026-09-24T18:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Montreal fashion brand finds fans including Meghan Markle and Taylor Swift",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/montreal-fashion-brand-finds-fans-including-meghan-markle-and-taylor-swift",
-      "published_date": "2026-09-24T18:00:58Z",
       "category": "Local Events"
     }
   ]
