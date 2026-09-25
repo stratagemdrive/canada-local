@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T15:31:55Z",
+  "generated_at": "2026-09-25T01:15:04Z",
   "country": "Canada",
-  "total_stories": 58,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -53,6 +53,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "WARMINGTON: Terrorist planned to kill Jews out of hate but hero cops stopped him",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/terrorist-planned-to-kill-jews-hero-cops-stopped-him",
+      "published_date": "2026-09-24T23:27:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "Defence raises doubts about evidence in Whistler murders",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/defence-raises-doubts-evidence-2022-whistler-murders",
+      "published_date": "2026-09-24T20:48:23Z",
+      "category": "Military"
+    },
+    {
       "title": "Carney says he’s examined ‘extreme’ risk of U.S. military action against Canada",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/carney-examined-risk-u-s-military-action-against-canada",
@@ -102,11 +116,11 @@
       "category": "Military"
     },
     {
-      "title": "Toronto boy, 15, charged with assault with a weapon; two females sought in Hamilton assault",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-boy-assault-weapon-two-females-sought-hamilton",
-      "published_date": "2026-09-17T23:57:11Z",
-      "category": "Military"
+      "title": "LNG Canada Phase 2 decision could come as early as October",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/lng-canada-phase-2-decision-could-come-as-early-as-october/",
+      "published_date": "2026-09-24T19:00:34Z",
+      "category": "Energy"
     },
     {
       "title": "Vancouver student fights back after wildfire smoke causes health issues",
@@ -130,11 +144,25 @@
       "category": "Energy"
     },
     {
-      "title": "Outdoor recreation contributes $6 billion to B.C.&#039;s economy",
+      "title": "LILLEY: Toronto stalls as taxes soar under Olivia Chow's mayoralty",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/toronto-stalls-taxes-soar-under-olivia-chow",
+      "published_date": "2026-09-24T23:56:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Vaughn Palmer: As election call was imminent, NDP dropped any pretence of fiscal prudence",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/outdoor-recreation-contributes-6-billion-to-bc-economy",
-      "published_date": "2026-09-17T20:00:18Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-with-election-call-imminent-ndp-drops-any-pretence-of-fiscal-prudence",
+      "published_date": "2026-09-24T23:15:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: Mark Carney's currency comments risk more than trade repercussions",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-currency-gamble-risks-more-repercussions",
+      "published_date": "2026-09-24T22:06:53Z",
+      "category": "Economy"
     },
     {
       "title": "First-time homebuyer tax rebate stalls out nationwide",
@@ -256,164 +284,143 @@
       "category": "Economy"
     },
     {
-      "title": "Carney slams Trump tariff demands, unveils $7.5B bailout package during caucus address",
+      "title": "Cyclist sought for Scarborough sex assault; woman stabbed at Stoney Creek mall",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/carney-slams-trump-tariff-demands-unveils-7-5b-bailout-package-during-caucus-address",
-      "published_date": "2026-09-18T19:10:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Opinion: This year’s drought pitted fish against farms. B.C. must do better",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-this-years-drought-pitted-fish-against-farms-b-c-must-do-better",
-      "published_date": "2026-09-18T13:00:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Restaurants feel the inflation heat: 90 per cent in B.C. have raised prices",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/restaurants-inflation-90-per-cent-bc-raised-prices",
-      "published_date": "2026-09-18T13:00:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "JARVIS: Ford needs to tackle Ontario’s worsening debt problem",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ford-needs-to-tackle-ontarios-worsening-debt-problem",
-      "published_date": "2026-09-24T14:44:43Z",
+      "url": "https://torontosun.com/news/local-news/cyclist-sought-for-scarborough-sexual-assault",
+      "published_date": "2026-09-25T01:02:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Toronto Zoo welcomes new 'pouch potato' wombat",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-zoo-welcomes-new-pouch-potato-wombat",
-      "published_date": "2026-09-24T14:24:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Belleville Police set to address synagogue shooting case today",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/belleville-police-set-to-address-synagogue-shooting",
-      "published_date": "2026-09-24T14:02:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Raise-a-Reader Collingwood Neighbourhood House needs your help",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/raise-a-reader-collingwood-neighbourhood-house",
-      "published_date": "2026-09-24T14:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jay Baruchel says 'Stunt Driver' feat more likely than Leafs Cup win",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/movies/jay-baruchel-says-stunt-driver-feat-more-likely-than-leafs-cup-win",
-      "published_date": "2026-09-24T14:00:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Overdose prevention site planned for new St. Paul&#039;s Hospital — but government mum on details",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/overdose-prevention-site-planned-for-new-st-pauls-hospital-vancouver-bc-government-mum-on-details",
-      "published_date": "2026-09-24T13:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: An election is a chance to put B.C.’s main streets back at the centre",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-an-election-chance-to-put-bc-main-streets-back-at-the-centre",
-      "published_date": "2026-09-24T13:00:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.&#039;s own superstar astrologer Chani Nicholas on the power of the stars",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/bc-superstar-astrologer-chani-nicholas-on-the-power-of-the-stars",
-      "published_date": "2026-09-24T13:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Foreign police broke Canadian law — and it keeps happening",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-foreign-police-broke-canadian-law-and-it-keeps-happening",
-      "published_date": "2026-09-24T13:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "COLUMN; Trigger stacking: Understanding the build-up before the blow-up",
+      "title": "Former rodeo rider Doerkson seeks to buck-off Eby in B.C. election",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/column-trigger-stacking-understanding-the-build-up-before-the-blow-up/",
-      "published_date": "2026-09-24T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/former-rodeo-rider-doerkson-seeks-to-buck-off-eby-in-b-c-election/",
+      "published_date": "2026-09-25T00:22:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Nature Nut: A very unusual lifeform",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/nature-nut-a-very-unusual-lifeform/",
-      "published_date": "2026-09-24T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former B.C. Conservative leader John Rustad not seeking re-election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/former-b-c-conservative-leader-john-rustad-not-seeking-re-election/",
-      "published_date": "2026-09-24T01:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 deaths confirmed in serious crash on Kelowna’s Bennett Bridge",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/2-deaths-confirmed-in-serious-crash-on-kelownas-bennett-bridge/",
-      "published_date": "2026-09-24T00:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kraft Heinz Canada unveils Kraft Dinner-flavoured cream soda",
+      "title": "MANDEL: Kenneth Law confronted by his UK victims – and the few who survived his mail-order suicide kits",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/life/food/kraft-heinz-canada-unveils-kraft-dinner-flavoured-cream-soda",
-      "published_date": "2026-09-24T00:09:29Z",
+      "url": "https://torontosun.com/news/local-news/kenneth-law-confronted-uk-victims-mail-order-suicide-kits",
+      "published_date": "2026-09-25T00:00:19Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. Conservatives shift toward pocketbook issues after chaotic Findlay tenure",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservatives-shift-emphasis-towards-pocketbook-issues-after-chaotic-findlay-tenure",
-      "published_date": "2026-09-24T00:02:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake Terry Fox Run celebrates 46 years",
+      "title": "Surrey child-killer granted unescorted absence",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/burns-lake-terry-fox-run-celebrates-46-years/",
-      "published_date": "2026-09-24T00:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/surrey-child-killer-granted-unescorted-absence/",
+      "published_date": "2026-09-25T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "How some Vancouver candidates are leaning into the snap B.C. election call, while others rail against it",
+      "title": "NDP lose four cabinet ministers, including David Eby&#039;s top lieutenant",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/how-some-vancouver-candidates-are-leaning-into-the-snap-bc-election-call-while-others-rail-against-it",
-      "published_date": "2026-09-23T23:54:35Z",
+      "url": "https://vancouversun.com/news/ndp-lose-four-cabinet-ministers-including-ebys-top-lieutenant",
+      "published_date": "2026-09-24T23:43:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Chinese Restaurant Awards reveals Elite 30 Canada list. See which Vancouver restaurants made the list",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/chinese-restaurant-awards-2026-elite-30-list",
-      "published_date": "2026-09-23T23:40:26Z",
+      "title": "California chemist found dead in 1982 linked to Chicago Tylenol murders",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/california-chemist-linked-chicago-tylenol-murders",
+      "published_date": "2026-09-24T23:20:11Z",
       "category": "Local Events"
     },
     {
-      "title": "David Eby makes campaign stop in Surrey but skirts questions about city&#039;s health-care issues",
+      "title": "International: 30 bestselling books of the week for Sept. 19",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/david-eby-makes-campaign-stop-in-surrey-but-skirts-questions-about-citys-health-care-issues",
-      "published_date": "2026-09-23T23:38:12Z",
+      "url": "https://vancouversun.com/entertainment/international-30-bestselling-books-of-the-week-for-sept-19",
+      "published_date": "2026-09-24T23:00:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Strong circumstantial evidence against accused in Whistler murders, Crown says",
+      "title": "4 Vernon Taekwon-Do athletes ready to take on World Cup in Spain",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/4-vernon-taekwon-do-athletes-ready-to-take-on-world-cup-in-spain/",
+      "published_date": "2026-09-24T22:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police confirm Belleville synagogue shooting was 'hate-motivated crime'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/police-confirm-belleville-synagogue-shooting-hate-motivated",
+      "published_date": "2026-09-24T21:05:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Alcohol is believed to be a contributing factor’ in double fatality on W.R. Bennett Bridge",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/alcohol-is-believed-to-be-a-contributing-factor-in-double-fatality-on-w-r-bennett-bridge/",
+      "published_date": "2026-09-24T21:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservatives take early lead as election campaign gets underway: Poll",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/strong-circumstantial-evidence-against-accused-in-whistler-murders-crown-says",
-      "published_date": "2026-09-23T23:32:48Z",
+      "url": "https://vancouversun.com/news/bc-election-polls-conservatives-early-lead",
+      "published_date": "2026-09-24T20:54:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Buy Canadian campaign announcement made by David Eby at Lower Mainland stop",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/buy-canadian-campaign-announcement-made-by-david-eby-at-lower-mainland-stop/",
+      "published_date": "2026-09-24T20:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Search for missing paddleboarder on Okanagan Lake paused after ‘extensive search’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/search-for-missing-paddleboarder-on-okanagan-lake-paused-after-extensive-search/",
+      "published_date": "2026-09-24T20:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chipotle Mexican Grill nears opening day in Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/chipotle-mexican-grill-nears-opening-day-in-kelowna/",
+      "published_date": "2026-09-24T19:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Starbucks to close 250 North American stores, no word on Vancouver locations",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/starbucks-close-250-north-american-stores",
+      "published_date": "2026-09-24T19:29:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "United passenger claims she was 'trapped' with masturbating seatmate",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/united-passenger-claims-trapped-masturbating-seatmate",
+      "published_date": "2026-09-24T19:28:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Finding room to live and work on burgeoning Burke Mountain",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/finding-room-to-live-and-work-on-burgeoning-burke-mountain",
+      "published_date": "2026-09-24T18:50:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kimberley developer urges municipal election candidates to consider emergency response",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/kimberley-developer-urges-municipal-election-candidates-to-consider-emergency-response/",
+      "published_date": "2026-09-24T18:46:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "$1,000 reward to find person who trapped Langley raccoon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/1000-reward-for-person-who-trapped-langley-raccoon/",
+      "published_date": "2026-09-24T18:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Montreal fashion brand finds fans including Meghan Markle and Taylor Swift",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/montreal-fashion-brand-finds-fans-including-meghan-markle-and-taylor-swift",
+      "published_date": "2026-09-24T18:00:58Z",
       "category": "Local Events"
     }
   ]
