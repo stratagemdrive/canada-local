@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T15:35:53Z",
+  "generated_at": "2026-09-26T01:17:37Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -51,6 +51,13 @@
       "url": "https://torontosun.com/opinion/columnists/while-the-world-burns-the-un-looks-away",
       "published_date": "2026-09-20T17:13:04Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "LILLEY: Carney puts politics over paycheques in trade war",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-politics-over-paycheques-trade-war",
+      "published_date": "2026-09-25T22:30:22Z",
+      "category": "Military"
     },
     {
       "title": "WARMINGTON: Terrorist planned to kill Jews out of hate but hero cops stopped him",
@@ -142,6 +149,13 @@
       "url": "https://vancouversun.com/news/no-anxiety-but-still-plenty-of-work-for-metro-vancouvers-acclaimed-mayors",
       "published_date": "2026-09-21T13:00:37Z",
       "category": "Energy"
+    },
+    {
+      "title": "Eby promises increase to B.C.’s speculation tax, create new ‘Unsold Condo Tax’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/eby-promises-increase-to-b-c-s-speculation-tax-create-new-unsold-condo-tax/",
+      "published_date": "2026-09-25T21:32:38Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: B.C.’s economic security runs through our watersheds",
@@ -277,150 +291,143 @@
       "category": "Economy"
     },
     {
-      "title": "Trump targets Canadian potash in talks with Belarus",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/trump-targets-canadian-potash-talks-belarus",
-      "published_date": "2026-09-21T16:18:12Z",
-      "category": "Economy"
-    },
-    {
-      "title": "'American Idol' alum Caleb Flynn’s ex-mistress reads text during murder trial: ‘I NEED HER GONE’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/american-idol-alum-mistress-text-messages-murder-trial",
-      "published_date": "2026-09-25T15:29:04Z",
+      "title": "Queen’s University joins Blue Universities network",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/09/25/queens-university-joins-blue-universities-network/",
+      "published_date": "2026-09-25T23:49:03Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: Convicted murderer Mason Jenkins has escaped from Collins Bay pen",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/convicted-murderer-has-escaped-from-collins-bay-pen",
-      "published_date": "2026-09-25T14:32:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teacher, 10-year-old student die during school field trip in Iowa",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/teacher-student-die-during-field-trip-in-iowa",
-      "published_date": "2026-09-25T14:11:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conversations That Matter: Kareem Allam of Vote Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/conversations-that-matter-kareem-allam-of-vote-vancouver",
-      "published_date": "2026-09-25T14:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starbucks to close 250 more locations in Canada, U.S. this week",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/money-news/starbucks-to-close-250-more-locations-in-canada-u-s",
-      "published_date": "2026-09-25T13:38:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Raise-a-Reader: &#039;We are all learning&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/d-by-lifelong-learning",
-      "published_date": "2026-09-25T13:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDP resurrects Burnaby Hospital project but critics say it falls short of promise",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/ndp-resurrects-burnaby-hospital-project-critics-falls-short",
-      "published_date": "2026-09-25T13:00:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jason Priestley returns to TV with B.C.-shot Private Eyes West Coast",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/north-vans-jason-priestley-returns-to-tv-with-vancouver-shot-private-eyes-west-coast",
-      "published_date": "2026-09-25T13:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 23, awarded almost $5 million after being injured as child in fall at Burnaby pool",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-awarded-5-million-fall-burnaby-pool",
-      "published_date": "2026-09-25T13:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Douglas Todd: B.C. Conservatives oppose David Eby’s upzoning mandates",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/douglas-todd-bc-conservatives-oppose-ebys-upzoning-mandates",
-      "published_date": "2026-09-25T13:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pedestrian struck by GO train leads to significant transit delays in Toronto's west end",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/pedestrian-struck-by-go-train-significant-delays-toronto",
-      "published_date": "2026-09-25T12:37:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Earmarks of a scam:’ Shuswap Bird society goes dark after RCMP raises concerns",
+      "title": "B.C. NDP works to tie Doerkson to former Conservative leader Findlay",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/earmarks-of-a-scam-shuswap-bird-society-goes-dark-after-rcmp-raises-concerns/",
-      "published_date": "2026-09-25T12:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/b-c-ndp-works-to-tie-doerkson-to-former-conservative-leader-findlay/",
+      "published_date": "2026-09-25T23:06:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Cyclist sought for Scarborough sex assault; woman stabbed at Stoney Creek mall",
+      "title": "Foreign objects found in dead Marineland belugas, Chicago aquarium says",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/cyclist-sought-for-scarborough-sexual-assault",
-      "published_date": "2026-09-25T01:02:59Z",
+      "url": "https://torontosun.com/news/world/foreign-objects-found-dead-marineland-belugas-chicago-aquarium",
+      "published_date": "2026-09-25T23:01:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Former rodeo rider Doerkson seeks to buck-off Eby in B.C. election",
+      "title": "West Kelowna RCMP investigating campaign signs moved to 2 residential properties",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/former-rodeo-rider-doerkson-seeks-to-buck-off-eby-in-b-c-election/",
-      "published_date": "2026-09-25T00:22:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/west-kelowna-rcmp-investigating-campaign-signs-moved-to-2-residential-properties/",
+      "published_date": "2026-09-25T22:50:00Z",
       "category": "Local Events"
     },
     {
-      "title": "MANDEL: Kenneth Law confronted by his UK victims – and the few who survived his mail-order suicide kits",
+      "title": "B.C. Conservatives name incumbent White Rock mayor as Surrey South candidate",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/b-c-conservatives-name-incumbent-white-rock-mayor-as-surrey-south-candidate/",
+      "published_date": "2026-09-25T22:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "All major Ontario teachers unions set for November strike votes",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/kenneth-law-confronted-uk-victims-mail-order-suicide-kits",
-      "published_date": "2026-09-25T00:00:19Z",
+      "url": "https://torontosun.com/news/all-major-ontario-teachers-unions-set-for-november-strike-votes",
+      "published_date": "2026-09-25T22:13:27Z",
       "category": "Local Events"
     },
     {
-      "title": "Surrey child-killer granted unescorted absence",
+      "title": "Okanagan, South Thompson under thunderstorm watch",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/surrey-child-killer-granted-unescorted-absence/",
-      "published_date": "2026-09-25T00:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/okanagan-south-thompson-under-thunderstorm-watch/",
+      "published_date": "2026-09-25T22:03:00Z",
       "category": "Local Events"
     },
     {
-      "title": "NDP lose four cabinet ministers, including David Eby&#039;s top lieutenant",
+      "title": "Kelowna urged to disclose bids in Prospera Place management deal",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/kelowna-urged-to-disclose-bids-in-prospera-place-management-deal/",
+      "published_date": "2026-09-25T22:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian woman, 75, accused of illegally voting in three U.S. elections",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-woman-accused-illegally-voting-3-us-elections",
+      "published_date": "2026-09-25T22:02:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Revelations about how ChatGPT helped Tumbler Ridge shooter proves need for new criminal law: B.C. attorney general",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/ndp-lose-four-cabinet-ministers-including-ebys-top-lieutenant",
-      "published_date": "2026-09-24T23:43:19Z",
+      "url": "https://vancouversun.com/news/local-news/bc-attorney-general-seeks-criminal-code-changes-after-chatgpt-revelations-in-tumbler-ridge-shooting",
+      "published_date": "2026-09-25T21:34:09Z",
       "category": "Local Events"
     },
     {
-      "title": "California chemist found dead in 1982 linked to Chicago Tylenol murders",
+      "title": "Man allegedly caught with 650,000 unmarked cigarettes; pair charged as gun and drugs seized",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/california-chemist-linked-chicago-tylenol-murders",
-      "published_date": "2026-09-24T23:20:11Z",
+      "url": "https://torontosun.com/news/man-allegedly-caught-with-contrabandcigarettes-pair-charged-gun-drugs-seized",
+      "published_date": "2026-09-25T20:51:25Z",
       "category": "Local Events"
     },
     {
-      "title": "International: 30 bestselling books of the week for Sept. 19",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/international-30-bestselling-books-of-the-week-for-sept-19",
-      "published_date": "2026-09-24T23:00:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 Vernon Taekwon-Do athletes ready to take on World Cup in Spain",
+      "title": "Hope conservationist demands answers to why bear cub was released alone",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/4-vernon-taekwon-do-athletes-ready-to-take-on-world-cup-in-spain/",
-      "published_date": "2026-09-24T22:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/hope-conservationist-demands-answers-to-why-bear-cub-was-released-alone/",
+      "published_date": "2026-09-25T20:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Which performers are up for annual B.C. and Yukon awards?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/nominations-annual-bc-and-yukon-awards",
+      "published_date": "2026-09-25T20:34:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. news outlet reveals details from Tumbler Ridge shooter’s ChatGPT account",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/u-s-news-outlet-reveals-details-from-tumbler-ridge-shooters-chatgpt-account/",
+      "published_date": "2026-09-25T20:30:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP arrest 4 in alleged drug smuggling probe at Pearson airport",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/rcmp-arrest-4-drug-smuggling-pearson-airport",
+      "published_date": "2026-09-25T20:10:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Centre BC leader Elenore Sturko running in Surrey South for provincial election",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/centre-bc-leader-elenore-sturko-running-in-surrey-south-for-provincial-election/",
+      "published_date": "2026-09-25T20:09:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two men found dead inside torched cars in Scarborough and Etobicoke were murdered",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/two-men-found-dead-inside-torched-cars-scarborough-etobicoke-murdered",
+      "published_date": "2026-09-25T19:54:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Fall Home Show: Health and wellness take centre stage",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/vancouver-fall-home-show/vancouver-fall-home-show-health-and-wellness-take-centre-stage",
+      "published_date": "2026-09-25T19:50:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Miss Universe Jamaica sues organization after ‘traumatic brain injury’ from pageant fall",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/television/miss-universe-jamaica-sues-organization-after-traumatic-brain-injury-from-pageant-fall",
+      "published_date": "2026-09-25T19:38:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Fall Home Show: Sarah Baeumler will touch on everything from linens to lighting",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/vancouver-fall-home-show/vancouver-fall-home-show-sarah-baeumler-will-touch-on-everything-from-linens-to-lighting",
+      "published_date": "2026-09-25T19:20:04Z",
       "category": "Local Events"
     }
   ]
