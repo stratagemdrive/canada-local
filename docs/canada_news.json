@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T01:11:15Z",
+  "generated_at": "2026-09-27T15:24:31Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 58,
   "categories": [
     "Diplomacy",
     "Military",
@@ -99,13 +99,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/trump-says-washington-triumphal-arch-will-serve-as-a-military-complex",
       "published_date": "2026-09-20T17:25:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "QUIZ: Understanding international trade agreements",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/20/quiz-understanding-international-trade-agreements/",
-      "published_date": "2026-09-20T12:20:00Z",
       "category": "Military"
     },
     {
@@ -284,6 +277,48 @@
       "category": "Economy"
     },
     {
+      "title": "B.C. election call crushed victims&#039; hopes of being heard by committee reviewing ICBC&#039;s no-fault policy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/bc-election-call-crushed-victims-hopes-of-being-heard-by-committee-reviewing-icbcs-no-fault-policy",
+      "published_date": "2026-09-27T15:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is your hair heavy or dull? These clarifying shampoos are worth a try",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/clarifying-shampoos-worth-trying",
+      "published_date": "2026-09-27T15:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feeling confused? The &#039;logistical nightmare&#039; of overlapping elections in B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/politics/feeling-confused-the-logistical-nightmare-of-overlapping-elections",
+      "published_date": "2026-09-27T14:00:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: The beloved candy dish. Do you have fond memories?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-the-beloved-candy-dish-any-fond-memories",
+      "published_date": "2026-09-27T13:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;A wake-up call&#039;: Nearly twice as many B.C. women facing homelessness, new data show",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/nearly-twice-as-many-bc-women-facing-homelessness-data-show",
+      "published_date": "2026-09-27T13:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: A time to celebrate democracy",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/quiz-a-time-to-celebrate-democracy/",
+      "published_date": "2026-09-27T11:30:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "EDITORIAL: Has David Eby done a David Peterson?",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/editorials/has-david-eby-done-a-david-peterson",
@@ -379,48 +414,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/life/anthony-gismondi-these-wineries-reshaped-bc-wine-country",
       "published_date": "2026-09-26T14:00:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: First few days of B.C. campaign a disaster for David Eby",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-first-days-bc-campaign-disaster-david-eby",
-      "published_date": "2026-09-26T13:00:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The B-52s and Devo in concert in Vancouver: What to know before you go",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/the-b-52s-and-devo-in-concert-in-vancouver-what-to-know-before-you-go",
-      "published_date": "2026-09-26T13:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Adopt-A-School: Take on the Sedins at the Grouse Grind",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/adopt-a-school-sedins-grouse-grind",
-      "published_date": "2026-09-26T13:00:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Folk singer Kristina Olsen opens for Home Routes tour in Fort St. James",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/26/folk-singer-kristina-olsen-opens-for-home-routes-tour-in-fort-st-james/",
-      "published_date": "2026-09-26T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jury convicts two men of first-degree murder in fatal 2022 Whistler shooting",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/jury-convicts-two-men-of-first-degree-murder-in-fatal-2022-whistler-shooting",
-      "published_date": "2026-09-26T04:29:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Top B.C. club golf pros tee it up in Vernon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/top-b-c-club-golf-pros-tee-it-up-in-vernon/",
-      "published_date": "2026-09-26T03:00:00Z",
       "category": "Local Events"
     }
   ]
