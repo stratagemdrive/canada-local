@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T01:27:32Z",
+  "generated_at": "2026-09-28T18:17:05Z",
   "country": "Canada",
-  "total_stories": 57,
+  "total_stories": 56,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: Why Carney might gamble on a December election",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/why-carney-might-gamble-on-a-december-election",
+      "published_date": "2026-09-28T09:00:12Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "There’s always next season… sigh",
       "source": "Burns Lake District News",
@@ -116,18 +123,25 @@
       "category": "Energy"
     },
     {
-      "title": "Concert Review: Foo Fighters serve up 30 years of crowd-pleasers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/music/concert-review-foo-fighters-30-years-crowd-pleasers",
-      "published_date": "2026-09-21T13:29:15Z",
-      "category": "Energy"
+      "title": "Eby promises to double critical minerals exports during campaign stop at Prince Rupert port",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/eby-promises-to-double-critical-minerals-exports-during-campaign-stop-at-prince-rupert-port/",
+      "published_date": "2026-09-28T17:31:21Z",
+      "category": "Economy"
     },
     {
-      "title": "No anxiety, but still plenty of work for Metro Vancouver&#039;s acclaimed mayors",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/no-anxiety-but-still-plenty-of-work-for-metro-vancouvers-acclaimed-mayors",
-      "published_date": "2026-09-21T13:00:37Z",
-      "category": "Energy"
+      "title": "David Eby joins Tamara Davidson for opening of Prince Rupert campaign office",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/david-eby-joins-tamara-davidson-for-opening-of-prince-rupert-campaign-office/",
+      "published_date": "2026-09-28T16:20:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump import bans on booze, motorcycles, dairy come into effect at midnight",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/trump-import-bans-come-into-effect-midnight",
+      "published_date": "2026-09-28T15:31:25Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. Election: Conservatives vow to &#039;never raise taxes&#039; in first campaign announcement",
@@ -249,164 +263,143 @@
       "category": "Economy"
     },
     {
-      "title": "Tories push back as House finance committee tables pre-budget report",
+      "title": "Pope Leo criticizes assisted dying programs: 'False compassion'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/tories-push-back-house-finance-committee-tables-pre-budget-report",
-      "published_date": "2026-09-23T14:52:09Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/pope-leo-criticizes-assisted-dying-programs-false-compassion",
+      "published_date": "2026-09-28T18:01:04Z",
+      "category": "Local Events"
     },
     {
-      "title": "Important dates and timelines for the 2026 B.C. provincial election",
+      "title": "Weather alert: Metro Vancouver, Fraser Valley braces for heavy rain tonight and Tuesday",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-2026-important-dates-timelines",
-      "published_date": "2026-09-22T21:48:26Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/weather-alert-metro-vancouver-fraser-valley-heavy-rain-monday-tuesday",
+      "published_date": "2026-09-28T18:00:07Z",
+      "category": "Local Events"
     },
     {
-      "title": "LILLEY: Trump's trade war could cost Canada jobs for decades",
+      "title": "B.C. pizza shop offers deep dish challenge to Weezer frontman",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/b-c-pizza-shop-offers-deep-dish-challenge-to-weezer-frontman/",
+      "published_date": "2026-09-28T18:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Finding Mason Jenkins top priority of Correctional Service Canada; killer’s escape being investigated",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/trumps-trade-war-could-cost-canada-jobs-for-decades",
-      "published_date": "2026-09-22T20:06:57Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/provincial/finding-mason-jenkins-top-priority-of-correctional-service-canada-killers-escape-being-investigated",
+      "published_date": "2026-09-28T17:30:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recently-resigned Abbotsford-Mission MLA fails to land BC Conservative nomination",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/recently-resigned-abbotsford-mission-mla-fails-to-land-bc-conservative-nomination/",
+      "published_date": "2026-09-28T16:49:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI could cause 1 billion deaths, says Bill Gates",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/ai-could-cause-1-billion-deaths-bill-gates",
+      "published_date": "2026-09-28T16:43:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fraser Lake official Jesse Gervais named BC NDP candidate in Nechako Lakes",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/fraser-lake-official-jesse-gervais-named-bc-ndp-candidate-in-nechako-lakes/",
+      "published_date": "2026-09-28T16:19:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paddleboarder remains missing on Okanagan Lake",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/paddleboarder-remains-missing-on-okanagan-lake/",
+      "published_date": "2026-09-28T15:42:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of officers march to B.C. Law Enforcement Memorial in Victoria",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/hundreds-of-officers-march-to-b-c-law-enforcement-memorial-in-victoria/",
+      "published_date": "2026-09-28T15:17:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "DA reopens case after woman says she was sexually assaulted for hours by seven Cornell frat bros",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/da-reopens-case-woman-sexually-assaulted-seven-cornell-frat-bros",
+      "published_date": "2026-09-28T15:10:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In their own words: RDBN Area B Director candidate Kyle Wilson",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/in-their-own-words-rdbn-area-b-director-candidate-kyle-wilson/",
+      "published_date": "2026-09-28T15:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fernie Ghostriders steam roll opening homestand",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/fernie-ghostriders-steam-roll-opening-homestand/",
+      "published_date": "2026-09-28T14:29:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of VW, Jeep SUVs recalled in Canada over issues that can ‘increase the risk of a crash’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/thousands-of-vw-jeep-vehicles-recalled-in-canada-over-issues-that-can-increase-the-risk-of-a-crash",
+      "published_date": "2026-09-28T13:33:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Lorne Doerkson, B.C. Conservative leader who suddenly finds himself gunning for premier",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/meet-bc-conservative-leader-lorne-doerkson",
+      "published_date": "2026-09-28T13:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La dolce vita for Canadians? What to know about making a permanent move to Italy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/travel/for-canadians-what-to-know-about-making-a-permanent-move-to-italy",
+      "published_date": "2026-09-28T13:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gateway to one of Condé Nast&#039;s top-rated Mexican cities now a direct flight from YVR",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/travel/conde-nasts-top-rated-mexican-cities-now-direct-flight-from-yvr",
+      "published_date": "2026-09-28T13:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dan Fumano: Dual election campaigns competing for talent, lawns, and air space",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/dan-fumano-dual-campaigns-competing-attention",
+      "published_date": "2026-09-28T13:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brampton renames six soccer fields for Canadian men's national team members",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/brampton-renames-soccer-fields-canadian-mens-national-team-members",
+      "published_date": "2026-09-28T10:48:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soccer 'trail blazer' Cyle Larin lauded with key to City of Brampton",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/soccer-star-cyle-larin-honoured-by-brampton",
+      "published_date": "2026-09-28T01:43:43Z",
+      "category": "Local Events"
     },
     {
       "title": "Mohamud Kheyre, 30, second homicide victim found last week in torched vehicle",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/second-homicide-victim-identified-torched-vehicles",
       "published_date": "2026-09-28T00:49:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Vancouver Convention Centre space honours Orange Shirt Society",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/new-vancouver-convention-centre-space-honours-orange-shirt-society/",
-      "published_date": "2026-09-27T23:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbotsford’s Cade Smith ties for tops in Major League Baseball for saves",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/abbotsfords-cade-smith-ties-for-tops-in-major-league-baseball-for-saves/",
-      "published_date": "2026-09-27T22:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Masked men shoot up occupied car at Spanish Banks: VPD",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/masked-men-shoot-up-occupied-car-at-spanish-banks-vpd",
-      "published_date": "2026-09-27T21:25:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Forest Act developed in Grand Forks presented to the province",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/new-forest-act-developed-in-grand-forks-presented-to-the-province/",
-      "published_date": "2026-09-27T19:19:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victim identified in North York stabbing; cops probe distraction theft in Little Italy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-dead-in-north-york-stabbing-motorcyclist-killed-in-crash",
-      "published_date": "2026-09-27T19:05:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Files on burned-down boat club sealed by city hall until 2027",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/humber-yacht-club-fire-documents-delay",
-      "published_date": "2026-09-27T17:36:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PROJECT SOUTH: Will young cop's guilty plea set the stage for others?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/project-south-will-young-cops-guilty-plea-set-the-stage-for-others",
-      "published_date": "2026-09-27T16:07:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. election call crushed victims&#039; hopes of being heard by committee reviewing ICBC&#039;s no-fault policy",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-election-call-crushed-victims-hopes-of-being-heard-by-committee-reviewing-icbcs-no-fault-policy",
-      "published_date": "2026-09-27T15:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is your hair heavy or dull? These clarifying shampoos are worth a try",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/clarifying-shampoos-worth-trying",
-      "published_date": "2026-09-27T15:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feeling confused? The &#039;logistical nightmare&#039; of overlapping elections in B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/politics/feeling-confused-the-logistical-nightmare-of-overlapping-elections",
-      "published_date": "2026-09-27T14:00:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: The beloved candy dish. Do you have fond memories?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-the-beloved-candy-dish-any-fond-memories",
-      "published_date": "2026-09-27T13:00:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;A wake-up call&#039;: Nearly twice as many B.C. women facing homelessness, new data show",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/nearly-twice-as-many-bc-women-facing-homelessness-data-show",
-      "published_date": "2026-09-27T13:00:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: A time to celebrate democracy",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/quiz-a-time-to-celebrate-democracy/",
-      "published_date": "2026-09-27T11:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Has David Eby done a David Peterson?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/has-david-eby-done-a-david-peterson",
-      "published_date": "2026-09-26T22:56:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPP say Grey County emergency call was 'swatting' incident",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/opp-grey-county-emergency-call-swatting-incident",
-      "published_date": "2026-09-26T20:56:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man accused of assaulting TTC bus passengers in Scarborough; shooting in Malvern leaves one injured",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-accused-assault-ttc-bus-passengers-scarborough-shooting-malvern-injured",
-      "published_date": "2026-09-26T20:26:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elderly couple shot dead at seniors' healthcare facility in Scarborough a murder-suicide",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/elderly-couple-shot-dead-seniors-healthcare-facility-scarborough-murder-suicide",
-      "published_date": "2026-09-26T19:53:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Ruthless criminal' accused of theft and fraud at five Ontario hospitals",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ruthless-criminal-accused-theft-fraudstaff-patients-ontario-hospitals",
-      "published_date": "2026-09-26T17:36:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto resident says councillor, city let manholes rattle for months",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-bloor-rattling-manhole-cover-councillor-saxe",
-      "published_date": "2026-09-26T17:30:09Z",
       "category": "Local Events"
     }
   ]
