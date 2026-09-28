@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T15:24:31Z",
+  "generated_at": "2026-09-28T01:27:32Z",
   "country": "Canada",
-  "total_stories": 58,
+  "total_stories": 57,
   "categories": [
     "Diplomacy",
     "Military",
@@ -46,11 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: While the world burns, the UN looks away",
+      "title": "KidSport feeling the pinch of the U.S. and Canada trade conflict",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/while-the-world-burns-the-un-looks-away",
-      "published_date": "2026-09-20T17:13:04Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/local-news/kidsport-feeling-the-pinch-of-the-u-s-and-canada-trade-conflict",
+      "published_date": "2026-09-27T19:27:53Z",
+      "category": "Military"
     },
     {
       "title": "LILLEY: Carney puts politics over paycheques in trade war",
@@ -95,13 +95,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump says Washington triumphal arch will serve as a 'military complex'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trump-says-washington-triumphal-arch-will-serve-as-a-military-complex",
-      "published_date": "2026-09-20T17:25:18Z",
-      "category": "Military"
-    },
-    {
       "title": "As diesel prices climb, thieves siphon fuel from B.C. construction sites",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/as-diesel-prices-climb-thieves-siphon-fuel-from-bc-construction-sites",
@@ -135,6 +128,20 @@
       "url": "https://vancouversun.com/news/no-anxiety-but-still-plenty-of-work-for-metro-vancouvers-acclaimed-mayors",
       "published_date": "2026-09-21T13:00:37Z",
       "category": "Energy"
+    },
+    {
+      "title": "B.C. Election: Conservatives vow to &#039;never raise taxes&#039; in first campaign announcement",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-election-2026-conservatives-campain-announcement-taxes",
+      "published_date": "2026-09-27T22:49:59Z",
+      "category": "Economy"
+    },
+    {
+      "title": "No new taxes: BC Conservative leader brings fiscal message to Surrey campaign stop",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/no-new-taxes-bc-conservative-leader-brings-fiscal-message-to-surrey-campaign-stop/",
+      "published_date": "2026-09-27T18:51:00Z",
+      "category": "Economy"
     },
     {
       "title": "GOLDSTEIN: OECD downgrades Canada’s economic growth as Carney moves away from U.S.",
@@ -263,18 +270,60 @@
       "category": "Economy"
     },
     {
-      "title": "CFIB demands tax relief ahead of October's municipal vote",
+      "title": "Mohamud Kheyre, 30, second homicide victim found last week in torched vehicle",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/cfib-demands-tax-relief-ahead-of-octobers-municipal-vote",
-      "published_date": "2026-09-22T19:03:02Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/second-homicide-victim-identified-torched-vehicles",
+      "published_date": "2026-09-28T00:49:54Z",
+      "category": "Local Events"
     },
     {
-      "title": "Exports up as Port of Vancouver handles record cargo at half-year mark",
+      "title": "New Vancouver Convention Centre space honours Orange Shirt Society",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/new-vancouver-convention-centre-space-honours-orange-shirt-society/",
+      "published_date": "2026-09-27T23:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abbotsford’s Cade Smith ties for tops in Major League Baseball for saves",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/abbotsfords-cade-smith-ties-for-tops-in-major-league-baseball-for-saves/",
+      "published_date": "2026-09-27T22:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Masked men shoot up occupied car at Spanish Banks: VPD",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/exports-up-port-of-vancouver-handles-record-cargo-half-year-mark",
-      "published_date": "2026-09-21T23:09:10Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/masked-men-shoot-up-occupied-car-at-spanish-banks-vpd",
+      "published_date": "2026-09-27T21:25:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Forest Act developed in Grand Forks presented to the province",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/new-forest-act-developed-in-grand-forks-presented-to-the-province/",
+      "published_date": "2026-09-27T19:19:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victim identified in North York stabbing; cops probe distraction theft in Little Italy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-dead-in-north-york-stabbing-motorcyclist-killed-in-crash",
+      "published_date": "2026-09-27T19:05:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Files on burned-down boat club sealed by city hall until 2027",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/humber-yacht-club-fire-documents-delay",
+      "published_date": "2026-09-27T17:36:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PROJECT SOUTH: Will young cop's guilty plea set the stage for others?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/project-south-will-young-cops-guilty-plea-set-the-stage-for-others",
+      "published_date": "2026-09-27T16:07:51Z",
+      "category": "Local Events"
     },
     {
       "title": "B.C. election call crushed victims&#039; hopes of being heard by committee reviewing ICBC&#039;s no-fault policy",
@@ -358,62 +407,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-bloor-rattling-manhole-cover-councillor-saxe",
       "published_date": "2026-09-26T17:30:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto firefighter memorial rescheduled for Sunday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-firefighter-memorial-ceremony-rescheduled-sunday",
-      "published_date": "2026-09-26T15:57:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHAUDHRI: Unvested stock awarded to Alberta employee",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/unvested-stock-awarded-alberta-employee",
-      "published_date": "2026-09-26T15:30:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Jew hate festers across Canada – even in small towns like Belleville",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/jew-hate-festers-canada-small-towns-belleville",
-      "published_date": "2026-09-26T15:00:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1956: Little Richard rips it up at the Kerrisdale Arena",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1956-little-richard-rips-it-up-at-the-kerrisdale-arena",
-      "published_date": "2026-09-26T15:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to The Vancouver Sun: Federal Conservatives want to put all our eggs in a basket that gets rewoven every four years",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/letters-to-the-vancouver-sun-federal-conservatives-want-to-put-all-our-eggs-in-a-basket-that-gets-rewoven-every-four-years",
-      "published_date": "2026-09-26T15:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: What drove Miami fetish club king to strangle gal pal?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-what-drove-miami-fetish-club-king-to-strangle-gal-pal",
-      "published_date": "2026-09-26T14:30:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Gentle, curious' bonded male bunnies, Fiver and Pipkin, ready for forever home",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bunnies-fiver-pipkin-ready-forever-home-toronto-humane-scoiety",
-      "published_date": "2026-09-26T14:02:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: These 4 wineries have reshaped B.C.&#039;s wine country",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-these-wineries-reshaped-bc-wine-country",
-      "published_date": "2026-09-26T14:00:56Z",
       "category": "Local Events"
     }
   ]
