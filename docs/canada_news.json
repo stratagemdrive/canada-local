@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T18:17:05Z",
+  "generated_at": "2026-09-29T02:30:47Z",
   "country": "Canada",
-  "total_stories": 56,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -53,6 +53,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "B.C. couple gives $10 million gift for digestive health centre at St. Paul&#039;s Hospital",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/bc-couple-gives-10-million-gift-for-digestive-health-centre-st-pauls-hospital",
+      "published_date": "2026-09-28T20:45:58Z",
+      "category": "Military"
+    },
+    {
       "title": "KidSport feeling the pinch of the U.S. and Canada trade conflict",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/kidsport-feeling-the-pinch-of-the-u-s-and-canada-trade-conflict",
@@ -102,6 +109,27 @@
       "category": "Military"
     },
     {
+      "title": "B.C. Conservative leader pledges to triple LNG production",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/b-c-conservative-leader-pledges-to-triple-lng-production/",
+      "published_date": "2026-09-29T00:01:08Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Rush of support: Geddy Lee endorses Brad Bradford for mayor",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/geddy-lee-endorses-brad-bradford-for-mayor",
+      "published_date": "2026-09-28T23:36:54Z",
+      "category": "Energy"
+    },
+    {
+      "title": "B.C. Election: NDP, Conservatives both take credit for growing LNG sector",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ndp-bc-conservatives-both-take-credit-growing-lng-sector-final-investment-lng-canada-phase-2-looms",
+      "published_date": "2026-09-28T23:33:53Z",
+      "category": "Energy"
+    },
+    {
       "title": "As diesel prices climb, thieves siphon fuel from B.C. construction sites",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/as-diesel-prices-climb-thieves-siphon-fuel-from-bc-construction-sites",
@@ -121,6 +149,20 @@
       "url": "https://vancouversun.com/news/vancouver-student-fights-back-after-wildfire-smoke-causes-health-issues",
       "published_date": "2026-09-24T14:00:34Z",
       "category": "Energy"
+    },
+    {
+      "title": "LILLEY: White House celebrates steel investment as Canadians workers are laid off",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/white-house-celebrates-big-steel-investment",
+      "published_date": "2026-09-28T23:32:47Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canadian Labour Congress vows fight over C-39's federal anti-strike powers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-labour-congress-vows-fight-bill-c39",
+      "published_date": "2026-09-28T22:36:48Z",
+      "category": "Economy"
     },
     {
       "title": "Eby promises to double critical minerals exports during campaign stop at Prince Rupert port",
@@ -249,157 +291,143 @@
       "category": "Economy"
     },
     {
-      "title": "Labour changes in Bill C-39 garner mixed reviews",
+      "title": "Urn stolen from Hamilton home; Durham Region cops hit by fleeing car",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/labour-changes-in-bill-c-39-garners-mixed-reviews",
-      "published_date": "2026-09-23T19:42:27Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bailey out: Another member of Eby’s cabinet not running in B.C. snap election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/23/former-b-c-finance-minister-brenda-bailey-not-seeking-re-election/",
-      "published_date": "2026-09-23T19:07:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pope Leo criticizes assisted dying programs: 'False compassion'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/pope-leo-criticizes-assisted-dying-programs-false-compassion",
-      "published_date": "2026-09-28T18:01:04Z",
+      "url": "https://torontosun.com/news/local-news/urn-stolen-from-damaged-hamilton-home",
+      "published_date": "2026-09-29T01:06:09Z",
       "category": "Local Events"
     },
     {
-      "title": "Weather alert: Metro Vancouver, Fraser Valley braces for heavy rain tonight and Tuesday",
+      "title": "Just one of six former ABC Vancouver park board commissioners to run for party this time",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/weather-alert-metro-vancouver-fraser-valley-heavy-rain-monday-tuesday",
-      "published_date": "2026-09-28T18:00:07Z",
+      "url": "https://vancouversun.com/news/local-news/just-one-of-six-former-abc-vancouver-park-board-commissioners-to-run-for-party-this-time",
+      "published_date": "2026-09-29T01:02:12Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. pizza shop offers deep dish challenge to Weezer frontman",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/b-c-pizza-shop-offers-deep-dish-challenge-to-weezer-frontman/",
-      "published_date": "2026-09-28T18:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finding Mason Jenkins top priority of Correctional Service Canada; killer’s escape being investigated",
+      "title": "The TTC's new Scarborough Busway begins regular service on Wednesday",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/finding-mason-jenkins-top-priority-of-correctional-service-canada-killers-escape-being-investigated",
-      "published_date": "2026-09-28T17:30:21Z",
+      "url": "https://torontosun.com/news/the-ttcs-new-scarborough-busway-begins-regular-service-on-wednesday",
+      "published_date": "2026-09-29T00:33:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Recently-resigned Abbotsford-Mission MLA fails to land BC Conservative nomination",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/recently-resigned-abbotsford-mission-mla-fails-to-land-bc-conservative-nomination/",
-      "published_date": "2026-09-28T16:49:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI could cause 1 billion deaths, says Bill Gates",
+      "title": "‘Stakeholder’ deemed 'problematic' word in leaked City of Toronto document",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/ai-could-cause-1-billion-deaths-bill-gates",
-      "published_date": "2026-09-28T16:43:08Z",
+      "url": "https://torontosun.com/news/local-news/toronto-city-hall-stakeholder-racist-training",
+      "published_date": "2026-09-29T00:24:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Fraser Lake official Jesse Gervais named BC NDP candidate in Nechako Lakes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/fraser-lake-official-jesse-gervais-named-bc-ndp-candidate-in-nechako-lakes/",
-      "published_date": "2026-09-28T16:19:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paddleboarder remains missing on Okanagan Lake",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/paddleboarder-remains-missing-on-okanagan-lake/",
-      "published_date": "2026-09-28T15:42:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of officers march to B.C. Law Enforcement Memorial in Victoria",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/hundreds-of-officers-march-to-b-c-law-enforcement-memorial-in-victoria/",
-      "published_date": "2026-09-28T15:17:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "DA reopens case after woman says she was sexually assaulted for hours by seven Cornell frat bros",
+      "title": "SAY IT AIN'T SNOW: White stuff forecast next week in northern Ontario",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/da-reopens-case-woman-sexually-assaulted-seven-cornell-frat-bros",
-      "published_date": "2026-09-28T15:10:48Z",
+      "url": "https://torontosun.com/news/provincial/snow-forecast-next-week-northern-ontario",
+      "published_date": "2026-09-28T23:54:30Z",
       "category": "Local Events"
     },
     {
-      "title": "In their own words: RDBN Area B Director candidate Kyle Wilson",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/in-their-own-words-rdbn-area-b-director-candidate-kyle-wilson/",
-      "published_date": "2026-09-28T15:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fernie Ghostriders steam roll opening homestand",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/fernie-ghostriders-steam-roll-opening-homestand/",
-      "published_date": "2026-09-28T14:29:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of VW, Jeep SUVs recalled in Canada over issues that can ‘increase the risk of a crash’",
+      "title": "TTC, police probe bus joyride video",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/thousands-of-vw-jeep-vehicles-recalled-in-canada-over-issues-that-can-increase-the-risk-of-a-crash",
-      "published_date": "2026-09-28T13:33:41Z",
+      "url": "https://torontosun.com/news/local-news/ttc-police-probe-bus-joyride-video",
+      "published_date": "2026-09-28T23:44:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Meet Lorne Doerkson, B.C. Conservative leader who suddenly finds himself gunning for premier",
+      "title": "Vaughn Palmer: Former B.C. Conservative leadership contender running in safe seat",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/meet-bc-conservative-leader-lorne-doerkson",
-      "published_date": "2026-09-28T13:00:51Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-former-b-c-conservative-leadership-contender-running-in-safe-seat",
+      "published_date": "2026-09-28T23:25:23Z",
       "category": "Local Events"
     },
     {
-      "title": "La dolce vita for Canadians? What to know about making a permanent move to Italy",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/travel/for-canadians-what-to-know-about-making-a-permanent-move-to-italy",
-      "published_date": "2026-09-28T13:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gateway to one of Condé Nast&#039;s top-rated Mexican cities now a direct flight from YVR",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/travel/conde-nasts-top-rated-mexican-cities-now-direct-flight-from-yvr",
-      "published_date": "2026-09-28T13:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dan Fumano: Dual election campaigns competing for talent, lawns, and air space",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/dan-fumano-dual-campaigns-competing-attention",
-      "published_date": "2026-09-28T13:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brampton renames six soccer fields for Canadian men's national team members",
+      "title": "Indian gangster linked to B.C. Sikh activist's murder on FBI top 10 list",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brampton-renames-soccer-fields-canadian-mens-national-team-members",
-      "published_date": "2026-09-28T10:48:36Z",
+      "url": "https://torontosun.com/news/world/indian-gangster-among-fbi-most-wanted",
+      "published_date": "2026-09-28T23:02:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Soccer 'trail blazer' Cyle Larin lauded with key to City of Brampton",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/soccer-star-cyle-larin-honoured-by-brampton",
-      "published_date": "2026-09-28T01:43:43Z",
+      "title": "Fugitive and alleged killer of Surrey Sikh leader added to FBI&#039;s Most Wanted list",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/fugitive-and-alleged-surey-temple-killer-goldy-brar-added-to-fbis-most-wanted-list",
+      "published_date": "2026-09-28T22:26:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Mohamud Kheyre, 30, second homicide victim found last week in torched vehicle",
+      "title": "WARMINGTON: Waterloo Region latest community probing alleged threats against Jews",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/second-homicide-victim-identified-torched-vehicles",
-      "published_date": "2026-09-28T00:49:54Z",
+      "url": "https://torontosun.com/opinion/columnists/waterloo-region-grappling-with-alleged-antisemitic-hate",
+      "published_date": "2026-09-28T22:17:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In their own words: Burns Lake councillor candidate Kristy Bjarnason",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/in-their-own-words-burns-lake-councillor-candidate-kristy-bjarnason/",
+      "published_date": "2026-09-28T22:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna International Airport receiving $22.4M from federal government",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/kelowna-international-airport-receiving-22-4m-from-federal-government/",
+      "published_date": "2026-09-28T21:56:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BC Greens announce new candidate for Victoria-Swan Lake, childcare plans",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/bc-greens-announce-new-candidate-for-victoria-swan-lake-childcare-plans/",
+      "published_date": "2026-09-28T20:28:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Surrey Police chief asks B.C. Supreme Court to quash his firing",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/former-surrey-police-chief-bc-supreme-court-quash-firing",
+      "published_date": "2026-09-28T19:59:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FBI offers $1M reward for information on suspect in B.C. gurdwara killing",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/fbi-offers-1m-reward-for-information-on-suspect-in-b-c-gurdwara-killing/",
+      "published_date": "2026-09-28T19:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Certain scents are natural rat repellents",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/certain-scents-are-natural-rat-repellents",
+      "published_date": "2026-09-28T19:43:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pop duo Tegan &#038; Sara use Vancouver as backdrop for new video",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/pop-duo-tegan-sara-vancouver-music-video-our-year",
+      "published_date": "2026-09-28T19:41:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Masked men gather near former B.C. residential school, nation issues safety warning",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/masked-men-gather-near-former-b-c-residential-school-nation-issues-safety-warning/",
+      "published_date": "2026-09-28T19:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In their own words: RDBN Area B Director candidate Mark Rogers",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/in-their-own-words-rdbn-area-b-director-candidate-mark-rogers/",
+      "published_date": "2026-09-28T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smithers and Terrace riders reflect on Tour de North",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/smithers-and-terrace-riders-reflect-on-tour-de-north/",
+      "published_date": "2026-09-28T18:46:52Z",
       "category": "Local Events"
     }
   ]
