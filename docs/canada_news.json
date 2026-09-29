@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T02:30:47Z",
+  "generated_at": "2026-09-29T16:39:43Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -32,25 +32,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "CHARLEBOIS: Trump’s Belarus potash gambit: Canada should stop laughing",
+      "title": "Software glitch in Boeing jets could cause issues during landings",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/trumps-belarus-potash-gambit-canada-stop-laughing",
-      "published_date": "2026-09-22T13:22:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Popular hair product sold for years across Canada pulled from shelves",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/popular-hair-product-pulled-from-shelves",
-      "published_date": "2026-09-22T13:18:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Opinion: If treaties are the highest form of reconciliation, why all the anti-treaty noise?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-if-treaties-are-highest-form-of-reconciliation-why-all-the-anti-treaty-noise",
-      "published_date": "2026-09-22T13:00:38Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/software-glitch-boeing-jets-issues-landings",
+      "published_date": "2026-09-29T15:03:53Z",
+      "category": "Military"
     },
     {
       "title": "B.C. couple gives $10 million gift for digestive health centre at St. Paul&#039;s Hospital",
@@ -109,6 +95,13 @@
       "category": "Military"
     },
     {
+      "title": "LNG Phase 2 in Kitimat gets go ahead in final investment decision",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/lng-phase-2-in-kitimat-gets-go-ahead-in-final-investment-decision/",
+      "published_date": "2026-09-29T15:55:23Z",
+      "category": "Energy"
+    },
+    {
       "title": "B.C. Conservative leader pledges to triple LNG production",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/09/28/b-c-conservative-leader-pledges-to-triple-lng-production/",
@@ -149,6 +142,13 @@
       "url": "https://vancouversun.com/news/vancouver-student-fights-back-after-wildfire-smoke-causes-health-issues",
       "published_date": "2026-09-24T14:00:34Z",
       "category": "Energy"
+    },
+    {
+      "title": "Struggling Tim Hortons franchisee cites limits to foreign workers: report",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/struggling-tim-hortons-franchisee-foreign-workers",
+      "published_date": "2026-09-29T15:32:15Z",
+      "category": "Economy"
     },
     {
       "title": "LILLEY: White House celebrates steel investment as Canadians workers are laid off",
@@ -284,11 +284,116 @@
       "category": "Economy"
     },
     {
-      "title": "Vaughn Palmer: Doerkson loses no time dealing with Eby’s allegation of Conservatives&#039; Trump leanings",
+      "title": "Condo Smarts: Strata service contracts can get complicated",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-doerkson-loses-no-time-dealing-with-ebys-allegation-of-conservatives-trump-leanings",
-      "published_date": "2026-09-23T23:25:01Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/homes/condo-smarts-strata-service-contracts-can-get-complicated",
+      "published_date": "2026-09-29T16:30:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. soccer star named to Team Canada roster for FIFA U-17 Women’s World Cup",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/b-c-soccer-star-named-to-team-canada-roster-for-fifa-u-17-womens-world-cup/",
+      "published_date": "2026-09-29T16:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lindsay Clancy trial holdout juror breaks his silence: 'Put the focus on the three angels'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/lindsay-clancy-holdout-juror-breaks-his-silence",
+      "published_date": "2026-09-29T16:21:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto police bust gun buyers, infiltrate alleged online gun trafficking network",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-bust-gun-buyers",
+      "published_date": "2026-09-29T16:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teacher kicked to the curb over raunchy OnlyFans side gig",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/teacher-kicked-to-curb-onlyfans-side-gig",
+      "published_date": "2026-09-29T15:51:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Downsizing to an apartment that sails the world",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/vacation-homes/downsizing-to-an-apartment-that-sails-the-world",
+      "published_date": "2026-09-29T15:50:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RCMP probing masked white nationalist march in Kamloops",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/rcmp-masked-white-nationalist-march-kamloops",
+      "published_date": "2026-09-29T14:57:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged masturbating bartender rubs fellow airline passengers the wrong way",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/alleged-masturbating-bartender-rubs-passengers-wrong-way",
+      "published_date": "2026-09-29T14:38:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Possible new ransom note’ being investigated in Nancy Guthrie case",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/possible-new-ransom-note-nancy-guthrie-case",
+      "published_date": "2026-09-29T13:23:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What&#039;s open and closed on Truth and Reconciliation Day 2026",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/whats-open-closed-truth-reconciliation-day-2026",
+      "published_date": "2026-09-29T13:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Adopt-A-School: Sedin twins&#039; Grouse Grind race raises $85,000 for schoolchildren in need",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/adopt-a-school-sedin-twins-grouse-grind-race-raises-85000-for-schoolchildren-in-need",
+      "published_date": "2026-09-29T13:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Election: Surrey to be a key &#039;battleground&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-election-surrey-battleground",
+      "published_date": "2026-09-29T13:00:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Truth and Reconciliation Day 2026: What&#039;s happening in Metro Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/truth-and-reconciliation-day-2026-events-metro-vancouver",
+      "published_date": "2026-09-29T13:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pete McMartin: The dire state of the once-close relationship with our southern neighbours",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/pete-mcmartin-dire-state-once-close-relationship-us-southern-neighbours",
+      "published_date": "2026-09-29T13:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horror, realism and love: These B.C. films deserve a spot on your VIFF 2026 must-see list",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/bc-films-viff-2026-must-see-list",
+      "published_date": "2026-09-29T13:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: Seek the welfare of our city",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/seek-the-welfare-of-our-city",
+      "published_date": "2026-09-29T12:45:56Z",
+      "category": "Local Events"
     },
     {
       "title": "Urn stolen from Hamilton home; Durham Region cops hit by fleeing car",
@@ -316,118 +421,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-city-hall-stakeholder-racist-training",
       "published_date": "2026-09-29T00:24:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SAY IT AIN'T SNOW: White stuff forecast next week in northern Ontario",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/snow-forecast-next-week-northern-ontario",
-      "published_date": "2026-09-28T23:54:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TTC, police probe bus joyride video",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ttc-police-probe-bus-joyride-video",
-      "published_date": "2026-09-28T23:44:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Former B.C. Conservative leadership contender running in safe seat",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-former-b-c-conservative-leadership-contender-running-in-safe-seat",
-      "published_date": "2026-09-28T23:25:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian gangster linked to B.C. Sikh activist's murder on FBI top 10 list",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/indian-gangster-among-fbi-most-wanted",
-      "published_date": "2026-09-28T23:02:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fugitive and alleged killer of Surrey Sikh leader added to FBI&#039;s Most Wanted list",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/fugitive-and-alleged-surey-temple-killer-goldy-brar-added-to-fbis-most-wanted-list",
-      "published_date": "2026-09-28T22:26:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Waterloo Region latest community probing alleged threats against Jews",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/waterloo-region-grappling-with-alleged-antisemitic-hate",
-      "published_date": "2026-09-28T22:17:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In their own words: Burns Lake councillor candidate Kristy Bjarnason",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/in-their-own-words-burns-lake-councillor-candidate-kristy-bjarnason/",
-      "published_date": "2026-09-28T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna International Airport receiving $22.4M from federal government",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/kelowna-international-airport-receiving-22-4m-from-federal-government/",
-      "published_date": "2026-09-28T21:56:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BC Greens announce new candidate for Victoria-Swan Lake, childcare plans",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/bc-greens-announce-new-candidate-for-victoria-swan-lake-childcare-plans/",
-      "published_date": "2026-09-28T20:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Surrey Police chief asks B.C. Supreme Court to quash his firing",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/former-surrey-police-chief-bc-supreme-court-quash-firing",
-      "published_date": "2026-09-28T19:59:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI offers $1M reward for information on suspect in B.C. gurdwara killing",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/fbi-offers-1m-reward-for-information-on-suspect-in-b-c-gurdwara-killing/",
-      "published_date": "2026-09-28T19:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Certain scents are natural rat repellents",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/certain-scents-are-natural-rat-repellents",
-      "published_date": "2026-09-28T19:43:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pop duo Tegan &#038; Sara use Vancouver as backdrop for new video",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/pop-duo-tegan-sara-vancouver-music-video-our-year",
-      "published_date": "2026-09-28T19:41:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Masked men gather near former B.C. residential school, nation issues safety warning",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/masked-men-gather-near-former-b-c-residential-school-nation-issues-safety-warning/",
-      "published_date": "2026-09-28T19:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In their own words: RDBN Area B Director candidate Mark Rogers",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/in-their-own-words-rdbn-area-b-director-candidate-mark-rogers/",
-      "published_date": "2026-09-28T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smithers and Terrace riders reflect on Tour de North",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/smithers-and-terrace-riders-reflect-on-tour-de-north/",
-      "published_date": "2026-09-28T18:46:52Z",
       "category": "Local Events"
     }
   ]
