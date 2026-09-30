@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T16:39:43Z",
+  "generated_at": "2026-09-30T01:53:34Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -25,11 +25,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Air India families request urgent meeting with Canada&#039;s public safety minister",
+      "title": "Dragons, yokai and B.C. history collide in Ojiichan’s Dragon",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/air-india-families-request-urgent-meeting-with-canadas-public-safety-minister",
-      "published_date": "2026-09-22T22:55:20Z",
-      "category": "Diplomacy"
+      "url": "https://vancouversun.com/entertainment/books/dragons-yokai-bc-history-collide-ojiichans-dragon",
+      "published_date": "2026-09-29T18:00:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Veteran OPP team leader facing child sex abuse material charges",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/opp-team-leader-child-sex-abuse-material-charges",
+      "published_date": "2026-09-29T17:09:41Z",
+      "category": "Military"
     },
     {
       "title": "Software glitch in Boeing jets could cause issues during landings",
@@ -81,18 +88,18 @@
       "category": "Military"
     },
     {
-      "title": "B.C. premier&#039;s decision to call election came down to Trump chaos and Conservative disorder",
+      "title": "Decision to fast-track $44 billion Alberta-B.C. oil pipeline expected Thursday",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-premier-david-eby-decision-snap-election-trump-chaos-conservative-disorder",
-      "published_date": "2026-09-22T23:52:42Z",
-      "category": "Military"
+      "url": "https://vancouversun.com/business/alberta-bc-oil-pipeline-fast-track-decision-deadline",
+      "published_date": "2026-09-29T23:57:26Z",
+      "category": "Energy"
     },
     {
-      "title": "Peel cops seize weapons used in shootings across GTA",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/peel-cops-seize-weapons-used-shootings-gta",
-      "published_date": "2026-09-22T18:22:31Z",
-      "category": "Military"
+      "title": "LNG Canada&#039;s Phase 2 switches from plan to project under construction with decision",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/lng-canada-phase-2-kitimat-lng-approval",
+      "published_date": "2026-09-29T18:34:37Z",
+      "category": "Energy"
     },
     {
       "title": "LNG Phase 2 in Kitimat gets go ahead in final investment decision",
@@ -142,6 +149,13 @@
       "url": "https://vancouversun.com/news/vancouver-student-fights-back-after-wildfire-smoke-causes-health-issues",
       "published_date": "2026-09-24T14:00:34Z",
       "category": "Energy"
+    },
+    {
+      "title": "New Leger poll finds majority in B.C. think NDP has done poorly — but not sold on Conservatives",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/new-leger-poll-finds-majority-in-bc-think-ndp-has-done-poorly-but-not-sold-on-conservatives",
+      "published_date": "2026-09-29T23:34:39Z",
+      "category": "Economy"
     },
     {
       "title": "Struggling Tim Hortons franchisee cites limits to foreign workers: report",
@@ -277,150 +291,143 @@
       "category": "Economy"
     },
     {
-      "title": "David Eby bets big on potential for more major projects in &#039;Build B.C. Strong&#039; platform",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/david-eby-bets-big-on-potential-for-more-major-projects-in-build-b-c-strong-platform",
-      "published_date": "2026-09-23T23:48:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Condo Smarts: Strata service contracts can get complicated",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/condo-smarts-strata-service-contracts-can-get-complicated",
-      "published_date": "2026-09-29T16:30:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. soccer star named to Team Canada roster for FIFA U-17 Women’s World Cup",
+      "title": "25 years later, Sooke teen’s disappearance remains unsolved",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/b-c-soccer-star-named-to-team-canada-roster-for-fifa-u-17-womens-world-cup/",
-      "published_date": "2026-09-29T16:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/25-years-later-sooke-teens-disappearance-remains-unsolved/",
+      "published_date": "2026-09-30T01:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Lindsay Clancy trial holdout juror breaks his silence: 'Put the focus on the three angels'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/lindsay-clancy-holdout-juror-breaks-his-silence",
-      "published_date": "2026-09-29T16:21:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto police bust gun buyers, infiltrate alleged online gun trafficking network",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-bust-gun-buyers",
-      "published_date": "2026-09-29T16:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teacher kicked to the curb over raunchy OnlyFans side gig",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/teacher-kicked-to-curb-onlyfans-side-gig",
-      "published_date": "2026-09-29T15:51:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Downsizing to an apartment that sails the world",
+      "title": "B.C. Conservation Officer Service warns of increased grizzly bear sightings on Sunshine Coast",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/vacation-homes/downsizing-to-an-apartment-that-sails-the-world",
-      "published_date": "2026-09-29T15:50:55Z",
+      "url": "https://vancouversun.com/news/bc-conservation-officer-service-warns-of-increased-grizzly-bear-sightings-on-sunshine-coast",
+      "published_date": "2026-09-30T01:23:20Z",
       "category": "Local Events"
     },
     {
-      "title": "RCMP probing masked white nationalist march in Kamloops",
+      "title": "Donald Trump adviser tells Canadian lobbyists to 'get the hell out of our country'",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/rcmp-masked-white-nationalist-march-kamloops",
-      "published_date": "2026-09-29T14:57:36Z",
+      "url": "https://torontosun.com/news/national/trump-adviser-issues-warning-canadian-lobbyists",
+      "published_date": "2026-09-30T00:55:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Alleged masturbating bartender rubs fellow airline passengers the wrong way",
+      "title": "B.C. judge drops drug charges against Vancouver compassion club, declares law illegal",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-judge-drops-drug-charges-against-vancouver-compassion-club-declares-law-illegal",
+      "published_date": "2026-09-30T00:03:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Was Eby’s snap election call  a bad bet for the B.C. NDP?",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/was-ebys-snap-election-call-a-bad-bet-for-the-b-c-ndp/",
+      "published_date": "2026-09-29T23:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto men charged with murder in York Region; man wanted for Hamilton robberies",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/alleged-masturbating-bartender-rubs-passengers-wrong-way",
-      "published_date": "2026-09-29T14:38:14Z",
+      "url": "https://torontosun.com/news/local-news/two-charged-murder-2025-vaughan-slaying",
+      "published_date": "2026-09-29T23:14:55Z",
       "category": "Local Events"
     },
     {
-      "title": "‘Possible new ransom note’ being investigated in Nancy Guthrie case",
+      "title": "2 accused of swindling $650K from Ajax FC Soccer Club",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/possible-new-ransom-note-nancy-guthrie-case",
-      "published_date": "2026-09-29T13:23:16Z",
+      "url": "https://torontosun.com/news/crime/two-accused-of-swindling-650k-from-ajax-fc-soccer-club",
+      "published_date": "2026-09-29T23:09:36Z",
       "category": "Local Events"
     },
     {
-      "title": "What&#039;s open and closed on Truth and Reconciliation Day 2026",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/whats-open-closed-truth-reconciliation-day-2026",
-      "published_date": "2026-09-29T13:00:55Z",
+      "title": "Alberta driver arrested after police chase in downtown Vancouver",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/alberta-driver-arrested-after-police-chase-in-downtown-vancouver/",
+      "published_date": "2026-09-29T22:38:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Adopt-A-School: Sedin twins&#039; Grouse Grind race raises $85,000 for schoolchildren in need",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/adopt-a-school-sedin-twins-grouse-grind-race-raises-85000-for-schoolchildren-in-need",
-      "published_date": "2026-09-29T13:00:49Z",
+      "title": "Doerkson promises to cut PST on Canadian alcohol",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/doerkson-promises-to-cut-pst-on-canadian-alcohol/",
+      "published_date": "2026-09-29T22:25:00Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. Election: Surrey to be a key &#039;battleground&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-surrey-battleground",
-      "published_date": "2026-09-29T13:00:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Truth and Reconciliation Day 2026: What&#039;s happening in Metro Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/truth-and-reconciliation-day-2026-events-metro-vancouver",
-      "published_date": "2026-09-29T13:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pete McMartin: The dire state of the once-close relationship with our southern neighbours",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/pete-mcmartin-dire-state-once-close-relationship-us-southern-neighbours",
-      "published_date": "2026-09-29T13:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horror, realism and love: These B.C. films deserve a spot on your VIFF 2026 must-see list",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/bc-films-viff-2026-must-see-list",
-      "published_date": "2026-09-29T13:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Seek the welfare of our city",
+      "title": "New York governor calls for 'transparent, independent review' of Cornell rape allegations",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/seek-the-welfare-of-our-city",
-      "published_date": "2026-09-29T12:45:56Z",
+      "url": "https://torontosun.com/news/world/new-york-governor-cornell-rape-review",
+      "published_date": "2026-09-29T22:11:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Urn stolen from Hamilton home; Durham Region cops hit by fleeing car",
+      "title": "Florida cop rescues suicidal man from bridge",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/urn-stolen-from-damaged-hamilton-home",
-      "published_date": "2026-09-29T01:06:09Z",
+      "url": "https://torontosun.com/news/world/florida-cop-rescues-suicidal-man-from-bridge",
+      "published_date": "2026-09-29T21:50:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Just one of six former ABC Vancouver park board commissioners to run for party this time",
+      "title": "Trans New York Times executive accused of threatening wife before he was slain",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/trans-nyt-exec-shooting-death-california",
+      "published_date": "2026-09-29T21:45:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Okanagan Nation Alliance blasts white nationalist group seen in Kamloops",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/okanagan-nation-alliance-blasts-white-nationalist-group-seen-in-kamloops/",
+      "published_date": "2026-09-29T21:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. teacher suspended 10 years for Grindr chats with &#039;14-year-old boy&#039;",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/just-one-of-six-former-abc-vancouver-park-board-commissioners-to-run-for-party-this-time",
-      "published_date": "2026-09-29T01:02:12Z",
+      "url": "https://vancouversun.com/news/bc-teacher-suspended-10-years-grindr-chats",
+      "published_date": "2026-09-29T20:22:46Z",
       "category": "Local Events"
     },
     {
-      "title": "The TTC's new Scarborough Busway begins regular service on Wednesday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/the-ttcs-new-scarborough-busway-begins-regular-service-on-wednesday",
-      "published_date": "2026-09-29T00:33:58Z",
+      "title": "The human touch in an AI-designed world",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/human-touch-in-ai-designed-world",
+      "published_date": "2026-09-29T18:23:30Z",
       "category": "Local Events"
     },
     {
-      "title": "‘Stakeholder’ deemed 'problematic' word in leaked City of Toronto document",
+      "title": "VIFF Live celebrates the critical role of sound in cinema",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-film-festival-2026-viff-live-sound-cinema",
+      "published_date": "2026-09-29T18:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. crime news: Man in BMW flees from VPD, sparking car chase &#124; Woman, 86, shoved to ground in Downtown Eastside",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-crime-september-26-2026",
+      "published_date": "2026-09-29T17:52:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mother of Melanie Ethier still 'waiting for answers' 30 years after daughter's abduction",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-city-hall-stakeholder-racist-training",
-      "published_date": "2026-09-29T00:24:17Z",
+      "url": "https://torontosun.com/news/provincial/mother-melanie-ethier-waiting-answers-30-years-daughter-abduction",
+      "published_date": "2026-09-29T17:39:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UBC Okanagan researchers call to integrate psychologists into Canada’s primary care system",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/ubc-okanagan-researchers-call-to-integrate-psychologists-into-canadas-primary-care-system/",
+      "published_date": "2026-09-29T17:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: New polls show Chow leading, Bradford hoping race will tighten with Rush frontman support",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/warmington-new-polls-show-chow-leading-bradford-hoping-race-will-tighten-with-rush-frontman-support",
+      "published_date": "2026-09-29T16:51:53Z",
       "category": "Local Events"
     }
   ]
