@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T16:31:38Z",
+  "generated_at": "2026-10-01T01:52:46Z",
   "country": "Canada",
-  "total_stories": 62,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -93,6 +93,13 @@
       "url": "https://torontosun.com/news/world/carney-examined-risk-u-s-military-action-against-canada",
       "published_date": "2026-09-24T13:45:46Z",
       "category": "Military"
+    },
+    {
+      "title": "Vaughn Palmer: Premiers past and present deserve a cut of the credit for LNG projects",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-premiers-past-and-present-deserve-a-cut-of-the-credit-for-lng-projects",
+      "published_date": "2026-09-30T23:23:16Z",
+      "category": "Energy"
     },
     {
       "title": "LNG Canada outlines jobs, construction plans for Phase 2 in Kitimat",
@@ -305,6 +312,97 @@
       "category": "Economy"
     },
     {
+      "title": "Trio sought in Scarborough home invasion robbery; alleged arsonist accused of another fire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/trio-sought-scarborough-home-invasion-robbery",
+      "published_date": "2026-10-01T00:01:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Truth and Reconciliation Day &#039;not a celebration,&#039; residential school survivor tells New West crowd",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/truth-and-reconciliation-day-not-a-celebration-residential-school-survivor-tells-new-westminster-crowd",
+      "published_date": "2026-09-30T23:51:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Killer of legal receptionist already discharged into community from CAMH",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/killer-of-legal-receptionist-already-discharged-into-community-from-camh",
+      "published_date": "2026-09-30T22:16:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New York City cop saves choking infant with textbook Heimlich manoeuvre",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/new-york-city-officer-saves-choking-infant",
+      "published_date": "2026-09-30T22:12:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tories vow to 'vigorously oppose' higher immigration levels, critic says",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-cant-afford-mass-migration-tory-critic",
+      "published_date": "2026-09-30T21:03:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'WE GOT YOU:' Florida cops save bed-bound person during apartment fire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/florida-cops-save-bed-bound-person-fire",
+      "published_date": "2026-09-30T20:38:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet Backpack, the winner of Fat Bear Week 2026 in Alaska",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/meet-backpack-the-winner-of-fat-bear-week-2026-in-alaska",
+      "published_date": "2026-09-30T20:14:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Young man hospitalized after shocking alleged homophobic attack in Niagara",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/young-man-hospitalized-shocking-alleged-homophobic-attack-niagara",
+      "published_date": "2026-09-30T20:07:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian banks are using AI behind the scenes, but who is in control?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-banks-are-using-ai-behind-the-scenes-but-who-is-in-control",
+      "published_date": "2026-09-30T19:41:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fatal Tsawwassen crash not an intentional attack on B.C. Truth and Reconciliation event: police",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/09/30/serious-collision-ends-tsawwassen-first-nation-truth-and-reconciliation-event-in-b-c/",
+      "published_date": "2026-09-30T19:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conservative MP Scott Aitchison announces resignation 'after 30 years of public life'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/conservative-mp-scott-aitchison-announces-resignation-after-30-years-of-public-life",
+      "published_date": "2026-09-30T19:09:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two dead after pedestrians struck near entrance of Tsawwassen Mills mall",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/tsawwassen-mills-police-incident-pedestrians-struck",
+      "published_date": "2026-09-30T18:58:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/best-beauty-products-we-tried-this-week-9",
+      "published_date": "2026-09-30T18:00:45Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Nobel Peace Prize for Mark Carney? One prediction market buzzing over PM's chances",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/nobel-peace-prize-mark-carney-prediction-market-kalshi",
@@ -351,97 +449,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/ohio-woman-sues-doctors-wrong-leg-amputated",
       "published_date": "2026-09-30T14:38:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diddy living luxe life behind bars: Nude pics, booze, massages and more",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/diddy-living-luxe-life-behind-bars",
-      "published_date": "2026-09-30T14:15:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pilot stabbed co-pilot in reported hijacking attempt of Israel-bound flight: 'CRASH OR BE MURDERED'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/pilot-stabbed-co-pilot-reported-hijacking-attempt",
-      "published_date": "2026-09-30T13:40:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WATCH LIVE TODAY: Is Vancouver&#039;s street disorder a health-care issue?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/watch-live-today-is-vancouvers-street-disorder-a-healthcare-issue",
-      "published_date": "2026-09-30T13:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election: Long-term care wait times need to be addressed, seniors group says",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-long-term-care-wait-times-need-to-be-addressed-seniors-group-says",
-      "published_date": "2026-09-30T13:00:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man in Motion: The Rick Hansen Story is the movie we all need right now",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/man-in-motion-the-rick-hansen-story-is-the-movie-we-all-need-right-now",
-      "published_date": "2026-09-30T13:00:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why voting for B.C. school trustees matters in Oct. 17 election",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/municipal-election-2026-why-voting-school-trustees-matter",
-      "published_date": "2026-09-30T13:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Premier Eby’s risky B.C. election strategy",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-premier-eby-risky-bc-election-strategy",
-      "published_date": "2026-09-30T13:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "COLUMN: No, our cats do not “need to have a litter”",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/30/column-no-our-cats-do-not-need-to-have-a-litter/",
-      "published_date": "2026-09-30T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cotter nets winner as Canucks edge Edmonton Oilers 6-5 in OT thriller",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/cotter-nets-winner-as-canucks-edge-edmonton-oilers-6-5-in-ot-thriller/",
-      "published_date": "2026-09-30T05:15:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "25 years later, Sooke teen’s disappearance remains unsolved",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/25-years-later-sooke-teens-disappearance-remains-unsolved/",
-      "published_date": "2026-09-30T01:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservation Officer Service warns of increased grizzly bear sightings on Sunshine Coast",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservation-officer-service-warns-of-increased-grizzly-bear-sightings-on-sunshine-coast",
-      "published_date": "2026-09-30T01:23:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump adviser tells Canadian lobbyists to 'get the hell out of our country'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/trump-adviser-issues-warning-canadian-lobbyists",
-      "published_date": "2026-09-30T00:55:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. judge drops drug charges against Vancouver compassion club, declares law illegal",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-judge-drops-drug-charges-against-vancouver-compassion-club-declares-law-illegal",
-      "published_date": "2026-09-30T00:03:19Z",
       "category": "Local Events"
     }
   ]
