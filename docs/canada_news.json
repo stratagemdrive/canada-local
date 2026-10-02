@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:09:27Z",
+  "generated_at": "2026-10-02T02:03:29Z",
   "country": "Canada",
   "total_stories": 61,
   "categories": [
@@ -23,6 +23,13 @@
       "url": "https://torontosun.com/opinion/columnists/why-carney-might-gamble-on-a-december-election",
       "published_date": "2026-09-28T09:00:12Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "What to know about pilot who attempted to hijack Flydubai flight",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/what-to-know-pilot-hijack-flydubai-flight",
+      "published_date": "2026-10-01T20:59:42Z",
+      "category": "Military"
     },
     {
       "title": "KINSELLA: Upbeat mood as Sukkot is celebrated indoors after Belleville synagogue terror attack",
@@ -74,18 +81,32 @@
       "category": "Military"
     },
     {
-      "title": "WARMINGTON: Terrorist planned to kill Jews out of hate but hero cops stopped him",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/terrorist-planned-to-kill-jews-hero-cops-stopped-him",
-      "published_date": "2026-09-24T23:27:32Z",
-      "category": "Military"
+      "title": "Alberta-to-B.C. pipeline listed as ‘project of national interest’ by Carney",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/alberta-to-b-c-pipeline-listed-as-project-of-national-interest-by-carney/",
+      "published_date": "2026-10-01T23:35:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Defence raises doubts about evidence in Whistler murders",
+      "title": "LILLEY: New pipeline is great, the government owning it is not",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/new-pipeline-is-great-government-owning-it-is-not",
+      "published_date": "2026-10-01T20:43:45Z",
+      "category": "Energy"
+    },
+    {
+      "title": "West Coast oil pipeline named Canada's first 'national interest' project",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/west-coast-oil-pipeline-canadas-first-national-interest-project",
+      "published_date": "2026-10-01T18:38:56Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Canada fast-tracks $44-billion Alberta to B.C. oil pipeline",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/defence-raises-doubts-evidence-2022-whistler-murders",
-      "published_date": "2026-09-24T20:48:23Z",
-      "category": "Military"
+      "url": "https://vancouversun.com/news/canada-proposed-44-billion-alberta-bc-oil-pipeline-project-national-interest",
+      "published_date": "2026-10-01T17:06:13Z",
+      "category": "Energy"
     },
     {
       "title": "Vaughn Palmer: Premiers past and present deserve a cut of the credit for LNG projects",
@@ -151,11 +172,11 @@
       "category": "Energy"
     },
     {
-      "title": "LNG Canada Phase 2 decision could come as early as October",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/lng-canada-phase-2-decision-could-come-as-early-as-october/",
-      "published_date": "2026-09-24T19:00:34Z",
-      "category": "Energy"
+      "title": "B.C. NDP promise to lower gas tax and introduce price controls. Will it lower price at the pump?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/can-bc-ndp-cap-industry-margins-on-diesel-and-gas",
+      "published_date": "2026-10-01T23:33:08Z",
+      "category": "Economy"
     },
     {
       "title": "BC NDP leader David Eby promises gas tax relief",
@@ -277,164 +298,143 @@
       "category": "Economy"
     },
     {
-      "title": "LILLEY: Toronto stalls as taxes soar under Olivia Chow's mayoralty",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/toronto-stalls-taxes-soar-under-olivia-chow",
-      "published_date": "2026-09-24T23:56:37Z",
-      "category": "Economy"
+      "title": "Stand Up for Mental Health brings comedy and advocacy to Kingston this weekend",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/10/01/stand-up-for-mental-health-brings-comedy-and-advocacy-to-kingston-this-weekend/",
+      "published_date": "2026-10-02T00:47:32Z",
+      "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: As election call was imminent, NDP dropped any pretence of fiscal prudence",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-with-election-call-imminent-ndp-drops-any-pretence-of-fiscal-prudence",
-      "published_date": "2026-09-24T23:15:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Running simultaneous with municipal race, Sicamous mayor calls snap election ‘disrespectful’",
+      "title": "In their own words: SD 91 trustee candidate Dave Christie (Fraser Lake area)",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/24/running-simultaneous-with-municipal-race-sicamous-mayor-calls-snap-election-disrespectful/",
-      "published_date": "2026-09-24T22:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Peel cops uncover Hwy. 407 fraud scheme, charge four men",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/peel-cops-hwy-407-fraud-scheme-charge-four-men",
-      "published_date": "2026-10-01T17:04:54Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/in-their-own-words-sd-91-trustee-candidate-dave-christie-fraser-lake-area/",
+      "published_date": "2026-10-02T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: Niagara police not investigating St. Catharines assault as hate crime",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/niagara-police-not-investigating-st-catharines-assault-as-hate-crime",
-      "published_date": "2026-10-01T17:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Truck struck by train in Maple Ridge, killing one and injuring another",
+      "title": "Reconciliation Day crash killed two Tsawwassen First Nation elders",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/truck-struck-train-maple-ridge",
-      "published_date": "2026-10-01T16:48:25Z",
+      "url": "https://vancouversun.com/news/reconciliation-day-crash-killed-two-tsawwassen-first-nation-elders",
+      "published_date": "2026-10-01T23:51:50Z",
       "category": "Local Events"
     },
     {
-      "title": "HUNTER: Botched Christa Pike execution attempts will likely spare her",
+      "title": "Driver arrested in fatal Mississauga hit-and-run; Brampton man wanted on Canada-wide warrant arrested",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/botched-christa-pike-execution-attempts-will-likely-spare-her",
-      "published_date": "2026-10-01T16:34:57Z",
+      "url": "https://torontosun.com/news/local-news/driver-arrested-fatal-mississauga-hit-and-run",
+      "published_date": "2026-10-01T23:23:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Sold (Bought): Dunbar property&#039;s large, south-facing lot a big draw",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/sold-bought-dunbar-propertys-large-south-facing-lot-a-big-draw",
-      "published_date": "2026-10-01T16:30:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spooktacular: Here are 11 things to do in Metro Vancouver this Halloween",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/halloween-2026-metro-vancouver-events-activities",
-      "published_date": "2026-10-01T16:03:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish teachers file human rights complaints amid persistent antisemitism",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/jewish-teachers-file-human-rights-complaints-antisemitism-hate",
-      "published_date": "2026-10-01T16:01:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alberni Residential School survivor overcomes lifetime of struggle",
+      "title": "B.C. teacher, caught in Creep Catchers-style sting, banned from teaching for 7 years",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/alberni-residential-school-survivor-overcomes-lifetime-of-struggle/",
-      "published_date": "2026-10-01T16:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/b-c-teacher-caught-in-creep-catchers-style-sting-banned-from-teaching-for-7-years/",
+      "published_date": "2026-10-01T23:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Sex assault trial for ‘Trailer Park Boys’ actor Mike Smith dismissed",
+      "title": "LILLEY: More proof that Doug Ford was right about threat of Chinese spy cars",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/sex-assault-trial-trailer-park-boys-actor-mike-smith-dismissed",
-      "published_date": "2026-10-01T15:17:21Z",
+      "url": "https://torontosun.com/opinion/columnists/more-proof-ford-right-chinese-spy-cars",
+      "published_date": "2026-10-01T22:48:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Israeli plumber, dentist among hero passengers in Flydubai hijacking attempt",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/israeli-plumber-dentist-hero-passengers-flydubai-hijacking",
-      "published_date": "2026-10-01T14:34:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reality TV swinger Tony McCollister pleads guilty to child porn, sex with dogs",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/reality-tv-swinger-pleads-guilty-child-porn-sex-with-dogs",
-      "published_date": "2026-10-01T13:30:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christa Pike remains alive, was ‘snoring’ after two botched lethal injections",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/christa-pike-alive-botched-lethal-injections",
-      "published_date": "2026-10-01T13:10:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Reading has been reduced to skimming, but newspapers can help open minds",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-reading-has-been-reduced-to-skimming-but-newspapers-can-help-open-minds",
-      "published_date": "2026-10-01T13:00:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bruno Mars, Sting, Doja Cat: The 10 must-see concerts in Vancouver this October",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/the-10-must-see-concerts-in-vancouver-this-october",
-      "published_date": "2026-10-01T13:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver theatre: Six must-see shows for October",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/vancouver-theatre-six-must-see-shows-for-october",
-      "published_date": "2026-10-01T13:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police seized more fentanyl at Chilliwack lab than previous Canadian record bust in Falkland",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/police-seized-more-fentanyl-in-chilliwack-lab-than-previous-record-in-falkland",
-      "published_date": "2026-10-01T13:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Douglas Todd: Beware the promises of vastly funded psychedelics, warn two Canadian researchers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-beware-the-promises-of-vastly-funded-psychedelics-warn-two-canadian-researchers",
-      "published_date": "2026-10-01T13:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Housing, traffic congestion top of mind for candidates running in Tri-Cities",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/housing-traffic-congestion-top-of-mind-for-candidates-running-in-tri-cities",
-      "published_date": "2026-10-01T13:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Context matters: Dogs respond to our cues",
+      "title": "In their own words: SD 91 trustee candidate Angela Clause (Stellaquo area)",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/context-matters-dogs-respond-to-our-cues/",
-      "published_date": "2026-10-01T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/in-their-own-words-sd-91-trustee-candidate-angela-clause-stellaquo-area/",
+      "published_date": "2026-10-01T22:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Nature Nut: Aspens put on an autumn show",
+      "title": "'Fraudulent' educational assistant accused of sexually assaulting 'vulnerable' Hamilton student",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/fraudulent-educational-assistant-accused-of-sexually-assaulting-vulnerable-hamilton-student",
+      "published_date": "2026-10-01T21:51:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Kitimat search dog boosts Northwest rescue capacity",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/nature-nut-aspens-put-on-an-autumn-show/",
-      "published_date": "2026-10-01T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/new-kitimat-search-dog-boosts-northwest-rescue-capacity/",
+      "published_date": "2026-10-01T21:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDP calls on Conservatives to fire North Island candidate over 2022 vaccine claims",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/ndp-calls-on-conservatives-to-fire-north-island-candidate-over-2022-vaccine-claims/",
+      "published_date": "2026-10-01T21:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In their own words: SD 91 trustee candidate Rick Pooley (Burns Lake)",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/in-their-own-words-sd-91-trustee-candidate-rick-pooley-burns-lake/",
+      "published_date": "2026-10-01T21:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, dogs helped home by West Kelowna firefighters after scooter battery dies",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/woman-dogs-helped-home-by-west-kelowna-firefighters-after-scooter-battery-dies/",
+      "published_date": "2026-10-01T21:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Topley firefighters gather cash, toys at annual show and shine",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/topley-firefighters-gather-cash-toys-at-annual-show-and-shine/",
+      "published_date": "2026-10-01T20:41:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BATRA’S BURNING QUESTIONS: Was Premier Ford right about Chinese ‘spy vehicles’?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/batras-burning-questions-was-premier-ford-right-about-chinese-spy-vehicles",
+      "published_date": "2026-10-01T20:38:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video shows Florida officer rescuing hawk trapped in pool enclosure",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/video-florida-officer-rescuing-hawk-trapped-pool-enclosure",
+      "published_date": "2026-10-01T20:20:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. brewery fires co-owner over ‘show me the evidence’ shirt",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/b-c-brewery-co-owner-sparks-backlash-over-show-me-the-evidence-shirt/",
+      "published_date": "2026-10-01T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doug Ford seeks longer parole ineligibility when cops killed in line of duty",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/doug-ford-longer-parole-ineligibility-cops-killed-duty",
+      "published_date": "2026-10-01T19:19:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Just announced: Carly Rae Jepsen Day and Night Tour with stop in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/just-announced-carly-rae-jepsen-day-night-tour-vancouver",
+      "published_date": "2026-10-01T18:02:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coach designer says the key to a comeback is never standing still",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/coach-designer-says-the-key-to-a-comeback-is-never-standing-still",
+      "published_date": "2026-10-01T18:00:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.: 15 bestselling books for the week of Sept. 26",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/b-c-15-bestselling-books-for-the-week-of-sept-26",
+      "published_date": "2026-10-01T18:00:35Z",
       "category": "Local Events"
     }
   ]
