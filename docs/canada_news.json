@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:03:29Z",
+  "generated_at": "2026-10-02T16:23:19Z",
   "country": "Canada",
   "total_stories": 61,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Opinion: Returning the names of uprooted Japanese Canadians to the landscape of B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-returning-the-names-of-uprooted-japanese-canadians-to-the-landscape-of-bc",
+      "published_date": "2026-10-02T13:00:45Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canada is being taught a 'little lesson' in trade war, Trump says",
       "source": "Toronto Sun",
@@ -23,6 +30,13 @@
       "url": "https://torontosun.com/opinion/columnists/why-carney-might-gamble-on-a-december-election",
       "published_date": "2026-09-28T09:00:12Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "WARMINGTON: Leave it to Ghostbuster Dan Aykroyd to try and find truce in Canada-U.S. tariff war",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/ghostbuster-dan-aykroyd-truce-canada-u-s-tariff-war",
+      "published_date": "2026-10-02T15:28:55Z",
+      "category": "Military"
     },
     {
       "title": "What to know about pilot who attempted to hijack Flydubai flight",
@@ -79,6 +93,13 @@
       "url": "https://torontosun.com/opinion/columnists/carney-politics-over-paycheques-trade-war",
       "published_date": "2026-09-25T22:30:22Z",
       "category": "Military"
+    },
+    {
+      "title": "BC Hydro accused of playing games over power line route",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/bc-hydro-accused-of-playing-games-over-power-line-route/",
+      "published_date": "2026-10-02T15:17:32Z",
+      "category": "Energy"
     },
     {
       "title": "Alberta-to-B.C. pipeline listed as ‘project of national interest’ by Carney",
@@ -165,11 +186,18 @@
       "category": "Energy"
     },
     {
-      "title": "As diesel prices climb, thieves siphon fuel from B.C. construction sites",
+      "title": "Ontario minimum wage increased by 35 cents, well below Toronto's living wage standard",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/ontario-minimum-wage-increased-35-cents",
+      "published_date": "2026-10-02T15:46:58Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Surrey Connect Leader Brenda Locke releases costed platform — with tax increases",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/as-diesel-prices-climb-thieves-siphon-fuel-from-bc-construction-sites",
-      "published_date": "2026-09-25T13:00:53Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/surrey-connect-leader-brenda-locke-releases-costed-platform-with-tax-increases",
+      "published_date": "2026-10-02T13:00:51Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. NDP promise to lower gas tax and introduce price controls. Will it lower price at the pump?",
@@ -270,32 +298,109 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: B.C.’s economic security runs through our watersheds",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-economic-security-runs-through-our-watersheds",
-      "published_date": "2026-09-25T13:00:59Z",
-      "category": "Economy"
+      "title": "EXECUTIONER'S WRONG: Christa Pike latest death penalty mistake",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/christa-pike-latest-death-penalty-mistake",
+      "published_date": "2026-10-02T16:00:19Z",
+      "category": "Local Events"
     },
     {
-      "title": "Opinion: Surrey needs to get involved in affordable housing",
+      "title": "Video: Colleen Hardwick calls for a return to basics at Vancouver city hall",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-surrey-needs-to-get-involved-in-affordable-housing",
-      "published_date": "2026-09-25T13:00:36Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/video-colleen-hardwick-return-basics-vancouver-city-hall",
+      "published_date": "2026-10-02T15:59:17Z",
+      "category": "Local Events"
     },
     {
-      "title": "Video: Kareem Allam says city must tackle crime, cost of living, to stop flight of young people",
+      "title": "Recipe: These crispy garlic and rosemary roasted potatoes always impress",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/video-kareem-allam-city-crime-cost-living",
-      "published_date": "2026-09-25T13:00:04Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/life/recipe-crispy-garlic-rosemary-roasted-potatoes-always-impress",
+      "published_date": "2026-10-02T15:00:56Z",
+      "category": "Local Events"
     },
     {
-      "title": "Mining Roadshow explores opportunities for Northwest at Terrace luncheon",
+      "title": "“Every Child Matters”: Burns Lake youth walk for Truth and Reconciliation",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/25/mining-roadshow-explores-opportunities-for-northwest-at-terrace-luncheon/",
-      "published_date": "2026-09-25T12:30:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/every-child-matters-burns-lake-youth-walk-for-truth-and-reconciliation/",
+      "published_date": "2026-10-02T14:31:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man charged in summer-long child luring probe",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-charged-in-summer-long-child-luring-probe",
+      "published_date": "2026-10-02T14:25:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigating fatal Scarborough hit-and-run",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/police-investigating-fatal-scarborough-hit-and-run",
+      "published_date": "2026-10-02T14:09:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conversations That Matter: Colleen Hardwick of TEAM for a Livable Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/conversations-that-matter-colleen-hardwick-of-team-for-a-livable-vancouver",
+      "published_date": "2026-10-02T14:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Backstreet Boys returning to Toronto for 2027 residency",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/backstreet-boys-returning-toronto-2027-residency",
+      "published_date": "2026-10-02T13:12:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: B.C. NDP should focus on issues, not the interim status of the Conservative leader",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-ndp-should-focus-on-issues-not-interim-status-conservative-leader",
+      "published_date": "2026-10-02T13:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UBC researchers studied the case of a B.C. teen critically ill from avian flu. They were surprised",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ubc-researchers-bc-teen-avian-flu-surprising",
+      "published_date": "2026-10-02T13:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver&#039;s political candidates make expensive campaign promises. Here&#039;s how they say they&#039;ll pay for them",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vancouver-political-candidates-how-they-pay-for-expensive-campaign-promises",
+      "published_date": "2026-10-02T13:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niagara Falls to be lit in Buffalo Bills colours on Saturday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/niagara-falls-lit-in-buffalo-bills-colours-saturday",
+      "published_date": "2026-10-02T12:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "McDavid tallies 5 points as Oilers hang on for 9-7 win over Vancouver Canucks",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/mcdavid-tallies-5-points-as-oilers-hang-on-for-9-7-win-over-vancouver-canucks/",
+      "published_date": "2026-10-02T05:04:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Downtown Kingston’s RoadTrip Music Festival looks ahead after successful debut",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/10/01/downtown-kingstons-roadtrip-music-festival-looks-ahead-after-successful-debut/",
+      "published_date": "2026-10-02T03:03:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Howe Sound pulp mill on Sunshine Coast to restart",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/howe-sound-pulp-mill-on-sunshine-coast-to-restart",
+      "published_date": "2026-10-02T02:04:33Z",
+      "category": "Local Events"
     },
     {
       "title": "Stand Up for Mental Health brings comedy and advocacy to Kingston this weekend",
@@ -330,111 +435,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/01/b-c-teacher-caught-in-creep-catchers-style-sting-banned-from-teaching-for-7-years/",
       "published_date": "2026-10-01T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: More proof that Doug Ford was right about threat of Chinese spy cars",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/more-proof-ford-right-chinese-spy-cars",
-      "published_date": "2026-10-01T22:48:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In their own words: SD 91 trustee candidate Angela Clause (Stellaquo area)",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/in-their-own-words-sd-91-trustee-candidate-angela-clause-stellaquo-area/",
-      "published_date": "2026-10-01T22:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Fraudulent' educational assistant accused of sexually assaulting 'vulnerable' Hamilton student",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/fraudulent-educational-assistant-accused-of-sexually-assaulting-vulnerable-hamilton-student",
-      "published_date": "2026-10-01T21:51:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Kitimat search dog boosts Northwest rescue capacity",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/new-kitimat-search-dog-boosts-northwest-rescue-capacity/",
-      "published_date": "2026-10-01T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDP calls on Conservatives to fire North Island candidate over 2022 vaccine claims",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/ndp-calls-on-conservatives-to-fire-north-island-candidate-over-2022-vaccine-claims/",
-      "published_date": "2026-10-01T21:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In their own words: SD 91 trustee candidate Rick Pooley (Burns Lake)",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/in-their-own-words-sd-91-trustee-candidate-rick-pooley-burns-lake/",
-      "published_date": "2026-10-01T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, dogs helped home by West Kelowna firefighters after scooter battery dies",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/woman-dogs-helped-home-by-west-kelowna-firefighters-after-scooter-battery-dies/",
-      "published_date": "2026-10-01T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Topley firefighters gather cash, toys at annual show and shine",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/topley-firefighters-gather-cash-toys-at-annual-show-and-shine/",
-      "published_date": "2026-10-01T20:41:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BATRA’S BURNING QUESTIONS: Was Premier Ford right about Chinese ‘spy vehicles’?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/batras-burning-questions-was-premier-ford-right-about-chinese-spy-vehicles",
-      "published_date": "2026-10-01T20:38:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video shows Florida officer rescuing hawk trapped in pool enclosure",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/video-florida-officer-rescuing-hawk-trapped-pool-enclosure",
-      "published_date": "2026-10-01T20:20:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. brewery fires co-owner over ‘show me the evidence’ shirt",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/b-c-brewery-co-owner-sparks-backlash-over-show-me-the-evidence-shirt/",
-      "published_date": "2026-10-01T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doug Ford seeks longer parole ineligibility when cops killed in line of duty",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/doug-ford-longer-parole-ineligibility-cops-killed-duty",
-      "published_date": "2026-10-01T19:19:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Just announced: Carly Rae Jepsen Day and Night Tour with stop in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/just-announced-carly-rae-jepsen-day-night-tour-vancouver",
-      "published_date": "2026-10-01T18:02:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coach designer says the key to a comeback is never standing still",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/coach-designer-says-the-key-to-a-comeback-is-never-standing-still",
-      "published_date": "2026-10-01T18:00:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.: 15 bestselling books for the week of Sept. 26",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/b-c-15-bestselling-books-for-the-week-of-sept-26",
-      "published_date": "2026-10-01T18:00:35Z",
       "category": "Local Events"
     }
   ]
