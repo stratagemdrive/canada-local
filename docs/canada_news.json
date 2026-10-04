@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T02:27:32Z",
+  "generated_at": "2026-10-04T15:31:09Z",
   "country": "Canada",
-  "total_stories": 69,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -30,6 +30,13 @@
       "url": "https://torontosun.com/opinion/columnists/why-carney-might-gamble-on-a-december-election",
       "published_date": "2026-09-28T09:00:12Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Third-period explosion lifts Vancouver Canucks to 4-1 win over Calgary Flames",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/03/third-period-explosion-lifts-vancouver-canucks-to-4-1-win-over-calgary-flames/",
+      "published_date": "2026-10-04T05:11:19Z",
+      "category": "Military"
     },
     {
       "title": "Whyte boots 8 field goals as B.C. Lions hang on for 24-17 win over Toronto Argonauts",
@@ -214,6 +221,20 @@
       "category": "Energy"
     },
     {
+      "title": "HANSON: Remembering false gloom and doom of 1992 U.S. elections — and upcoming midterms",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/remembering-false-doom-gloom-1992-elections",
+      "published_date": "2026-10-04T15:28:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The Bookless Club: What are your tales from &#039;lost and found&#039;?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/the-bookless-club-what-are-your-tales-from-lost-and-found",
+      "published_date": "2026-10-04T13:00:29Z",
+      "category": "Economy"
+    },
+    {
       "title": "WARMINGTON: Brad Bradford's land transfer tax cut plan throws home-ownership dreamers a lifeline",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/brad-bradfords-land-transfer-tax-cut-plan-throws-home-ownership-dreamers-lifeline-toronto-mayor-election",
@@ -340,18 +361,18 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. Election: Conservatives vow to &#039;never raise taxes&#039; in first campaign announcement",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-2026-conservatives-campain-announcement-taxes",
-      "published_date": "2026-09-27T22:49:59Z",
-      "category": "Economy"
+      "title": "Juno winner Sass Jordan dead at 65",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/juno-winner-sass-jordan-make-you-a-believer-dead-65",
+      "published_date": "2026-10-04T14:19:29Z",
+      "category": "Local Events"
     },
     {
-      "title": "No new taxes: BC Conservative leader brings fiscal message to Surrey campaign stop",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/27/no-new-taxes-bc-conservative-leader-brings-fiscal-message-to-surrey-campaign-stop/",
-      "published_date": "2026-09-27T18:51:00Z",
-      "category": "Economy"
+      "title": "AI could soon determine cost of a burger and fries",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/ai-pricing-burger-fries-cost",
+      "published_date": "2026-10-04T13:56:10Z",
+      "category": "Local Events"
     },
     {
       "title": "Olivia Chow promises more free activities for Toronto families",
@@ -477,20 +498,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/crypto-king-aiden-pleterski-to-represent-himself-when-fraud-trial-begins-monday",
       "published_date": "2026-10-02T22:41:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riding that e-scooter without a helmet or with a friend? Vancouver police are cracking down",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/riding-e-scooter-vancouver-police-are-cracking-down",
-      "published_date": "2026-10-02T22:40:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Prolific Toronto luxury car thief stalled – for now",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/prolific-toronto-luxury-car-thief-stalled-for-now",
-      "published_date": "2026-10-02T22:26:53Z",
       "category": "Local Events"
     }
   ]
