@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T14:57:54Z",
+  "generated_at": "2026-10-04T02:27:32Z",
   "country": "Canada",
-  "total_stories": 66,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -30,6 +30,13 @@
       "url": "https://torontosun.com/opinion/columnists/why-carney-might-gamble-on-a-december-election",
       "published_date": "2026-09-28T09:00:12Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Whyte boots 8 field goals as B.C. Lions hang on for 24-17 win over Toronto Argonauts",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/03/whyte-boots-8-field-goals-as-b-c-lions-hang-on-for-24-17-win-over-toronto-argonauts/",
+      "published_date": "2026-10-03T21:58:00Z",
+      "category": "Military"
     },
     {
       "title": "B.C. judge declares dad guardian after mom returns to Ukraine with toddler",
@@ -100,6 +107,20 @@
       "url": "https://torontosun.com/news/local-news/kidsport-feeling-the-pinch-of-the-u-s-and-canada-trade-conflict",
       "published_date": "2026-09-27T19:27:53Z",
       "category": "Military"
+    },
+    {
+      "title": "EDITORIAL: Taxpayers on hook for another pipeline",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/taxpayers-on-hook-for-another-pipeline",
+      "published_date": "2026-10-03T20:08:33Z",
+      "category": "Energy"
+    },
+    {
+      "title": "GOLDSTEIN: With new pipeline, Mark Carney admits the economy trumps climate change",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/new-pipeline-mark-carney-admits-the-economy-trumps-climate-change",
+      "published_date": "2026-10-03T19:36:20Z",
+      "category": "Energy"
     },
     {
       "title": "BC Hydro accused of playing games over power line route",
@@ -249,6 +270,13 @@
       "category": "Economy"
     },
     {
+      "title": "Rising cost of diesel fuel hurting the Daily Bread Food Bank",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/how-rising-cost-diesel-fuel-hurting-daily-bread-food-bank",
+      "published_date": "2026-10-01T19:58:32Z",
+      "category": "Economy"
+    },
+    {
       "title": "BC NDP leader David Eby promises gas tax relief",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/01/bc-ndp-leader-david-eby-promises-gas-tax-relief/",
@@ -326,11 +354,53 @@
       "category": "Economy"
     },
     {
-      "title": "GOLDSTEIN: OECD downgrades Canada’s economic growth as Carney moves away from U.S.",
+      "title": "Olivia Chow promises more free activities for Toronto families",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/oecd-downgrades-canadas-economic-growth-carney-moves-away-from-u-s",
-      "published_date": "2026-09-26T20:48:11Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/olivia-chow-free-activities-toronto-families",
+      "published_date": "2026-10-03T20:21:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "After 20 years of filthy floods, Beaches homeowners demand action",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/kew-beach-flooding-election-city-infrastructure",
+      "published_date": "2026-10-03T20:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Run Terry Run&#039; finds the man inside the Canadian icon",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/run-terry-run-finds-the-man-inside-the-canadian-icon",
+      "published_date": "2026-10-03T18:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto ranks among top Canadian cities to walk your dog",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-ranks-among-top-canadian-cities-to-walk-dog",
+      "published_date": "2026-10-03T17:30:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police warn of high-risk sex offender living in Vancouver — again",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-police-warn-high-risk-sex-offender-residing-locally",
+      "published_date": "2026-10-03T16:03:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHARLEBOIS: Your grocer has AI, so who’s looking out for you?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/your-grocer-has-ai-whos-looking-out-for-you",
+      "published_date": "2026-10-03T15:24:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: Jew-haters push vile propaganda in wake of Flydubai hijacking",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/jew-haters-push-vile-propaganda-flydubai-hijacking",
+      "published_date": "2026-10-03T15:00:46Z",
+      "category": "Local Events"
     },
     {
       "title": "CRIME HUNTER: William Bonin most vile of the Freeway Killers",
@@ -421,55 +491,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/prolific-toronto-luxury-car-thief-stalled-for-now",
       "published_date": "2026-10-02T22:26:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Greens release food production, toxic drug crisis policies",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/b-c-greens-release-food-production-toxic-drug-crisis-policies/",
-      "published_date": "2026-10-02T22:25:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five arrested after year-long probe into extortion at Langley car dealership",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/five-arrested-extortion-langley-car-dealership-rcmp",
-      "published_date": "2026-10-02T22:20:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fake electrician zapped in shocking rebate scam",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/fake-electrician-zapped-shocking-rebate-scam",
-      "published_date": "2026-10-02T21:24:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 arrested, released in Kelowna after alleged Lower Mainland kidnapping",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/1-arrested-released-in-kelowna-after-alleged-lower-mainland-kidnapping/",
-      "published_date": "2026-10-02T21:12:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops seek witnesses after 3 kittens found dead in Cambridge",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/cops-seek-witnesses-3-kittens-dead-cambridge",
-      "published_date": "2026-10-02T20:32:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Greens propose AI data centre moratorium, greater oversight",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/b-c-greens-propose-ai-data-centre-moratorium-greater-oversight/",
-      "published_date": "2026-10-02T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New body camera video shows killer Luigi Mangione's arrest",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/new-body-camera-video-shows-killer-luigi-mangiones-arrest",
-      "published_date": "2026-10-02T20:24:18Z",
       "category": "Local Events"
     }
   ]
