@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T01:44:29Z",
+  "generated_at": "2026-10-05T19:27:29Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -25,11 +25,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: Why Carney might gamble on a December election",
+      "title": "Two Canadian soldiers arrested on organized crime charges",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/why-carney-might-gamble-on-a-december-election",
-      "published_date": "2026-09-28T09:00:12Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/local-news/two-canadian-soldiers-arrested-on-organized-crime-charges",
+      "published_date": "2026-10-05T18:42:19Z",
+      "category": "Military"
     },
     {
       "title": "U.S. Coast Guard suspends Ontario air ambulance search",
@@ -221,6 +221,20 @@
       "category": "Energy"
     },
     {
+      "title": "NDP candidate pitches economic development in Nechako communities",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/ndp-candidate-pitches-economic-development-in-nechako-communities/",
+      "published_date": "2026-10-05T19:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "B.C. Election: David Eby pitches new tax hikes for highest earners",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-election-ndp-david-eby-pitches-new-tax-hikes-for-highest-earners",
+      "published_date": "2026-10-05T02:11:24Z",
+      "category": "Economy"
+    },
+    {
       "title": "HANSON: Remembering false gloom and doom of 1992 U.S. elections — and upcoming midterms",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/remembering-false-doom-gloom-1992-elections",
@@ -340,25 +354,130 @@
       "category": "Economy"
     },
     {
-      "title": "Eby promises to double critical minerals exports during campaign stop at Prince Rupert port",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/eby-promises-to-double-critical-minerals-exports-during-campaign-stop-at-prince-rupert-port/",
-      "published_date": "2026-09-28T17:31:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "David Eby joins Tamara Davidson for opening of Prince Rupert campaign office",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/28/david-eby-joins-tamara-davidson-for-opening-of-prince-rupert-campaign-office/",
-      "published_date": "2026-09-28T16:20:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump import bans on booze, motorcycles, dairy come into effect at midnight",
+      "title": "Flight attendant's remains found in Texas more than one year after disappearance",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/trump-import-bans-come-into-effect-midnight",
-      "published_date": "2026-09-28T15:31:25Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/crime/flight-attendants-remains-found-in-texas-more-than-one-year-after-disappearance",
+      "published_date": "2026-10-05T19:20:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna General Hospital Foundation raises over $45M to improve care",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/kelowna-general-hospital-foundation-raises-over-45m-to-improve-care/",
+      "published_date": "2026-10-05T19:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Georgia man called 911 to avoid paying Red Lobster bill: Police",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/weird/georgia-man-called-911-to-avoid-paying-red-lobster-bill-police",
+      "published_date": "2026-10-05T19:08:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Options being considered for B.C.’s Historic O’Keefe Ranch",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/options-being-considered-for-b-c-s-historic-okeefe-ranch/",
+      "published_date": "2026-10-05T19:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Life behind each name’: Victoria monument honours Japanese Canadians interned during WW2",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/life-behind-each-name-victoria-monument-honours-japanese-canadians-interned-during-ww2/",
+      "published_date": "2026-10-05T18:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OLG launches Maple Leafs scratch ticket",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/hockey/nhl/toronto-maple-leafs/olg-launches-maple-leafs-scratch-ticket",
+      "published_date": "2026-10-05T18:35:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Race for Mississauga mayor could go down to wire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/race-for-mississauga-mayor-could-go-down-to-wire",
+      "published_date": "2026-10-05T18:28:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "1 dead in single-vehicle crash on Highway 93 in Kootenay National Park",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/1-dead-in-single-vehicle-crash-on-highway-93-in-kootenay-national-park/",
+      "published_date": "2026-10-05T18:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. man creates local election quiz to help increase voter turnout in Kelowna",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/b-c-man-creates-local-election-quiz-to-help-increase-voter-turnout-in-kelowna/",
+      "published_date": "2026-10-05T18:09:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recipe: Creamy tortellini sausage soup",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/recipe-creamy-tortellini-sausage-soup",
+      "published_date": "2026-10-05T18:00:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lake Babine Nation Forestry Ltd – Forest Operations Map",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/lake-babine-nation-forestry-ltd-forest-operations-map/",
+      "published_date": "2026-10-05T18:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Curling Classic wraps today in Vernon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/curling-classic-wraps-today-in-vernon/",
+      "published_date": "2026-10-05T18:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ontario man sentenced for attempting to smuggle cannabis on Vancouver-London flight",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/ontario-man-sentenced-for-attempting-to-smuggle-cannabis-on-vancouver-london-flight/",
+      "published_date": "2026-10-05T17:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Record high turnout for first day of advance voting in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-sees-record-high-turnout-for-first-day-of-advance-voting",
+      "published_date": "2026-10-05T17:41:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump releases personal cell number of senator who stopped daylight saving time bill",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trump-releases-personal-cell-number-of-senator-who-stopped-daylight-saving-time-bill",
+      "published_date": "2026-10-05T17:29:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drivers fined for vehicle, fishing offences",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/drivers-fined-for-vehicle-fishing-offences/",
+      "published_date": "2026-10-05T17:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Run Terry Run' does Terry Fox's story justice with never-before-seen footage: Brother",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/movies/run-terry-run-never-before-seen-footage",
+      "published_date": "2026-10-05T16:27:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "$40M Lotto Max ticket sold in Ontario set to expire as jackpot reaches near-record high",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/40m-lotto-max-ticket-set-to-expire",
+      "published_date": "2026-10-05T16:17:53Z",
+      "category": "Local Events"
     },
     {
       "title": "Kingston Health Sciences Centre unveils new MRI suite at Breast Imaging Clinic",
@@ -372,132 +491,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/04/bc-conservative-party-leader-lorne-doerkson-hits-campaign-trail-in-cariboo-chilcotin/",
       "published_date": "2026-10-05T00:45:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna metal band named best in Western Canada",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/04/kelowna-metal-band-named-best-in-western-canada/",
-      "published_date": "2026-10-05T00:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Rabies Day clinic for pets puts spotlight on prevention",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/world-rabies-day-clinic-spotlight-prevention",
-      "published_date": "2026-10-04T23:53:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elderly woman robbed of jewelry during repair visit; gun call at Cambridge mall",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/elderly-woman-robbed-fake-repair-visit",
-      "published_date": "2026-10-04T22:43:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Project ERASE puts accused Toronto stunt driver in neutral",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/project-erase-charges-accused-stunt-driver",
-      "published_date": "2026-10-04T21:31:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies at North York apartment after suffering 'traumatic injuries': Cops",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-dies-at-north-york-apartment-after-suffering-traumatic-injuries-cops",
-      "published_date": "2026-10-04T21:11:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHOTOS: B.C. witches take to the waters of Semiahmoo Bay",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/04/photos-b-c-witches-take-to-the-waters-of-semiahmoo-bay/",
-      "published_date": "2026-10-04T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI, ethics, Israel: Chow supporters slam Bradford’s app",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bradford-victory-chow-nationbuilder-campaign-software",
-      "published_date": "2026-10-04T20:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver police seek potential witnesses to CRAB Park homicide",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-police-seek-potential-witnesses-to-crab-park-homicide",
-      "published_date": "2026-10-04T19:27:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman hospitalized after suspected black bear attack near Onion Lake Ski Trails",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/04/woman-hospitalized-after-suspected-black-bear-attack-near-onion-lake-ski-trails/",
-      "published_date": "2026-10-04T18:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Get the look: A hair colour refresh and elevated makeup routine",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/get-the-look-a-hair-refresh-and-elevated-makeup-routine",
-      "published_date": "2026-10-04T18:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver charged after crashing into Etobicoke home; pedestrian lying on road killed in North York",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/driver-charged-after-crashing-into-etobicoke-home-pedestrian-lying-on-road-killed-in-north-york",
-      "published_date": "2026-10-04T16:09:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Juno winner Sass Jordan dead at 65",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/music/juno-winner-sass-jordan-make-you-a-believer-dead-65",
-      "published_date": "2026-10-04T14:19:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI could soon determine cost of a burger and fries",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/ai-pricing-burger-fries-cost",
-      "published_date": "2026-10-04T13:56:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olivia Chow promises more free activities for Toronto families",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/olivia-chow-free-activities-toronto-families",
-      "published_date": "2026-10-03T20:21:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After 20 years of filthy floods, Beaches homeowners demand action",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/kew-beach-flooding-election-city-infrastructure",
-      "published_date": "2026-10-03T20:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Run Terry Run&#039; finds the man inside the Canadian icon",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/run-terry-run-finds-the-man-inside-the-canadian-icon",
-      "published_date": "2026-10-03T18:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto ranks among top Canadian cities to walk your dog",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-ranks-among-top-canadian-cities-to-walk-dog",
-      "published_date": "2026-10-03T17:30:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police warn of high-risk sex offender living in Vancouver — again",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-police-warn-high-risk-sex-offender-residing-locally",
-      "published_date": "2026-10-03T16:03:49Z",
       "category": "Local Events"
     }
   ]
