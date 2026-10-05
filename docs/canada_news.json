@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:31:09Z",
+  "generated_at": "2026-10-05T01:44:29Z",
   "country": "Canada",
   "total_stories": 70,
   "categories": [
@@ -30,6 +30,13 @@
       "url": "https://torontosun.com/opinion/columnists/why-carney-might-gamble-on-a-december-election",
       "published_date": "2026-09-28T09:00:12Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "U.S. Coast Guard suspends Ontario air ambulance search",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/u-s-coast-guard-locate-debris-field-linked-to-missing-ontario-air-ambulance",
+      "published_date": "2026-10-04T17:41:42Z",
+      "category": "Military"
     },
     {
       "title": "Third-period explosion lifts Vancouver Canucks to 4-1 win over Calgary Flames",
@@ -106,13 +113,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/bc-couple-gives-10-million-gift-for-digestive-health-centre-st-pauls-hospital",
       "published_date": "2026-09-28T20:45:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "KidSport feeling the pinch of the U.S. and Canada trade conflict",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/kidsport-feeling-the-pinch-of-the-u-s-and-canada-trade-conflict",
-      "published_date": "2026-09-27T19:27:53Z",
       "category": "Military"
     },
     {
@@ -361,6 +361,97 @@
       "category": "Economy"
     },
     {
+      "title": "Kingston Health Sciences Centre unveils new MRI suite at Breast Imaging Clinic",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/10/04/kingston-health-sciences-centre-unveils-new-mri-suite-at-breast-imaging-clinic/",
+      "published_date": "2026-10-05T00:46:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BC Conservative Party leader Lorne Doerkson hits campaign trail in Cariboo-Chilcotin",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/04/bc-conservative-party-leader-lorne-doerkson-hits-campaign-trail-in-cariboo-chilcotin/",
+      "published_date": "2026-10-05T00:45:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna metal band named best in Western Canada",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/04/kelowna-metal-band-named-best-in-western-canada/",
+      "published_date": "2026-10-05T00:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Rabies Day clinic for pets puts spotlight on prevention",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/world-rabies-day-clinic-spotlight-prevention",
+      "published_date": "2026-10-04T23:53:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elderly woman robbed of jewelry during repair visit; gun call at Cambridge mall",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/elderly-woman-robbed-fake-repair-visit",
+      "published_date": "2026-10-04T22:43:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Project ERASE puts accused Toronto stunt driver in neutral",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/project-erase-charges-accused-stunt-driver",
+      "published_date": "2026-10-04T21:31:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dies at North York apartment after suffering 'traumatic injuries': Cops",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-dies-at-north-york-apartment-after-suffering-traumatic-injuries-cops",
+      "published_date": "2026-10-04T21:11:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PHOTOS: B.C. witches take to the waters of Semiahmoo Bay",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/04/photos-b-c-witches-take-to-the-waters-of-semiahmoo-bay/",
+      "published_date": "2026-10-04T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI, ethics, Israel: Chow supporters slam Bradford’s app",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/bradford-victory-chow-nationbuilder-campaign-software",
+      "published_date": "2026-10-04T20:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver police seek potential witnesses to CRAB Park homicide",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-police-seek-potential-witnesses-to-crab-park-homicide",
+      "published_date": "2026-10-04T19:27:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman hospitalized after suspected black bear attack near Onion Lake Ski Trails",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/04/woman-hospitalized-after-suspected-black-bear-attack-near-onion-lake-ski-trails/",
+      "published_date": "2026-10-04T18:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Get the look: A hair colour refresh and elevated makeup routine",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/get-the-look-a-hair-refresh-and-elevated-makeup-routine",
+      "published_date": "2026-10-04T18:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver charged after crashing into Etobicoke home; pedestrian lying on road killed in North York",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/driver-charged-after-crashing-into-etobicoke-home-pedestrian-lying-on-road-killed-in-north-york",
+      "published_date": "2026-10-04T16:09:58Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Juno winner Sass Jordan dead at 65",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/entertainment/music/juno-winner-sass-jordan-make-you-a-believer-dead-65",
@@ -407,97 +498,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/vancouver-police-warn-high-risk-sex-offender-residing-locally",
       "published_date": "2026-10-03T16:03:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHARLEBOIS: Your grocer has AI, so who’s looking out for you?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/your-grocer-has-ai-whos-looking-out-for-you",
-      "published_date": "2026-10-03T15:24:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: Jew-haters push vile propaganda in wake of Flydubai hijacking",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/jew-haters-push-vile-propaganda-flydubai-hijacking",
-      "published_date": "2026-10-03T15:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: William Bonin most vile of the Freeway Killers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-william-bonin-most-vile-freeway-killers",
-      "published_date": "2026-10-03T14:30:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: Okanagan is open for business. You should check it out",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/anthony-gismondi-check-out-okanagan-wineries-businesses",
-      "published_date": "2026-10-03T14:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Minter: How these big, blooming hydrangeas have taken the gardening world by storm",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/gardening/brian-minter-hydrangeas-new-stars-gardening-world",
-      "published_date": "2026-10-03T14:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: NDP promised a grocery rebate, then backtracked. Can we believe them now?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-ndp-promised-a-grocery-rebate-then-backtracked-can-we-believe-them-now",
-      "published_date": "2026-10-03T13:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1945-2026: Legendary psychedelic poster artist Bob Masse dies",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/history-1945-2026-poster-artist-bob-masse-dies",
-      "published_date": "2026-10-03T13:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Douglas Todd: Central figure in rape allegations against former UBC prof Steven Galloway apologizes",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-central-figure-rape-allegations-against-former-ubc-prof-steven-galloway-apologizes",
-      "published_date": "2026-10-03T02:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brampton man on probation wanted for Scarborough sex assault; gun seized in North York, man arrested",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brampton-man-scarborough-sex-assault-gun-seized-north-york-man-arrested",
-      "published_date": "2026-10-03T01:18:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna man faces life sentence for 2023 murder, parole eligibility to be decided",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/kelowna-man-faces-life-sentence-for-2023-murder-parole-eligibility-to-be-decided/",
-      "published_date": "2026-10-02T23:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eby announces B.C. grocery ‘price guard’ during Kelowna visit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/eby-announces-b-c-grocery-price-guard-during-kelowna-visit/",
-      "published_date": "2026-10-02T23:30:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives, NDP in tight election race, polling suggests",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/b-c-conservatives-ndp-in-tight-election-race-polling-suggests/",
-      "published_date": "2026-10-02T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Crypto King' Aiden Pleterski to represent himself when fraud trial begins Monday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/crypto-king-aiden-pleterski-to-represent-himself-when-fraud-trial-begins-monday",
-      "published_date": "2026-10-02T22:41:13Z",
       "category": "Local Events"
     }
   ]
