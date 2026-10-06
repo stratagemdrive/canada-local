@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T02:45:23Z",
+  "generated_at": "2026-10-06T16:58:10Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 64,
   "categories": [
     "Diplomacy",
     "Military",
@@ -116,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "Software glitch in Boeing jets could cause issues during landings",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/software-glitch-boeing-jets-issues-landings",
-      "published_date": "2026-09-29T15:03:53Z",
-      "category": "Military"
-    },
-    {
       "title": "EDITORIAL: Taxpayers on hook for another pipeline",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/editorials/taxpayers-on-hook-for-another-pipeline",
@@ -197,13 +190,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/lng-canada-phase-2-kitimat-lng-approval",
       "published_date": "2026-09-29T18:34:37Z",
-      "category": "Energy"
-    },
-    {
-      "title": "LNG Phase 2 in Kitimat gets go ahead in final investment decision",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/09/29/lng-phase-2-in-kitimat-gets-go-ahead-in-final-investment-decision/",
-      "published_date": "2026-09-29T15:55:23Z",
       "category": "Energy"
     },
     {
@@ -333,11 +319,130 @@
       "category": "Economy"
     },
     {
-      "title": "Struggling Tim Hortons franchisee cites limits to foreign workers: report",
+      "title": "MANDEL: Trial opens for self-represented \"Crypto King\" accused of defrauding investors",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/struggling-tim-hortons-franchisee-foreign-workers",
-      "published_date": "2026-09-29T15:32:15Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/trial-opens-crypto-king-accused-defrauding-investors",
+      "published_date": "2026-10-06T16:50:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Staind is coming to Vancouver: What to know about the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/staind-vancouver-concert",
+      "published_date": "2026-10-06T16:44:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lower Mainland legion placed under trusteeship amid concerns with governance",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/lower-mainland-legion-placed-under-trusteeship-amid-concerns-with-governance/",
+      "published_date": "2026-10-06T16:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Traffic alert: Highway 1 eastbound in Burnaby closed due to body on road",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/traffic-alert-highway-1-eastbound-in-burnaby-closed-dead-body",
+      "published_date": "2026-10-06T16:28:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trick or treat for pets? Find your fur baby a Halloween costume and celebrate at PetSmart",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/find-your-fur-baby-halloween-costume-petsmart",
+      "published_date": "2026-10-06T16:20:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man scores near impossible cancer charity hockey shot, then surprises organizers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-scores-impossible-cancer-charity-hockey-shot-surprises-organizers",
+      "published_date": "2026-10-06T15:56:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dies after being shot in parking lot of Langley Cactus Club",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/fatal-shooting-langley-cactus-club",
+      "published_date": "2026-10-06T15:48:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "YouTubers find body of B.C. man who vanished over 20 years ago",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/youtubers-find-body-of-b-c-man",
+      "published_date": "2026-10-06T15:40:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Death drop after Ford defied safe-site activists",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/death-drop-after-ford-defied-safe-site-activists",
+      "published_date": "2026-10-06T14:53:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caleb Flynn’s daughters rip dad as he’s sentenced to life in prison: ‘YOU HAD THE BEST LIFE EVER’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/caleb-flynns-daughters-rip-dad-as-hes-sentenced",
+      "published_date": "2026-10-06T14:33:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Missing Whitby girl found safe in Mississauga",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/durham-police-searching-for-missing-6-year-old-whitby-girl",
+      "published_date": "2026-10-06T14:20:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chris Alexander quits race for Toronto mayor",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/chris-alexander-drops-out-toronto-mayor",
+      "published_date": "2026-10-06T14:16:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scandal-plagued televangelist Jim Bakker dies at 86",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/scandal-plagued-televangelist-jim-bakker-dies-at-86",
+      "published_date": "2026-10-06T13:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. senior taking part in dementia clinical trial hopes children, grandchildren will have better access to treatment",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/health/bc-senior-taking-part-in-dementia-clinical-trial-hopes-children-grandchildren-will-have-better-access-to-treatment",
+      "published_date": "2026-10-06T13:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Some Metro Vancouver candidates want to bring the ward system back. Here&#039;s what to know",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/municipal-election-some-metro-vancouver-candidates-want-to-bring-the-ward-system-back-heres-what-to-know",
+      "published_date": "2026-10-06T13:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian accessories brand releases design dedicated to this Vancouver neighbourhood",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/canadian-accessories-brand-releases-design-dedicated-to-this-vancouver-neighbourhood",
+      "published_date": "2026-10-06T13:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China-based heavy equipment company faces asset freeze pending B.C. lawsuit",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/china-based-heavy-equipment-company-asset-freeze-bc-lawsuit",
+      "published_date": "2026-10-06T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. court hears about fatal attack on Surrey’s Tori Dunn",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/b-c-court-hears-about-fatal-attack-on-surreys-tori-dunn/",
+      "published_date": "2026-10-06T03:11:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Durham Region cops warn of 'emerging threat' of crime tourism",
@@ -351,132 +456,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/manhunt-underway-lawrence-heights-homicide-suspect",
       "published_date": "2026-10-06T00:22:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tow truck set on fire in Ajax; man nabbed in Rexdale sex assaults",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/tow-truck-set-on-fire-in-ajax-man-nabbed-in-rexdale-sex-assaults",
-      "published_date": "2026-10-06T00:15:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trial opens in defamation lawsuit by former UBC prof accused of sex assault by student",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/trial-opens-in-defamation-lawsuit-by-former-ubc-prof-accused-of-sex-assault-by-student",
-      "published_date": "2026-10-05T23:57:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver election: ABC reveals 100-day plan, derided by rivals as a &#039;to-do list for someone else&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vancouver-election-abc-reveals-100-day-plan-derided-by-rivals-as-a-to-do-list-for-someone-else",
-      "published_date": "2026-10-05T23:38:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: David Eby criticized for ill-advised attack on B.C. billionaire Jim Pattison",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-ndp-leader-david-eby-criticized-ill-advised-attack-bc-billionaire-jimmy-pattison",
-      "published_date": "2026-10-05T23:21:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: A message from Gen Z to British Columbians heading to the polls",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-4",
-      "published_date": "2026-10-05T23:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lorne Doerkson pledges to create $50M fund to address emergency room closures",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/lorne-doerkson-pledges-to-create-50m-fund-to-address-emergency-room-closures/",
-      "published_date": "2026-10-05T22:28:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Girl, 7, fatally stabbed walking on Chicago street",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/girl-7-fatally-stabbed-walking-on-chicago-street",
-      "published_date": "2026-10-05T22:27:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Toronto cop and anti-drunk-driving crusader charged with impaired",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-cop-anti-drunk-driving-crusader-charged-impaired",
-      "published_date": "2026-10-05T21:50:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former B.C. cop who murdered wife gets day parole extended again",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/former-b-c-cop-who-murdered-wife-gets-day-parole-extended-again/",
-      "published_date": "2026-10-05T21:43:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewelry stolen from Vancouver open house recovered by police",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/jewelry-stolen-from-vancouver-open-house-recovered-by-police",
-      "published_date": "2026-10-05T21:37:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI Director Kash Patel engaged to country singer girlfriend Alexis Wilkins",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/fbi-director-kash-patel-engaged-alexis-wilkins",
-      "published_date": "2026-10-05T21:20:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDP announces seniors’ health care plan at Victoria stop",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/ndp-announces-seniors-health-care-plan-at-victoria-stop/",
-      "published_date": "2026-10-05T20:36:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario man who tried to fly with 31 kilos of pot from YVR to England gets a year in jail",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/yvr-pot-smuggler-sentenced-year-jail",
-      "published_date": "2026-10-05T19:58:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pair arrested as police hunt third suspect in Scarborough homicide",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/pair-arrested-as-police-hunt-third-suspect-in-scarborough-homicide",
-      "published_date": "2026-10-05T19:36:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flight attendant's remains found in Texas more than one year after disappearance",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/flight-attendants-remains-found-in-texas-more-than-one-year-after-disappearance",
-      "published_date": "2026-10-05T19:20:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna General Hospital Foundation raises over $45M to improve care",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/kelowna-general-hospital-foundation-raises-over-45m-to-improve-care/",
-      "published_date": "2026-10-05T19:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Georgia man called 911 to avoid paying Red Lobster bill: Police",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/weird/georgia-man-called-911-to-avoid-paying-red-lobster-bill-police",
-      "published_date": "2026-10-05T19:08:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Options being considered for B.C.’s Historic O’Keefe Ranch",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/options-being-considered-for-b-c-s-historic-okeefe-ranch/",
-      "published_date": "2026-10-05T19:03:00Z",
       "category": "Local Events"
     }
   ]
