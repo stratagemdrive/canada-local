@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T16:58:10Z",
+  "generated_at": "2026-10-07T02:09:57Z",
   "country": "Canada",
-  "total_stories": 64,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -102,20 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Dragons, yokai and B.C. history collide in Ojiichan’s Dragon",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/dragons-yokai-bc-history-collide-ojiichans-dragon",
-      "published_date": "2026-09-29T18:00:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Veteran OPP team leader facing child sex abuse material charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/opp-team-leader-child-sex-abuse-material-charges",
-      "published_date": "2026-09-29T17:09:41Z",
-      "category": "Military"
-    },
-    {
       "title": "EDITORIAL: Taxpayers on hook for another pipeline",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/editorials/taxpayers-on-hook-for-another-pipeline",
@@ -179,18 +165,11 @@
       "category": "Energy"
     },
     {
-      "title": "Decision to fast-track $44 billion Alberta-B.C. oil pipeline expected Thursday",
+      "title": "B.C. union launches petition seeking film tax-credit change",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/alberta-bc-oil-pipeline-fast-track-decision-deadline",
-      "published_date": "2026-09-29T23:57:26Z",
-      "category": "Energy"
-    },
-    {
-      "title": "LNG Canada&#039;s Phase 2 switches from plan to project under construction with decision",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/lng-canada-phase-2-kitimat-lng-approval",
-      "published_date": "2026-09-29T18:34:37Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/bc-union-petition-seeking-film-tax-credit-change",
+      "published_date": "2026-10-06T19:44:50Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. Election: Tax promises by NDP and Conservatives won&#039;t move needle on deficit, say experts",
@@ -312,150 +291,143 @@
       "category": "Economy"
     },
     {
-      "title": "New Leger poll finds majority in B.C. think NDP has done poorly — but not sold on Conservatives",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/new-leger-poll-finds-majority-in-bc-think-ndp-has-done-poorly-but-not-sold-on-conservatives",
-      "published_date": "2026-09-29T23:34:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "MANDEL: Trial opens for self-represented \"Crypto King\" accused of defrauding investors",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/trial-opens-crypto-king-accused-defrauding-investors",
-      "published_date": "2026-10-06T16:50:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Staind is coming to Vancouver: What to know about the concert",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/staind-vancouver-concert",
-      "published_date": "2026-10-06T16:44:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lower Mainland legion placed under trusteeship amid concerns with governance",
+      "title": "Chapman, Findlay step away from B.C. politics after ‘threats and abuse’",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/lower-mainland-legion-placed-under-trusteeship-amid-concerns-with-governance/",
-      "published_date": "2026-10-06T16:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/chapman-findlay-step-away-from-b-c-politics-after-threats-and-abuse/",
+      "published_date": "2026-10-07T01:36:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Traffic alert: Highway 1 eastbound in Burnaby closed due to body on road",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/traffic-alert-highway-1-eastbound-in-burnaby-closed-dead-body",
-      "published_date": "2026-10-06T16:28:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trick or treat for pets? Find your fur baby a Halloween costume and celebrate at PetSmart",
+      "title": "LILLEY: Chris Alexander already forgotten as top mayoral candidates clash at debate",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/find-your-fur-baby-halloween-costume-petsmart",
-      "published_date": "2026-10-06T16:20:05Z",
+      "url": "https://torontosun.com/opinion/columnists/chow-bradford-debate-after-alexander-exits-race",
+      "published_date": "2026-10-07T00:59:09Z",
       "category": "Local Events"
     },
     {
-      "title": "Man scores near impossible cancer charity hockey shot, then surprises organizers",
+      "title": "WARMINGTON: Quick-thinking Peel cop earns plaudits for spotting missing Whitby girl",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-scores-impossible-cancer-charity-hockey-shot-surprises-organizers",
-      "published_date": "2026-10-06T15:56:26Z",
+      "url": "https://torontosun.com/opinion/columnists/peel-cop-praised-missing-whitby-girl",
+      "published_date": "2026-10-07T00:31:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Man dies after being shot in parking lot of Langley Cactus Club",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/fatal-shooting-langley-cactus-club",
-      "published_date": "2026-10-06T15:48:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "YouTubers find body of B.C. man who vanished over 20 years ago",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/youtubers-find-body-of-b-c-man",
-      "published_date": "2026-10-06T15:40:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Death drop after Ford defied safe-site activists",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/death-drop-after-ford-defied-safe-site-activists",
-      "published_date": "2026-10-06T14:53:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caleb Flynn’s daughters rip dad as he’s sentenced to life in prison: ‘YOU HAD THE BEST LIFE EVER’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/caleb-flynns-daughters-rip-dad-as-hes-sentenced",
-      "published_date": "2026-10-06T14:33:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Missing Whitby girl found safe in Mississauga",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/durham-police-searching-for-missing-6-year-old-whitby-girl",
-      "published_date": "2026-10-06T14:20:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chris Alexander quits race for Toronto mayor",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/chris-alexander-drops-out-toronto-mayor",
-      "published_date": "2026-10-06T14:16:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scandal-plagued televangelist Jim Bakker dies at 86",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/scandal-plagued-televangelist-jim-bakker-dies-at-86",
-      "published_date": "2026-10-06T13:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. senior taking part in dementia clinical trial hopes children, grandchildren will have better access to treatment",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/health/bc-senior-taking-part-in-dementia-clinical-trial-hopes-children-grandchildren-will-have-better-access-to-treatment",
-      "published_date": "2026-10-06T13:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Some Metro Vancouver candidates want to bring the ward system back. Here&#039;s what to know",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/municipal-election-some-metro-vancouver-candidates-want-to-bring-the-ward-system-back-heres-what-to-know",
-      "published_date": "2026-10-06T13:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian accessories brand releases design dedicated to this Vancouver neighbourhood",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/canadian-accessories-brand-releases-design-dedicated-to-this-vancouver-neighbourhood",
-      "published_date": "2026-10-06T13:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "China-based heavy equipment company faces asset freeze pending B.C. lawsuit",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/china-based-heavy-equipment-company-asset-freeze-bc-lawsuit",
-      "published_date": "2026-10-06T13:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. court hears about fatal attack on Surrey’s Tori Dunn",
+      "title": "Person from Washington State arrested in connection with Tumbler Ridge shooting",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/b-c-court-hears-about-fatal-attack-on-surreys-tori-dunn/",
-      "published_date": "2026-10-06T03:11:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/person-from-washington-state-arrested-in-connection-with-tumbler-ridge-shooting/",
+      "published_date": "2026-10-07T00:17:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Durham Region cops warn of 'emerging threat' of crime tourism",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/durham-cops-warn-crime-tourism-threat",
-      "published_date": "2026-10-06T01:37:49Z",
+      "title": "Philadelphia fugitive wanted on international warrant arrested in B.C. traffic stop",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/philadelphia-fugitive-wanted-on-international-warrant-arrested-in-b-c-traffic-stop/",
+      "published_date": "2026-10-07T00:06:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Manhunt underway for man accused of Lawrence Heights slaying",
+      "title": "Vaughn Palmer: Colin Gabelmann stuck to his principles, even voting against his NDP colleagues",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-colin-gabelmann-stuck-to-his-principles-even-voting-against-his-ndp-colleagues",
+      "published_date": "2026-10-06T23:53:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Loyal' dog leads Kansas police officer to owner in distress",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/manhunt-underway-lawrence-heights-homicide-suspect",
-      "published_date": "2026-10-06T00:22:13Z",
+      "url": "https://torontosun.com/news/world/dog-leads-cop-to-owner-in-distress",
+      "published_date": "2026-10-06T23:38:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Experts to talk water in Kelowna at Environmental Flows Conference",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/experts-to-talk-water-in-kelowna-at-environmental-flows-conference/",
+      "published_date": "2026-10-06T23:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. NDP promises faster health care with new diagnostic equipment",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/b-c-ndp-promises-faster-health-care-with-new-diagnostic-equipment/",
+      "published_date": "2026-10-06T23:21:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative, NDP leaders rally election support in Vernon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/b-c-conservative-ndp-leaders-rally-election-support-in-vernon/",
+      "published_date": "2026-10-06T23:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pennsylvania students stop school bus after driver's medical emergency",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/video-shows-students-stopping-school-bus",
+      "published_date": "2026-10-06T22:48:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservatives plan to hire more police, stop illegal drug use in hospitals, shelters",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/b-c-conservatives-plan-to-hire-more-police-stop-illegal-drug-use-in-hospitals-shelters/",
+      "published_date": "2026-10-06T22:38:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ontario asks police to probe OSAP applications linked to private career colleges",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/ontario-seeks-police-probe-osap-applications",
+      "published_date": "2026-10-06T22:27:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clint Lambert enters Nechako Lakes MLA race as a ‘blue independent’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/clint-lambert-enters-nechako-lakes-mla-race-as-a-blue-independent/",
+      "published_date": "2026-10-06T22:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘This happens all the time’ Mid Island resident died without access to modern cardiac care, NRGH doctor reports",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/this-happens-all-the-time-mid-island-resident-died-without-access-to-modern-cardiac-care-nrgh-doctor-reports/",
+      "published_date": "2026-10-06T21:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man facing more firearm-related charges; woman assaulted at College Station",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-facing-more-firearm-related-charges",
+      "published_date": "2026-10-06T20:34:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sundays’ collaboration with Sophie Burke pairs natural materials, quiet forms",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/sundays-collaboration-with-sophie-burke-pairs-natural-materials-quiet-forms",
+      "published_date": "2026-10-06T20:32:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadians to spend 11% less this holiday season, PwC survey finds",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-shoppers-plan-spend-11-per-cent-less-this-holiday-season-pwc-report",
+      "published_date": "2026-10-06T20:14:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "International rinks earn curling Prestige in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/06/international-rinks-earn-curling-prestige-in-b-c/",
+      "published_date": "2026-10-06T20:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "U.S. authorities charge 30-year-old man in Tumbler Ridge shooting investigation",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/authorities-charge-individual-tumbler-ridge-shooting",
+      "published_date": "2026-10-06T19:30:33Z",
       "category": "Local Events"
     }
   ]
