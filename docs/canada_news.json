@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:33:52Z",
+  "generated_at": "2026-10-08T02:36:21Z",
   "country": "Canada",
   "total_stories": 62,
   "categories": [
@@ -30,6 +30,13 @@
       "url": "https://torontosun.com/news/national/canada-taught-little-lesson-trade-war-trump",
       "published_date": "2026-10-01T14:56:40Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "A masterclass in local government politics: 2 B.C. veterans launch podcast",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/a-masterclass-in-local-government-politics-2-b-c-veterans-launch-podcast/",
+      "published_date": "2026-10-07T20:06:12Z",
+      "category": "Military"
     },
     {
       "title": "BC NDP promises new support for small businesses hit by U.S. trade war",
@@ -158,11 +165,25 @@
       "category": "Energy"
     },
     {
-      "title": "Vaughn Palmer: Premiers past and present deserve a cut of the credit for LNG projects",
+      "title": "B.C. Election: As NDP and Conservatives go all in on supporting businesses, Greens promise to grow economy sustainably",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-premiers-past-and-present-deserve-a-cut-of-the-credit-for-lng-projects",
-      "published_date": "2026-09-30T23:23:16Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/news/bc-election-ndp-conservatives-all-in-supporting-businesses-greens-promise-grow-economy-sustainably",
+      "published_date": "2026-10-07T23:35:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "NHL legend Theo Fleury adds pizzazz to Burns Lake Job Fair",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/nhl-legend-theo-fleury-adds-pizzazz-to-burns-lake-job-fair/",
+      "published_date": "2026-10-07T20:07:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Lowan launches Greens economic vision for B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/lowan-launches-greens-economic-vision-for-b-c/",
+      "published_date": "2026-10-07T19:44:08Z",
+      "category": "Economy"
     },
     {
       "title": "Crushing taxes holding back Canadian small business, CFIB warns",
@@ -284,164 +305,143 @@
       "category": "Economy"
     },
     {
-      "title": "Rising cost of diesel fuel hurting the Daily Bread Food Bank",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/how-rising-cost-diesel-fuel-hurting-daily-bread-food-bank",
-      "published_date": "2026-10-01T19:58:32Z",
-      "category": "Economy"
+      "title": "Three show horses killed in Highway 1 crash near Revelstoke",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/three-show-horses-killed-highway-1-crash-near-revelstoke-bc",
+      "published_date": "2026-10-08T02:10:38Z",
+      "category": "Local Events"
     },
     {
-      "title": "BC NDP leader David Eby promises gas tax relief",
+      "title": "Sexual assaults alleged by UBC student &#039;fictitious,&#039; defamation trial hears as accused former prof continues testimony",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/steven-galloway-trial-sexual-assaults-alleged-ubc-student-fictitious-defamation-accused-former-prof-testimony",
+      "published_date": "2026-10-08T00:21:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oshawa museum out thousands of dollars in nuisance fines over 'unsheltered individuals'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/oshawa-auto-museum-nuisance-fines",
+      "published_date": "2026-10-08T00:12:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: OSAP scandal shows what happens when nobody’s watching",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/osap-scandal-happened-after-lax-oversight",
+      "published_date": "2026-10-07T23:23:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leaders clash over B.C. Conservative letter to reverse ICBC no-fault insurance",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/bc-ndp-leader-david-eby-promises-gas-tax-relief/",
-      "published_date": "2026-10-01T16:43:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "How to store your outdoor furniture over the winter",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/how-to-store-your-outdoor-furniture-over-the-winter",
-      "published_date": "2026-10-01T15:04:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C.&#039;s flu season got off to an early start, say health officials",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-flu-season-early-start-health-officials",
-      "published_date": "2026-10-07T17:12:38Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/leaders-clash-over-b-c-conservative-letter-to-reverse-icbc-no-fault-insurance/",
+      "published_date": "2026-10-07T23:21:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Four-peat: Victoria named world’s best small city once again",
+      "title": "Vaccine notifications going out now in B.C. as respiratory illness season begins",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/four-peat-victoria-named-worlds-best-small-city-once-again/",
-      "published_date": "2026-10-07T17:10:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/vaccine-notifications-going-out-now-in-b-c-as-respiratory-illness-season-begins/",
+      "published_date": "2026-10-07T23:18:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Queen Camilla's doctor murdered, husband charged",
+      "title": "Luxury U.S. grocery chain Wild Fork leaving Canadian market",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/queen-camillas-doctor-murdered-husband-charged",
-      "published_date": "2026-10-07T17:07:14Z",
+      "url": "https://torontosun.com/news/national/luxury-chain-wild-fork-leaving-canada",
+      "published_date": "2026-10-07T23:04:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Callous hit-and-run driver left woman to die on Vaughan roadside",
+      "title": "Opinion: Know the risks of using AI advice to help make voting decisions",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-know-the-risks-of-using-ai-advice-to-help-make-voting-decisions",
+      "published_date": "2026-10-07T23:00:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Lorne Doerkson has his first big problem of the campaign",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/vaughn-palmer-bc-conservative-leader-lorne-doerkson-first-big-problem-of-campaign",
+      "published_date": "2026-10-07T22:57:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two-thirds of Canadians will compromise to buy home, says market outlook",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hit-and-run-driver-woman-killed-vaughan-york-regional-police",
-      "published_date": "2026-10-07T16:29:52Z",
+      "url": "https://torontosun.com/news/national/two-thirds-canadians-compromise-buy-home-fall-housing-market-outlook",
+      "published_date": "2026-10-07T22:42:57Z",
       "category": "Local Events"
     },
     {
-      "title": "'Unexplained bulge' allegedly was 10 birds in man's underwear at Miami Airport",
+      "title": "Tumbler Ridge shooter sought notoriety for school massacre, texts released by FBI reveal",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/alleged-smuggler-caught-10-birds-underwear-miami-airport",
-      "published_date": "2026-10-07T16:25:38Z",
+      "url": "https://torontosun.com/news/national/tumbler-ridge-shooter-sought-notoriety-fbi",
+      "published_date": "2026-10-07T22:39:08Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. ball hockey team completes undefeated run to capture national title",
+      "title": "B.C. winery owner calls for improving interprovincial alcohol sales",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/b-c-ball-hockey-team-completes-undefeated-run-to-capture-national-title/",
-      "published_date": "2026-10-07T16:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/b-c-winery-owner-calls-for-improving-interprovincial-alcohol-sales/",
+      "published_date": "2026-10-07T22:36:00Z",
       "category": "Local Events"
     },
     {
-      "title": "European Parliament displays statue of naked Donald Trump",
+      "title": "Manslaughter sentence tossed after AI video of slain man shown in court",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/european-parliament-displays-statue-of-naked-donald-trump",
-      "published_date": "2026-10-07T15:52:32Z",
+      "url": "https://torontosun.com/news/world/manslaughter-sentence-tossed-after-ai-video-of-slain-man-shown-in-court",
+      "published_date": "2026-10-07T22:09:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Break point: Kelowna to continue with indoor tennis court plan after terminating contract with partner",
+      "title": "Seniors care project cancellation draws concerns",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/break-point-kelowna-to-continue-with-indoor-tennis-court-plan-after-terminating-contract-with-partner/",
-      "published_date": "2026-10-07T15:39:27Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/seniors-care-project-cancellation-draws-concerns/",
+      "published_date": "2026-10-07T22:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Lotto Max jackpot climbs to record-matching $80M",
+      "title": "Elon Musk says Quebec, Alberta, Saskatchewan 'should separate' from Canada",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/lotto-max-jackpot-climbs-to-record-matching-80m",
-      "published_date": "2026-10-07T15:21:23Z",
+      "url": "https://torontosun.com/news/national/quebec-alberta-sask-should-separate-musk",
+      "published_date": "2026-10-07T21:58:46Z",
       "category": "Local Events"
     },
     {
-      "title": "WARMINGTON: In Toronto, Palestinian flags don't face the same heat as the Israeli Star of David",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/palestinian-flags-dont-face-same-heat-as-israel-star-of-david",
-      "published_date": "2026-10-07T15:16:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man wanted for alleged sex assault of woman at Main TTC station",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-wanted-alleged-sex-assault-woman-main-ttc-station",
-      "published_date": "2026-10-07T14:59:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andrew Tate accused of keeping ‘grossly offensive’ bestiality porn, sex video with child",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/andrew-tate-accused-keeping-bestiality-porn-sex-video-with-child",
-      "published_date": "2026-10-07T13:37:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna council candidate goes viral over campaign humour",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/kelowna-council-candidate-campaign-humour",
-      "published_date": "2026-10-07T13:30:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.&#039;s longest-serving school trustee retires after serving 41 years on Surrey board",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-longest-serving-school-trustee-retires-after-serving-41-years-on-surrey-board",
-      "published_date": "2026-10-07T13:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey Pho, stuffing waffles: Here are 6 Vancouver chef recipes to try this Thanksgiving",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/turkey-pho-stuffing-waffles-here-are-6-vancouver-chef-recipes-to-try-this-thanksgiving",
-      "published_date": "2026-10-07T13:00:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election: How does each party plan to fix B.C.&#039;s wait-list crisis?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-provincial-election-how-does-each-party-plan-to-fix-bc-wait-list-crisis",
-      "published_date": "2026-10-07T13:00:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suburban ridings key to who will form B.C.&#039;s next government in &#039;kitchen table&#039; election",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-suburban-ridings-key-next-government",
-      "published_date": "2026-10-07T13:00:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Density by decree: The future of Vancouver neighbourhoods",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-density-by-decree-the-future-of-vancouver-neighbourhoods",
-      "published_date": "2026-10-07T13:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WOLF: Remembering Mum, nearly 40 years later",
+      "title": "Bomb threat at secondary school in Prince George prompts evacuation",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/wolf-remembering-mum-nearly-40-years-later/",
-      "published_date": "2026-10-07T12:45:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/bomb-threat-at-secondary-school-in-prince-george-prompts-evacuation/",
+      "published_date": "2026-10-07T21:43:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Hampton Lumber does a good thing",
+      "title": "What is Discord? What to know about Tumbler Ridge shooter&#039;s chat platform",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/what-is-discord-what-to-know-about-tumbler-ridge-shooters-chat-platform",
+      "published_date": "2026-10-07T21:40:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crown seeking life sentence for man guilty of manslaughter in 2021 Naramata death",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/hampton-lumber-does-a-good-thing/",
-      "published_date": "2026-10-07T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/crown-seeking-life-sentence-for-man-guilty-of-manslaughter-in-2021-naramata-death/",
+      "published_date": "2026-10-07T21:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. crime news: &#039;Unprovoked, random&#039; arson attack on man sitting on Vancouver park bench &#124; Man convicted of dragging RCMP officer with vehicle on highway",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime-briefs-oct-7-2026-bc",
+      "published_date": "2026-10-07T19:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Social media companies say they are co-operating in Tumbler Ridge murder probe",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/social-media-companies-cooperating-tumbler-ridge-murder-probe",
+      "published_date": "2026-10-07T19:52:44Z",
       "category": "Local Events"
     }
   ]
