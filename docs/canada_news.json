@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T02:36:21Z",
+  "generated_at": "2026-10-08T17:37:17Z",
   "country": "Canada",
-  "total_stories": 62,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -25,11 +25,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Canada is being taught a 'little lesson' in trade war, Trump says",
+      "title": "Toronto stabbing, home invasion suspect at large; Couple wanted in Toronto distraction theft",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-taught-little-lesson-trade-war-trump",
-      "published_date": "2026-10-01T14:56:40Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/crime/toronto-stabbing-home-invasion-suspect-at-large",
+      "published_date": "2026-10-08T16:32:01Z",
+      "category": "Military"
+    },
+    {
+      "title": "With the U.S. and Iran working towards a deal, war is an alternative possibility: Reports",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/u-s-iran-war-alternative-possibility-reports",
+      "published_date": "2026-10-08T14:53:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Richmond mayoral race: Tight, three-way battle to replace popular longtime mayor",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/richmond-election-issues-and-candidates",
+      "published_date": "2026-10-08T13:00:24Z",
+      "category": "Military"
     },
     {
       "title": "A masterclass in local government politics: 2 B.C. veterans launch podcast",
@@ -155,13 +169,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/west-coast-oil-pipeline-canadas-first-national-interest-project",
       "published_date": "2026-10-01T18:38:56Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Canada fast-tracks $44-billion Alberta to B.C. oil pipeline",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/canada-proposed-44-billion-alberta-bc-oil-pipeline-project-national-interest",
-      "published_date": "2026-10-01T17:06:13Z",
       "category": "Energy"
     },
     {
@@ -305,143 +312,143 @@
       "category": "Economy"
     },
     {
-      "title": "Three show horses killed in Highway 1 crash near Revelstoke",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/three-show-horses-killed-highway-1-crash-near-revelstoke-bc",
-      "published_date": "2026-10-08T02:10:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sexual assaults alleged by UBC student &#039;fictitious,&#039; defamation trial hears as accused former prof continues testimony",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/steven-galloway-trial-sexual-assaults-alleged-ubc-student-fictitious-defamation-accused-former-prof-testimony",
-      "published_date": "2026-10-08T00:21:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oshawa museum out thousands of dollars in nuisance fines over 'unsheltered individuals'",
+      "title": "Brad Bradford cuts into Olivia Chow's lead for Toronto mayor: poll",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/oshawa-auto-museum-nuisance-fines",
-      "published_date": "2026-10-08T00:12:59Z",
+      "url": "https://torontosun.com/news/local-news/brad-bradford-olivia-chow-toronto-mayor-poll",
+      "published_date": "2026-10-08T17:29:02Z",
       "category": "Local Events"
     },
     {
-      "title": "LILLEY: OSAP scandal shows what happens when nobody’s watching",
+      "title": "Transforming a classic 1970s Vancouver Special into a modern family home",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/transforming-a-classic-1970s-vancouver-special-into-a-modern-family-home",
+      "published_date": "2026-10-08T17:26:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Visa cardholders' international spending up 12% during TIFF",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/osap-scandal-happened-after-lax-oversight",
-      "published_date": "2026-10-07T23:23:01Z",
+      "url": "https://torontosun.com/news/local-news/visa-cardholders-international-spending-up-12-per-cent-during-tiff26",
+      "published_date": "2026-10-08T17:12:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Leaders clash over B.C. Conservative letter to reverse ICBC no-fault insurance",
+      "title": "For designers, Canada&#039;s landscapes and culture provide an endless source of inspiration",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/for-designers-canadas-landscapes-and-culture-provide-an-endless-source-of-inspiration",
+      "published_date": "2026-10-08T16:49:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Property Watch: Historic Pender Island farm for sale",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/property-watch-historic-pender-island-farm-for-sale",
+      "published_date": "2026-10-08T16:30:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Queen’s University receives $25-million gift from anonymous alum",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/10/08/queens-university-receives-25-million-gift-from-anonymous-alum/",
+      "published_date": "2026-10-08T16:29:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scarborough killer's $2M lawsuit over seized book manuscript dismissed by B.C. judge",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/scarborough-killer-2m-lawsuit-seized-manuscript-dismissed-bc-judge",
+      "published_date": "2026-10-08T16:19:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver&#039;s Bayside Lounge set to close after 47 years",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/vancouvers-bayside-lounge-close-48-years",
+      "published_date": "2026-10-08T16:18:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newspaper carriers saluted in historic Vernon photo",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/leaders-clash-over-b-c-conservative-letter-to-reverse-icbc-no-fault-insurance/",
-      "published_date": "2026-10-07T23:21:15Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/newspaper-carriers-saluted-in-historic-vernon-photo/",
+      "published_date": "2026-10-08T16:12:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaccine notifications going out now in B.C. as respiratory illness season begins",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/vaccine-notifications-going-out-now-in-b-c-as-respiratory-illness-season-begins/",
-      "published_date": "2026-10-07T23:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luxury U.S. grocery chain Wild Fork leaving Canadian market",
+      "title": "Deputy mayor’s pals given huge DEI payday by city hall",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/luxury-chain-wild-fork-leaving-canada",
-      "published_date": "2026-10-07T23:04:54Z",
+      "url": "https://torontosun.com/news/local-news/monumental-projects-city-hall-malik-chow",
+      "published_date": "2026-10-08T16:04:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Know the risks of using AI advice to help make voting decisions",
+      "title": "Highway 1 partly closed after semi-truck overturns Thursday morning",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-know-the-risks-of-using-ai-advice-to-help-make-voting-decisions",
-      "published_date": "2026-10-07T23:00:48Z",
+      "url": "https://vancouversun.com/news/highway-1-partly-closed-semi-truck-overturns",
+      "published_date": "2026-10-08T16:00:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: Lorne Doerkson has his first big problem of the campaign",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/vaughn-palmer-bc-conservative-leader-lorne-doerkson-first-big-problem-of-campaign",
-      "published_date": "2026-10-07T22:57:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two-thirds of Canadians will compromise to buy home, says market outlook",
+      "title": "Shocking video shows boy, 6, challenging cops after shooting teacher: ‘WANT A F***ING PIECE OF ME?’",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/two-thirds-canadians-compromise-buy-home-fall-housing-market-outlook",
-      "published_date": "2026-10-07T22:42:57Z",
+      "url": "https://torontosun.com/news/crime/video-shows-boy-challenging-cops-shooting-teacher",
+      "published_date": "2026-10-08T15:35:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Tumbler Ridge shooter sought notoriety for school massacre, texts released by FBI reveal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/tumbler-ridge-shooter-sought-notoriety-fbi",
-      "published_date": "2026-10-07T22:39:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. winery owner calls for improving interprovincial alcohol sales",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/b-c-winery-owner-calls-for-improving-interprovincial-alcohol-sales/",
-      "published_date": "2026-10-07T22:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manslaughter sentence tossed after AI video of slain man shown in court",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/manslaughter-sentence-tossed-after-ai-video-of-slain-man-shown-in-court",
-      "published_date": "2026-10-07T22:09:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seniors care project cancellation draws concerns",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/seniors-care-project-cancellation-draws-concerns/",
-      "published_date": "2026-10-07T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elon Musk says Quebec, Alberta, Saskatchewan 'should separate' from Canada",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/quebec-alberta-sask-should-separate-musk",
-      "published_date": "2026-10-07T21:58:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bomb threat at secondary school in Prince George prompts evacuation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/bomb-threat-at-secondary-school-in-prince-george-prompts-evacuation/",
-      "published_date": "2026-10-07T21:43:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is Discord? What to know about Tumbler Ridge shooter&#039;s chat platform",
+      "title": "Surrey mayoral candidates take aim at incumbent mayor Brenda Locke during lively debate",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/what-is-discord-what-to-know-about-tumbler-ridge-shooters-chat-platform",
-      "published_date": "2026-10-07T21:40:16Z",
+      "url": "https://vancouversun.com/news/surrey-mayoral-candidates-take-aim-incumbent-mayor-debate",
+      "published_date": "2026-10-08T13:42:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Crown seeking life sentence for man guilty of manslaughter in 2021 Naramata death",
+      "title": "‘I did not do this lightly’: Victoria mayor pulls Palestine item from city council agenda",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/crown-seeking-life-sentence-for-man-guilty-of-manslaughter-in-2021-naramata-death/",
-      "published_date": "2026-10-07T21:01:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/i-did-not-do-this-lightly-victoria-mayor-pulls-palestine-item-from-city-council-agenda/",
+      "published_date": "2026-10-08T13:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. crime news: &#039;Unprovoked, random&#039; arson attack on man sitting on Vancouver park bench &#124; Man convicted of dragging RCMP officer with vehicle on highway",
+      "title": "WATCH LIVE TONIGHT: 5 Vancouver mayoral candidates debate the issues",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime-briefs-oct-7-2026-bc",
-      "published_date": "2026-10-07T19:57:00Z",
+      "url": "https://vancouversun.com/news/conversations-live-vancouver-mayor-debate-2026",
+      "published_date": "2026-10-08T13:00:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Social media companies say they are co-operating in Tumbler Ridge murder probe",
+      "title": "From Backrooms to Remnant, Vancouver horror is having a moment",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/social-media-companies-cooperating-tumbler-ridge-murder-probe",
-      "published_date": "2026-10-07T19:52:44Z",
+      "url": "https://vancouversun.com/entertainment/local-arts/from-backrooms-to-remnant-vancouver-horror-is-having-a-moment",
+      "published_date": "2026-10-08T13:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who&#039;s running for mayor in the North Vancouvers and West Vancouver?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/running-mayor-north-vancouvers-west-vancouver",
+      "published_date": "2026-10-08T13:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Happy Thanksgiving",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/editorial-happy-thanksgiving/",
+      "published_date": "2026-10-08T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What every dog owner should know about shock/prong collars",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/what-every-dog-owner-should-know-about-shock-prong-collars/",
+      "published_date": "2026-10-08T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Nature Nut: Trends in bird populations",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/the-nature-nut-trends-in-bird-populations/",
+      "published_date": "2026-10-08T12:30:00Z",
       "category": "Local Events"
     }
   ]
