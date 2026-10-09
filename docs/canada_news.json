@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T17:37:17Z",
+  "generated_at": "2026-10-09T02:50:27Z",
   "country": "Canada",
-  "total_stories": 63,
+  "total_stories": 61,
   "categories": [
     "Diplomacy",
     "Military",
@@ -23,6 +23,13 @@
       "url": "https://vancouversun.com/opinion/op-ed/opinion-returning-the-names-of-uprooted-japanese-canadians-to-the-landscape-of-bc",
       "published_date": "2026-10-02T13:00:45Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Squamish woman who wed ISIS fighter pleads guilty in B.C. to terrorism charge",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/squamish-woman-who-wed-isis-fighter-pleads-guilty-in-bc-to-terrorism-charge",
+      "published_date": "2026-10-08T23:18:31Z",
+      "category": "Military"
     },
     {
       "title": "Toronto stabbing, home invasion suspect at large; Couple wanted in Toronto distraction theft",
@@ -123,11 +130,11 @@
       "category": "Military"
     },
     {
-      "title": "What to know about pilot who attempted to hijack Flydubai flight",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/what-to-know-pilot-hijack-flydubai-flight",
-      "published_date": "2026-10-01T20:59:42Z",
-      "category": "Military"
+      "title": "Opinion: Housing and climate are inextricably linked. We must see action on both this election",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-housing-and-climate-are-inextricably-linked-we-must-see-action-on-both-this-election",
+      "published_date": "2026-10-08T23:00:06Z",
+      "category": "Energy"
     },
     {
       "title": "EDITORIAL: Taxpayers on hook for another pipeline",
@@ -151,25 +158,32 @@
       "category": "Energy"
     },
     {
-      "title": "Alberta-to-B.C. pipeline listed as ‘project of national interest’ by Carney",
+      "title": "B.C. Conservatives promise tax cut that could blow $4-billion hole in provincial budget, tax expert says",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-conservatives-promise-tax-cut-could-blow-4-billion-hole-provincial-budget-tax-expert",
+      "published_date": "2026-10-08T23:12:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: Ultra-rich British Columbians like me should welcome new taxes",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-ultra-rich-british-columbians-like-me-should-welcome-new-taxes",
+      "published_date": "2026-10-08T23:00:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: Out of ideas and out of gas, Chow's campaign runs on fear",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/out-of-ideas-out-of-gas-chows-campaign-runs-on-fear",
+      "published_date": "2026-10-08T22:53:55Z",
+      "category": "Economy"
+    },
+    {
+      "title": "B.C. Conservatives promise $1K tax cut, Doerkson says",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/01/alberta-to-b-c-pipeline-listed-as-project-of-national-interest-by-carney/",
-      "published_date": "2026-10-01T23:35:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "LILLEY: New pipeline is great, the government owning it is not",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/new-pipeline-is-great-government-owning-it-is-not",
-      "published_date": "2026-10-01T20:43:45Z",
-      "category": "Energy"
-    },
-    {
-      "title": "West Coast oil pipeline named Canada's first 'national interest' project",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/west-coast-oil-pipeline-canadas-first-national-interest-project",
-      "published_date": "2026-10-01T18:38:56Z",
-      "category": "Energy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/conservatives-promise-1k-tax-cut-doerkson-says-in-surrey/",
+      "published_date": "2026-10-08T19:21:00Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. Election: As NDP and Conservatives go all in on supporting businesses, Greens promise to grow economy sustainably",
@@ -284,171 +298,143 @@
       "category": "Economy"
     },
     {
-      "title": "How B.C. parties will tackle affordability, voters&#039; top election issue",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/politics/how-bc-parties-will-tackle-affordability-voters-top-election-issue",
-      "published_date": "2026-10-02T19:00:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ontario minimum wage increased by 35 cents, well below Toronto's living wage standard",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ontario-minimum-wage-increased-35-cents",
-      "published_date": "2026-10-02T15:46:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Surrey Connect Leader Brenda Locke releases costed platform — with tax increases",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-connect-leader-brenda-locke-releases-costed-platform-with-tax-increases",
-      "published_date": "2026-10-02T13:00:51Z",
-      "category": "Economy"
-    },
-    {
-      "title": "B.C. NDP promise to lower gas tax and introduce price controls. Will it lower price at the pump?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/can-bc-ndp-cap-industry-margins-on-diesel-and-gas",
-      "published_date": "2026-10-01T23:33:08Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Brad Bradford cuts into Olivia Chow's lead for Toronto mayor: poll",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brad-bradford-olivia-chow-toronto-mayor-poll",
-      "published_date": "2026-10-08T17:29:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transforming a classic 1970s Vancouver Special into a modern family home",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/transforming-a-classic-1970s-vancouver-special-into-a-modern-family-home",
-      "published_date": "2026-10-08T17:26:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Visa cardholders' international spending up 12% during TIFF",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/visa-cardholders-international-spending-up-12-per-cent-during-tiff26",
-      "published_date": "2026-10-08T17:12:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "For designers, Canada&#039;s landscapes and culture provide an endless source of inspiration",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/for-designers-canadas-landscapes-and-culture-provide-an-endless-source-of-inspiration",
-      "published_date": "2026-10-08T16:49:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Property Watch: Historic Pender Island farm for sale",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/property-watch-historic-pender-island-farm-for-sale",
-      "published_date": "2026-10-08T16:30:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Queen’s University receives $25-million gift from anonymous alum",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/10/08/queens-university-receives-25-million-gift-from-anonymous-alum/",
-      "published_date": "2026-10-08T16:29:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scarborough killer's $2M lawsuit over seized book manuscript dismissed by B.C. judge",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/scarborough-killer-2m-lawsuit-seized-manuscript-dismissed-bc-judge",
-      "published_date": "2026-10-08T16:19:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver&#039;s Bayside Lounge set to close after 47 years",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/vancouvers-bayside-lounge-close-48-years",
-      "published_date": "2026-10-08T16:18:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Newspaper carriers saluted in historic Vernon photo",
+      "title": "Stankoven nets 3 as Hurricanes crush Vancouver Canucks 7-2",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/newspaper-carriers-saluted-in-historic-vernon-photo/",
-      "published_date": "2026-10-08T16:12:08Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/stankoven-nets-3-as-hurricanes-crush-vancouver-canucks-7-2/",
+      "published_date": "2026-10-09T01:31:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Deputy mayor’s pals given huge DEI payday by city hall",
+      "title": "Ajax man accused of sexual assaults; elderly passenger critically hurt in crash",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/monumental-projects-city-hall-malik-chow",
-      "published_date": "2026-10-08T16:04:11Z",
+      "url": "https://torontosun.com/news/local-news/elderly-ajax-man-accused-sexual-assault",
+      "published_date": "2026-10-09T00:53:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Highway 1 partly closed after semi-truck overturns Thursday morning",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/highway-1-partly-closed-semi-truck-overturns",
-      "published_date": "2026-10-08T16:00:36Z",
+      "title": "2 Central Okanagan educators earn Prime Minister’s Award",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/2-central-okanagan-educators-earn-prime-ministers-award/",
+      "published_date": "2026-10-09T00:50:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Shocking video shows boy, 6, challenging cops after shooting teacher: ‘WANT A F***ING PIECE OF ME?’",
+      "title": "Bobcat burned by California wildfire released after successful treatment",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/video-shows-boy-challenging-cops-shooting-teacher",
-      "published_date": "2026-10-08T15:35:32Z",
+      "url": "https://torontosun.com/news/world/bobcat-burned-california-wildfire-successfully-released",
+      "published_date": "2026-10-09T00:10:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Surrey mayoral candidates take aim at incumbent mayor Brenda Locke during lively debate",
+      "title": "&#039;Problematic&#039;: VPD touts crime drop days before Vancouver election, raising questions about timing",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-mayoral-candidates-take-aim-incumbent-mayor-debate",
-      "published_date": "2026-10-08T13:42:52Z",
+      "url": "https://vancouversun.com/news/problematic-vpd-touts-crime-drop-days-before-vancouver-election-raising-questions-about-timing",
+      "published_date": "2026-10-09T00:08:11Z",
       "category": "Local Events"
     },
     {
-      "title": "‘I did not do this lightly’: Victoria mayor pulls Palestine item from city council agenda",
+      "title": "WARMINGTON: OSAP cut off hurts woman with baby while international students still get funding",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/osap-cut-off-hurts-woman-with-baby-while-international-students-still-get-funding",
+      "published_date": "2026-10-08T23:54:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "12 years to life: Decision awaits in 2021 Naramata manslaughter sentencing",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/i-did-not-do-this-lightly-victoria-mayor-pulls-palestine-item-from-city-council-agenda/",
-      "published_date": "2026-10-08T13:10:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/12-years-to-life-decision-awaits-in-2021-naramata-manslaughter-sentencing/",
+      "published_date": "2026-10-08T23:46:00Z",
       "category": "Local Events"
     },
     {
-      "title": "WATCH LIVE TONIGHT: 5 Vancouver mayoral candidates debate the issues",
+      "title": "MANDEL: 'Crypto King' investor can't afford to retire after losing $100,000",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/crypto-king-investor-cant-afford-to-retire-after-losing-100000",
+      "published_date": "2026-10-08T23:19:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drug-resistant sexually transmissible bacterial infection rising in U.S: CDC",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/drug-resistant-sexually-transmissible-infection-rising-us",
+      "published_date": "2026-10-08T23:14:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: B.C. NDP promises to improve ICBC&#039;s no-fault after leaving victims to suffer",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/conversations-live-vancouver-mayor-debate-2026",
-      "published_date": "2026-10-08T13:00:35Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-ndp-promises-to-improve-icbc-no-fault-after-leaving-victims-to-suffer",
+      "published_date": "2026-10-08T23:07:25Z",
       "category": "Local Events"
     },
     {
-      "title": "From Backrooms to Remnant, Vancouver horror is having a moment",
+      "title": "B.C. Conservatives drop, distance themselves from Victoria-Beacon Hill candidate after controversial tweets surface",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/local-arts/from-backrooms-to-remnant-vancouver-horror-is-having-a-moment",
-      "published_date": "2026-10-08T13:00:35Z",
+      "url": "https://vancouversun.com/news/bc-conservatives-drop-distance-themselves-from-victoria-beacon-hill-candidate-joachim-agou-after-controversial-tweets-surface",
+      "published_date": "2026-10-08T22:57:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Who&#039;s running for mayor in the North Vancouvers and West Vancouver?",
+      "title": "Surrey debt collector fined $34,000 for harassment of customers, threat of &#039;financial annihilation&#039;",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/running-mayor-north-vancouvers-west-vancouver",
-      "published_date": "2026-10-08T13:00:21Z",
+      "url": "https://vancouversun.com/news/local-news/surrey-debt-collector-fined-34000-for-harassment-of-customers",
+      "published_date": "2026-10-08T22:40:54Z",
       "category": "Local Events"
     },
     {
-      "title": "EDITORIAL: Happy Thanksgiving",
+      "title": "B.C. Conservatives polling as frontrunners 2 weeks ahead of election",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/editorial-happy-thanksgiving/",
-      "published_date": "2026-10-08T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/b-c-conservatives-polling-as-frontrunners-2-weeks-ahead-of-election/",
+      "published_date": "2026-10-08T22:20:47Z",
       "category": "Local Events"
     },
     {
-      "title": "What every dog owner should know about shock/prong collars",
+      "title": "Heads up! Phones put pedestrians at increased risk: Vernon RCMP",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/what-every-dog-owner-should-know-about-shock-prong-collars/",
-      "published_date": "2026-10-08T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/heads-up-phones-put-pedestrians-at-increased-risk-vernon-rcmp/",
+      "published_date": "2026-10-08T22:20:29Z",
       "category": "Local Events"
     },
     {
-      "title": "The Nature Nut: Trends in bird populations",
+      "title": "NDP MLA objects to David Eby&#039;s campaign-trail announcement on Filipino cultural centre",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ndp-mla-objects-to-ebys-campaign-trail-announcement-on-filipino-cultural-centre",
+      "published_date": "2026-10-08T21:36:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "If burgers were votes, Lorne Doerkson might be your new B.C. premier",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/unofficial-burger-poll-lorne-doerkson-might-be-next-bc-premier",
+      "published_date": "2026-10-08T20:48:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. NDP promises to freeze car insurance rates for 3 years",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/the-nature-nut-trends-in-bird-populations/",
-      "published_date": "2026-10-08T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/b-c-ndp-promises-to-freeze-car-insurance-rates-for-3-years/",
+      "published_date": "2026-10-08T20:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria candidate kicked from BC Conservatives after resurfaced social media posts",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/victoria-candidate-kicked-from-bc-conservatives-after-resurfaced-social-media-posts/",
+      "published_date": "2026-10-08T20:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northwestern BC college mourns death of two students",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/northwestern-bc-college-mourns-death-of-two-students/",
+      "published_date": "2026-10-08T19:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto votes: What you need to know for municipal election",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-votes-what-to-know-municipal-election",
+      "published_date": "2026-10-08T19:30:56Z",
       "category": "Local Events"
     }
   ]
