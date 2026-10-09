@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T02:50:27Z",
+  "generated_at": "2026-10-09T17:13:09Z",
   "country": "Canada",
-  "total_stories": 61,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -18,11 +18,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Opinion: Returning the names of uprooted Japanese Canadians to the landscape of B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-returning-the-names-of-uprooted-japanese-canadians-to-the-landscape-of-bc",
-      "published_date": "2026-10-02T13:00:45Z",
-      "category": "Diplomacy"
+      "title": "Pentagon set to livestream execution by firing squad: 'WE'LL MAKE SURE PEOPLE ARE ABLE TO WATCH IT'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/pentagon-set-to-livestream-execution-by-firing-squad",
+      "published_date": "2026-10-09T14:46:22Z",
+      "category": "Military"
     },
     {
       "title": "Squamish woman who wed ISIS fighter pleads guilty in B.C. to terrorism charge",
@@ -123,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "WARMINGTON: Leave it to Ghostbuster Dan Aykroyd to try and find truce in Canada-U.S. tariff war",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/ghostbuster-dan-aykroyd-truce-canada-u-s-tariff-war",
-      "published_date": "2026-10-02T15:28:55Z",
-      "category": "Military"
-    },
-    {
       "title": "Opinion: Housing and climate are inextricably linked. We must see action on both this election",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-housing-and-climate-are-inextricably-linked-we-must-see-action-on-both-this-election",
@@ -151,11 +144,11 @@
       "category": "Energy"
     },
     {
-      "title": "BC Hydro accused of playing games over power line route",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/bc-hydro-accused-of-playing-games-over-power-line-route/",
-      "published_date": "2026-10-02T15:17:32Z",
-      "category": "Energy"
+      "title": "Video: Pete Fry places priority on affordability and accountability",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/video-pete-fry-places-priority-on-affordability-and-accountability",
+      "published_date": "2026-10-09T13:00:57Z",
+      "category": "Economy"
     },
     {
       "title": "B.C. Conservatives promise tax cut that could blow $4-billion hole in provincial budget, tax expert says",
@@ -291,11 +284,88 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: Every political party must adopt these five wildfire platform commitments",
+      "title": "Bracebridge man faces impaired driving charges near school zone; Ingersoll man charged after truck rollover",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-faces-impaired-driving-charges-school-zone",
+      "published_date": "2026-10-09T17:02:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. election: Eby vows to fast-track int’l medical grads, bring more docs to rural areas",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/b-c-election-eby-vows-to-fast-track-intl-medical-grads-bring-more-docs-to-rural-areas/",
+      "published_date": "2026-10-09T16:50:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Backstreet Boys add even more shows to unprecedented Toronto residency: 'IT'S ALL HAPPENING'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/backstreet-boys-add-even-more-shows-toronto-residency",
+      "published_date": "2026-10-09T16:49:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Choices, Chow and city hall’s woke priorities",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/choices-chow-city-halls-woke-priorities",
+      "published_date": "2026-10-09T16:10:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Etobicoke retired librarian wins $250K on eve of big Lotto Max Jackpot worth $80-M",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/retired-librarian-wins-250k-lotto-max-jackpot",
+      "published_date": "2026-10-09T15:32:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carney blasts Elon Musk over Canadian separation comments",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/carney-blasts-elon-musk-separation-comments",
+      "published_date": "2026-10-09T15:26:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burns Lake packs the house for All-Candidates Forum",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/burns-lake-packs-the-house-for-all-candidates-forum/",
+      "published_date": "2026-10-09T15:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Election 2026: 8 hot topics and where the 7 major parties stand",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-every-political-party-must-adopt-these-five-wildfire-platform-commitments",
-      "published_date": "2026-10-02T23:00:40Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/local-news/vancouver-election-where-the-parties-and-candidates-stand-on-hot-topics",
+      "published_date": "2026-10-09T14:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conversations That Matter: Pete Fry of the Vancouver Greens",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/conversations-that-matter-pete-fry-of-the-vancouver-greens",
+      "published_date": "2026-10-09T13:00:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Langley Cactus Club shooting victim was warned by police before his death",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/langley-cactus-club-shooting-victim-warned-by-police-before-his-death",
+      "published_date": "2026-10-09T13:00:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ZWAAGSTRA: New test scores expose Ford government’s failure to improve education",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/test-scores-ford-governments-failure-improve-education",
+      "published_date": "2026-10-09T12:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health inspectors shut down Scarborough chicken shop over rodents",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/scarborough-chicken-shop-shut-down-rodents",
+      "published_date": "2026-10-09T12:34:18Z",
+      "category": "Local Events"
     },
     {
       "title": "Stankoven nets 3 as Hurricanes crush Vancouver Canucks 7-2",
@@ -351,90 +421,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/crypto-king-investor-cant-afford-to-retire-after-losing-100000",
       "published_date": "2026-10-08T23:19:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drug-resistant sexually transmissible bacterial infection rising in U.S: CDC",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/drug-resistant-sexually-transmissible-infection-rising-us",
-      "published_date": "2026-10-08T23:14:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: B.C. NDP promises to improve ICBC&#039;s no-fault after leaving victims to suffer",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-ndp-promises-to-improve-icbc-no-fault-after-leaving-victims-to-suffer",
-      "published_date": "2026-10-08T23:07:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives drop, distance themselves from Victoria-Beacon Hill candidate after controversial tweets surface",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservatives-drop-distance-themselves-from-victoria-beacon-hill-candidate-joachim-agou-after-controversial-tweets-surface",
-      "published_date": "2026-10-08T22:57:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surrey debt collector fined $34,000 for harassment of customers, threat of &#039;financial annihilation&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/surrey-debt-collector-fined-34000-for-harassment-of-customers",
-      "published_date": "2026-10-08T22:40:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives polling as frontrunners 2 weeks ahead of election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/b-c-conservatives-polling-as-frontrunners-2-weeks-ahead-of-election/",
-      "published_date": "2026-10-08T22:20:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heads up! Phones put pedestrians at increased risk: Vernon RCMP",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/heads-up-phones-put-pedestrians-at-increased-risk-vernon-rcmp/",
-      "published_date": "2026-10-08T22:20:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDP MLA objects to David Eby&#039;s campaign-trail announcement on Filipino cultural centre",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/ndp-mla-objects-to-ebys-campaign-trail-announcement-on-filipino-cultural-centre",
-      "published_date": "2026-10-08T21:36:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "If burgers were votes, Lorne Doerkson might be your new B.C. premier",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/unofficial-burger-poll-lorne-doerkson-might-be-next-bc-premier",
-      "published_date": "2026-10-08T20:48:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. NDP promises to freeze car insurance rates for 3 years",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/b-c-ndp-promises-to-freeze-car-insurance-rates-for-3-years/",
-      "published_date": "2026-10-08T20:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victoria candidate kicked from BC Conservatives after resurfaced social media posts",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/victoria-candidate-kicked-from-bc-conservatives-after-resurfaced-social-media-posts/",
-      "published_date": "2026-10-08T20:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northwestern BC college mourns death of two students",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/northwestern-bc-college-mourns-death-of-two-students/",
-      "published_date": "2026-10-08T19:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto votes: What you need to know for municipal election",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-votes-what-to-know-municipal-election",
-      "published_date": "2026-10-08T19:30:56Z",
       "category": "Local Events"
     }
   ]
