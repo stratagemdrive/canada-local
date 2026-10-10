@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T17:13:09Z",
+  "generated_at": "2026-10-10T02:10:40Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -16,6 +16,20 @@
       "url": "https://torontosun.com/news/world/canadians-more-intelligent-than-americans-but-not-smartest-in-world-study",
       "published_date": "2026-10-05T20:19:02Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "In or out? Nunziata denies she’s fleeing council race",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/frances-nunziata-quits-york-south-west",
+      "published_date": "2026-10-09T22:31:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hamilton man faces weapons charges; Peel cops seek possible victims of Mississauga law firm",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hamilton-man-faces-weapons-charges-peel-cops-seek-possible-victims-mississauga-law-firm",
+      "published_date": "2026-10-09T22:01:09Z",
+      "category": "Military"
     },
     {
       "title": "Pentagon set to livestream execution by firing squad: 'WE'LL MAKE SURE PEOPLE ARE ABLE TO WATCH IT'",
@@ -116,13 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "Peel cops hit Alberta drug dealer with more weapons charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/peel-cops-alberta-drug-dealer-weapons-charges",
-      "published_date": "2026-10-03T01:05:16Z",
-      "category": "Military"
-    },
-    {
       "title": "Opinion: Housing and climate are inextricably linked. We must see action on both this election",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-housing-and-climate-are-inextricably-linked-we-must-see-action-on-both-this-election",
@@ -142,6 +149,20 @@
       "url": "https://torontosun.com/opinion/columnists/new-pipeline-mark-carney-admits-the-economy-trumps-climate-change",
       "published_date": "2026-10-03T19:36:20Z",
       "category": "Energy"
+    },
+    {
+      "title": "Letters to The Vancouver Sun: Raising taxes on B.C.&#039;s higher earners unlikely to chase them away",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-raising-taxes-on-b-c-s-higher-earners-unlikely-to-chase-them-away",
+      "published_date": "2026-10-09T23:00:49Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mortgage Matters: There’s help out for there for aspiring first-time buyers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/westcoast-homes-and-design/mortgage-matters-theres-help-out-for-there-for-aspiring-first-time-buyers",
+      "published_date": "2026-10-09T22:25:39Z",
+      "category": "Economy"
     },
     {
       "title": "Video: Pete Fry places priority on affordability and accountability",
@@ -270,157 +291,143 @@
       "category": "Economy"
     },
     {
-      "title": "‘An investment B.C. has to make’: Conservatives aim to increase wildfire protection",
+      "title": "Disgraced Vernon lawyer misappropriated $116K from elderly client with dementia",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/02/an-investment-b-c-has-to-make-conservatives-aim-to-increase-wildfire-protection/",
-      "published_date": "2026-10-02T23:48:01Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/disgraced-vernon-lawyer-misappropriated-116k-from-elderly-client-with-dementia/",
+      "published_date": "2026-10-10T01:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "David Eby pledges price cap on groceries in suite of affordability measures",
+      "title": "Ice cream stand owner goes viral after defending young workers from rude customers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/ice-cream-stand-owner-viral-defend-young-workers-rude-customers",
+      "published_date": "2026-10-10T00:19:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Slain Toronto cop's mom 'not suprised' son fired gun even after he was shot",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/slain-toronto-cops-mom-not-suprised-son-fired-gun-even-after-shot",
+      "published_date": "2026-10-10T00:14:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Winds cause power outages for thousands, delay B.C. Ferries sailings",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/david-eby-pledges-price-cap-on-groceries-in-suite-of-affordability-measures",
-      "published_date": "2026-10-02T23:12:37Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/local-news/winds-cause-power-outages-for-thousands-delay-bc-ferries",
+      "published_date": "2026-10-10T00:12:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-UBC prof cross-examined in defamation trial about repeated phone calls to accuser A.B.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/ex-ubc-prof-cross-examined-in-defamation-trial-about-repeated-phone-calls-to-accuser",
+      "published_date": "2026-10-09T23:59:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver election: New poll shows Ken Sim and Pete Fry battling for lead in mayoral race",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/vancouver-election-new-poll-shows-ken-sim-and-pete-fry-battling-for-lead-in-mayoral-race",
+      "published_date": "2026-10-09T23:52:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: 'I will never hear my son call me Daddy,' weeps father of beaten boy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/i-will-never-hear-my-son-call-me-daddy-weeps-father-of-beaten-boy",
+      "published_date": "2026-10-09T23:39:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Greens release transportation plans, includes free transit for youth, seniors",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/b-c-greens-release-transportation-plans-includes-free-transit-for-youth-seniors/",
+      "published_date": "2026-10-09T23:24:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mike Tyson and Donald Trump members of mutual admiration society",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/mike-tyson-donald-trump-mutual-admiration-society",
+      "published_date": "2026-10-09T23:01:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CBSA charges Toronto cop with firearm-related offences",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/cbsa-charges-toronto-cop-firearm-related-offences",
+      "published_date": "2026-10-09T22:55:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CentreBC’s Sturko promises\nmanufacturing boost",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/centrebcs-sturko-promisesmanufacturing-boost/",
+      "published_date": "2026-10-09T22:46:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ontario government to begin ripping up Bloor bike lanes in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/ontario-government-ripping-up-bloor-bike-lanes-toronto",
+      "published_date": "2026-10-09T22:11:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservatives pledge to build more long-term care beds in plan for seniors",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/b-c-conservatives-pledge-to-build-more-long-term-care-beds-in-plan-for-seniors/",
+      "published_date": "2026-10-09T21:59:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Investigators release video of woman moments before deadly Vaughan hit-and-run",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/investigators-release-video-moments-before-deadly-vaughan-hit-and-run",
+      "published_date": "2026-10-09T20:45:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SIU clears Toronto cops in shooting involving death of Const. Marc Pinizzotto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/siu-clears-toronto-cops-shooting-marc-pinizzotto",
+      "published_date": "2026-10-09T19:42:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nickelback brings Everything Under the Sun Tour to Vancouver: What to know about the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/nickelback-tour-vancouver-what-know-concert",
+      "published_date": "2026-10-09T18:14:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "These are the 3 best beauty products we tried this week. Here&#039;s why",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/these-are-the-3-best-beauty-products-we-tried-this-week-heres-why-7",
+      "published_date": "2026-10-09T18:11:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scandinavian Canadian jewelry brand Pilgrim eyes continued expansion",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/scandinavian-canadian-jewelry-brand-pilgrim-eyes-continued-expansion",
+      "published_date": "2026-10-09T18:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smithers Brewing Co. racks up more awards",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/smithers-brewing-co-racks-up-more-awards/",
+      "published_date": "2026-10-09T17:31:41Z",
+      "category": "Local Events"
     },
     {
       "title": "Bracebridge man faces impaired driving charges near school zone; Ingersoll man charged after truck rollover",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/man-faces-impaired-driving-charges-school-zone",
       "published_date": "2026-10-09T17:02:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. election: Eby vows to fast-track int’l medical grads, bring more docs to rural areas",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/b-c-election-eby-vows-to-fast-track-intl-medical-grads-bring-more-docs-to-rural-areas/",
-      "published_date": "2026-10-09T16:50:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Backstreet Boys add even more shows to unprecedented Toronto residency: 'IT'S ALL HAPPENING'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/music/backstreet-boys-add-even-more-shows-toronto-residency",
-      "published_date": "2026-10-09T16:49:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Choices, Chow and city hall’s woke priorities",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/choices-chow-city-halls-woke-priorities",
-      "published_date": "2026-10-09T16:10:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Etobicoke retired librarian wins $250K on eve of big Lotto Max Jackpot worth $80-M",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/retired-librarian-wins-250k-lotto-max-jackpot",
-      "published_date": "2026-10-09T15:32:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carney blasts Elon Musk over Canadian separation comments",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/carney-blasts-elon-musk-separation-comments",
-      "published_date": "2026-10-09T15:26:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake packs the house for All-Candidates Forum",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/burns-lake-packs-the-house-for-all-candidates-forum/",
-      "published_date": "2026-10-09T15:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Election 2026: 8 hot topics and where the 7 major parties stand",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/vancouver-election-where-the-parties-and-candidates-stand-on-hot-topics",
-      "published_date": "2026-10-09T14:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conversations That Matter: Pete Fry of the Vancouver Greens",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/conversations-that-matter-pete-fry-of-the-vancouver-greens",
-      "published_date": "2026-10-09T13:00:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Langley Cactus Club shooting victim was warned by police before his death",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/langley-cactus-club-shooting-victim-warned-by-police-before-his-death",
-      "published_date": "2026-10-09T13:00:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ZWAAGSTRA: New test scores expose Ford government’s failure to improve education",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/test-scores-ford-governments-failure-improve-education",
-      "published_date": "2026-10-09T12:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health inspectors shut down Scarborough chicken shop over rodents",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/scarborough-chicken-shop-shut-down-rodents",
-      "published_date": "2026-10-09T12:34:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stankoven nets 3 as Hurricanes crush Vancouver Canucks 7-2",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/stankoven-nets-3-as-hurricanes-crush-vancouver-canucks-7-2/",
-      "published_date": "2026-10-09T01:31:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ajax man accused of sexual assaults; elderly passenger critically hurt in crash",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/elderly-ajax-man-accused-sexual-assault",
-      "published_date": "2026-10-09T00:53:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 Central Okanagan educators earn Prime Minister’s Award",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/2-central-okanagan-educators-earn-prime-ministers-award/",
-      "published_date": "2026-10-09T00:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bobcat burned by California wildfire released after successful treatment",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/bobcat-burned-california-wildfire-successfully-released",
-      "published_date": "2026-10-09T00:10:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Problematic&#039;: VPD touts crime drop days before Vancouver election, raising questions about timing",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/problematic-vpd-touts-crime-drop-days-before-vancouver-election-raising-questions-about-timing",
-      "published_date": "2026-10-09T00:08:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: OSAP cut off hurts woman with baby while international students still get funding",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/osap-cut-off-hurts-woman-with-baby-while-international-students-still-get-funding",
-      "published_date": "2026-10-08T23:54:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "12 years to life: Decision awaits in 2021 Naramata manslaughter sentencing",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/12-years-to-life-decision-awaits-in-2021-naramata-manslaughter-sentencing/",
-      "published_date": "2026-10-08T23:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: 'Crypto King' investor can't afford to retire after losing $100,000",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/crypto-king-investor-cant-afford-to-retire-after-losing-100000",
-      "published_date": "2026-10-08T23:19:41Z",
       "category": "Local Events"
     }
   ]
