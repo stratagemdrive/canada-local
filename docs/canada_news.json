@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T01:39:43Z",
+  "generated_at": "2026-10-11T16:26:08Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -127,13 +127,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/u-s-coast-guard-locate-debris-field-linked-to-missing-ontario-air-ambulance",
       "published_date": "2026-10-04T17:41:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Third-period explosion lifts Vancouver Canucks to 4-1 win over Calgary Flames",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/03/third-period-explosion-lifts-vancouver-canucks-to-4-1-win-over-calgary-flames/",
-      "published_date": "2026-10-04T05:11:19Z",
       "category": "Military"
     },
     {
@@ -291,6 +284,90 @@
       "category": "Economy"
     },
     {
+      "title": "Hereditary chiefs call for closure of park on Vancouver Island over ancestral graves",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/11/hereditary-chiefs-call-for-closure-of-park-on-vancouver-island-over-ancestral-graves/",
+      "published_date": "2026-10-11T16:03:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada’s best pickleball players volley in Vernon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/11/canadas-best-pickleball-players-volley-in-vernon/",
+      "published_date": "2026-10-11T16:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: A season of Thanksgiving",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/11/quiz-a-season-of-thanksgiving/",
+      "published_date": "2026-10-11T15:40:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could B.C. be headed for a record-breaking mild winter?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/could-bc-be-headed-for-a-record-breaking-mild-winter",
+      "published_date": "2026-10-11T15:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Get the look: These are the blush shades we are loving right now",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/get-the-look-these-are-the-blush-shades-we-are-loving-right-now",
+      "published_date": "2026-10-11T15:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: When antisemitism comes for you",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/when-antisemitism-comes-for-you",
+      "published_date": "2026-10-11T14:45:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HALL-ELUJAH: Toronto’s food hall scene on upswing",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hall-elujah-torontos-food-hall-scene-on-upswing",
+      "published_date": "2026-10-11T14:25:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bed Bath & Beyond is back: Why brands Canadians thought were gone keep returning",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/business/bed-bath-beyond-is-back-why-brands-canadians-thought-were-gone-keep-returning",
+      "published_date": "2026-10-11T14:20:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keeping sight of privacy concerns over smart glasses",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/keeping-sight-privacy-concerns-smart-glasses-ai",
+      "published_date": "2026-10-11T14:04:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Downtown Vancouver office vacancy recovery slower compared to other Canadian cities",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/downtown-vancouver-office-vacancy-recovery-slower-compared-to-other-canadian-cities",
+      "published_date": "2026-10-11T13:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: Do you use the library?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/the-bookless-club-do-you-use-the-library",
+      "published_date": "2026-10-11T13:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brain project at SFU aims to discover why some people don&#039;t get dementia, despite risk factors",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/sfu-scientists-research-why-some-people-dont-get-dementia-despite-risk-factors",
+      "published_date": "2026-10-11T13:00:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Hischier nets 2 as Devils dump visiting Vancouver Canucks 4-1",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/10/hischier-nets-2-as-devils-dump-visiting-vancouver-canucks-4-1/",
@@ -344,90 +421,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/conversations-that-matter-ken-sim-of-abc-vancouver",
       "published_date": "2026-10-10T15:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CHAUDHRI: Teenage tweets can come back to haunt you, as Braiden Bell found out",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/chaudhri-teenage-tweets-can-come-back-to-haunt-you-as-braiden-bell-found-out",
-      "published_date": "2026-10-10T14:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Okanagan karate dojo brings home haul of medals at international competition",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/10/okanagan-karate-dojo-brings-home-haul-of-medals-at-international-competition/",
-      "published_date": "2026-10-10T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Behind the Wheel: Four all-new electric vehicle models for 2027 that set the bar high",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/westcoast-homes-and-design/behind-the-wheel-four-all-new-electric-vehicle-models-for-2027-that-set-the-bar-high",
-      "published_date": "2026-10-10T13:58:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "JONAH GOLDBERG: How death penalty opponents share blame for botched executions",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/how-death-penalty-opponents-share-blame-for-botched-executions-christa-pike-tennessee",
-      "published_date": "2026-10-10T13:48:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1957: Lights out for Vancouver nightclub legend Sandy De Santis",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1957-lights-out-for-vancouver-nightclub-legend-sandy-de-santis",
-      "published_date": "2026-10-10T13:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: B.C. NDP leader sidesteps repeated questions about election timing",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-ndp-leader-sidesteps-repeated-questions-about-election-timing",
-      "published_date": "2026-10-10T13:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delta election: A grudge match between the mayor and his former ally, or a third option?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/delta-election-grudge-match-between-the-mayor-and-his-former-ally-or-third-option",
-      "published_date": "2026-10-10T13:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "T-shirts for steelheads: Project aims to support Babine River conservation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/10/t-shirts-for-steelheads-project-aims-to-support-babine-river-conservation/",
-      "published_date": "2026-10-10T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Lions clinch CFL playoff spot with 41-20 win over winless Redblacks",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/b-c-lions-clinch-cfl-playoff-spot-with-41-20-win-over-winless-redblacks/",
-      "published_date": "2026-10-10T05:05:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disgraced Vernon lawyer misappropriated $116K from elderly client with dementia",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/disgraced-vernon-lawyer-misappropriated-116k-from-elderly-client-with-dementia/",
-      "published_date": "2026-10-10T01:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ice cream stand owner goes viral after defending young workers from rude customers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/ice-cream-stand-owner-viral-defend-young-workers-rude-customers",
-      "published_date": "2026-10-10T00:19:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Slain Toronto cop's mom 'not suprised' son fired gun even after he was shot",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/slain-toronto-cops-mom-not-suprised-son-fired-gun-even-after-shot",
-      "published_date": "2026-10-10T00:14:25Z",
       "category": "Local Events"
     }
   ]
