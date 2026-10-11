@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:58:05Z",
+  "generated_at": "2026-10-11T01:39:43Z",
   "country": "Canada",
   "total_stories": 60,
   "categories": [
@@ -18,11 +18,25 @@
       "category": "Diplomacy"
     },
     {
+      "title": "LILLEY: PSPP is about to blow up Canada’s immigration consensus",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/pspp-blow-up-canadas-immigration-consensus",
+      "published_date": "2026-10-09T17:41:44Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Canadians more intelligent than Americans, but not smartest in world: Study",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/canadians-more-intelligent-than-americans-but-not-smartest-in-world-study",
       "published_date": "2026-10-05T20:19:02Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "World No. 1 Schwaller, Canadian legend Koe battle on B.C. ice: ‘Best spiel there is’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/10/world-no-1-schwaller-canadian-legend-koe-battle-on-b-c-ice-best-spiel-there-is/",
+      "published_date": "2026-10-10T19:40:00Z",
+      "category": "Military"
     },
     {
       "title": "In or out? Nunziata denies she’s fleeing council race",
@@ -123,11 +137,11 @@
       "category": "Military"
     },
     {
-      "title": "Whyte boots 8 field goals as B.C. Lions hang on for 24-17 win over Toronto Argonauts",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/03/whyte-boots-8-field-goals-as-b-c-lions-hang-on-for-24-17-win-over-toronto-argonauts/",
-      "published_date": "2026-10-03T21:58:00Z",
-      "category": "Military"
+      "title": "EDITORIAL: Greenhouse gas emissions up again",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/greenhouse-gas-emissions-up-again",
+      "published_date": "2026-10-10T21:00:54Z",
+      "category": "Energy"
     },
     {
       "title": "Opinion: Housing and climate are inextricably linked. We must see action on both this election",
@@ -137,18 +151,11 @@
       "category": "Energy"
     },
     {
-      "title": "EDITORIAL: Taxpayers on hook for another pipeline",
+      "title": "GOLDSTEIN: Financial watchdog exposes flaws in Carney’s plan to spend ourselves rich",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/taxpayers-on-hook-for-another-pipeline",
-      "published_date": "2026-10-03T20:08:33Z",
-      "category": "Energy"
-    },
-    {
-      "title": "GOLDSTEIN: With new pipeline, Mark Carney admits the economy trumps climate change",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/new-pipeline-mark-carney-admits-the-economy-trumps-climate-change",
-      "published_date": "2026-10-03T19:36:20Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/opinion/columnists/financial-watchdog-exposes-flaws-in-carneys-plan-to-spend-ourselves-rich",
+      "published_date": "2026-10-10T17:31:45Z",
+      "category": "Economy"
     },
     {
       "title": "Anthony Gismondi: Why Pinot Noir is one of B.C.&#039;s most important fine-wine success stories",
@@ -176,6 +183,13 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/westcoast-homes-and-design/mortgage-matters-theres-help-out-for-there-for-aspiring-first-time-buyers",
       "published_date": "2026-10-09T22:25:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canada's job market takes a hit as 68,000 jobs disappear in September",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/canadas-job-market-takes-a-hit-as-68000-jobs-disappear-in-september",
+      "published_date": "2026-10-09T19:52:01Z",
       "category": "Economy"
     },
     {
@@ -277,18 +291,46 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. Election: David Eby pitches new tax hikes for highest earners",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-ndp-david-eby-pitches-new-tax-hikes-for-highest-earners",
-      "published_date": "2026-10-05T02:11:24Z",
-      "category": "Economy"
+      "title": "Hischier nets 2 as Devils dump visiting Vancouver Canucks 4-1",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/10/hischier-nets-2-as-devils-dump-visiting-vancouver-canucks-4-1/",
+      "published_date": "2026-10-10T22:12:14Z",
+      "category": "Local Events"
     },
     {
-      "title": "HANSON: Remembering false gloom and doom of 1992 U.S. elections — and upcoming midterms",
+      "title": "Fifth beluga whale has died following rescue from Marineland",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/remembering-false-doom-gloom-1992-elections",
-      "published_date": "2026-10-04T15:28:53Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/provincial/fifth-beluga-whale-died-rescue-marineland-shedd-aquarium",
+      "published_date": "2026-10-10T20:05:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Durham Region warned about convicted sex offender's latest release",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/durham-region-warned-convicted-sex-offender-keith-theodore-constantin-latest-release",
+      "published_date": "2026-10-10T19:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto woman, 19, out on bail and on the run; man sought for Moss Park sex attack",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-woman-on-bail-on-the-run-man-sought-moss-park-sex-attack",
+      "published_date": "2026-10-10T17:14:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'High-risk' offender living in Peel Region after serving time for manslaughter",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/high-risk-offender-gil-dasilva-living-peel-region-after-serving-time-manslaughter-cheryl-mcvarish",
+      "published_date": "2026-10-10T16:05:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the Vine: Okanagan’s 2025 wines proving to be vibrant and full of flavour",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/westcoast-homes-and-design/on-the-vine-okanagans-2025-wines-proving-to-be-vibrant-and-full-of-flavour",
+      "published_date": "2026-10-10T16:01:03Z",
+      "category": "Local Events"
     },
     {
       "title": "Provincial data shows increase in flu, COVID cases across Ontario",
@@ -386,48 +428,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/slain-toronto-cops-mom-not-suprised-son-fired-gun-even-after-shot",
       "published_date": "2026-10-10T00:14:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Winds cause power outages for thousands, delay B.C. Ferries sailings",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/winds-cause-power-outages-for-thousands-delay-bc-ferries",
-      "published_date": "2026-10-10T00:12:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-UBC prof cross-examined in defamation trial about repeated phone calls to accuser A.B.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/ex-ubc-prof-cross-examined-in-defamation-trial-about-repeated-phone-calls-to-accuser",
-      "published_date": "2026-10-09T23:59:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver election: New poll shows Ken Sim and Pete Fry battling for lead in mayoral race",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/vancouver-election-new-poll-shows-ken-sim-and-pete-fry-battling-for-lead-in-mayoral-race",
-      "published_date": "2026-10-09T23:52:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: 'I will never hear my son call me Daddy,' weeps father of beaten boy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/i-will-never-hear-my-son-call-me-daddy-weeps-father-of-beaten-boy",
-      "published_date": "2026-10-09T23:39:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Greens release transportation plans, includes free transit for youth, seniors",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/b-c-greens-release-transportation-plans-includes-free-transit-for-youth-seniors/",
-      "published_date": "2026-10-09T23:24:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. election: Eby vows to fast-track int’l medical grads, bring more docs to rural areas",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/09/b-c-election-eby-vows-to-fast-track-intl-medical-grads-bring-more-docs-to-rural-areas/",
-      "published_date": "2026-10-09T23:19:00Z",
       "category": "Local Events"
     }
   ]
