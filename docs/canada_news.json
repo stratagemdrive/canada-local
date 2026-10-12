@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T16:26:08Z",
+  "generated_at": "2026-10-12T02:10:00Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 58,
   "categories": [
     "Diplomacy",
     "Military",
@@ -120,13 +120,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/two-canadian-soldiers-arrested-on-organized-crime-charges",
       "published_date": "2026-10-05T18:42:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "U.S. Coast Guard suspends Ontario air ambulance search",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/u-s-coast-guard-locate-debris-field-linked-to-missing-ontario-air-ambulance",
-      "published_date": "2026-10-04T17:41:42Z",
       "category": "Military"
     },
     {
@@ -284,6 +277,69 @@
       "category": "Economy"
     },
     {
+      "title": "Armed man shot by Burnaby RCMP, police say; IIO called in",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/armed-man-shot-by-burnaby-rcmp-police-say-iio-called-in",
+      "published_date": "2026-10-12T01:37:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New York Rangers score 4 unanswered goals in 6-2 win over Vancouver Canucks",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/11/new-york-rangers-score-4-unanswered-goals-in-6-2-win-over-vancouver-canucks/",
+      "published_date": "2026-10-12T00:40:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect sought for protest assault; man charged after TTC exposure incidents",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspect-sought-assault-downtown-toronto-protest",
+      "published_date": "2026-10-12T00:40:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Second Harvest delivery trucks left inoperable after Thanksgiving theft",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/second-harvest-trucks-inoperable-thanksgiving-theft",
+      "published_date": "2026-10-11T23:41:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pattullo Bridge arch removed over Thanksgiving long weekend",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/pattullo-bridge-arch-removed-over-thanksgiving-long-weekend",
+      "published_date": "2026-10-11T22:23:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: A bumpy road to the promised land",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/editorial-a-bumpy-road-to-the-promised-land",
+      "published_date": "2026-10-11T20:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents evacuated after New Westminster apartment blaze",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/new-westminster-apartment-fire-residents-evacuated",
+      "published_date": "2026-10-11T19:32:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brampton man charged with attempted murder; man accused of vandalizing North York business",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/brampton-man-wanted-for-attempted-murder-man-accused-of-vandalizing-north-york-business",
+      "published_date": "2026-10-11T17:19:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man killed after entering tiger enclosure at U.K. zoo",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/man-killed-after-entering-tiger-enclosure-at-u-k-zoo",
+      "published_date": "2026-10-11T16:25:46Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Hereditary chiefs call for closure of park on Vancouver Island over ancestral graves",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/11/hereditary-chiefs-call-for-closure-of-park-on-vancouver-island-over-ancestral-graves/",
@@ -358,69 +414,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/the-bookless-club-do-you-use-the-library",
       "published_date": "2026-10-11T13:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brain project at SFU aims to discover why some people don&#039;t get dementia, despite risk factors",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/sfu-scientists-research-why-some-people-dont-get-dementia-despite-risk-factors",
-      "published_date": "2026-10-11T13:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hischier nets 2 as Devils dump visiting Vancouver Canucks 4-1",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/10/hischier-nets-2-as-devils-dump-visiting-vancouver-canucks-4-1/",
-      "published_date": "2026-10-10T22:12:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fifth beluga whale has died following rescue from Marineland",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/fifth-beluga-whale-died-rescue-marineland-shedd-aquarium",
-      "published_date": "2026-10-10T20:05:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Durham Region warned about convicted sex offender's latest release",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/durham-region-warned-convicted-sex-offender-keith-theodore-constantin-latest-release",
-      "published_date": "2026-10-10T19:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto woman, 19, out on bail and on the run; man sought for Moss Park sex attack",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-woman-on-bail-on-the-run-man-sought-moss-park-sex-attack",
-      "published_date": "2026-10-10T17:14:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'High-risk' offender living in Peel Region after serving time for manslaughter",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/high-risk-offender-gil-dasilva-living-peel-region-after-serving-time-manslaughter-cheryl-mcvarish",
-      "published_date": "2026-10-10T16:05:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Vine: Okanagan’s 2025 wines proving to be vibrant and full of flavour",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/westcoast-homes-and-design/on-the-vine-okanagans-2025-wines-proving-to-be-vibrant-and-full-of-flavour",
-      "published_date": "2026-10-10T16:01:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Provincial data shows increase in flu, COVID cases across Ontario",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/provincial-data-shows-increase-flu-covid-cases-ontario",
-      "published_date": "2026-10-10T15:30:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conversations That Matter: Ken Sim of ABC Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/conversations-that-matter-ken-sim-of-abc-vancouver",
-      "published_date": "2026-10-10T15:00:43Z",
       "category": "Local Events"
     }
   ]
