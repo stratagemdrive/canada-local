@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T02:10:00Z",
+  "generated_at": "2026-10-12T20:00:55Z",
   "country": "Canada",
-  "total_stories": 58,
+  "total_stories": 57,
   "categories": [
     "Diplomacy",
     "Military",
@@ -30,6 +30,13 @@
       "url": "https://torontosun.com/news/world/canadians-more-intelligent-than-americans-but-not-smartest-in-world-study",
       "published_date": "2026-10-05T20:19:02Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "HAMMER: Flydubai terror scare shouldn't derail Abraham Accords progress",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/flydubai-terror-should-not-derail-abraham-accords-progress",
+      "published_date": "2026-10-12T18:47:07Z",
+      "category": "Military"
     },
     {
       "title": "World No. 1 Schwaller, Canadian legend Koe battle on B.C. ice: ‘Best spiel there is’",
@@ -113,13 +120,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/05/hope-veterans-death-shines-spotlight-on-little-known-legion-service/",
       "published_date": "2026-10-05T21:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two Canadian soldiers arrested on organized crime charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/two-canadian-soldiers-arrested-on-organized-crime-charges",
-      "published_date": "2026-10-05T18:42:19Z",
       "category": "Military"
     },
     {
@@ -270,11 +270,109 @@
       "category": "Economy"
     },
     {
-      "title": "NDP candidate pitches economic development in Nechako communities",
+      "title": "Hackers hit France's supermarket refrigerators, forcing hundreds of affected stores to throw out food",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/hackers-hit-frances-supermarket-refrigerators",
+      "published_date": "2026-10-12T19:51:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bill Gates sounds alarm on ‘bad people’ using AI: ‘GRIM POSSIBILITIES’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/bill-gates-sounds-alarm-on-bad-people-using-ai-grim-possibilities",
+      "published_date": "2026-10-12T19:47:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Election workers break the rules, favour Chow, at advance polls",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/election-workers-break-the-rules-favour-chow-at-advance-polls",
+      "published_date": "2026-10-12T19:30:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lotto 6/49 ticket matches all 6 Classic Draw numbers for $5M win Saturday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/lotto-6-49-ticket-matched-all-6-classic-draw-numbers-saturday-night-5-m-win",
+      "published_date": "2026-10-12T19:14:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Lives have been upended&#039;: New Westminster blaze leaves uncertain future for 24 households",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/new-westminster-apartment-fire-24-households-displaced",
+      "published_date": "2026-10-12T18:52:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Carney's Palestinian statehood blunder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/editorial-carneys-palestinian-statehood-blunder",
+      "published_date": "2026-10-12T18:37:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "St. Lawrence College plans more surveys on Fleming integration, future college name",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/10/12/st-lawrence-college-plans-more-surveys-on-fleming-integration-future-college-name/",
+      "published_date": "2026-10-12T18:19:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zadie Smith on why art matters in times of crisis",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/local-arts/zadie-smith-on-why-art-matters-in-times-of-crisis",
+      "published_date": "2026-10-12T18:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tiffany adds colour to its HardWear jewelry collection",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/tiffany-co-adds-colour-to-its-hardwear-collection",
+      "published_date": "2026-10-12T18:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carney to Alberta in Thanksgiving message: Please don't go",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/carney-alberta-thanksgiving-message",
+      "published_date": "2026-10-12T15:13:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Election Analysis: ICBC reform becomes a focal point of campaign",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-election-analysis-icbc-no-fault-insurance-focal-point-election",
+      "published_date": "2026-10-12T13:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Election: A resource guide before you vote",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-municipal-election-2026-hot-topics-fact-checks-what-to-know",
+      "published_date": "2026-10-12T13:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Election Analysis: What&#039;s the plan if the Declaration on the Rights of Indigenous Peoples Act is repealed?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-election-analysis-dripa",
+      "published_date": "2026-10-12T13:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doja Cat in Vancouver: What to know before you go to the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/doja-cat-vancouver-what-to-know-october-13-concert",
+      "published_date": "2026-10-12T13:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What you need to know to vote in Burns Lake local elections",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/ndp-candidate-pitches-economic-development-in-nechako-communities/",
-      "published_date": "2026-10-05T19:00:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/12/what-you-need-to-know-to-vote-in-burns-lake-local-elections/",
+      "published_date": "2026-10-12T12:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Armed man shot by Burnaby RCMP, police say; IIO called in",
@@ -309,111 +407,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/pattullo-bridge-arch-removed-over-thanksgiving-long-weekend",
       "published_date": "2026-10-11T22:23:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: A bumpy road to the promised land",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-a-bumpy-road-to-the-promised-land",
-      "published_date": "2026-10-11T20:00:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents evacuated after New Westminster apartment blaze",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/new-westminster-apartment-fire-residents-evacuated",
-      "published_date": "2026-10-11T19:32:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brampton man charged with attempted murder; man accused of vandalizing North York business",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brampton-man-wanted-for-attempted-murder-man-accused-of-vandalizing-north-york-business",
-      "published_date": "2026-10-11T17:19:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man killed after entering tiger enclosure at U.K. zoo",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/man-killed-after-entering-tiger-enclosure-at-u-k-zoo",
-      "published_date": "2026-10-11T16:25:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hereditary chiefs call for closure of park on Vancouver Island over ancestral graves",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/11/hereditary-chiefs-call-for-closure-of-park-on-vancouver-island-over-ancestral-graves/",
-      "published_date": "2026-10-11T16:03:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada’s best pickleball players volley in Vernon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/11/canadas-best-pickleball-players-volley-in-vernon/",
-      "published_date": "2026-10-11T16:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: A season of Thanksgiving",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/11/quiz-a-season-of-thanksgiving/",
-      "published_date": "2026-10-11T15:40:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could B.C. be headed for a record-breaking mild winter?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/could-bc-be-headed-for-a-record-breaking-mild-winter",
-      "published_date": "2026-10-11T15:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Get the look: These are the blush shades we are loving right now",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/get-the-look-these-are-the-blush-shades-we-are-loving-right-now",
-      "published_date": "2026-10-11T15:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: When antisemitism comes for you",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/when-antisemitism-comes-for-you",
-      "published_date": "2026-10-11T14:45:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HALL-ELUJAH: Toronto’s food hall scene on upswing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hall-elujah-torontos-food-hall-scene-on-upswing",
-      "published_date": "2026-10-11T14:25:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bed Bath & Beyond is back: Why brands Canadians thought were gone keep returning",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/bed-bath-beyond-is-back-why-brands-canadians-thought-were-gone-keep-returning",
-      "published_date": "2026-10-11T14:20:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keeping sight of privacy concerns over smart glasses",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/keeping-sight-privacy-concerns-smart-glasses-ai",
-      "published_date": "2026-10-11T14:04:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Downtown Vancouver office vacancy recovery slower compared to other Canadian cities",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/downtown-vancouver-office-vacancy-recovery-slower-compared-to-other-canadian-cities",
-      "published_date": "2026-10-11T13:00:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: Do you use the library?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/the-bookless-club-do-you-use-the-library",
-      "published_date": "2026-10-11T13:00:31Z",
       "category": "Local Events"
     }
   ]
