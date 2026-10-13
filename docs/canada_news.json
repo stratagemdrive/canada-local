@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T03:24:31Z",
+  "generated_at": "2026-10-13T17:49:39Z",
   "country": "Canada",
-  "total_stories": 54,
+  "total_stories": 56,
   "categories": [
     "Diplomacy",
     "Military",
@@ -29,6 +29,13 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/flydubai-terror-should-not-derail-abraham-accords-progress",
       "published_date": "2026-10-12T18:47:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "Cleveland-Cliffs boss ready to battle Ottawa over Stelco cuts",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/cleveland-cliffs-boss-battle-ottawa-stelco-cuts",
+      "published_date": "2026-10-12T16:55:00Z",
       "category": "Military"
     },
     {
@@ -128,6 +135,13 @@
       "url": "https://vancouversun.com/opinion/op-ed/opinion-housing-and-climate-are-inextricably-linked-we-must-see-action-on-both-this-election",
       "published_date": "2026-10-08T23:00:06Z",
       "category": "Energy"
+    },
+    {
+      "title": "Poilievre takes tariff fight to Motown",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/poilievre-takes-tariff-fight-to-motown",
+      "published_date": "2026-10-13T15:35:35Z",
+      "category": "Economy"
     },
     {
       "title": "GOLDSTEIN: Financial watchdog exposes flaws in Carney’s plan to spend ourselves rich",
@@ -249,6 +263,111 @@
       "category": "Economy"
     },
     {
+      "title": "2 dead in plane crash en route to Idaho from B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/13/2-dead-in-plane-crash-en-route-to-idaho-from-b-c/",
+      "published_date": "2026-10-13T17:44:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here&#039;s where to shop for Bruno Mars merch in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/bruno-mars-vancouver-merch",
+      "published_date": "2026-10-13T17:16:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northwestern Ontario to ditch seasonal time change",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/northwestern-ontario-to-ditch-seasonal-time-change",
+      "published_date": "2026-10-13T17:16:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Backstreet Boys add ‘one final show’ to record-breaking Toronto residency",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/backstreet-boys-one-final-show-toronto-residency",
+      "published_date": "2026-10-13T16:48:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qantas grounds plane after bed bug attack on passengers during 17-hour journey",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/qantas-grounds-plane-bed-bug-attack-passengers",
+      "published_date": "2026-10-13T16:43:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man who fell off rollercoaster identified as Atlanta school teacher",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/man-rollercoaster-identified-school-teacher",
+      "published_date": "2026-10-13T16:33:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘CUSP OF CHANGE?’ Advance polling in Toronto way up",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/advance-polling-in-toronto-way-up",
+      "published_date": "2026-10-13T15:29:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makeover: Why $8 at-home hair lightener can turn into a $500 colour correction",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/salon-colour-correction",
+      "published_date": "2026-10-13T15:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six Flags shuts down two Canada’s Wonderland roller coasters after Georgia death",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/six-flags-shuts-down-canadas-wonderland-roller-coasters",
+      "published_date": "2026-10-13T13:21:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Langley Election: With SkyTrain on the horizon, voters will choose between continuity or change",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/skytrain-plan-langley-voters-choose-between-continuity-or-change",
+      "published_date": "2026-10-13T13:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bruno Mars in Vancouver: 5 outfit ideas for the concerts at B.C. Place",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/bruno-mars-vancouver-bc-place-what-to-wear",
+      "published_date": "2026-10-13T13:00:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey Election: 6 hot topics and where candidates stand",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/6-hot-topics-in-the-surrey-election-and-where-candidates-stand",
+      "published_date": "2026-10-13T13:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey Election: A resource guide before you vote",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-municipal-election-2026-hot-topics-fact-checks-what-to-know",
+      "published_date": "2026-10-13T13:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bruno Mars begins a record-breaking run of concerts in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/bruno-mars-bc-place-concerts-break-taylor-swift-record",
+      "published_date": "2026-10-13T13:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Municipalities report &#039;unusually high&#039; black bear activity across Metro Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/black-bear-activity-high-metro-vancouver",
+      "published_date": "2026-10-13T13:00:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Man dies after falling off Georgia roller coaster",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/man-dies-after-falling-off-georgia-roller-coaster",
@@ -281,111 +400,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/vancouver-cruise-ship-record-season-2026",
       "published_date": "2026-10-12T21:19:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Actress Selma Blair arrested in mid-air plane incident",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/actress-selma-blair-arrested-in-mid-air-plane-incident",
-      "published_date": "2026-10-12T20:49:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Old clip of singing, dancing Quebecois boy goes viral",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/old-clip-of-singing-dancing-quebecois-boy-goes-viral",
-      "published_date": "2026-10-12T20:32:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Robot that looks like Iron Man gropes teen girl: German cops",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/robot-that-looks-like-iron-man-gropes-teen-girl-german-cops",
-      "published_date": "2026-10-12T20:15:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guelph pilot and coffee entrepreneur Steve Zago dies in weekend plane crash near Fergus, Ont.",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/guelph-pilot-and-coffee-entrepreneur-steve-zago-dies-in-weekend-plane-crash-near-fergus-ont",
-      "published_date": "2026-10-12T20:01:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hackers hit France's supermarket refrigerators, forcing hundreds of affected stores to throw out food",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/hackers-hit-frances-supermarket-refrigerators",
-      "published_date": "2026-10-12T19:51:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bill Gates sounds alarm on ‘bad people’ using AI: ‘GRIM POSSIBILITIES’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/bill-gates-sounds-alarm-on-bad-people-using-ai-grim-possibilities",
-      "published_date": "2026-10-12T19:47:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Election workers break the rules, favour Chow, at advance polls",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/election-workers-break-the-rules-favour-chow-at-advance-polls",
-      "published_date": "2026-10-12T19:30:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lotto 6/49 ticket matches all 6 Classic Draw numbers for $5M win Saturday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/lotto-6-49-ticket-matched-all-6-classic-draw-numbers-saturday-night-5-m-win",
-      "published_date": "2026-10-12T19:14:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Lives have been upended&#039;: New Westminster blaze leaves uncertain future for 24 households",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/new-westminster-apartment-fire-24-households-displaced",
-      "published_date": "2026-10-12T18:52:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Carney's Palestinian statehood blunder",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-carneys-palestinian-statehood-blunder",
-      "published_date": "2026-10-12T18:37:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "St. Lawrence College plans more surveys on Fleming integration, future college name",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/10/12/st-lawrence-college-plans-more-surveys-on-fleming-integration-future-college-name/",
-      "published_date": "2026-10-12T18:19:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zadie Smith on why art matters in times of crisis",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/local-arts/zadie-smith-on-why-art-matters-in-times-of-crisis",
-      "published_date": "2026-10-12T18:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiffany adds colour to its HardWear jewelry collection",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/tiffany-co-adds-colour-to-its-hardwear-collection",
-      "published_date": "2026-10-12T18:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senior dies in Scarborough car crash; Man charged after Orangeville road rage incident",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/senior-dies-scarborough-crash",
-      "published_date": "2026-10-12T15:53:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carney to Alberta in Thanksgiving message: Please don't go",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/carney-alberta-thanksgiving-message",
-      "published_date": "2026-10-12T15:13:35Z",
       "category": "Local Events"
     }
   ]
