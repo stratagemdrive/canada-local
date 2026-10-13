@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T20:00:55Z",
+  "generated_at": "2026-10-13T03:24:31Z",
   "country": "Canada",
-  "total_stories": 57,
+  "total_stories": 54,
   "categories": [
     "Diplomacy",
     "Military",
@@ -22,13 +22,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/pspp-blow-up-canadas-immigration-consensus",
       "published_date": "2026-10-09T17:41:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canadians more intelligent than Americans, but not smartest in world: Study",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/canadians-more-intelligent-than-americans-but-not-smartest-in-world-study",
-      "published_date": "2026-10-05T20:19:02Z",
       "category": "Diplomacy"
     },
     {
@@ -116,11 +109,11 @@
       "category": "Military"
     },
     {
-      "title": "Hope veteran’s death shines spotlight on little-known Legion service",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/hope-veterans-death-shines-spotlight-on-little-known-legion-service/",
-      "published_date": "2026-10-05T21:00:00Z",
-      "category": "Military"
+      "title": "Carney backs Russia-Ukraine 'energy truce,' assures Canadian oil exports will flow",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/carney-backs-russia-ukraine-energy-truce-assures-canadian-oil-exports-will-flow",
+      "published_date": "2026-10-12T20:08:54Z",
+      "category": "Energy"
     },
     {
       "title": "EDITORIAL: Greenhouse gas emissions up again",
@@ -256,18 +249,67 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. Election: Tax promises by NDP and Conservatives won&#039;t move needle on deficit, say experts",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-tax-promises-ndp-conservatives-wont-move-needle-on-deficit-say-experts",
-      "published_date": "2026-10-06T00:04:37Z",
-      "category": "Economy"
+      "title": "Man dies after falling off Georgia roller coaster",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/man-dies-after-falling-off-georgia-roller-coaster",
+      "published_date": "2026-10-13T00:14:15Z",
+      "category": "Local Events"
     },
     {
-      "title": "Rio Tinto links Kitimat aluminium to new B.C. supply chain",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/05/rio-tinto-links-kitimat-aluminium-to-new-b-c-supply-chain/",
-      "published_date": "2026-10-05T22:00:00Z",
-      "category": "Economy"
+      "title": "WATCH: What voters in 6 B.C. municipalities say their top issues are in the 2026 elections",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-elections-2026-voters-most-important-issues",
+      "published_date": "2026-10-12T23:41:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Police seek suspect in west-end sex assault",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/toronto-police-seek-suspect-in-west-end-sex-assault",
+      "published_date": "2026-10-12T23:08:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Breaking Bad star RJ Mitte dead at 34",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/breaking-bad-star-rj-mitte-dead-at-34",
+      "published_date": "2026-10-12T21:36:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver cruise ship numbers jump 20 per cent for record season in 2026",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-cruise-ship-record-season-2026",
+      "published_date": "2026-10-12T21:19:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Actress Selma Blair arrested in mid-air plane incident",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/actress-selma-blair-arrested-in-mid-air-plane-incident",
+      "published_date": "2026-10-12T20:49:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Old clip of singing, dancing Quebecois boy goes viral",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/old-clip-of-singing-dancing-quebecois-boy-goes-viral",
+      "published_date": "2026-10-12T20:32:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Robot that looks like Iron Man gropes teen girl: German cops",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/robot-that-looks-like-iron-man-gropes-teen-girl-german-cops",
+      "published_date": "2026-10-12T20:15:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guelph pilot and coffee entrepreneur Steve Zago dies in weekend plane crash near Fergus, Ont.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/guelph-pilot-and-coffee-entrepreneur-steve-zago-dies-in-weekend-plane-crash-near-fergus-ont",
+      "published_date": "2026-10-12T20:01:54Z",
+      "category": "Local Events"
     },
     {
       "title": "Hackers hit France's supermarket refrigerators, forcing hundreds of affected stores to throw out food",
@@ -333,80 +375,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Senior dies in Scarborough car crash; Man charged after Orangeville road rage incident",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/senior-dies-scarborough-crash",
+      "published_date": "2026-10-12T15:53:32Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Carney to Alberta in Thanksgiving message: Please don't go",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/carney-alberta-thanksgiving-message",
       "published_date": "2026-10-12T15:13:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election Analysis: ICBC reform becomes a focal point of campaign",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-analysis-icbc-no-fault-insurance-focal-point-election",
-      "published_date": "2026-10-12T13:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver Election: A resource guide before you vote",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-municipal-election-2026-hot-topics-fact-checks-what-to-know",
-      "published_date": "2026-10-12T13:00:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election Analysis: What&#039;s the plan if the Declaration on the Rights of Indigenous Peoples Act is repealed?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-analysis-dripa",
-      "published_date": "2026-10-12T13:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doja Cat in Vancouver: What to know before you go to the concert",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/doja-cat-vancouver-what-to-know-october-13-concert",
-      "published_date": "2026-10-12T13:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What you need to know to vote in Burns Lake local elections",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/12/what-you-need-to-know-to-vote-in-burns-lake-local-elections/",
-      "published_date": "2026-10-12T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armed man shot by Burnaby RCMP, police say; IIO called in",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/armed-man-shot-by-burnaby-rcmp-police-say-iio-called-in",
-      "published_date": "2026-10-12T01:37:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New York Rangers score 4 unanswered goals in 6-2 win over Vancouver Canucks",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/11/new-york-rangers-score-4-unanswered-goals-in-6-2-win-over-vancouver-canucks/",
-      "published_date": "2026-10-12T00:40:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect sought for protest assault; man charged after TTC exposure incidents",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-sought-assault-downtown-toronto-protest",
-      "published_date": "2026-10-12T00:40:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second Harvest delivery trucks left inoperable after Thanksgiving theft",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/second-harvest-trucks-inoperable-thanksgiving-theft",
-      "published_date": "2026-10-11T23:41:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pattullo Bridge arch removed over Thanksgiving long weekend",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/pattullo-bridge-arch-removed-over-thanksgiving-long-weekend",
-      "published_date": "2026-10-11T22:23:17Z",
       "category": "Local Events"
     }
   ]
