@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:34:07Z",
+  "generated_at": "2026-10-15T01:17:28Z",
   "country": "Canada",
   "total_stories": 63,
   "categories": [
@@ -37,6 +37,20 @@
       "url": "https://torontosun.com/opinion/columnists/pspp-blow-up-canadas-immigration-consensus",
       "published_date": "2026-10-09T17:41:44Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Councillor urged Chow to keep quiet after Oct. 7 attacks",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/alejandra-bravo-chow-israel-october-terrorism",
+      "published_date": "2026-10-14T23:47:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "MANDEL: Realtor invested $3.6 million with Ontario 'Crypto King' — and saw just $700K",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/realtor-invested-3-6-million-with-crypto-king-and-saw-just-700000",
+      "published_date": "2026-10-14T22:27:10Z",
+      "category": "Military"
     },
     {
       "title": "Unique memento of Canadians who fought in Spanish Civil War now at Vancouver museum",
@@ -123,20 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "A masterclass in local government politics: 2 B.C. veterans launch podcast",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/a-masterclass-in-local-government-politics-2-b-c-veterans-launch-podcast/",
-      "published_date": "2026-10-07T20:06:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "BC NDP promises new support for small businesses hit by U.S. trade war",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/07/bc-ndp-promises-new-support-for-small-businesses-hit-by-u-s-trade-war/",
-      "published_date": "2026-10-07T16:38:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Five B.C. First Nations secure economic interest in Coastal GasLink",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/13/five-b-c-first-nations-secure-economic-interest-in-coastal-gaslink/",
@@ -170,6 +170,20 @@
       "url": "https://vancouversun.com/opinion/op-ed/opinion-housing-and-climate-are-inextricably-linked-we-must-see-action-on-both-this-election",
       "published_date": "2026-10-08T23:00:06Z",
       "category": "Energy"
+    },
+    {
+      "title": "NDP release costed platform with added spending, new taxes on wealthy",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/ndp-release-costed-platform-with-added-spending-new-taxes-on-wealthy/",
+      "published_date": "2026-10-15T00:37:51Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Second Harvest CEO 'so grateful' as donations pour in after weekend theft",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/second-harvest-receives-donation-damaged-trucks",
+      "published_date": "2026-10-14T21:43:40Z",
+      "category": "Economy"
     },
     {
       "title": "WARMINGTON: New American Joni Mitchell throws Canada, PM under a Big Yellow Taxi",
@@ -298,157 +312,143 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. Conservatives promise $1K tax cut, Doerkson says",
+      "title": "Tumbler Ridge shooting accused co-conspirator denied bail: U.S. judge",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/08/conservatives-promise-1k-tax-cut-doerkson-says-in-surrey/",
-      "published_date": "2026-10-08T19:21:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/tumbler-ridge-shooting-accused-co-conspirator-denied-bail-u-s-judge/",
+      "published_date": "2026-10-15T00:46:40Z",
+      "category": "Local Events"
     },
     {
-      "title": "B.C. Election: As NDP and Conservatives go all in on supporting businesses, Greens promise to grow economy sustainably",
+      "title": "Donald Trump says Canada becoming '51st state' the 'only way it works'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/donald-trump-says-canada-becoming-51st-state-the-only-way-it-works",
+      "published_date": "2026-10-15T00:46:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tumbler Ridge accused co-conspirator indicted by U.S. grand jury",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-ndp-conservatives-all-in-supporting-businesses-greens-promise-grow-economy-sustainably",
-      "published_date": "2026-10-07T23:35:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Boy, 14, shot in face with BB gun at Hamilton school",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/boy-14-shot-in-face-bb-gun-hamilton-school",
-      "published_date": "2026-10-14T15:05:56Z",
+      "url": "https://vancouversun.com/news/tumbler-ridge-accused-co-conspirator-indicted-by-u-s-grand-jury",
+      "published_date": "2026-10-15T00:20:13Z",
       "category": "Local Events"
     },
     {
-      "title": "'Kelly Clarkson put us in danger': Store owner fires back in escalating 'Pretty Woman' feud",
+      "title": "Giant runaway inflatable pumpkin rolls through Iowa town",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/store-owner-fires-back-kelly-clarkson-pretty-woman-feud",
-      "published_date": "2026-10-14T14:51:52Z",
+      "url": "https://torontosun.com/news/world/giant-runaway-inflatable-pumpkin-rolls-through-iowa-town",
+      "published_date": "2026-10-15T00:19:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Historic $90M on the line after Lotto Max jackpot goes unclaimed",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/lotto-maxx-90m-jackpot-goes-unclaimed",
-      "published_date": "2026-10-14T14:37:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "North Saanich fires planning director who is also running for mayor",
+      "title": "B.C. Conservatives promise separate municipal, provincial election periods if they win",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/north-saanich-fires-director-of-planning-after-report-outlines-lack-of-respectful-communication-skills/",
-      "published_date": "2026-10-14T14:27:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/b-c-conservatives-promise-separate-municipal-provincial-election-periods-if-they-win/",
+      "published_date": "2026-10-15T00:18:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Six 'severely undernourished' puppies rescued from outdoor cage in Hamilton",
+      "title": "&#039;Jenna died on a wait-list&#039;: Loved ones push for specialized postpartum psych care in B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/jenna-died-on-a-waitlist-loved-ones-push-for-specialized-postpartum-psych-care-in-b-c",
+      "published_date": "2026-10-14T23:35:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos of suspect vehicle in Second Harvest theft released; man charged with assault during demonstration",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/severely-undernourished-puppies-rescued-outdoor-cage-hamilton",
-      "published_date": "2026-10-14T14:13:35Z",
+      "url": "https://torontosun.com/news/crime/photos-of-suspect-vehicle-in-second-harvest-theft-released-man-charged-with-assault-during-demonstration",
+      "published_date": "2026-10-14T23:27:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump slammed over ‘sick’ video of tiger's deadly mauling of U.K. man",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/trump-slammed-tigers-mauling-uk-man",
-      "published_date": "2026-10-14T13:54:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. store that sold fake Louis Vuitton wallet, scarf found in contempt of court, faces fine",
+      "title": "B.C. NDP and Conservatives seek to limit vote-splitting in rare election with five high-profile parties",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-store-that-sold-fake-louis-vuitton-wallet-scarf-found-in-contempt-of-court-faces-fine",
-      "published_date": "2026-10-14T13:00:42Z",
+      "url": "https://vancouversun.com/news/bc-election-ndp-conservatives-vote-splitting-greens-onebc-centrebc",
+      "published_date": "2026-10-14T23:09:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Bruno Mars plays five shows at B.C. Place in Vancouver: What to know before you go",
+      "title": "Opinion: Affordability Is an election issue. Access to sport must be part of the conversation",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/bruno-mars-five-shows-bc-place-vancouver-what-to-know-before-you-go",
-      "published_date": "2026-10-14T13:00:39Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-affordability-is-an-election-issue-access-to-sport-must-be-part-of-the-conversation",
+      "published_date": "2026-10-14T23:00:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Rick Hansen: Accessibility must be an election priority in B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/rick-hansen-accessibility-must-be-an-election-priority",
-      "published_date": "2026-10-14T13:00:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 restaurants near B.C. Place to satisfy your post-Bruno Mars concert cravings",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/vancouver-restaurants-near-bc-place",
-      "published_date": "2026-10-14T13:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election Analysis: NDP raise spectre of health care privatization as Conservatives promise to maintain spending",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-analysis-ndp-raise-spectre-health-care-privatization-conservatives-promise-maintain-spending",
-      "published_date": "2026-10-14T13:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holiday pet safety",
+      "title": "THE MOJ: B.C. Lions watch intently as CFL teams jockey for playoff position",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/holiday-pet-safety-2/",
-      "published_date": "2026-10-14T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/the-moj-b-c-lions-watch-intently-as-cfl-teams-jockey-for-playoff-position/",
+      "published_date": "2026-10-14T22:44:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Editorial: Voting for local governments vital",
+      "title": "Penticton named top Canadian city on new global travel list, 5th overall",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/editorial-voting-for-local-governments-vital/",
-      "published_date": "2026-10-14T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/penticton-named-top-canadian-city-on-new-global-travel-list-5th-overall/",
+      "published_date": "2026-10-14T22:44:00Z",
       "category": "Local Events"
     },
     {
-      "title": "GOLDSTEIN: Ontario’s employment rate still hasn’t recovered from pandemic, study says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/ontario-employment-rate-hasnt-recovered-pandemic-study",
-      "published_date": "2026-10-14T09:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palmieri scores 2 as Islanders edge struggling Vancouver Canucks 3-2",
+      "title": "B.C. Conservatives ahead of NDP, despite moderate support for Doerkson: Poll",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/13/palmieri-scores-2-as-islanders-edge-struggling-vancouver-canucks-3-2/",
-      "published_date": "2026-10-14T02:29:43Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/b-c-conservatives-ahead-of-ndp-despite-moderate-support-for-doerkson-poll/",
+      "published_date": "2026-10-14T22:44:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Protesters vow continued defiance as removal of Etobicoke bike lanes delayed",
+      "title": "Seismic research vessel catches fire in Gulf of Mexico, 46 people rescued",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/protesters-vow-continued-defiance-etobicoke-bike-lanes",
-      "published_date": "2026-10-14T01:44:56Z",
+      "url": "https://torontosun.com/news/world/coast-guard-helps-rescue-gulf-coast-boat",
+      "published_date": "2026-10-14T22:24:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Incumbent mayor Brenda Locke under renewed scrutiny over termination of Surrey police chief",
+      "title": "Rio Theatre owner delivers new gallery to Vancouver arts scene",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/incumbent-mayor-brenda-locke-under-renewed-scrutiny-over-termination-of-surrey-police-chief",
-      "published_date": "2026-10-14T00:28:09Z",
+      "url": "https://vancouversun.com/entertainment/rio-theatre-owner-delivers-new-gallery-to-vancouver-arts-scene",
+      "published_date": "2026-10-14T22:01:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Man accused of sexual assault in Etobicoke; two charged in fatal Scarborough crash",
+      "title": "GOLDSTEIN: Weasel words led to Canada’s recognition of Palestine",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-accused-sexual-assault-etobicoke",
-      "published_date": "2026-10-14T00:15:10Z",
+      "url": "https://torontosun.com/opinion/columnists/weasel-words-led-to-canadas-recognition-of-palestine",
+      "published_date": "2026-10-14T21:26:29Z",
       "category": "Local Events"
     },
     {
-      "title": "MANDEL: 'Where is Daddy?' Christina Cristillo recalls horror of wrong-way GTA crash that killed her husband",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mandel-where-is-daddy-christina-cristillo-recalls-horror-of-wrong-way-gta-crash-that-killed-her-husband",
-      "published_date": "2026-10-13T23:47:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman found dead at Vancouver Island landfill",
+      "title": "10 safety infractions, unrestrained toddler net semi driver over $1,600 in fines near Sicamous",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/13/woman-found-dead-at-vancouver-island-landfill/",
-      "published_date": "2026-10-13T23:38:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/14/10-safety-infractions-unrestrained-toddler-net-semi-driver-over-1600-in-fines-near-sicamous/",
+      "published_date": "2026-10-14T20:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voting by mail? Make sure you get it delivered by Oct. 17 deadline",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/voting-mail-delivered-oct-17-deadline",
+      "published_date": "2026-10-14T20:02:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;A model of courage:&#039; Third victim of Tsawwassen Mills crash dies in hospital",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/third-victim-tsawwassen-mills-crash-dies",
+      "published_date": "2026-10-14T19:38:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE UPDATES: The gates are open as Bruno Mars launches Vancouver run tonight &#124; Fans descend on the merch tent &#124; Why you&#039;ll hear Bruno&#039;s voice on the SkyTrain",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/bruno-mars-vancouver-concert-live-updates-bc-place",
+      "published_date": "2026-10-14T18:57:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Show me your friends, I'll show you your mayor",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/show-me-your-friends-ill-show-you-your-mayor",
+      "published_date": "2026-10-14T18:51:55Z",
       "category": "Local Events"
     }
   ]
