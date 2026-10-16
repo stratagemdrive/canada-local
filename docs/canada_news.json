@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:03:16Z",
+  "generated_at": "2026-10-16T15:02:30Z",
   "country": "Canada",
   "total_stories": 60,
   "categories": [
@@ -44,6 +44,13 @@
       "url": "https://torontosun.com/opinion/columnists/pspp-blow-up-canadas-immigration-consensus",
       "published_date": "2026-10-09T17:41:44Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Trans neo-Nazi accused of Hindu temple massacre plot gets hormone shots",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/trans-neo-nazi-hindu-temple-massacre-plot-hormone-shots",
+      "published_date": "2026-10-16T14:17:57Z",
+      "category": "Military"
     },
     {
       "title": "North District Uniform Gang Enforcement Team ready for deployment",
@@ -116,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Pentagon set to livestream execution by firing squad: 'WE'LL MAKE SURE PEOPLE ARE ABLE TO WATCH IT'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/pentagon-set-to-livestream-execution-by-firing-squad",
-      "published_date": "2026-10-09T14:46:22Z",
-      "category": "Military"
-    },
-    {
       "title": "Five B.C. First Nations secure economic interest in Coastal GasLink",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/13/five-b-c-first-nations-secure-economic-interest-in-coastal-gaslink/",
@@ -149,6 +149,27 @@
       "url": "https://torontosun.com/opinion/editorials/greenhouse-gas-emissions-up-again",
       "published_date": "2026-10-10T21:00:54Z",
       "category": "Energy"
+    },
+    {
+      "title": "Douglas Todd: NDP&#039;s housing plan is &#039;working,&#039; says David Eby. Here&#039;s a reality check",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/douglas-todd-reality-check-david-eby-housing-plan",
+      "published_date": "2026-10-16T13:00:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Why voting in Vancouver&#039;s 2026 municipal election could feel like a test",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/why-vancouvers-2026-municipal-election-could-feel-like-a-test",
+      "published_date": "2026-10-16T13:00:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Reduced softwood lumber duties hardly a relief for B.C. as dispute drags on",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/reduced-softwood-lumber-duties-hardly-a-relief-for-b-c-as-dispute-drags-on",
+      "published_date": "2026-10-16T13:00:24Z",
+      "category": "Economy"
     },
     {
       "title": "&#039;Heavy distractions&#039; stalling B.C. housing market",
@@ -270,25 +291,95 @@
       "category": "Economy"
     },
     {
-      "title": "Anthony Gismondi: Why Pinot Noir is one of B.C.&#039;s most important fine-wine success stories",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/anthony-gismondi-why-pinot-noir-is-one-of-b-c-s-most-important-fine-wine-success-stories",
-      "published_date": "2026-10-10T15:00:58Z",
-      "category": "Economy"
+      "title": "‘Sharp cold front’ to bring high winds, fall storm to Eastern Fraser Valley, Okanagan, Cariboo regions",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/sharp-cold-front-to-bring-high-winds-fall-storm-to-eastern-fraser-valley-okanagan-cariboo-regions/",
+      "published_date": "2026-10-16T14:28:21Z",
+      "category": "Local Events"
     },
     {
-      "title": "Video: Ken Sim talks zero per cent property taxes and business &#039;certainty&#039;",
+      "title": "Conversations That Matter: Re-engineering the human body for space travel",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/video-ken-sim-talks-zero-per-cent-property-taxes-and-business-certainty",
-      "published_date": "2026-10-10T15:00:36Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/conversations-that-matter-re-engineering-the-human-body-for-space-travel-2",
+      "published_date": "2026-10-16T14:00:22Z",
+      "category": "Local Events"
     },
     {
-      "title": "Letters to The Vancouver Sun: Raising taxes on B.C.&#039;s higher earners unlikely to chase them away",
+      "title": "Sunnybrook employee ‘no longer employed’ over viral ‘racist’ video",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/sunnybrook-employee-no-longer-employed-viral-racist-video",
+      "published_date": "2026-10-16T13:40:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michael Bublé and Property Brothers&#039; Drew Scott in Langley to launch hockey reality series",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-to-the-vancouver-sun-raising-taxes-on-b-c-s-higher-earners-unlikely-to-chase-them-away",
-      "published_date": "2026-10-09T23:00:49Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/entertainment/michael-buble-and-property-brothers-drew-scott-in-langley-to-launch-hockey-reality-series",
+      "published_date": "2026-10-16T13:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here are 5 of the best Canadian brands for quality knitwear",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/buy-canadian/quality-knitwear-canadian-brands",
+      "published_date": "2026-10-16T13:00:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From sushi curiosity to East Vancouver institution: Fujiya turns 50",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/from-sushi-curiosity-to-east-van-institution-fujiya-turns-50",
+      "published_date": "2026-10-16T13:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Retired doctor and B.C. pancreatic cancer survivor speaks about early diagnosis — and self-advocacy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/doctor-bc-pancreatic-cancer-survivor-early-diagnosis-self-advocacy",
+      "published_date": "2026-10-16T13:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Election 2026: 12 hot topics and where each party stands",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-election-2026-party-platforms-key-issues",
+      "published_date": "2026-10-16T13:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "These candidates are running in municipal and B.C. elections: What if they win in both?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/candidate-running-provincial-municipal-race-bc-election",
+      "published_date": "2026-10-16T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Advance voting for B.C. election begins today",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/advance-voting-for-b-c-election-begins-today/",
+      "published_date": "2026-10-16T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: Feds should bolster programs to support work-integrated learning",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/feds-should-bolster-programs-support-work-integrated-learning",
+      "published_date": "2026-10-16T10:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tkachuk nets 3 as Florida Panthers rally to edge Vancouver Canucks 3-2",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/15/tkachuk-nets-3-as-florida-panthers-rally-to-edge-vancouver-canucks-3-2/",
+      "published_date": "2026-10-16T01:55:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niagara-on-the-Lake among world's top 10 travel destinations: Report",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/niagara-on-lake-world-travel-hot-spot",
+      "published_date": "2026-10-16T01:07:43Z",
+      "category": "Local Events"
     },
     {
       "title": "Police ask for help to identify body found on Surrey roadside",
@@ -337,97 +428,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-parallel-privatized-health-care-systems-like-albertas-dont-reduce-wait-times",
       "published_date": "2026-10-15T23:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is it back? B.C. Conservatives vow to build 10-lane Massey bridge",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservatives-vow-build-10-lane-massey-bridge",
-      "published_date": "2026-10-15T22:52:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna drag star gets approval to push forward with defamation suit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/15/kelowna-drag-star-gets-approval-to-push-forward-with-defamation-suit/",
-      "published_date": "2026-10-15T22:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto man accused of stealing hundreds of election signs in Etobicoke",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-accused-election-sign-thefts",
-      "published_date": "2026-10-15T22:35:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives cut ties with another candidate over social media controversy",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-conservatives-cut-ties-vancouver-strathcona-candidate-jordan-mcintosh-social-media-controversy",
-      "published_date": "2026-10-15T22:20:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ACCIO, VISIONS OF MAGIC: Magical Harry Potter experience arrives in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/harry-potter-visions-of-magic-toronto",
-      "published_date": "2026-10-15T22:16:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto man accused of Lawrence Heights murder caught by Mounties in Halifax",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-arrested-murder-halifax-mounties",
-      "published_date": "2026-10-15T21:51:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives remove Vancouver candidate after alleged Hitler posts",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/15/b-c-conservatives-remove-vancouver-candidate-after-alleged-hitler-posts/",
-      "published_date": "2026-10-15T21:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vape shop owner faces more sex assault charges; man sought in exposure incidents",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/burlington-vape-shop-owner-more-assault-charges",
-      "published_date": "2026-10-15T21:43:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iskut Band approves rental housing project to address community shortage",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/15/iskut-band-approves-rental-housing-project-to-address-community-shortage/",
-      "published_date": "2026-10-15T21:10:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conservatives pledge to scrap new Massey Tunnel, build bridge instead",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/15/conservatives-pledge-to-scrap-new-massey-tunnel-build-bridge-instead/",
-      "published_date": "2026-10-15T21:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More police, prosecutors: CentreBC unveils public safety plans",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/15/more-police-prosecutors-centrebc-unveils-public-safety-plans/",
-      "published_date": "2026-10-15T20:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian country artist Paul Brandt doing his part to prevent sex trafficking",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/paul-brandt-charity-fighting-sex-trafficking",
-      "published_date": "2026-10-15T20:31:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ford government faces legal challenge over OSAP freeze",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/ford-government-faces-new-legal-challenge-over-osap-freeze",
-      "published_date": "2026-10-15T20:23:07Z",
       "category": "Local Events"
     }
   ]
