@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T01:09:53Z",
+  "generated_at": "2026-10-17T13:58:37Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "This Day in History, 1824: Historic Métis painting comes back to Canada from Australia",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1824-historic-metis-painting-comes-back-to-canada",
+      "published_date": "2026-10-17T13:00:38Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: If Alberta votes yes to Canada, the rest of us have work to do",
       "source": "Toronto Sun",
@@ -284,6 +291,55 @@
       "category": "Economy"
     },
     {
+      "title": "Anthony Gismondi: What to know about smoke taint for B.C. vintages",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/anthony-gismondi-what-to-know-smoke-taint-bc-wines",
+      "published_date": "2026-10-17T13:00:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letters to The Vancouver Sun: Nobody says it better than Margaret Atwood on Steven Galloway case",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/letters-to-the-vancouver-sun-nobody-could-say-it-any-better-than-margaret-atwood-on-the-steven-galloway-case",
+      "published_date": "2026-10-17T13:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pete McMartin: Why would a great American traveller want to write about Canada?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/pete-mcmartin-great-american-traveller-canada",
+      "published_date": "2026-10-17T13:00:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Filipino restaurant opens in Burns Lake",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/17/filipino-restaurant-opens-in-burns-lake/",
+      "published_date": "2026-10-17T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: Preparing for winter driving conditions",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/17/quiz-preparing-for-winter-driving-conditions/",
+      "published_date": "2026-10-17T11:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: Canada’s legal cannabis system has an access problem hiding in plain sight",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-legal-cannabis-system-access-problem",
+      "published_date": "2026-10-17T10:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Phone scam spoofing Kelowna RCMP’s non-emergency line targets Canadians",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/phone-scam-spoofing-kelowna-rcmps-non-emergency-line-targets-canadians/",
+      "published_date": "2026-10-17T01:09:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Myles Gray built like bodybuilder, thrashed and yelled, arresting Vancouver officer tells hearing",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/local-news/myles-gray-built-like-bodybuilder-thrashed-and-yelled-arresting-vancouver-officer-tells-hearing",
@@ -372,55 +428,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/project-atlantis-ii-lead-to-490-arrests-808-charges-oshawa",
       "published_date": "2026-10-16T21:43:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver police release video images after multiple &#039;unprovoked stranger assaults&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-police-share-cctv-images-after-multiple-unprovoked-stranger-attacks",
-      "published_date": "2026-10-16T21:33:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Jack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/john-jack/",
-      "published_date": "2026-10-16T21:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unruly University of Guelph party costs $91K in policing",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/unruly-university-of-guelph-party-costs-91k-in-policing",
-      "published_date": "2026-10-16T21:28:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crown rests its case in Surrey 2nd-degree murder trial for Adam Mann",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/crown-rests-its-case-in-surrey-2nd-degree-murder-trial-for-adam-mann/",
-      "published_date": "2026-10-16T21:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDP vow to create 75 involuntary care spaces at Okanagan Correctional Facility",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/ndp-vow-75-involuntary-care-spaces-at-okanagan-correctional-facility/",
-      "published_date": "2026-10-16T21:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ServiceOntario lagging in French-language needs: Ombudsman",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/serviceontario-lagging-in-french-language-needs-ombudsman",
-      "published_date": "2026-10-16T21:09:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pierre Poilievre to Alberta: Quitting is the easy way out",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/pierre-poilievre-to-alberta-quitting-is-the-easy-way-out",
-      "published_date": "2026-10-16T20:58:54Z",
       "category": "Local Events"
     }
   ]
