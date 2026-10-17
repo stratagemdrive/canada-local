@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T15:02:30Z",
+  "generated_at": "2026-10-17T01:09:53Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 59,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "LILLEY: If Alberta votes yes to Canada, the rest of us have work to do",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/if-alberta-votes-yes-to-canada-the-rest-of-us-have-work-to-do",
+      "published_date": "2026-10-16T18:31:14Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "'KEEP YOUR NOSE OUT': U.S. Ambassador Pete Hoekstra warns Canada as midterms loom",
       "source": "Toronto Sun",
@@ -39,11 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "LILLEY: PSPP is about to blow up Canada’s immigration consensus",
+      "title": "Toronto 18 jihadi terror boss granted full parole",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/pspp-blow-up-canadas-immigration-consensus",
-      "published_date": "2026-10-09T17:41:44Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/national/toronto-18-jihadi-terror-boss-granted-full-parole",
+      "published_date": "2026-10-16T22:21:59Z",
+      "category": "Military"
     },
     {
       "title": "Trans neo-Nazi accused of Hindu temple massacre plot gets hormone shots",
@@ -106,20 +113,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/10/world-no-1-schwaller-canadian-legend-koe-battle-on-b-c-ice-best-spiel-there-is/",
       "published_date": "2026-10-10T19:40:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "In or out? Nunziata denies she’s fleeing council race",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/frances-nunziata-quits-york-south-west",
-      "published_date": "2026-10-09T22:31:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hamilton man faces weapons charges; Peel cops seek possible victims of Mississauga law firm",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hamilton-man-faces-weapons-charges-peel-cops-seek-possible-victims-mississauga-law-firm",
-      "published_date": "2026-10-09T22:01:09Z",
       "category": "Military"
     },
     {
@@ -291,143 +284,143 @@
       "category": "Economy"
     },
     {
-      "title": "‘Sharp cold front’ to bring high winds, fall storm to Eastern Fraser Valley, Okanagan, Cariboo regions",
+      "title": "Myles Gray built like bodybuilder, thrashed and yelled, arresting Vancouver officer tells hearing",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/myles-gray-built-like-bodybuilder-thrashed-and-yelled-arresting-vancouver-officer-tells-hearing",
+      "published_date": "2026-10-17T00:47:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tumbler Ridge shooter alleged co-conspirator indicted by U.S. grand jury",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/sharp-cold-front-to-bring-high-winds-fall-storm-to-eastern-fraser-valley-okanagan-cariboo-regions/",
-      "published_date": "2026-10-16T14:28:21Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/tumbler-ridge-shooter-alleged-co-conspirator-indicted-by-u-s-grand-jury/",
+      "published_date": "2026-10-17T00:42:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Conversations That Matter: Re-engineering the human body for space travel",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/conversations-that-matter-re-engineering-the-human-body-for-space-travel-2",
-      "published_date": "2026-10-16T14:00:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sunnybrook employee ‘no longer employed’ over viral ‘racist’ video",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/sunnybrook-employee-no-longer-employed-viral-racist-video",
-      "published_date": "2026-10-16T13:40:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michael Bublé and Property Brothers&#039; Drew Scott in Langley to launch hockey reality series",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/michael-buble-and-property-brothers-drew-scott-in-langley-to-launch-hockey-reality-series",
-      "published_date": "2026-10-16T13:00:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here are 5 of the best Canadian brands for quality knitwear",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/buy-canadian/quality-knitwear-canadian-brands",
-      "published_date": "2026-10-16T13:00:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From sushi curiosity to East Vancouver institution: Fujiya turns 50",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/from-sushi-curiosity-to-east-van-institution-fujiya-turns-50",
-      "published_date": "2026-10-16T13:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Retired doctor and B.C. pancreatic cancer survivor speaks about early diagnosis — and self-advocacy",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/doctor-bc-pancreatic-cancer-survivor-early-diagnosis-self-advocacy",
-      "published_date": "2026-10-16T13:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election 2026: 12 hot topics and where each party stands",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-2026-party-platforms-key-issues",
-      "published_date": "2026-10-16T13:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "These candidates are running in municipal and B.C. elections: What if they win in both?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/candidate-running-provincial-municipal-race-bc-election",
-      "published_date": "2026-10-16T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Advance voting for B.C. election begins today",
+      "title": "OPINION: Access to sport shouldn’t depend on where you live in B.C.",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/advance-voting-for-b-c-election-begins-today/",
-      "published_date": "2026-10-16T11:00:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/opinion-access-to-sport-in-b-c-shouldnt-depend-on-where-you-live/",
+      "published_date": "2026-10-17T00:23:00Z",
       "category": "Local Events"
     },
     {
-      "title": "OPINION: Feds should bolster programs to support work-integrated learning",
+      "title": "B.C. forest industry bristles at proposal to reduce compensation in First Nation land transfers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/b-c-forest-industry-bristles-at-proposal-to-reduce-compensation-in-first-nation-land-transfers",
+      "published_date": "2026-10-17T00:04:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Another secret comes back to bite NDP&#039;s David Eby",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-another-secret-comes-back-to-bite-ndps-david-eby",
+      "published_date": "2026-10-16T23:26:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder charges laid in 2022 double homicide of Coquitlam couple",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/murder-charges-laid-2022-double-homicide-coquitlam-couple",
+      "published_date": "2026-10-16T22:56:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Forensic accountant says no sign 'Crypto King' invested his clients' millions",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/feds-should-bolster-programs-support-work-integrated-learning",
-      "published_date": "2026-10-16T10:00:25Z",
+      "url": "https://torontosun.com/news/local-news/forensic-accountant-says-no-sign-crypto-king-aiden-pleterski-invested-millions-given",
+      "published_date": "2026-10-16T22:48:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Tkachuk nets 3 as Florida Panthers rally to edge Vancouver Canucks 3-2",
+      "title": "Police have new lead in 43-year-old cold case with cryptic coded message",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/police-have-new-lead-in-intriguing-43-year-old-cold-case-with-mysterious-coded-message",
+      "published_date": "2026-10-16T22:47:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Conservative candidate says First Nations ‘conquered’ comment taken out of context",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/15/tkachuk-nets-3-as-florida-panthers-rally-to-edge-vancouver-canucks-3-2/",
-      "published_date": "2026-10-16T01:55:41Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/b-c-conservative-candidate-says-first-nations-conquered-comment-taken-out-of-context/",
+      "published_date": "2026-10-16T22:37:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Niagara-on-the-Lake among world's top 10 travel destinations: Report",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/niagara-on-lake-world-travel-hot-spot",
-      "published_date": "2026-10-16T01:07:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police ask for help to identify body found on Surrey roadside",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/police-ask-for-help-to-identify-body-found-on-surrey-roadside",
-      "published_date": "2026-10-16T00:37:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Shoeshine boy killer still attracted to adolescents, denied parole for now",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/shoeshine-boy-killer-denied-parole-for-now",
-      "published_date": "2026-10-16T00:36:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election: Sparks fly over contentious issues a day after no clear winner in leaders&#039; debate",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-sparks-fly-over-contentious-issues-following-leaders-tv-debate-no-winner",
-      "published_date": "2026-10-16T00:29:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brad Bradford's plan to help city's cyclists? Bolster the urban ravine trail network",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brad-bradford-offering-bike-lane-solution",
-      "published_date": "2026-10-16T00:06:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Open letter warns of hospital specialist exodus over Interior Health policy",
+      "title": "Sturko promises 25K new school spaces",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/15/open-letter-warns-of-hospital-specialist-exodus-over-interior-health-policy/",
-      "published_date": "2026-10-15T23:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/sturko-promises-25k-new-school-spaces/",
+      "published_date": "2026-10-16T22:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Peel Police Foundation donation aims to 'strengthen' support for trafficking victims",
+      "title": "BC Conservatives say Massey Bridge plan would pay for new hospital",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/bc-conservatives-say-massey-bridge-plan-would-pay-for-new-hospital/",
+      "published_date": "2026-10-16T21:53:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince George RCMP cleared of criminal wrongdoing in 2025 man’s death",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/prince-george-rcmp-cleared-of-criminal-wrongdoing-in-2025-mans-death/",
+      "published_date": "2026-10-16T21:44:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Project Atlantis II lead to 490 arrests, 808 charges in Oshawa",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/peel-police-deepening-investment-human-trafficking-supports",
-      "published_date": "2026-10-15T23:29:22Z",
+      "url": "https://torontosun.com/news/local-news/project-atlantis-ii-lead-to-490-arrests-808-charges-oshawa",
+      "published_date": "2026-10-16T21:43:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Parallel privatized health-care systems like Alberta&#039;s don&#039;t reduce wait times",
+      "title": "Vancouver police release video images after multiple &#039;unprovoked stranger assaults&#039;",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-parallel-privatized-health-care-systems-like-albertas-dont-reduce-wait-times",
-      "published_date": "2026-10-15T23:00:19Z",
+      "url": "https://vancouversun.com/news/vancouver-police-share-cctv-images-after-multiple-unprovoked-stranger-attacks",
+      "published_date": "2026-10-16T21:33:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "John Jack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/john-jack/",
+      "published_date": "2026-10-16T21:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unruly University of Guelph party costs $91K in policing",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/unruly-university-of-guelph-party-costs-91k-in-policing",
+      "published_date": "2026-10-16T21:28:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crown rests its case in Surrey 2nd-degree murder trial for Adam Mann",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/crown-rests-its-case-in-surrey-2nd-degree-murder-trial-for-adam-mann/",
+      "published_date": "2026-10-16T21:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDP vow to create 75 involuntary care spaces at Okanagan Correctional Facility",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/ndp-vow-75-involuntary-care-spaces-at-okanagan-correctional-facility/",
+      "published_date": "2026-10-16T21:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ServiceOntario lagging in French-language needs: Ombudsman",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/serviceontario-lagging-in-french-language-needs-ombudsman",
+      "published_date": "2026-10-16T21:09:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pierre Poilievre to Alberta: Quitting is the easy way out",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/pierre-poilievre-to-alberta-quitting-is-the-easy-way-out",
+      "published_date": "2026-10-16T20:58:54Z",
       "category": "Local Events"
     }
   ]
