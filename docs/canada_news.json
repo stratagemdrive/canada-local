@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T13:58:37Z",
+  "generated_at": "2026-10-18T00:42:57Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 58,
   "categories": [
     "Diplomacy",
     "Military",
@@ -43,13 +43,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/pierre-poilievre-goes-on-cnn-pitches-americans-on-trade-deal",
       "published_date": "2026-10-13T22:52:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KINSELLA: Closer look at consultants in Toronto politics needed",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/closer-look-consultants-toronto-politics",
-      "published_date": "2026-10-10T15:01:41Z",
       "category": "Diplomacy"
     },
     {
@@ -116,11 +109,11 @@
       "category": "Military"
     },
     {
-      "title": "World No. 1 Schwaller, Canadian legend Koe battle on B.C. ice: ‘Best spiel there is’",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/10/world-no-1-schwaller-canadian-legend-koe-battle-on-b-c-ice-best-spiel-there-is/",
-      "published_date": "2026-10-10T19:40:00Z",
-      "category": "Military"
+      "title": "Ontario signs contract to purchase electricity from United States",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/ontario-signs-contract-purchase-electricity-from-united-states",
+      "published_date": "2026-10-17T19:05:49Z",
+      "category": "Energy"
     },
     {
       "title": "Five B.C. First Nations secure economic interest in Coastal GasLink",
@@ -144,11 +137,32 @@
       "category": "Energy"
     },
     {
-      "title": "EDITORIAL: Greenhouse gas emissions up again",
+      "title": "Break on city’s land tax touted as housing looms over election",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/greenhouse-gas-emissions-up-again",
-      "published_date": "2026-10-10T21:00:54Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/news/local-news/toronto-election-municipal-land-transfer-tax",
+      "published_date": "2026-10-17T19:29:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Three-quarter of Canadians want Mark Carney to proceed with economic changes; poll",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/three-quarter-of-canadians-want-mark-carney-to-proceed-with-economic-changes-poll",
+      "published_date": "2026-10-17T18:15:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Robotaxis coming to Toronto as Waymo aims for 2028 launch",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/waymo-coming-to-toronto-2028-launch",
+      "published_date": "2026-10-16T15:14:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Housing starts stall as CMHC warns affordability gains at risk",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/housing-starts-stall-cmhc-affordability-gains-at-risk",
+      "published_date": "2026-10-16T15:11:18Z",
+      "category": "Economy"
     },
     {
       "title": "Douglas Todd: NDP&#039;s housing plan is &#039;working,&#039; says David Eby. Here&#039;s a reality check",
@@ -190,6 +204,13 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-what-a-property-tax-freeze-doesnt-tell-us",
       "published_date": "2026-10-15T23:00:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ontario blasts U.S. lumber tariffs as Canadian wood hits nearly 35% in taxes",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/u-s-import-taxes-on-canadian-lumber-hit-nearly-35",
+      "published_date": "2026-10-15T19:00:38Z",
       "category": "Economy"
     },
     {
@@ -256,178 +277,143 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. party leaders lay out economic visions at board of trade event",
+      "title": "Kucherov tallies 2 as Lightning rally to double Vancouver Canucks 4-2",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/13/b-c-party-leaders-lay-out-economic-visions-at-board-of-trade-event/",
-      "published_date": "2026-10-13T23:31:52Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/17/kucherov-tallies-2-as-lightning-rally-to-double-vancouver-canucks-4-2/",
+      "published_date": "2026-10-17T22:44:59Z",
+      "category": "Local Events"
     },
     {
-      "title": "NDP’s Eby says he donated back B.C. childcare subsidies, won’t say if he got tax benefit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/13/ndps-eby-says-he-donated-back-b-c-childcare-subsidies-but-wont-give-details/",
-      "published_date": "2026-10-13T22:10:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BC NDP, Conservatives both propose big investment into Kelowna’s airport",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/13/bc-ndp-conservatives-both-propose-big-investment-into-kelownas-airport/",
-      "published_date": "2026-10-13T19:25:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Poilievre takes tariff fight to Motown",
+      "title": "GOLDSTEIN: Two prominent journalists say bias against Conservatives in Ottawa is real",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/poilievre-takes-tariff-fight-to-motown",
-      "published_date": "2026-10-13T15:35:35Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/opinion/columnists/goldstein-two-prominent-journalists-say-bias-against-conservatives-in-ottawa-is-real",
+      "published_date": "2026-10-17T22:10:16Z",
+      "category": "Local Events"
     },
     {
-      "title": "GOLDSTEIN: Financial watchdog exposes flaws in Carney’s plan to spend ourselves rich",
+      "title": "EDITORIAL: Brad Bradford our choice for Toronto mayor",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/financial-watchdog-exposes-flaws-in-carneys-plan-to-spend-ourselves-rich",
-      "published_date": "2026-10-10T17:31:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Anthony Gismondi: What to know about smoke taint for B.C. vintages",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/anthony-gismondi-what-to-know-smoke-taint-bc-wines",
-      "published_date": "2026-10-17T13:00:44Z",
+      "url": "https://torontosun.com/opinion/editorials/editorial-brad-bradford-our-choice-for-toronto-mayor",
+      "published_date": "2026-10-17T22:05:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Letters to The Vancouver Sun: Nobody says it better than Margaret Atwood on Steven Galloway case",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/letters-to-the-vancouver-sun-nobody-could-say-it-any-better-than-margaret-atwood-on-the-steven-galloway-case",
-      "published_date": "2026-10-17T13:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pete McMartin: Why would a great American traveller want to write about Canada?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/pete-mcmartin-great-american-traveller-canada",
-      "published_date": "2026-10-17T13:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Filipino restaurant opens in Burns Lake",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/17/filipino-restaurant-opens-in-burns-lake/",
-      "published_date": "2026-10-17T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: Preparing for winter driving conditions",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/17/quiz-preparing-for-winter-driving-conditions/",
-      "published_date": "2026-10-17T11:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Canada’s legal cannabis system has an access problem hiding in plain sight",
+      "title": "Brad Bradford pledges to add 1,000 frontline Toronto cops if elected mayor",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-legal-cannabis-system-access-problem",
-      "published_date": "2026-10-17T10:00:33Z",
+      "url": "https://torontosun.com/news/local-news/brad-bradford-pledges-add-1000-toronto-police-officers-mayor-election",
+      "published_date": "2026-10-17T21:59:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Phone scam spoofing Kelowna RCMP’s non-emergency line targets Canadians",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/phone-scam-spoofing-kelowna-rcmps-non-emergency-line-targets-canadians/",
-      "published_date": "2026-10-17T01:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Myles Gray built like bodybuilder, thrashed and yelled, arresting Vancouver officer tells hearing",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/myles-gray-built-like-bodybuilder-thrashed-and-yelled-arresting-vancouver-officer-tells-hearing",
-      "published_date": "2026-10-17T00:47:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tumbler Ridge shooter alleged co-conspirator indicted by U.S. grand jury",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/tumbler-ridge-shooter-alleged-co-conspirator-indicted-by-u-s-grand-jury/",
-      "published_date": "2026-10-17T00:42:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Access to sport shouldn’t depend on where you live in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/opinion-access-to-sport-in-b-c-shouldnt-depend-on-where-you-live/",
-      "published_date": "2026-10-17T00:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. forest industry bristles at proposal to reduce compensation in First Nation land transfers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/b-c-forest-industry-bristles-at-proposal-to-reduce-compensation-in-first-nation-land-transfers",
-      "published_date": "2026-10-17T00:04:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Another secret comes back to bite NDP&#039;s David Eby",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-another-secret-comes-back-to-bite-ndps-david-eby",
-      "published_date": "2026-10-16T23:26:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder charges laid in 2022 double homicide of Coquitlam couple",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/murder-charges-laid-2022-double-homicide-coquitlam-couple",
-      "published_date": "2026-10-16T22:56:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Forensic accountant says no sign 'Crypto King' invested his clients' millions",
+      "title": "Man convicted of killing retired CBC producer now wanted for downtown break-and-enter",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/forensic-accountant-says-no-sign-crypto-king-aiden-pleterski-invested-millions-given",
-      "published_date": "2026-10-16T22:48:12Z",
+      "url": "https://torontosun.com/news/local-news/man-convicted-killing-retired-cbc-producer-wanted-toronto-break-and-enter",
+      "published_date": "2026-10-17T21:34:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Police have new lead in 43-year-old cold case with cryptic coded message",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/crime/police-have-new-lead-in-intriguing-43-year-old-cold-case-with-mysterious-coded-message",
-      "published_date": "2026-10-16T22:47:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservative candidate says First Nations ‘conquered’ comment taken out of context",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/b-c-conservative-candidate-says-first-nations-conquered-comment-taken-out-of-context/",
-      "published_date": "2026-10-16T22:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sturko promises 25K new school spaces",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/sturko-promises-25k-new-school-spaces/",
-      "published_date": "2026-10-16T22:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BC Conservatives say Massey Bridge plan would pay for new hospital",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/bc-conservatives-say-massey-bridge-plan-would-pay-for-new-hospital/",
-      "published_date": "2026-10-16T21:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prince George RCMP cleared of criminal wrongdoing in 2025 man’s death",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/16/prince-george-rcmp-cleared-of-criminal-wrongdoing-in-2025-mans-death/",
-      "published_date": "2026-10-16T21:44:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Project Atlantis II lead to 490 arrests, 808 charges in Oshawa",
+      "title": "EDITORIAL: Alberta separatists aren’t going away",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/project-atlantis-ii-lead-to-490-arrests-808-charges-oshawa",
-      "published_date": "2026-10-16T21:43:16Z",
+      "url": "https://torontosun.com/opinion/editorials/alberta-separatists-arent-going-away",
+      "published_date": "2026-10-17T21:30:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Save-On-Foods rewards system breached by hackers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/save-on-foods-rewards-system-breached-hackers",
+      "published_date": "2026-10-17T18:51:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "No fatalities in massive multi-car crash on Highway 99 Friday",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/no-fatalities-massive-multi-car-crash-highway-99-friday",
+      "published_date": "2026-10-17T18:07:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brampton man arrested on multiple break-and enter charges; Toronto Police looking for three suspects",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/brampton-man-arrested-on-multiple-break-and-enter-charges-toronto-police-looking-for-three-suspects",
+      "published_date": "2026-10-17T18:06:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Valemount’s acclaimed mayor powerless due to sexual assault charge",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/17/valemounts-acclaimed-mayor-powerless-due-to-sexual-assault-charge/",
+      "published_date": "2026-10-17T17:53:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ABC Vancouver vastly outspent rivals on social media ads in this election",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/abc-vancouver-election-spending",
+      "published_date": "2026-10-17T17:05:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHAUDHRI: Canadian small businesses falling behind on AI. Is caution costing us?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canadian-small-businesses-falling-behind-on-ai-is-caution-costing-us",
+      "published_date": "2026-10-17T15:03:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDP says it opened or expanded 250 schools while B.C. Liberals closed 250. Is that accurate?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/ndp-say-they-have-opened-or-expanded-250-schools-while-bc-liberals-closed-250",
+      "published_date": "2026-10-17T15:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Municipal Election Day Live: The latest news, results and reaction",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-municipal-election-day-2026-updates-results-reaction",
+      "published_date": "2026-10-17T15:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver Election 2026: Voters to decide whether Ken Sim gets second term",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/municipal-election-vancouver-results-2026",
+      "published_date": "2026-10-17T14:59:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey Election 2026: Brenda Locke to face familiar names in mayor&#039;s race",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/municipal-election-surrey-results-2026",
+      "published_date": "2026-10-17T14:58:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnaby Election 2026: Next mayor must oversee city&#039;s fast-growing future",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/municipal-election-burnaby-results-2026",
+      "published_date": "2026-10-17T14:57:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tri-Cities Election 2026: Traffic congestion, highrise towers remain key campaign priorities",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/municipal-election-coquitlam-port-coquitlam-port-moody-tri-cities-results-2026",
+      "published_date": "2026-10-17T14:56:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Richmond Election 2026: Who will fill Malcolm Brodie&#039;s shoes after 25 years?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/municipal-election-richmond-results-2026",
+      "published_date": "2026-10-17T14:55:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Did sex-obsessed couple's amorous antics lead to murder?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-did-sex-obsessed-couples-amorous-antics-lead-to-murder",
+      "published_date": "2026-10-17T14:30:49Z",
       "category": "Local Events"
     }
   ]
