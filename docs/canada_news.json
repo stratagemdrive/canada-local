@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T14:10:54Z",
+  "generated_at": "2026-10-19T00:55:59Z",
   "country": "Canada",
-  "total_stories": 58,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -44,6 +44,13 @@
       "url": "https://torontosun.com/news/national/pierre-poilievre-goes-on-cnn-pitches-americans-on-trade-deal",
       "published_date": "2026-10-13T22:52:59Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "CFB Wainwright: Military identifies 4 dead after Alberta base fire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/fatalities-injuries-explosion-cfb-wainwright-base",
+      "published_date": "2026-10-18T15:33:57Z",
+      "category": "Military"
     },
     {
       "title": "Toronto 18 jihadi terror boss granted full parole",
@@ -107,6 +114,13 @@
       "url": "https://torontosun.com/news/national/cleveland-cliffs-boss-battle-ottawa-stelco-cuts",
       "published_date": "2026-10-12T16:55:00Z",
       "category": "Military"
+    },
+    {
+      "title": "Province, feds must alleviate 'excruciating' fuel prices: Gas expert",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/province-feds-must-alleviate-excruciating-fuel-prices-gas-expert",
+      "published_date": "2026-10-18T21:44:57Z",
+      "category": "Energy"
     },
     {
       "title": "Ontario signs contract to purchase electricity from United States",
@@ -277,6 +291,41 @@
       "category": "Economy"
     },
     {
+      "title": "Fully costed BC Conservative platform coming Sunday, Doerkson promises in Delta",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/18/fully-costed-bc-conservative-platform-coming-today-doerkson-promises-in-delta/",
+      "published_date": "2026-10-18T22:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: CFB Wainwright deadly fire hits close to home with local soldier injured",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/cfb-wainwright-explosion-hits-close-to-home-with-soldier-injured",
+      "published_date": "2026-10-18T16:55:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect sought in East York arson case; Two Toronto theft suspects still at large",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspect-sought-in-east-york-arson-case",
+      "published_date": "2026-10-18T16:23:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VICTOR DAVIS HANSON: What might have saved Gaza?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/victor-davis-hanson-what-might-have-saved-gaza",
+      "published_date": "2026-10-18T14:48:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ELDER: The 'childish' lies of Medicare for all",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/the-childish-lies-of-medicare-for-all",
+      "published_date": "2026-10-18T14:29:40Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Global gathering in Toronto focuses on fight against MS",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/global-gathering-toronto-focuses-on-fight-against-ms",
@@ -379,41 +428,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/editorials/editorial-brad-bradford-our-choice-for-toronto-mayor",
       "published_date": "2026-10-17T22:05:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brad Bradford pledges to add 1,000 frontline Toronto cops if elected mayor",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brad-bradford-pledges-add-1000-toronto-police-officers-mayor-election",
-      "published_date": "2026-10-17T21:59:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man convicted of killing retired CBC producer now wanted for downtown break-and-enter",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-convicted-killing-retired-cbc-producer-wanted-toronto-break-and-enter",
-      "published_date": "2026-10-17T21:34:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Alberta separatists aren’t going away",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/alberta-separatists-arent-going-away",
-      "published_date": "2026-10-17T21:30:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Save-On-Foods rewards system breached by hackers",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/save-on-foods-rewards-system-breached-hackers",
-      "published_date": "2026-10-17T18:51:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No fatalities in massive multi-car crash on Highway 99 Friday",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/no-fatalities-massive-multi-car-crash-highway-99-friday",
-      "published_date": "2026-10-17T18:07:43Z",
       "category": "Local Events"
     }
   ]
