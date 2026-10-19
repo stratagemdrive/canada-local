@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T00:55:59Z",
+  "generated_at": "2026-10-19T17:12:54Z",
   "country": "Canada",
-  "total_stories": 60,
+  "total_stories": 62,
   "categories": [
     "Diplomacy",
     "Military",
@@ -44,6 +44,13 @@
       "url": "https://torontosun.com/news/national/pierre-poilievre-goes-on-cnn-pitches-americans-on-trade-deal",
       "published_date": "2026-10-13T22:52:59Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Deceased soldiers from CFB Wainwright to carry this Remembrance Day, Carney tells House",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/four-more-names-to-carry-this-remembrance-day-carney",
+      "published_date": "2026-10-19T16:49:11Z",
+      "category": "Military"
     },
     {
       "title": "CFB Wainwright: Military identifies 4 dead after Alberta base fire",
@@ -109,11 +116,18 @@
       "category": "Military"
     },
     {
-      "title": "Cleveland-Cliffs boss ready to battle Ottawa over Stelco cuts",
+      "title": "Gas prices accelerate September inflation rate to 3.1%",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/cleveland-cliffs-boss-battle-ottawa-stelco-cuts",
-      "published_date": "2026-10-12T16:55:00Z",
-      "category": "Military"
+      "url": "https://torontosun.com/news/national/gas-prices-accelerate-september-inflation-rate-to-3-1",
+      "published_date": "2026-10-19T15:52:28Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Bon Jovi books 2027 Rogers Stadium show in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/bon-jovi-2027-rogers-stadium-show-toronto",
+      "published_date": "2026-10-19T15:11:24Z",
+      "category": "Energy"
     },
     {
       "title": "Province, feds must alleviate 'excruciating' fuel prices: Gas expert",
@@ -291,6 +305,55 @@
       "category": "Economy"
     },
     {
+      "title": "Airman dies after falling 170 feet from Alamodome rafters at football game",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/football/airman-dies-falling-170-feet-alamodome-rafters",
+      "published_date": "2026-10-19T17:02:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kansas mom who drove onto soccer field killing two people, including boy, 6, walks free",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/kansas-mom-drove-soccer-field-killing-two-walks-free",
+      "published_date": "2026-10-19T15:45:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teacher, prostitute busted in Atlantic City oral sex shakedown",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/teacher-prostitute-busted-oral-sex-shakedown",
+      "published_date": "2026-10-19T14:53:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sixth beluga dies after rescue from 'dire situation' in Marineland",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/sixth-beluga-dies-rescue-marineland",
+      "published_date": "2026-10-19T13:26:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro Vancouver voted for change, rejecting incumbent mayors in search of affordability solutions",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-municipal-election-metro-vancouver-voted-change-rejecting-incumbent-mayors-affordability-solutions",
+      "published_date": "2026-10-19T13:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.&#039;s Indigenous leaders weigh longtime NDP loyalties as election nears",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-indigenous-leaders-weigh-longtime-ndp-loyalties-as-election-nears",
+      "published_date": "2026-10-19T13:00:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Vancouver a world-class city? Justin McElroy travels the world to find out",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/justin-mcelroy-book-best-place-on-earth",
+      "published_date": "2026-10-19T13:00:31Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Fully costed BC Conservative platform coming Sunday, Doerkson promises in Delta",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/18/fully-costed-bc-conservative-platform-coming-today-doerkson-promises-in-delta/",
@@ -379,55 +442,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/vancouver-election-2026-school-trustees-results",
       "published_date": "2026-10-18T04:16:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Flatly equal is not enough — Canada's healthcare",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/opinion-flatly-equal-is-not-enough-canadas-healthcare",
-      "published_date": "2026-10-18T04:06:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fatalities, injuries after fire at Canadian Forces Base Wainwright in Alberta",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/17/fatalities-injuries-after-fire-at-canadian-forces-base-wainwright-in-alberta/",
-      "published_date": "2026-10-18T03:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Municipal Election Results Map: Who&#039;s your new mayor?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-municipal-election-2026-live-results-map",
-      "published_date": "2026-10-18T02:45:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calgary Stampeders keep playoff hopes alive after 32-13 win over B.C. Lions",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/17/calgary-stampeders-keep-playoff-hopes-alive-after-32-13-win-over-b-c-lions/",
-      "published_date": "2026-10-18T01:50:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kucherov tallies 2 as Lightning rally to double Vancouver Canucks 4-2",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/17/kucherov-tallies-2-as-lightning-rally-to-double-vancouver-canucks-4-2/",
-      "published_date": "2026-10-17T22:44:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GOLDSTEIN: Two prominent journalists say bias against Conservatives in Ottawa is real",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/goldstein-two-prominent-journalists-say-bias-against-conservatives-in-ottawa-is-real",
-      "published_date": "2026-10-17T22:10:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Brad Bradford our choice for Toronto mayor",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/editorial-brad-bradford-our-choice-for-toronto-mayor",
-      "published_date": "2026-10-17T22:05:37Z",
       "category": "Local Events"
     }
   ]
