@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:21:10Z",
+  "generated_at": "2026-10-22T15:42:11Z",
   "country": "Canada",
   "total_stories": 60,
   "categories": [
@@ -29,13 +29,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/opinion/columnists/if-alberta-votes-yes-to-canada-the-rest-of-us-have-work-to-do",
       "published_date": "2026-10-16T18:31:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'KEEP YOUR NOSE OUT': U.S. Ambassador Pete Hoekstra warns Canada as midterms loom",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/pete-hoekstra-warns-canada-as-midterms-loom",
-      "published_date": "2026-10-15T14:27:38Z",
       "category": "Diplomacy"
     },
     {
@@ -121,6 +114,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/10/15/north-district-uniform-gang-enforcement-team-ready-for-deployment/",
       "published_date": "2026-10-15T19:09:00Z",
       "category": "Military"
+    },
+    {
+      "title": "B.C. Election Analysis: Questions raised about Conservative plan to triple LNG production",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-election-analysis-questions-raised-about-conservative-plan-to-triple-lng-production",
+      "published_date": "2026-10-22T13:00:55Z",
+      "category": "Energy"
     },
     {
       "title": "Gas prices accelerate September inflation rate to 3.1%",
@@ -291,6 +291,83 @@
       "category": "Economy"
     },
     {
+      "title": "Bring the spa home: Amenities for a relaxing wellness sanctuary",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/bring-the-spa-home-amenities-for-a-relaxing-wellness-sanctuary",
+      "published_date": "2026-10-22T15:33:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "City tapped media reps to play real-life reporters amid meter muddle",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/city-water-meter-units-mock-interviews",
+      "published_date": "2026-10-22T14:46:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canadian woman accused of attacking teen on July 4 booted from U.S.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/canadian-woman-accused-attacking-teen-booted-u-s",
+      "published_date": "2026-10-22T14:12:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clinical trials to begin in Vancouver after study finds lactation drug could reduce breast cancer risk",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/clinical-trials-to-begin-in-vancouver-after-study-finds-lactation-drug-could-reduce-breast-cancer-risk",
+      "published_date": "2026-10-22T13:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Astra Lumina brings the stars down to Stanley Park",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/astra-lumina-stanley-park",
+      "published_date": "2026-10-22T13:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sharing life with a senior dog deeply moving",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/sharing-life-with-a-senior-dog-deeply-moving/",
+      "published_date": "2026-10-22T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Nature Nut: ‘Cuckoo, cuckoo’ – Avian foster children",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/the-nature-nut-cuckoo-cuckoo-avian-foster-children/",
+      "published_date": "2026-10-22T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Now that’s a big boat",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/now-thats-a-big-boat/",
+      "published_date": "2026-10-22T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Now that’s a big boat",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/now-thats-a-big-boat-2/",
+      "published_date": "2026-10-22T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto Crime Stoppers shutting down tip line 'immediately' after data breach",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-crime-stoppers-shutting-down-tip-line",
+      "published_date": "2026-10-22T02:26:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Warning issued after skunk with rabies bites man in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/warning-issued-vancouver-skunk-rabies-captured",
+      "published_date": "2026-10-22T01:36:25Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Lawyers give closing arguments in Surrey 2nd degree murder trial",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/21/lawyers-give-closing-arguments-in-surrey-2nd-degree-murder-trial/",
@@ -351,83 +428,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/florida-woman-accused-of-driving-drunk-to-pick-up-child-from-school",
       "published_date": "2026-10-21T23:01:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nee Tahi Buhn Band – Notice of Election and Nomination Meeting",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/nee-tahi-buhn-band-notice-of-election-and-nomination-meeting/",
-      "published_date": "2026-10-21T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: David Eby&#039;s hidden agenda on display when he persuaded a court to lock in Haida Aboriginal title",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/vaughn-palmer-david-eby-hidden-agenda-on-display-when-he-persuaded-a-court-to-lock-in-haida-aboriginal-title",
-      "published_date": "2026-10-21T22:53:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Experts weigh in on vote-splitting possibilities in B.C election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/experts-weigh-in-on-vote-splitting-possibilities-in-b-c-election/",
-      "published_date": "2026-10-21T22:48:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "8 private career colleges inspected by province in OSAP probe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/8-private-career-colleges-inspected-by-province-in-osap-probe",
-      "published_date": "2026-10-21T21:55:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "GTA man living in Niagara Falls facing slew of drug charges",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/gta-man-niagara-falls-drug-charges",
-      "published_date": "2026-10-21T21:42:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver fashion entrepreneur, shoe brand collaborate on the ultimate fall boot",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/vancouver-fashion-entrepreneur-shoe-brand-collaborate-on-the-ultimate-fall-boot",
-      "published_date": "2026-10-21T21:16:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Skeena Bulkley Valley MP Ellis Ross hosts Burns Lake Q&A",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/skeena-bulkley-valley-mp-ellis-ross-hosts-burns-lake-qa/",
-      "published_date": "2026-10-21T21:09:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two-thirds of small business owners plan exit within 10 years: Survey",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/two-thirds-small-business-owners-planning-exit",
-      "published_date": "2026-10-21T20:57:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHOTOS: New Goldeneyes jerseys worn by Vancouver’s PWHL team starting Dec. 5",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/photos-new-goldeneyes-jerseys-worn-by-vancouvers-pwhl-team-starting-dec-5/",
-      "published_date": "2026-10-21T20:17:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mental health, addiction treatment key election issues for locals: CMHA Vernon",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/mental-health-addiction-treatment-key-election-issues-for-locals-cmha-vernon/",
-      "published_date": "2026-10-21T19:49:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: ‘Cheech’ tribute at Canucks game celebrates beloved broadcaster, Surrey resident",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/video-cheech-tribute-at-canucks-game-celebrates-beloved-broadcaster-surrey-resident/",
-      "published_date": "2026-10-21T19:17:00Z",
       "category": "Local Events"
     }
   ]
