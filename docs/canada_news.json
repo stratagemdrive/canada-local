@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:42:11Z",
+  "generated_at": "2026-10-23T01:19:44Z",
   "country": "Canada",
   "total_stories": 60,
   "categories": [
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "U.S. embassy accuses Canadian leaders of election interference",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/us-embassy-canadian-leaders-election-interference",
+      "published_date": "2026-10-22T21:00:43Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mississauga men nabbed in $43.7M Ambassador Bridge coke bust",
       "source": "Toronto Sun",
@@ -109,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "North District Uniform Gang Enforcement Team ready for deployment",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/15/north-district-uniform-gang-enforcement-team-ready-for-deployment/",
-      "published_date": "2026-10-15T19:09:00Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. Election Analysis: Questions raised about Conservative plan to triple LNG production",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-election-analysis-questions-raised-about-conservative-plan-to-triple-lng-production",
@@ -149,6 +149,20 @@
       "url": "https://torontosun.com/news/provincial/ontario-signs-contract-purchase-electricity-from-united-states",
       "published_date": "2026-10-17T19:05:49Z",
       "category": "Energy"
+    },
+    {
+      "title": "Brace for more spending, rising deficits in coming budget: experts",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/brace-for-more-spending-rising-deficits-in-coming-budget-experts",
+      "published_date": "2026-10-22T20:56:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Breathe easy for now but economist says interest rate hikes coming",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/breathe-easy-for-now-but-economist-says-interest-rate-hikes-coming",
+      "published_date": "2026-10-22T19:59:41Z",
+      "category": "Economy"
     },
     {
       "title": "Opinion: More mining means more paycheques for British Columbians",
@@ -277,157 +291,143 @@
       "category": "Economy"
     },
     {
-      "title": "Reduced softwood lumber duties hardly a relief for B.C. as dispute drags on",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/reduced-softwood-lumber-duties-hardly-a-relief-for-b-c-as-dispute-drags-on",
-      "published_date": "2026-10-16T13:00:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "&#039;Heavy distractions&#039; stalling B.C. housing market",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/heavy-distractions-stalling-greater-vancouver-bc-housing-market-report",
-      "published_date": "2026-10-15T23:56:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bring the spa home: Amenities for a relaxing wellness sanctuary",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/bring-the-spa-home-amenities-for-a-relaxing-wellness-sanctuary",
-      "published_date": "2026-10-22T15:33:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "City tapped media reps to play real-life reporters amid meter muddle",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/city-water-meter-units-mock-interviews",
-      "published_date": "2026-10-22T14:46:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian woman accused of attacking teen on July 4 booted from U.S.",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/canadian-woman-accused-attacking-teen-booted-u-s",
-      "published_date": "2026-10-22T14:12:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clinical trials to begin in Vancouver after study finds lactation drug could reduce breast cancer risk",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/clinical-trials-to-begin-in-vancouver-after-study-finds-lactation-drug-could-reduce-breast-cancer-risk",
-      "published_date": "2026-10-22T13:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Astra Lumina brings the stars down to Stanley Park",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/astra-lumina-stanley-park",
-      "published_date": "2026-10-22T13:00:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharing life with a senior dog deeply moving",
+      "title": "Conservatives remain ahead in polls as B.C. election day nears",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/sharing-life-with-a-senior-dog-deeply-moving/",
-      "published_date": "2026-10-22T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/conservatives-remain-ahead-in-polls-as-b-c-election-day-nears/",
+      "published_date": "2026-10-23T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "The Nature Nut: ‘Cuckoo, cuckoo’ – Avian foster children",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/the-nature-nut-cuckoo-cuckoo-avian-foster-children/",
-      "published_date": "2026-10-22T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Now that’s a big boat",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/now-thats-a-big-boat/",
-      "published_date": "2026-10-22T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Now that’s a big boat",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/now-thats-a-big-boat-2/",
-      "published_date": "2026-10-22T12:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Crime Stoppers shutting down tip line 'immediately' after data breach",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-crime-stoppers-shutting-down-tip-line",
-      "published_date": "2026-10-22T02:26:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Warning issued after skunk with rabies bites man in Vancouver",
+      "title": "Tori Dunn&#039;s killer convicted of second-degree murder",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/warning-issued-vancouver-skunk-rabies-captured",
-      "published_date": "2026-10-22T01:36:25Z",
+      "url": "https://vancouversun.com/news/tori-dunns-killer-convicted-of-second-degree-murder",
+      "published_date": "2026-10-22T23:30:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Lawyers give closing arguments in Surrey 2nd degree murder trial",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/lawyers-give-closing-arguments-in-surrey-2nd-degree-murder-trial/",
-      "published_date": "2026-10-22T00:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dead after shooting north of Hamilton; parking cop allegedly assaulted",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-dead-fatal-shooting-north-hamilton",
-      "published_date": "2026-10-22T00:16:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman claims she was viciously attacked by dog in Grand Forks",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/woman-claims-she-was-viciously-attacked-by-dog-in-grand-forks/",
-      "published_date": "2026-10-22T00:12:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Self-confessed mastermind in Pearson gold heist suddenly can't remember anything at trial",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/self-confessed-mastermind-pearson-gold-heist-trial-cant-remember",
-      "published_date": "2026-10-22T00:08:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Florida deputy rescues three stranded boaters off coast of Tampa",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/florida-deputy-rescues-stranded-boaters-near-tampa",
-      "published_date": "2026-10-22T00:08:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election: In waning days of campaign, leaders pull out all the stops to woo Surrey voters",
+      "title": "Vaughn Palmer: Can Lorne Doerkson keep B.C. Conservatives, with their history of infighting, united?",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-waning-days-of-campaign-leaders-pull-out-all-the-stops-to-woo-surrey-voters",
-      "published_date": "2026-10-21T23:56:19Z",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-can-lorne-doerkson-keep-bc-conservatives-united",
+      "published_date": "2026-10-22T23:18:27Z",
       "category": "Local Events"
     },
     {
-      "title": "THE MOJ: B.C. Lions locked into position ahead of CFL playoffs",
+      "title": "Gerald Norman Schreiber (Gerry)",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/the-moj-b-c-lions-locked-into-position-ahead-of-cfl-playoffs/",
-      "published_date": "2026-10-21T23:44:14Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/gerald-norman-schreiber-gerry/",
+      "published_date": "2026-10-22T23:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vancouver voters overwhelmingly opposed to open-air drug use",
+      "title": "What advance voting numbers tell us about the B.C. election",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-plebiscite-voters-overwhelmingly-opposed-to-open-air-drug-use",
-      "published_date": "2026-10-21T23:44:03Z",
+      "url": "https://vancouversun.com/news/what-advance-voting-numbers-tell-us-about-bc-election",
+      "published_date": "2026-10-22T23:07:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Florida woman accused of driving drunk to pick up child from school",
+      "title": "Hoping to see Calvin Harris in Vancouver? You might be out of luck",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/hoping-to-see-calvin-harris-in-vancouver-you-might-be-out-of-luck",
+      "published_date": "2026-10-22T23:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More charges laid against accused Toronto voyeur; one dead in King Township crash",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/florida-woman-accused-of-driving-drunk-to-pick-up-child-from-school",
-      "published_date": "2026-10-21T23:01:49Z",
+      "url": "https://torontosun.com/news/local-news/more-charges-laid-accused-toronto-voyeur-one-dead-king-township-crash",
+      "published_date": "2026-10-22T22:30:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "4 men charged after allegedly accessing restricted rooftop for social media photos",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/men-charged-accessing-restricted-area-for-photos",
+      "published_date": "2026-10-22T22:27:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Mom accuses Toronto Police of 'pushing' daughter toward fatal plunge",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/mom-accuses-toronto-police-of-pushing-daughter-regis-korchinski-paquet-toward-fatal-plunge",
+      "published_date": "2026-10-22T22:13:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PHP cybersecurity risk: What is it and who is at risk?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/php-cybersecurity-risk-vulnerability-what-is-it-how-to-protect",
+      "published_date": "2026-10-22T22:01:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peace officer cadets to start new, shorter RCMP training program in Chilliwack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/peace-officer-cadets-to-start-new-shorter-rcmp-training-program-in-chilliwack/",
+      "published_date": "2026-10-22T21:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Canada and U.S. trade election meddling charges",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/canada-u-s-trade-election-meddling-charges",
+      "published_date": "2026-10-22T21:27:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Richmond hitman loses appeal of first-degree murder conviction",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/crime/richmond-hitman-loses-appeal-of-first-degree-murder-conviction",
+      "published_date": "2026-10-22T21:15:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quesnel RCMP officer unable to wear duty belt denied disability benefits",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/quesnel-rcmp-officer-unable-to-wear-duty-belt-denied-disability-benefits/",
+      "published_date": "2026-10-22T20:52:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Party leaders love Surrey in final days of B.C. election campaign",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/party-leaders-love-surrey-in-final-days-of-b-c-election-campaign/",
+      "published_date": "2026-10-22T20:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman arrested following Langley parking lot confrontation with driving instructor",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/woman-arrested-following-parking-lot-confrontation-with-driving-instructor",
+      "published_date": "2026-10-22T19:44:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet the B.C. designers set to compete on Project Runway Canada",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/bc-designers-land-spots-on-new-season-of-project-runway-canada",
+      "published_date": "2026-10-22T19:35:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 4,000 alumni return for Queen’s 100th homecoming",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/10/22/more-than-4000-alumni-return-for-queens-100th-homecoming/",
+      "published_date": "2026-10-22T19:14:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peel, Halton, Hamilton cops halt use of Crime Stoppers after data breach",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/halton-cops-halt-crime-stoppers-data-breach",
+      "published_date": "2026-10-22T18:53:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. woman set to appear on Dragons’ Den",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/22/b-c-woman-set-to-appear-in-dragons-den/",
+      "published_date": "2026-10-22T18:53:00Z",
       "category": "Local Events"
     }
   ]
