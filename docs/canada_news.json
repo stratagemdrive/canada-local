@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T01:24:48Z",
+  "generated_at": "2026-10-24T14:08:39Z",
   "country": "Canada",
-  "total_stories": 61,
+  "total_stories": 60,
   "categories": [
     "Diplomacy",
     "Military",
@@ -50,13 +50,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/provincial/mississauga-men-nabbed-43-7m-ambassador-bridge-coke-bust",
       "published_date": "2026-10-20T14:18:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "This Day in History, 1824: Historic Métis painting comes back to Canada from Australia",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1824-historic-metis-painting-comes-back-to-canada",
-      "published_date": "2026-10-17T13:00:38Z",
       "category": "Diplomacy"
     },
     {
@@ -298,6 +291,41 @@
       "category": "Economy"
     },
     {
+      "title": "Two women, 47 and 87, accused of targeting Toronto churches in fraud scheme",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/two-women-accused-of-targeting-toronto-greek-orthodox-churches-fraud-scheme",
+      "published_date": "2026-10-24T13:53:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: Watching out for bears",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/quiz-watching-out-for-bears/",
+      "published_date": "2026-10-24T11:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Final voting for B.C. election is today",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/final-voting-for-b-c-election-is-today/",
+      "published_date": "2026-10-24T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Winnipeg Blue Bombers clinch CFL playoff spot with 34-10 win over B.C. Lions",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/23/winnipeg-blue-bombers-clinch-cfl-playoff-spot-with-34-10-win-over-b-c-lions/",
+      "published_date": "2026-10-24T05:09:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eby steps in to campaign effort to take OneBC Leader Brodie’s riding for the NDP",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/23/eby-steps-in-to-campaign-effort-to-take-onebc-leader-brodies-riding-for-the-ndp/",
+      "published_date": "2026-10-24T03:00:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Follow along here Saturday evening for live B.C. election coverage",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/23/follow-along-here-saturday-evening-for-live-b-c-election-coverage/",
@@ -400,41 +428,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/23/vernon-killer-confined-to-halfway-house-after-drinking-alcohol-while-on-release/",
       "published_date": "2026-10-23T19:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. doctor takes Canada&#039;s nature prescriptions global at biodiversity summit",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/health/bc-doctor-takes-canadas-nature-prescriptions-global-at-biodiversity-summit",
-      "published_date": "2026-10-23T18:50:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservatives criticized for limiting media access in lead up to election day",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/23/b-c-conservatives-criticized-for-limiting-media-access-in-lead-up-to-election-day/",
-      "published_date": "2026-10-23T18:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beabadoobee talks about new album and tour before Vancouver concert",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/beabadoobee-talks-about-new-album-and-tour-before-vancouver-concert",
-      "published_date": "2026-10-23T17:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Additional charge laid against man arrested in Surrey child abduction case",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/additional-charge-laid-against-man-arrested-in-surrey-child-abduction-case",
-      "published_date": "2026-10-23T16:46:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario moving ahead with digital ID cards",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ontario-moving-ahead-with-digital-id-cards",
-      "published_date": "2026-10-23T15:18:16Z",
       "category": "Local Events"
     }
   ]
