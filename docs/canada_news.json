@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T14:36:40Z",
+  "generated_at": "2026-10-26T01:02:36Z",
   "country": "Canada",
-  "total_stories": 59,
+  "total_stories": 57,
   "categories": [
     "Diplomacy",
     "Military",
@@ -116,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "CFB Wainwright: Military identifies 4 dead after Alberta base fire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/fatalities-injuries-explosion-cfb-wainwright-base",
-      "published_date": "2026-10-18T15:33:57Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. Election Analysis: Questions raised about Conservative plan to triple LNG production",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-election-analysis-questions-raised-about-conservative-plan-to-triple-lng-production",
@@ -141,13 +134,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/bon-jovi-2027-rogers-stadium-show-toronto",
       "published_date": "2026-10-19T15:11:24Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Province, feds must alleviate 'excruciating' fuel prices: Gas expert",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/province-feds-must-alleviate-excruciating-fuel-prices-gas-expert",
-      "published_date": "2026-10-18T21:44:57Z",
       "category": "Energy"
     },
     {
@@ -284,6 +270,97 @@
       "category": "Economy"
     },
     {
+      "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/b-c-premier-designate-doerkson-addresses-media-after-conservative-majority-win/",
+      "published_date": "2026-10-25T21:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fourth suspect nabbed, another outstanding in Toronto retail theft probe",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/fourth-suspect-arrested-toronto-retail-theft-probe",
+      "published_date": "2026-10-25T21:41:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 B.C. election sees record low turnout as Conservatives win majority",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/2026-b-c-election-sees-record-low-turnout-as-conservatives-win-majority/",
+      "published_date": "2026-10-25T21:35:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Election: A landslide, yes, but here are a few tight ones to still watch",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-election-tight-ones-watch",
+      "published_date": "2026-10-25T21:08:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. premier-designate Lorne Doerkson hints at a fall legislative session",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-premier-designate-lorne-doerkson",
+      "published_date": "2026-10-25T20:40:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly half of Canadians have either gone online or used artificial intelligence to self-diagnose: report",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/nearly-half-of-canadians-have-either-gone-online-or-used-artificial-intelligence-to-self-diagnose-report",
+      "published_date": "2026-10-25T19:48:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Healthcare and forestry MLA Black’s top priority heading to Victoria",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/healthcare-and-forestry-mla-blacks-top-priority-heading-to-victoria/",
+      "published_date": "2026-10-25T18:21:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explore winemaker Yeung’s 2025 releases",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/explore-winemaker-yeungs-2025-releases/",
+      "published_date": "2026-10-25T18:12:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former deputy mayor under Olivia Chow endorses Brad Bradford",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/former-deputy-mayor-under-chow-endorses-bradford",
+      "published_date": "2026-10-25T17:56:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man fatally stabbed in Mississauga; 4 hospitalized in East York apartment fire",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-fatally-stabbed-in-mississauga-4-hospitalized-in-east-york-apartment-fire",
+      "published_date": "2026-10-25T16:04:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Get the look: How brunettes can create dimensional brightness",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/get-the-look-how-brunettes-can-create-dimensional-brightness",
+      "published_date": "2026-10-25T15:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VICTOR DAVIS HANSON: The deep midterms",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/deep-midterms",
+      "published_date": "2026-10-25T14:57:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rock drummer-whisky slinger now children's performer: 'I want to do this for the rest of my life'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/rock-drummer-whisky-slinger-now-childrens-performer-i-want-to-do-this-for-the-rest-of-my-life",
+      "published_date": "2026-10-25T14:43:15Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ernie Clement leads the pack in inspiring this year's roster of trending pet names",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/life/relationships/ernie-clement-leads-the-pack-in-inspiring-2026s-roster-of-trending-pet-names",
@@ -330,97 +407,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/bc-election-vaughn-palmer-bc-ndp-knives-out-david-eby-before-last-vote-cast",
       "published_date": "2026-10-25T06:45:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Healthcare and forestry MLA Black’s top priority heading to Victoria",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/healthcare-and-forestry-mla-blacks-top-priority-heading-to-victoria/",
-      "published_date": "2026-10-25T06:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Langley-Walnut Grove stays Conservative in B.C. election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/langley-walnut-grove-stays-conservative-in-b-c-election/",
-      "published_date": "2026-10-25T06:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conservatives win in Langley-Willowbrook",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/conservatives-win-in-langley-willowbrook/",
-      "published_date": "2026-10-25T06:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This is a big blue wave’: Conservative Gavin Dew re-elected in Kelowna-Mission riding",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/this-is-a-big-blue-wave-conservative-gavin-dew-re-elected-in-kelowna-mission-riding/",
-      "published_date": "2026-10-25T06:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It is an honour to serve you’: McCall re-elected in West Kelowna-Peachland",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/it-is-an-honour-to-serve-you-mccall-re-elected-in-west-kelowna-peachland/",
-      "published_date": "2026-10-25T05:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Votes 2026: BC Conservative Pavneet Singh wins Kelowna-Lake Country-Coldstream riding",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/b-c-votes-2026-bc-conservative-pavneet-singh-wins-kelowna-lake-country-coldstream-riding/",
-      "published_date": "2026-10-25T05:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election Results: Conservative wave sweeps through B.C. as David Eby&#039;s snap election call backfires",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-results-conservative-wave-sweeps-bc",
-      "published_date": "2026-10-25T05:41:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CentreBC headquarters, Sturko remain positive despite election night results",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/centrebc-headquarters-sturko-remain-positive-despite-election-night-results/",
-      "published_date": "2026-10-25T05:35:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Harman Bhangu wins his second campaign for Langley-Abbotsford",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/video-harman-bhangu-wins-his-second-campaign-for-langley-abbotsford/",
-      "published_date": "2026-10-25T05:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election Results 2026: A riding-by-riding map of the vote",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-day-2026-live-results-riding-map",
-      "published_date": "2026-10-25T03:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Separate Toronto stabbings land two in hospital: Cops",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/separate-toronto-stabbings-two-hospital",
-      "published_date": "2026-10-25T01:09:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "York cop facing multiple charges including breach of trust",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/york-cop-multiple-charges-breach-of-trust",
-      "published_date": "2026-10-25T00:45:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: The skyrocketing cost of reconciliation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/editorials/skyrocketing-cost-of-reconciliation",
-      "published_date": "2026-10-24T22:01:04Z",
       "category": "Local Events"
     }
   ]
