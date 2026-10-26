@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:02:36Z",
+  "generated_at": "2026-10-26T17:01:54Z",
   "country": "Canada",
   "total_stories": 57,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "No modifications being made to Canada's Wonderland roller coasters after Georgia death",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/no-modifications-canadas-wonderland-roller-coasters-after-georgia-death",
+      "published_date": "2026-10-26T15:28:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Air Canada cutting more routes to U.S. destinations in 2027",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/air-canada-cutting-more-routes-to-u-s-2027",
+      "published_date": "2026-10-26T14:36:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canada developing further economic and political ties with Turkiye",
       "source": "Toronto Sun",
@@ -109,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Deceased soldiers from CFB Wainwright to carry this Remembrance Day, Carney tells House",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/four-more-names-to-carry-this-remembrance-day-carney",
-      "published_date": "2026-10-19T16:49:11Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. Election Analysis: Questions raised about Conservative plan to triple LNG production",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-election-analysis-questions-raised-about-conservative-plan-to-triple-lng-production",
@@ -123,18 +130,25 @@
       "category": "Energy"
     },
     {
-      "title": "Gas prices accelerate September inflation rate to 3.1%",
+      "title": "CHARLEBOIS: Supply management’s chicken import racket?",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/gas-prices-accelerate-september-inflation-rate-to-3-1",
-      "published_date": "2026-10-19T15:52:28Z",
-      "category": "Energy"
+      "url": "https://torontosun.com/opinion/columnists/supply-managements-chicken-import-racket",
+      "published_date": "2026-10-26T16:17:36Z",
+      "category": "Economy"
     },
     {
-      "title": "Bon Jovi books 2027 Rogers Stadium show in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bon-jovi-2027-rogers-stadium-show-toronto",
-      "published_date": "2026-10-19T15:11:24Z",
-      "category": "Energy"
+      "title": "What is regenerative agriculture and why it might be the future of farming in B.C.",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/what-is-regenerative-agriculture-and-why-it-might-be-the-future-of-farming-in-bc",
+      "published_date": "2026-10-26T13:00:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "From rodeo rider to premier-elect: Meet ‘unknown’ BC Conservative leader Lorne Doerkson",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/from-rodeo-rider-to-premier-elect-meet-unknown-bc-conservative-leader-lorne-doerkson/",
+      "published_date": "2026-10-26T12:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Doerkson set to become B.C. premier after projected Conservative majority win",
@@ -256,18 +270,74 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. Conservatives costed platform relies on economic growth that beats all forecasts",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/19/b-c-conservatives-costed-platform-relies-on-economic-growth-that-beats-all-forecasts/",
-      "published_date": "2026-10-19T22:26:00Z",
-      "category": "Economy"
+      "title": "Ontario pledges to connect everyone with a family doctor by 2029",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/ontario-pledges-connect-family-doctor-by-2029",
+      "published_date": "2026-10-26T16:26:11Z",
+      "category": "Local Events"
     },
     {
-      "title": "Canadian steel mill jobs have fallen by more than 50% since 2003",
+      "title": "Trump praises Nicki Minaj’s ‘beautiful a**’  in rally speech: ‘HARD TO MISS’",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-steel-mill-jobs-have-fallen-by-more-than-50-since-2003",
-      "published_date": "2026-10-19T20:25:30Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/entertainment/celebrity/trump-praises-nicki-minaj-in-rally-speech",
+      "published_date": "2026-10-26T14:28:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dead at 46",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/movies/eric-bauza-voice-of-bugs-bunny-daffy-duck-dead-at-46",
+      "published_date": "2026-10-26T13:47:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uniqlo confirmed to take over part of the old Nordstrom store in downtown Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/uniqlo-confirmed-to-take-over-part-of-the-old-nordstrom-store-in-downtown-vancouver",
+      "published_date": "2026-10-26T13:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Witches are casting a spell again in time for Halloween",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/witchcraft-is-back",
+      "published_date": "2026-10-26T13:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;He has saved so many lives&#039;: B.C. senior making his 500th blood donation",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/health/bc-senior-500-blood-donations",
+      "published_date": "2026-10-26T13:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ELECTION LIVE: Toronto and GTA municipal vote results",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/election-live-toronto-gta-vote",
+      "published_date": "2026-10-26T12:43:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: Remembering Tracy Latimer: Every life has equal worth",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/remembering-tracy-latimer-every-life-equal-worth",
+      "published_date": "2026-10-26T12:36:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drivers beware: police warn about ghosts on B.C. roads",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/drivers-beware-police-warn-about-ghosts-on-b-c-roads/",
+      "published_date": "2026-10-26T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boos for Hughes: Wild win 4-2 as ex-Canucks captain jeered in return to Vancouver",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/boos-for-hughes-wild-win-4-2-as-ex-canucks-captain-jeered-in-return-to-vancouver/",
+      "published_date": "2026-10-26T04:42:00Z",
+      "category": "Local Events"
     },
     {
       "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
@@ -337,76 +407,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/man-fatally-stabbed-in-mississauga-4-hospitalized-in-east-york-apartment-fire",
       "published_date": "2026-10-25T16:04:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Get the look: How brunettes can create dimensional brightness",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/get-the-look-how-brunettes-can-create-dimensional-brightness",
-      "published_date": "2026-10-25T15:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VICTOR DAVIS HANSON: The deep midterms",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/deep-midterms",
-      "published_date": "2026-10-25T14:57:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rock drummer-whisky slinger now children's performer: 'I want to do this for the rest of my life'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/rock-drummer-whisky-slinger-now-childrens-performer-i-want-to-do-this-for-the-rest-of-my-life",
-      "published_date": "2026-10-25T14:43:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ernie Clement leads the pack in inspiring this year's roster of trending pet names",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/life/relationships/ernie-clement-leads-the-pack-in-inspiring-2026s-roster-of-trending-pet-names",
-      "published_date": "2026-10-25T14:25:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CROMBIE: An affordable city starts with better choices",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/crombie-an-affordable-city-starts-with-better-choices",
-      "published_date": "2026-10-25T14:07:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: If you could live in an earlier era, which would it be?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/the-bookless-club-if-you-could-live-in-an-earlier-era-which-would-it-be",
-      "published_date": "2026-10-25T13:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pierre Poilievre, Tories to demand Mark Carney testify on deficits and debt interest",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/poilievre-tories-demand-carney-testify-deficits-debt-interest",
-      "published_date": "2026-10-25T09:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election: 8 take-aways after a landslide Conservative win",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-2026-eight-takeaways-results",
-      "published_date": "2026-10-25T08:32:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "David Eby steps down as B.C. NDP leader after party loses election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/david-eby-steps-down-as-b-c-ndp-leader-after-party-loses-election/",
-      "published_date": "2026-10-25T07:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: NDP knives were out for David Eby before the last vote was cast",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/bc-election-vaughn-palmer-bc-ndp-knives-out-david-eby-before-last-vote-cast",
-      "published_date": "2026-10-25T06:45:58Z",
       "category": "Local Events"
     }
   ]
