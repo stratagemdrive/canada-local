@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T17:01:54Z",
+  "generated_at": "2026-10-27T01:52:41Z",
   "country": "Canada",
-  "total_stories": 57,
+  "total_stories": 54,
   "categories": [
     "Diplomacy",
     "Military",
@@ -74,6 +74,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Bruising electoral battle in Hamilton leaves Andrea Horwath on the ropes",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/bruising-electoral-battle-hamilton-mayoral-candidates",
+      "published_date": "2026-10-26T23:56:17Z",
+      "category": "Military"
+    },
+    {
       "title": "Rich kid revolutionary cheering French rioters is a jet-setting influencer",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/infleuncer-cheering-french-rioters",
@@ -88,39 +95,11 @@
       "category": "Military"
     },
     {
-      "title": "Tributes pour in for two young B.C. soldiers killed in Wainwright fire",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/tributes-pour-in-for-two-young-bc-soldiers-killed-in-wainwright-fire",
-      "published_date": "2026-10-19T23:27:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Stabbing of four people at Vancouver bar linked to gang war",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-crime-news-oct-19-2026",
-      "published_date": "2026-10-19T22:16:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "‘It wasn’t me’: Man accused in Surrey killing testifies in own defence",
+      "title": "B.C. North Coast LNG project draws nearer to final investment decision",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/19/man-accused-in-surrey-killing-testifies-in-own-defence/",
-      "published_date": "2026-10-19T20:29:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "2 British Columbian soldiers among 4 killed in fire at CFB Wainwright in Alberta",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/19/2-british-columbians-soldiers-among-4-killed-in-fire-at-cfb-wainwright-in-alberta/",
-      "published_date": "2026-10-19T18:14:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "LILLEY: Carney hands tax office security to U.S. firm tied to Trump’s deportation machine",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/carney-hands-tax-office-security-to-u-s-firm-tied-to-ice",
-      "published_date": "2026-10-19T17:29:55Z",
-      "category": "Military"
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-north-coast-lng-project-draws-nearer-to-final-investment-decision/",
+      "published_date": "2026-10-26T23:17:00Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. Election Analysis: Questions raised about Conservative plan to triple LNG production",
@@ -128,6 +107,27 @@
       "url": "https://vancouversun.com/news/bc-election-analysis-questions-raised-about-conservative-plan-to-triple-lng-production",
       "published_date": "2026-10-22T13:00:55Z",
       "category": "Energy"
+    },
+    {
+      "title": "WARMINGTON: Alvin Tedjo topples current, former mayors for Mississauga's top job",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/alvin-tedjo-topples-former-mississauga-mayors",
+      "published_date": "2026-10-27T01:06:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Premier-designate Lorne Doerkson faces time crunch to get tax cuts done",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-premier-designate-lorne-doerkson-tax-cuts-100-days",
+      "published_date": "2026-10-26T23:31:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Vaughn Palmer: Lorne Doerkson pledges independent review of B.C.&#039;s finances on Day 1",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/vaughn-palmer-lorne-doerkson-day-one",
+      "published_date": "2026-10-26T22:24:11Z",
+      "category": "Economy"
     },
     {
       "title": "CHARLEBOIS: Supply management’s chicken import racket?",
@@ -249,25 +249,116 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: B.C.&#039;s political leaders must prioritize advancing gender equality in this election",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-political-leaders-must-prioritize-advancing-gender-equality-in-this-election",
-      "published_date": "2026-10-20T13:00:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "CHARLEBOIS: Alberta chose Canada. Now Canada needs to choose Alberta, for real.",
+      "title": "Toronto polls sluggish, but Olivia Chow grabs lead in mayoral race",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-needs-to-choose-alberta-for-real",
-      "published_date": "2026-10-20T12:13:04Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/toronto-next-mayor-municipal-election-2026",
+      "published_date": "2026-10-27T01:25:29Z",
+      "category": "Local Events"
     },
     {
-      "title": "B.C. NDP and Conservatives get &#039;failing grade&#039; for fiscal reality, says economist",
+      "title": "Pickering mayoral race features plenty of intrigue",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/pickering-mayoral-race-features-plenty-of-intrigue",
+      "published_date": "2026-10-27T01:15:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "RACES TO WATCH: 4 Toronto wards without incumbent candidates",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-wards-without-incumbent-candidates",
+      "published_date": "2026-10-27T01:10:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gord Krantz' 46-year term as Milton mayor ends in election-night upset",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/open-seats-long-serving-mayors-headline-ontario-election-night",
+      "published_date": "2026-10-27T00:53:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "York Region candidate previously mired in controversy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/york-region-candidate-previously-mired-in-controversy",
+      "published_date": "2026-10-27T00:44:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Clearly a mistake’: Candidates, experts reflect on snap election call",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/clearly-a-mistake-candidates-experts-reflect-on-snap-election-call/",
+      "published_date": "2026-10-26T23:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: David Eby’s early election call backfired badly",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-ndp-and-conservatives-get-failing-grade-for-fiscal-reality-says-economist",
-      "published_date": "2026-10-20T00:19:42Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-david-ebys-early-election-call-backfired-badly",
+      "published_date": "2026-10-26T23:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto man accused of attack that left woman critically hurt; bank fraud in Clarington foiled",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-man-accused-north-york-attack",
+      "published_date": "2026-10-26T22:24:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fake campaign signs pop up in B.C. riding on election eve",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/fake-campaign-signs-pop-up-in-b-c-riding-on-election-eve/",
+      "published_date": "2026-10-26T21:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Ferries CEO ousted as board launches &#039;revitalization review&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-ferries-ceo-ousted-as-board-launches-revitalization-review",
+      "published_date": "2026-10-26T21:23:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. election outcome does not reflect popular vote",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-election-outcome-does-not-reflect-popular-vote/",
+      "published_date": "2026-10-26T20:51:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court orders Penticton unhoused encampment be cleared",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/court-orders-penticton-unhoused-encampment-be-cleared/",
+      "published_date": "2026-10-26T20:40:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BC Ferries CEO replaced amid review of services",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/bc-ferries-ceo-replaced-amid-review-of-services/",
+      "published_date": "2026-10-26T20:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BC NDP candidate pulls ahead by 13 votes after results corrected in Ladysmith-Oceanside riding",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-ndp-candidate-pulls-ahead-by-13-votes-after-results-corrected-in-ladysmith-oceanside-riding/",
+      "published_date": "2026-10-26T20:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect in deadly stabbing in Mississauga surrenders to police",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspect-identified-in-deadly-stabbing-in-mississauga-armed-and-dangerous",
+      "published_date": "2026-10-26T19:25:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tips to keep pets and wildlife safe this Halloween",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/tips-to-keep-pets-and-wildlife-safe-this-halloween/",
+      "published_date": "2026-10-26T18:11:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Ontario pledges to connect everyone with a family doctor by 2029",
@@ -295,118 +386,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/life/fashion-beauty/uniqlo-confirmed-to-take-over-part-of-the-old-nordstrom-store-in-downtown-vancouver",
       "published_date": "2026-10-26T13:00:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Witches are casting a spell again in time for Halloween",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/witchcraft-is-back",
-      "published_date": "2026-10-26T13:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;He has saved so many lives&#039;: B.C. senior making his 500th blood donation",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/health/bc-senior-500-blood-donations",
-      "published_date": "2026-10-26T13:00:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ELECTION LIVE: Toronto and GTA municipal vote results",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/election-live-toronto-gta-vote",
-      "published_date": "2026-10-26T12:43:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Remembering Tracy Latimer: Every life has equal worth",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/remembering-tracy-latimer-every-life-equal-worth",
-      "published_date": "2026-10-26T12:36:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drivers beware: police warn about ghosts on B.C. roads",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/drivers-beware-police-warn-about-ghosts-on-b-c-roads/",
-      "published_date": "2026-10-26T12:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boos for Hughes: Wild win 4-2 as ex-Canucks captain jeered in return to Vancouver",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/boos-for-hughes-wild-win-4-2-as-ex-canucks-captain-jeered-in-return-to-vancouver/",
-      "published_date": "2026-10-26T04:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/b-c-premier-designate-doerkson-addresses-media-after-conservative-majority-win/",
-      "published_date": "2026-10-25T21:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fourth suspect nabbed, another outstanding in Toronto retail theft probe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/fourth-suspect-arrested-toronto-retail-theft-probe",
-      "published_date": "2026-10-25T21:41:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 B.C. election sees record low turnout as Conservatives win majority",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/2026-b-c-election-sees-record-low-turnout-as-conservatives-win-majority/",
-      "published_date": "2026-10-25T21:35:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Election: A landslide, yes, but here are a few tight ones to still watch",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-tight-ones-watch",
-      "published_date": "2026-10-25T21:08:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. premier-designate Lorne Doerkson hints at a fall legislative session",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-premier-designate-lorne-doerkson",
-      "published_date": "2026-10-25T20:40:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly half of Canadians have either gone online or used artificial intelligence to self-diagnose: report",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/nearly-half-of-canadians-have-either-gone-online-or-used-artificial-intelligence-to-self-diagnose-report",
-      "published_date": "2026-10-25T19:48:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Healthcare and forestry MLA Black’s top priority heading to Victoria",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/healthcare-and-forestry-mla-blacks-top-priority-heading-to-victoria/",
-      "published_date": "2026-10-25T18:21:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explore winemaker Yeung’s 2025 releases",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/25/explore-winemaker-yeungs-2025-releases/",
-      "published_date": "2026-10-25T18:12:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former deputy mayor under Olivia Chow endorses Brad Bradford",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/former-deputy-mayor-under-chow-endorses-bradford",
-      "published_date": "2026-10-25T17:56:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man fatally stabbed in Mississauga; 4 hospitalized in East York apartment fire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-fatally-stabbed-in-mississauga-4-hospitalized-in-east-york-apartment-fire",
-      "published_date": "2026-10-25T16:04:39Z",
       "category": "Local Events"
     }
   ]
