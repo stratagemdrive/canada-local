@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T01:52:41Z",
+  "generated_at": "2026-10-27T16:04:31Z",
   "country": "Canada",
-  "total_stories": 54,
+  "total_stories": 53,
   "categories": [
     "Diplomacy",
     "Military",
@@ -67,11 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mississauga men nabbed in $43.7M Ambassador Bridge coke bust",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/mississauga-men-nabbed-43-7m-ambassador-bridge-coke-bust",
-      "published_date": "2026-10-20T14:18:32Z",
-      "category": "Diplomacy"
+      "title": "Vancouver Island dog rescuer killed helping animals in war-torn Ukraine",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/vancouver-island-dog-rescuer-killed-helping-animals-in-war-torn-ukraine/",
+      "published_date": "2026-10-27T15:07:00Z",
+      "category": "Military"
     },
     {
       "title": "Bruising electoral battle in Hamilton leaves Andrea Horwath on the ropes",
@@ -88,13 +88,6 @@
       "category": "Military"
     },
     {
-      "title": "KINSELLA: CBC acted unfairly and against its own rules by punishing journalist",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/cbc-acted-unfairly-against-own-rules-punishing-journalist",
-      "published_date": "2026-10-20T13:09:41Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. North Coast LNG project draws nearer to final investment decision",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-north-coast-lng-project-draws-nearer-to-final-investment-decision/",
@@ -107,6 +100,13 @@
       "url": "https://vancouversun.com/news/bc-election-analysis-questions-raised-about-conservative-plan-to-triple-lng-production",
       "published_date": "2026-10-22T13:00:55Z",
       "category": "Energy"
+    },
+    {
+      "title": "Metro Vancouver rejects Surrey mayor-elect&#039;s call to cancel budget vote Friday",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/metro-vancouver-rejects-surrey-doug-mccallum-cancel-meeting",
+      "published_date": "2026-10-27T14:15:14Z",
+      "category": "Economy"
     },
     {
       "title": "WARMINGTON: Alvin Tedjo topples current, former mayors for Mississauga's top job",
@@ -242,11 +242,81 @@
       "category": "Economy"
     },
     {
-      "title": "WARMINGTON: Flamingo kidnapping a Vegas wager that could land Brampton man in a birdcage",
+      "title": "City of Toronto says remove municipal election signs by Thursday",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/flamingo-kidnapping-vegas-wager-brampton-man-birdcage",
-      "published_date": "2026-10-20T13:42:27Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/city-of-toronto-remove-municipal-election-signs-thursday",
+      "published_date": "2026-10-27T15:26:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. residents living longer but not prepared for health care, housing needs: study",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/b-c-residents-living-longer-but-not-prepared-for-health-care-housing-needs-study",
+      "published_date": "2026-10-27T15:00:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops probe death of Canadian woman, 57, at cosmetic surgery clinic",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/cops-probe-death-canadian-woman-cosmetic-surgery-clinic",
+      "published_date": "2026-10-27T14:44:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman killed in Vancouver intersection as police warn of pedestrian safety",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/pedestrian-killed-vancouver",
+      "published_date": "2026-10-27T14:30:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Silk and Savage podcast is Etalk&#039;s Sonia Mangat&#039;s &#039;purpose project&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/new-podcast-venture-silk-and-savage-is-etalks-sonia-mangats-purpose-project",
+      "published_date": "2026-10-27T14:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Toronto doubles down on decline with another Chow mandate",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/toronto-doubles-down-decline-chow-mandate",
+      "published_date": "2026-10-27T13:53:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "After election pummelling, where does the B.C. NDP go from here?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/after-election-pummelling-where-does-the-bc-ndp-go-from-here",
+      "published_date": "2026-10-27T13:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is entirely blue Surrey the new political centre of B.C.?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/politics/is-entirely-blue-surrey-the-new-political-centre-of-bc",
+      "published_date": "2026-10-27T13:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coquitlam man pleads guilty to lesser charge of manslaughter in daytime gang shooting",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/coquitlam-man-pleads-guilty-to-lesser-charge-of-manslaughter-in-daytime-gang-shooting",
+      "published_date": "2026-10-27T13:00:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oscar winner Taika Waititi to join Klara and the Sun screening at Vancouver’s Park Theatre",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/oscar-winner-taika-waititi-to-join-klara-and-the-sun-screening-at-vancouvers-park-theatre",
+      "published_date": "2026-10-27T13:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beabadoobee in Vancouver: What to know before you go to the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/beabadoobee-vancouver-what-to-know-october-28-concert",
+      "published_date": "2026-10-27T13:00:16Z",
+      "category": "Local Events"
     },
     {
       "title": "Toronto polls sluggish, but Olivia Chow grabs lead in mayoral race",
@@ -291,6 +361,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Incumbent Andrea Horwath faces resounding defeat in Hamilton mayoral race",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/bruising-electoral-battle-hamilton-mayoral-candidates",
+      "published_date": "2026-10-26T23:56:17Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Opinion: David Eby’s early election call backfired badly",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/op-ed/opinion-david-ebys-early-election-call-backfired-badly",
@@ -302,90 +379,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-man-accused-north-york-attack",
       "published_date": "2026-10-26T22:24:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fake campaign signs pop up in B.C. riding on election eve",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/fake-campaign-signs-pop-up-in-b-c-riding-on-election-eve/",
-      "published_date": "2026-10-26T21:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Ferries CEO ousted as board launches &#039;revitalization review&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-ferries-ceo-ousted-as-board-launches-revitalization-review",
-      "published_date": "2026-10-26T21:23:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. election outcome does not reflect popular vote",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-election-outcome-does-not-reflect-popular-vote/",
-      "published_date": "2026-10-26T20:51:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court orders Penticton unhoused encampment be cleared",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/court-orders-penticton-unhoused-encampment-be-cleared/",
-      "published_date": "2026-10-26T20:40:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BC Ferries CEO replaced amid review of services",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/bc-ferries-ceo-replaced-amid-review-of-services/",
-      "published_date": "2026-10-26T20:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BC NDP candidate pulls ahead by 13 votes after results corrected in Ladysmith-Oceanside riding",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-ndp-candidate-pulls-ahead-by-13-votes-after-results-corrected-in-ladysmith-oceanside-riding/",
-      "published_date": "2026-10-26T20:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in deadly stabbing in Mississauga surrenders to police",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-identified-in-deadly-stabbing-in-mississauga-armed-and-dangerous",
-      "published_date": "2026-10-26T19:25:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tips to keep pets and wildlife safe this Halloween",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/tips-to-keep-pets-and-wildlife-safe-this-halloween/",
-      "published_date": "2026-10-26T18:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario pledges to connect everyone with a family doctor by 2029",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ontario-pledges-connect-family-doctor-by-2029",
-      "published_date": "2026-10-26T16:26:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump praises Nicki Minaj’s ‘beautiful a**’  in rally speech: ‘HARD TO MISS’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/trump-praises-nicki-minaj-in-rally-speech",
-      "published_date": "2026-10-26T14:28:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dead at 46",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/movies/eric-bauza-voice-of-bugs-bunny-daffy-duck-dead-at-46",
-      "published_date": "2026-10-26T13:47:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uniqlo confirmed to take over part of the old Nordstrom store in downtown Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/uniqlo-confirmed-to-take-over-part-of-the-old-nordstrom-store-in-downtown-vancouver",
-      "published_date": "2026-10-26T13:00:59Z",
       "category": "Local Events"
     }
   ]
