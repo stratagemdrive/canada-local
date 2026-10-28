@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T16:04:31Z",
+  "generated_at": "2026-10-28T02:03:14Z",
   "country": "Canada",
-  "total_stories": 53,
+  "total_stories": 55,
   "categories": [
     "Diplomacy",
     "Military",
@@ -67,6 +67,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Dutch zookeeper dies from injuries after leopard attack",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/dutch-zookeeper-dies-from-injuries-after-leopard-attack",
+      "published_date": "2026-10-28T00:16:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "&#039;An absolute legend&#039;: B.C. animal rescuer killed by drone while on mission in Ukraine",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-animal-rescuer-jesse-adams-killed-by-drone-in-ukraine",
+      "published_date": "2026-10-27T22:21:33Z",
+      "category": "Military"
+    },
+    {
       "title": "Vancouver Island dog rescuer killed helping animals in war-torn Ukraine",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/27/vancouver-island-dog-rescuer-killed-helping-animals-in-war-torn-ukraine/",
@@ -100,6 +114,20 @@
       "url": "https://vancouversun.com/news/bc-election-analysis-questions-raised-about-conservative-plan-to-triple-lng-production",
       "published_date": "2026-10-22T13:00:55Z",
       "category": "Energy"
+    },
+    {
+      "title": "Restaurant owners facing 'significant pressure' as sales increase, but profits slide",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-restaurant-owners-facing-significant-cost-pressures",
+      "published_date": "2026-10-27T22:01:26Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Industrial board orders Trigon to halt contractor work for specified LPG rail car duties",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/industrial-board-orders-trigon-to-halt-contractor-work-for-specified-lpg-rail-car-duties/",
+      "published_date": "2026-10-27T21:41:00Z",
+      "category": "Economy"
     },
     {
       "title": "Metro Vancouver rejects Surrey mayor-elect&#039;s call to cancel budget vote Friday",
@@ -228,157 +256,143 @@
       "category": "Economy"
     },
     {
-      "title": "BC Conservatives address healthcare, taxes during Kelowna rally",
+      "title": "B.C.’s snap election held the day after 2020 class of MLAs secured pensions",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/20/bc-conservatives-address-healthcare-taxes-during-kelowna-rally/",
-      "published_date": "2026-10-21T06:48:57Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/b-c-s-snap-election-called-for-one-day-after-2020-class-of-mlas-secured-pensions/",
+      "published_date": "2026-10-28T00:30:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Vaughn Palmer: B.C. NDP, Tories both vague on tough budget questions",
+      "title": "Charges laid in fatal hit-and-run near Nanaimo",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-ndp-tories-both-vague-on-tough-budget-questions",
-      "published_date": "2026-10-20T23:16:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "City of Toronto says remove municipal election signs by Thursday",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/city-of-toronto-remove-municipal-election-signs-thursday",
-      "published_date": "2026-10-27T15:26:46Z",
+      "url": "https://vancouversun.com/news/charges-laid-fatal-hit-and-run-near-nanaimo",
+      "published_date": "2026-10-28T00:24:01Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. residents living longer but not prepared for health care, housing needs: study",
+      "title": "Dan Fumano: In poignant final council meeting, Vancouver Mayor Ken Sim and most of his party say goodbye and good luck",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/b-c-residents-living-longer-but-not-prepared-for-health-care-housing-needs-study",
-      "published_date": "2026-10-27T15:00:03Z",
+      "url": "https://vancouversun.com/opinion/columnists/vancouver-mayor-ken-sim-abc-party-final-council-meeting",
+      "published_date": "2026-10-28T00:19:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Cops probe death of Canadian woman, 57, at cosmetic surgery clinic",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/cops-probe-death-canadian-woman-cosmetic-surgery-clinic",
-      "published_date": "2026-10-27T14:44:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman killed in Vancouver intersection as police warn of pedestrian safety",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/pedestrian-killed-vancouver",
-      "published_date": "2026-10-27T14:30:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Silk and Savage podcast is Etalk&#039;s Sonia Mangat&#039;s &#039;purpose project&#039;",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/new-podcast-venture-silk-and-savage-is-etalks-sonia-mangats-purpose-project",
-      "published_date": "2026-10-27T14:00:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Toronto doubles down on decline with another Chow mandate",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/toronto-doubles-down-decline-chow-mandate",
-      "published_date": "2026-10-27T13:53:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After election pummelling, where does the B.C. NDP go from here?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/after-election-pummelling-where-does-the-bc-ndp-go-from-here",
-      "published_date": "2026-10-27T13:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is entirely blue Surrey the new political centre of B.C.?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/politics/is-entirely-blue-surrey-the-new-political-centre-of-bc",
-      "published_date": "2026-10-27T13:00:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coquitlam man pleads guilty to lesser charge of manslaughter in daytime gang shooting",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/coquitlam-man-pleads-guilty-to-lesser-charge-of-manslaughter-in-daytime-gang-shooting",
-      "published_date": "2026-10-27T13:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oscar winner Taika Waititi to join Klara and the Sun screening at Vancouver’s Park Theatre",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/oscar-winner-taika-waititi-to-join-klara-and-the-sun-screening-at-vancouvers-park-theatre",
-      "published_date": "2026-10-27T13:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beabadoobee in Vancouver: What to know before you go to the concert",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/beabadoobee-vancouver-what-to-know-october-28-concert",
-      "published_date": "2026-10-27T13:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto polls sluggish, but Olivia Chow grabs lead in mayoral race",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-next-mayor-municipal-election-2026",
-      "published_date": "2026-10-27T01:25:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pickering mayoral race features plenty of intrigue",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/pickering-mayoral-race-features-plenty-of-intrigue",
-      "published_date": "2026-10-27T01:15:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RACES TO WATCH: 4 Toronto wards without incumbent candidates",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-wards-without-incumbent-candidates",
-      "published_date": "2026-10-27T01:10:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gord Krantz' 46-year term as Milton mayor ends in election-night upset",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/open-seats-long-serving-mayors-headline-ontario-election-night",
-      "published_date": "2026-10-27T00:53:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "York Region candidate previously mired in controversy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/york-region-candidate-previously-mired-in-controversy",
-      "published_date": "2026-10-27T00:44:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Clearly a mistake’: Candidates, experts reflect on snap election call",
+      "title": "B.C. NDP meeting to select new interim leader this week",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/clearly-a-mistake-candidates-experts-reflect-on-snap-election-call/",
-      "published_date": "2026-10-26T23:57:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/b-c-ndp-meeting-to-select-new-interim-leader-this-week/",
+      "published_date": "2026-10-27T23:52:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Incumbent Andrea Horwath faces resounding defeat in Hamilton mayoral race",
+      "title": "Pro-Putin Russian rapper killed in mysterious shooting days after wedding",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bruising-electoral-battle-hamilton-mayoral-candidates",
-      "published_date": "2026-10-26T23:56:17Z",
+      "url": "https://torontosun.com/news/world/pro-putin-russian-rapper-dead-mysterious-shooting",
+      "published_date": "2026-10-27T23:45:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: David Eby’s early election call backfired badly",
+      "title": "Suspended Durham constable accused of child luring, sexual exploitation",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/suspended-durham-constable-accused-child-luring",
+      "published_date": "2026-10-27T23:30:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged street racer nabbed by Peel cops; Caledon contractor charged with sex assault",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/alleged-street-racer-nabbed-by-peel-cops",
+      "published_date": "2026-10-27T23:05:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drawing of lots results in new mayor for Village of Lytton",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/drawing-of-lots-results-in-new-mayor-for-village-of-lytton/",
+      "published_date": "2026-10-27T23:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Animals are hidden victims of B.C.’s wildfire season",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-david-ebys-early-election-call-backfired-badly",
-      "published_date": "2026-10-26T23:00:57Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-animals-are-hidden-victims-of-b-c-s-wildfire-season",
+      "published_date": "2026-10-27T23:00:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Toronto man accused of attack that left woman critically hurt; bank fraud in Clarington foiled",
+      "title": "Princeton council seat determined by a draw",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/princeton-council-seat-determined-by-a-draw/",
+      "published_date": "2026-10-27T22:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Repeat visits by Bruno Mars leave Vancouver restaurant owners surprised and delighted",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/bruno-mars-vancouver-restaurant-anh-and-chi",
+      "published_date": "2026-10-27T22:51:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dead humpback whale seen in area of BC Ferries collision",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/dead-humpback-whale-seen-in-area-of-bc-ferries-collision/",
+      "published_date": "2026-10-27T22:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ted Bundy killed Utah girl in 1974, authorities say",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-accused-north-york-attack",
-      "published_date": "2026-10-26T22:24:19Z",
+      "url": "https://torontosun.com/news/world/ted-bundy-killed-utah-girl-1974-authorities",
+      "published_date": "2026-10-27T22:42:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. RCMP officer allegedly accessed child sexual exploitation material",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-rcmp-officer-allegedly-accessed-child-sexual-exploitation-material",
+      "published_date": "2026-10-27T22:27:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niagara Falls' White Water Walk tops 'most dangerous' North American attractions list",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/niagara-falls-white-water-walk-tops-most-dangerous-north-american-attractions-list",
+      "published_date": "2026-10-27T21:41:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Olivia Chow deserves credit — for one day at least",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mayor-olivia-chow-deserves-credit-for-one-day-at-least",
+      "published_date": "2026-10-27T21:11:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nechako Lakes students elect NDP candidate in mock election",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/nechako-lakes-students-elect-ndp-candidate-in-mock-election/",
+      "published_date": "2026-10-27T20:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Absolutely incredible fish’: Female angler reels in 1,200-lb. sturgeon in Chilliwack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/absolutely-incredible-fish-female-angler-reels-in-1200-lb-sturgeon-in-chilliwack/",
+      "published_date": "2026-10-27T20:21:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shuswap MLA says ‘better days are ahead’ following landslide Conservative win",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/shuswap-mla-says-better-days-are-ahead-following-landslide-conservative-win/",
+      "published_date": "2026-10-27T20:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several B.C. rugby players included in Rugby Canada’s Nations Cup squad",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/several-b-c-rugby-players-included-in-rugby-canadas-nations-cup-squad/",
+      "published_date": "2026-10-27T18:30:00Z",
       "category": "Local Events"
     }
   ]
