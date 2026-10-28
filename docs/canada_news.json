@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T02:03:14Z",
+  "generated_at": "2026-10-28T16:51:17Z",
   "country": "Canada",
-  "total_stories": 55,
+  "total_stories": 57,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ksi Lisims LNG inches closer to green light by turning German utility agreement into firm contract",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/ksi-lisims-lng-bc-north-coast-inches-closer-to-green-light-turning-german-utility-agreement-to-firm-contract",
+      "published_date": "2026-10-28T13:00:59Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "No modifications being made to Canada's Wonderland roller coasters after Georgia death",
       "source": "Toronto Sun",
@@ -67,6 +74,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "U.S. woman guilty of receiving military training from ISIS in Syria",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/us-woman-guilty-receiving-military-training-isis-syria",
+      "published_date": "2026-10-28T16:35:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "Remembering Jesse: South Island crusader killed during Ukraine animal rescue",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/remembering-jesse-south-island-crusader-killed-during-ukraine-animal-rescue/",
+      "published_date": "2026-10-28T13:00:19Z",
+      "category": "Military"
+    },
+    {
       "title": "Dutch zookeeper dies from injuries after leopard attack",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/dutch-zookeeper-dies-from-injuries-after-leopard-attack",
@@ -95,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "Rich kid revolutionary cheering French rioters is a jet-setting influencer",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/infleuncer-cheering-french-rioters",
-      "published_date": "2026-10-21T14:46:06Z",
-      "category": "Military"
-    },
-    {
       "title": "B.C. North Coast LNG project draws nearer to final investment decision",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-north-coast-lng-project-draws-nearer-to-final-investment-decision/",
@@ -114,6 +128,20 @@
       "url": "https://vancouversun.com/news/bc-election-analysis-questions-raised-about-conservative-plan-to-triple-lng-production",
       "published_date": "2026-10-22T13:00:55Z",
       "category": "Energy"
+    },
+    {
+      "title": "Higher tariffs on Canadian imports would be 'catastrophic' to the auto industry, says Honda",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/business/money-news/honda-higher-tariffs-catastrophic-auto-industry",
+      "published_date": "2026-10-28T15:03:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank of Canada hikes key rate for first time in three years",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/bank-of-canada-hikes-key-rate-first-in-three-years",
+      "published_date": "2026-10-28T14:40:40Z",
+      "category": "Economy"
     },
     {
       "title": "Restaurant owners facing 'significant pressure' as sales increase, but profits slide",
@@ -242,18 +270,123 @@
       "category": "Economy"
     },
     {
-      "title": "Jobs, growth, workforce challenges of Cariboo’s mining sector discussed in Williams Lake",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/21/jobs-growth-workforce-challenges-of-cariboos-mining-sector-discussed-in-williams-lake/",
-      "published_date": "2026-10-21T22:25:00Z",
-      "category": "Economy"
+      "title": "Record breaking El Nino may send winter on an extended holiday",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/record-breaking-el-nino-may-send-winter-on-an-extended-holiday",
+      "published_date": "2026-10-28T16:30:01Z",
+      "category": "Local Events"
     },
     {
-      "title": "B.C. Election: Where party leaders stand on wage growth, cost of living and 5 other economic issues",
+      "title": "10% of Canadians wait until day before, day of Halloween to buy candy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/10-per-cent-canadians-wait-to-buy-halloween-candy",
+      "published_date": "2026-10-28T16:24:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro Vancouver&#039;s Halloween forecast: Ghosts, goblins, princesses will face a chance of showers",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-2026-leaders-economic-business-issues",
-      "published_date": "2026-10-21T13:00:04Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/halloween-weather-bc-metro-vancouver",
+      "published_date": "2026-10-28T16:18:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MP turned councillor wants to get Scarborough North moving",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/shaun-chen-election-win-scarborough-north",
+      "published_date": "2026-10-28T16:15:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PROJECT MATRIX: Gun and drug trafficking investigation leads to 44 arrests in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/project-matrix-gun-and-drug-trafficking-investigation-leads-to-44-arrests-in-toronto",
+      "published_date": "2026-10-28T15:42:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garth Brooks to perform pair of December shows in Hamilton where he 'loves' playing",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/garth-brooks-december-shows-hamilton",
+      "published_date": "2026-10-28T15:35:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fundraiser for injured Belleville cop nears $1M in donations",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/fundraiser-injured-belleville-cop-1m-donations",
+      "published_date": "2026-10-28T15:21:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rick Hansen guest of honour at exclusive documentary screening in Williams Lake",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/rick-hansen-guest-of-honour-at-exclusive-documentary-screening-in-williams-lake/",
+      "published_date": "2026-10-28T15:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "School trustee candidates tied 337-337 for Kamloops-Thompson seat. Will they have to toss a coin?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/school-trustee-candidates-kamloops-tied",
+      "published_date": "2026-10-28T15:03:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two seniors lost almost $100,000 in cash and jewelry in separate blessing scams: VPD",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-crime-news-october-28-2026",
+      "published_date": "2026-10-28T14:37:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victoria tops the nation in DIY Halloween costume searches; Kelowna 3rd, Vancouver 5th",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/victoria-tops-the-nation-in-diy-halloween-costume-searches-kelowna-3rd-vancouver-5th/",
+      "published_date": "2026-10-28T13:56:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Canadians injured in Spain after high-speed train crash leaves at least 68 dead",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/high-speed-train-crash-spain-64-dead",
+      "published_date": "2026-10-28T13:28:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Before Canada builds faster, we need to think with a longer view",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-before-canada-builds-faster-we-need-to-think-longer",
+      "published_date": "2026-10-28T13:00:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Halloween 2026: Here&#039;s where to trick-or-treat indoors in Metro Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/halloween-2026-where-to-trick-or-treat-indoors-metro-vancouver",
+      "published_date": "2026-10-28T13:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One last duty for outgoing Qualicum Beach Mayor Teunis Westbroek",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/one-last-duty-for-outgoing-qualicum-beach-mayor-teunis-westbroek",
+      "published_date": "2026-10-28T13:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cabinet formation a matter of regional and ideological diversity for new B.C. Conservative government",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/cabinet-formation-regional-ideological-diversity-bc-conservative-government",
+      "published_date": "2026-10-28T13:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canucks end 10-game winless skid with thrilling 6-5 OT win over Anaheim Ducks",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/canucks-end-10-game-winless-skid-with-thrilling-6-5-ot-win-over-anaheim-ducks/",
+      "published_date": "2026-10-28T05:09:22Z",
+      "category": "Local Events"
     },
     {
       "title": "B.C.’s snap election held the day after 2020 class of MLAs secured pensions",
@@ -274,125 +407,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/opinion/columnists/vancouver-mayor-ken-sim-abc-party-final-council-meeting",
       "published_date": "2026-10-28T00:19:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. NDP meeting to select new interim leader this week",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/b-c-ndp-meeting-to-select-new-interim-leader-this-week/",
-      "published_date": "2026-10-27T23:52:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Putin Russian rapper killed in mysterious shooting days after wedding",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/pro-putin-russian-rapper-dead-mysterious-shooting",
-      "published_date": "2026-10-27T23:45:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspended Durham constable accused of child luring, sexual exploitation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspended-durham-constable-accused-child-luring",
-      "published_date": "2026-10-27T23:30:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged street racer nabbed by Peel cops; Caledon contractor charged with sex assault",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/alleged-street-racer-nabbed-by-peel-cops",
-      "published_date": "2026-10-27T23:05:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drawing of lots results in new mayor for Village of Lytton",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/drawing-of-lots-results-in-new-mayor-for-village-of-lytton/",
-      "published_date": "2026-10-27T23:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Animals are hidden victims of B.C.’s wildfire season",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-animals-are-hidden-victims-of-b-c-s-wildfire-season",
-      "published_date": "2026-10-27T23:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Princeton council seat determined by a draw",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/princeton-council-seat-determined-by-a-draw/",
-      "published_date": "2026-10-27T22:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Repeat visits by Bruno Mars leave Vancouver restaurant owners surprised and delighted",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/bruno-mars-vancouver-restaurant-anh-and-chi",
-      "published_date": "2026-10-27T22:51:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dead humpback whale seen in area of BC Ferries collision",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/dead-humpback-whale-seen-in-area-of-bc-ferries-collision/",
-      "published_date": "2026-10-27T22:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ted Bundy killed Utah girl in 1974, authorities say",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/ted-bundy-killed-utah-girl-1974-authorities",
-      "published_date": "2026-10-27T22:42:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. RCMP officer allegedly accessed child sexual exploitation material",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-rcmp-officer-allegedly-accessed-child-sexual-exploitation-material",
-      "published_date": "2026-10-27T22:27:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Niagara Falls' White Water Walk tops 'most dangerous' North American attractions list",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/niagara-falls-white-water-walk-tops-most-dangerous-north-american-attractions-list",
-      "published_date": "2026-10-27T21:41:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Olivia Chow deserves credit — for one day at least",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mayor-olivia-chow-deserves-credit-for-one-day-at-least",
-      "published_date": "2026-10-27T21:11:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nechako Lakes students elect NDP candidate in mock election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/nechako-lakes-students-elect-ndp-candidate-in-mock-election/",
-      "published_date": "2026-10-27T20:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Absolutely incredible fish’: Female angler reels in 1,200-lb. sturgeon in Chilliwack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/absolutely-incredible-fish-female-angler-reels-in-1200-lb-sturgeon-in-chilliwack/",
-      "published_date": "2026-10-27T20:21:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shuswap MLA says ‘better days are ahead’ following landslide Conservative win",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/shuswap-mla-says-better-days-are-ahead-following-landslide-conservative-win/",
-      "published_date": "2026-10-27T20:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several B.C. rugby players included in Rugby Canada’s Nations Cup squad",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/several-b-c-rugby-players-included-in-rugby-canadas-nations-cup-squad/",
-      "published_date": "2026-10-27T18:30:00Z",
       "category": "Local Events"
     }
   ]
