@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T02:13:19Z",
+  "generated_at": "2026-10-29T17:06:57Z",
   "country": "Canada",
-  "total_stories": 62,
+  "total_stories": 64,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "The Nature Nut: Canada’s own cuckoo bird",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/the-nature-nut-canadas-own-cuckoo-bird/",
+      "published_date": "2026-10-29T12:30:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Carney's European romance hits the rocks",
       "source": "Toronto Sun",
@@ -95,6 +102,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "THE MOJ: For Canucks forward Brendan Gallagher, coming home is bittersweet",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/the-moj-for-canucks-forward-brendan-gallagher-coming-home-is-bittersweet/",
+      "published_date": "2026-10-29T16:16:31Z",
+      "category": "Military"
+    },
+    {
+      "title": "WARMINGTON: Three people shot in 'violent interaction' during Bridle Path home invasion",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/three-people-shot-bridle-path-home-invasion",
+      "published_date": "2026-10-29T11:35:06Z",
+      "category": "Military"
+    },
+    {
       "title": "U.S. woman guilty of receiving military training from ISIS in Syria",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/us-woman-guilty-receiving-military-training-isis-syria",
@@ -158,11 +179,39 @@
       "category": "Energy"
     },
     {
-      "title": "B.C. Election Analysis: Questions raised about Conservative plan to triple LNG production",
+      "title": "Sold (Bought): Custom-built Lynn Valley home has bonus mortgage-helper suite",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-election-analysis-questions-raised-about-conservative-plan-to-triple-lng-production",
-      "published_date": "2026-10-22T13:00:55Z",
-      "category": "Energy"
+      "url": "https://vancouversun.com/homes/sold-bought-custom-built-lynn-valley-home-has-bonus-mortgage-helper-suite",
+      "published_date": "2026-10-29T16:30:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Taxi service comes to Burns Lake",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/taxi-service-comes-to-burns-lake/",
+      "published_date": "2026-10-29T16:08:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "B.C. Conservatives made big promises on the economy. What does the business community want them to act on first?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/c-conservatives-made-big-promises-on-the-economy-what-does-the-business-community-want-him-to-act-on-first",
+      "published_date": "2026-10-29T13:00:51Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: A historic election, a new government and an opportunity to rebuild B.C.&#039;s main streets",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-a-historic-election-a-new-government-and-an-opportunity-to-rebuild-b-c-s-main-streets",
+      "published_date": "2026-10-29T13:00:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Could I get a visual over-serving, please",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/could-i-get-a-visual-over-serving-please/",
+      "published_date": "2026-10-29T12:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "Bill Gates says AI could make human labour unnecessary, and some may opt to live 'like the Amish'",
@@ -270,39 +319,88 @@
       "category": "Economy"
     },
     {
-      "title": "B.C. NDP Leader David Eby resigns after election defeat",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/bc-ndp-leader-david-eby-resigns",
-      "published_date": "2026-10-25T05:16:51Z",
-      "category": "Economy"
+      "title": "Toronto police seek suspects in 2 separate sex assaults; Bicycle thief sought",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-police-seek-suspects-in-2-separate-sex-assaults",
+      "published_date": "2026-10-29T17:01:52Z",
+      "category": "Local Events"
     },
     {
-      "title": "Eby explains B.C. election call, makes his last pitch to voters in sit-down interview",
+      "title": "B.C. realtor nearing 44 million views from Google photography days",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/23/eby-explains-b-c-election-call-makes-his-last-pitch-to-voters-in-sit-down-interview/",
-      "published_date": "2026-10-24T00:30:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/b-c-realtor-nearing-44-million-views-from-google-photography-days/",
+      "published_date": "2026-10-29T16:48:24Z",
+      "category": "Local Events"
     },
     {
-      "title": "Port of Vancouver hopes expansion under gateway strategy will win back business",
+      "title": "Steelworkers fire back at Stelco owner: 'Damn right we’re colluding with Ottawa'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/steelworkers-fire-back-at-stelco-owner",
+      "published_date": "2026-10-29T16:35:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Fund the fire hall’: MP Caputo brings Barriere’s critical infrastructure needs to Ottawa",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/fund-the-fire-hall-mp-caputo-brings-barrieres-critical-infrastructure-needs-to-ottawa/",
+      "published_date": "2026-10-29T16:20:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How winterizing your home can save you money — and qualify you for rebates",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/port-of-vancouver-contemplating-next-phase-of-gateway-strategy-expansion",
-      "published_date": "2026-10-24T00:24:45Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/homes/how-winterizing-your-home-can-save-you-money-and-qualify-you-for-rebates",
+      "published_date": "2026-10-29T16:06:41Z",
+      "category": "Local Events"
     },
     {
-      "title": "LILLEY: PM Mark Carney's steel spin won't save a single job",
+      "title": "Parts of Hwy. 401 in Scarborough closed due to police investigation",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/prime-minister-mark-carney-steel-spin-wont-save-a-single-job",
-      "published_date": "2026-10-23T22:13:08Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/hwy-401-scarborough-closed-police-investigation",
+      "published_date": "2026-10-29T13:14:05Z",
+      "category": "Local Events"
     },
     {
-      "title": "JARVIS: Ontario Premier Doug Ford spending taxpayer money on self-promotional ads",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/ontario-premier-doug-ford-spending-taxpayer-money-self-promotional-ads",
-      "published_date": "2026-10-23T20:27:53Z",
-      "category": "Economy"
+      "title": "&#039;Disappointed&#039; Brenda Locke reflects on her time as Surrey&#039;s mayor",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/brenda-locke-blames-eby-voter-confusion-loss-surrey",
+      "published_date": "2026-10-29T13:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. whale advocacy group calls for stricter rules to protect whales",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-whale-advocacy-group-calls-for-stricter-rules-to-protect-whales",
+      "published_date": "2026-10-29T13:00:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Children aren&#039;t getting the protection they deserve against the harms of AI",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-children-arent-getting-the-protection-they-deserve-against-the-harms-of-ai",
+      "published_date": "2026-10-29T13:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abbotsford wildlife centre fielding 60 calls a day as sick birds fall from the sky",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/abbotsford-wildlife-centre-fielding-60-calls-a-day-as-sick-birds-fall-from-the-sky",
+      "published_date": "2026-10-29T13:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Low voter turnout reimagined",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/editorial-low-voter-turnout-reimagined/",
+      "published_date": "2026-10-29T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Does your dog actually feel guilty?",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/does-your-dog-actually-feel-guilty/",
+      "published_date": "2026-10-29T12:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "2 youths charged in Whitby movie theatre machete attack",
@@ -358,90 +456,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/bryan-adams-liken-trump-to-a-baby-in-new-single-lake-ontario",
       "published_date": "2026-10-28T20:58:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbotsford border bust nets 52 bricks of drugs",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/abbotsford-border-bust-nets-52-bricks-of-drugs",
-      "published_date": "2026-10-28T20:52:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Darker drives, greater risks: How not ‘falling back’ should change driving habits in B.C.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/darker-drives-greater-risks-how-not-falling-back-should-change-driving-habits-in-b-c/",
-      "published_date": "2026-10-28T20:45:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video shows Florida girl breaking free from alleged kidnapper",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/video-shows-florida-girl-breaking-free-from-alleged-kidnapper",
-      "published_date": "2026-10-28T20:30:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vernon’s SilverStar Mountain voted 5th best ski resort in North America",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/vernons-silverstar-mountain-voted-5th-best-ski-resort-in-north-america/",
-      "published_date": "2026-10-28T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wet’suwet’en First Nation celebrates grand opening of new youth centre",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/wetsuweten-first-nation-celebrates-grand-opening-of-new-youth-centre/",
-      "published_date": "2026-10-28T20:13:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RCMP track woman wanted on warrant to Hope",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/rcmp-track-woman-wanted-on-warrant-to-hope/",
-      "published_date": "2026-10-28T20:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family renews call for information about missing Houston woman",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/family-renews-call-for-information-about-missing-houston-woman/",
-      "published_date": "2026-10-28T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HUNTER: Scarborough mom accused of snatching kids had refugee bid torpedoed",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hunter-scarborough-mom-accused-of-snatching-kids-had-refugee-bid-torpedoed",
-      "published_date": "2026-10-28T19:28:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Critics cheer MAID mental illness ban, but say advance requests a step too far",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/critics-cheer-maid-mental-illness-ban-but-say-advance-requests-a-step-too-far",
-      "published_date": "2026-10-28T19:13:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of bronze vases stolen from gravesites, Burnaby RCMP say",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/hundreds-bronze-vases-stolen-gravesites-burnaby",
-      "published_date": "2026-10-28T19:12:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Florida K-9 nabs burglary suspect in the act, says sheriff's office",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/florida-k-9-nabs-burglary-suspect-in-the-act-says-sheriffs-office",
-      "published_date": "2026-10-28T18:43:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hugh Hefner's widow makes disturbing claims about late Playboy founder: 'HEF WAS HIS OWN EPSTEIN'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/hef-was-his-own-epstein-hugh-hefners-widow-makes-disturbing-claims-about-late-playboy-founder",
-      "published_date": "2026-10-28T18:31:56Z",
       "category": "Local Events"
     }
   ]
