@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T17:06:57Z",
+  "generated_at": "2026-10-30T02:27:10Z",
   "country": "Canada",
-  "total_stories": 64,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -95,13 +95,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "U.S. embassy accuses Canadian leaders of election interference",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/us-embassy-canadian-leaders-election-interference",
-      "published_date": "2026-10-22T21:00:43Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "THE MOJ: For Canucks forward Brendan Gallagher, coming home is bittersweet",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/29/the-moj-for-canucks-forward-brendan-gallagher-coming-home-is-bittersweet/",
@@ -177,6 +170,41 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-north-coast-lng-project-draws-nearer-to-final-investment-decision/",
       "published_date": "2026-10-26T23:17:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "&#039;Give it a pause&#039;: Increasing calls for Metro Vancouver to delay Friday&#039;s budget vote",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/increasing-calls-for-metro-vancouver-to-delay-friday-budget-vote",
+      "published_date": "2026-10-29T23:36:49Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LILLEY: Doug Ford boosts spending again as tariffs drag down Ontario's economy",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/ford-boosts-spending-again-ontario-economy",
+      "published_date": "2026-10-29T23:05:33Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Feds offer $5,000 bonus for trades workers with new certification",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/feds-offer-5000-bonus-trades-workers-new-certification",
+      "published_date": "2026-10-29T21:33:45Z",
+      "category": "Economy"
+    },
+    {
+      "title": "CPKC moves 130 small-town rail workers to Kamloops after housing, cost-of-living issues",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/cpkc-moves-130-small-town-rail-workers-to-kamloops-after-housing-cost-of-living-issues/",
+      "published_date": "2026-10-29T19:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Vancouver names longtime deputy fire chief Robert Weeks to top job",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-deputy-fire-chief-robert-weeks",
+      "published_date": "2026-10-29T18:15:57Z",
+      "category": "Economy"
     },
     {
       "title": "Sold (Bought): Custom-built Lynn Valley home has bonus mortgage-helper suite",
@@ -284,178 +312,143 @@
       "category": "Economy"
     },
     {
-      "title": "Vaughn Palmer: Lorne Doerkson pledges independent review of B.C.&#039;s finances on Day 1",
+      "title": "$55K in support helping victims of Bradley Creek wildfire near Vernon",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/55k-in-support-helping-victims-of-bradley-creek-wildfire-near-vernon/",
+      "published_date": "2026-10-29T23:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Lorne Doerkson promised to repeal DRIPA. He&#039;s not likely to back down now",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/vaughn-palmer-lorne-doerkson-day-one",
-      "published_date": "2026-10-26T22:24:11Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/opinion/vaughn-palmer-indigenous-leaders-threaten-war-dripa",
+      "published_date": "2026-10-29T23:45:15Z",
+      "category": "Local Events"
     },
     {
-      "title": "CHARLEBOIS: Supply management’s chicken import racket?",
+      "title": "Rupert man fined $7.5K for possession of endangered species",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/rupert-man-fined-7-5k-for-possession-of-endangered-species/",
+      "published_date": "2026-10-29T23:16:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Florida sheriff deputy delivers pizza after delivery driver crashes",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/supply-managements-chicken-import-racket",
-      "published_date": "2026-10-26T16:17:36Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/florida-sheriff-deputy-delivers-pizza-after-delivery-driver-crashes",
+      "published_date": "2026-10-29T23:05:02Z",
+      "category": "Local Events"
     },
     {
-      "title": "What is regenerative agriculture and why it might be the future of farming in B.C.",
+      "title": "Opinion: Drop in women&#039;s representation in B.C. legislature is a loss for all British Columbians",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/what-is-regenerative-agriculture-and-why-it-might-be-the-future-of-farming-in-bc",
-      "published_date": "2026-10-26T13:00:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "From rodeo rider to premier-elect: Meet ‘unknown’ BC Conservative leader Lorne Doerkson",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/26/from-rodeo-rider-to-premier-elect-meet-unknown-bc-conservative-leader-lorne-doerkson/",
-      "published_date": "2026-10-26T12:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Doerkson set to become B.C. premier after projected Conservative majority win",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/24/doerkson-set-to-become-b-c-premier-after-projected-conservative-majority-win/",
-      "published_date": "2026-10-25T05:58:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Toronto police seek suspects in 2 separate sex assaults; Bicycle thief sought",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-police-seek-suspects-in-2-separate-sex-assaults",
-      "published_date": "2026-10-29T17:01:52Z",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-drop-in-womens-representation-in-b-c-legislature-is-a-loss-for-all-british-columbians",
+      "published_date": "2026-10-29T23:00:50Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. realtor nearing 44 million views from Google photography days",
+      "title": "Longtime advocate for people with disabilities in Vernon dies",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/b-c-realtor-nearing-44-million-views-from-google-photography-days/",
-      "published_date": "2026-10-29T16:48:24Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/longtime-advocate-for-people-with-disabilities-in-vernon-dies/",
+      "published_date": "2026-10-29T22:58:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Steelworkers fire back at Stelco owner: 'Damn right we’re colluding with Ottawa'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/steelworkers-fire-back-at-stelco-owner",
-      "published_date": "2026-10-29T16:35:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Fund the fire hall’: MP Caputo brings Barriere’s critical infrastructure needs to Ottawa",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/fund-the-fire-hall-mp-caputo-brings-barrieres-critical-infrastructure-needs-to-ottawa/",
-      "published_date": "2026-10-29T16:20:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How winterizing your home can save you money — and qualify you for rebates",
+      "title": "Sir Patrick Stewart, Star Trek and X-Men star with Vancouver ties, dies at 86",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/how-winterizing-your-home-can-save-you-money-and-qualify-you-for-rebates",
-      "published_date": "2026-10-29T16:06:41Z",
+      "url": "https://vancouversun.com/entertainment/sir-patrick-stewart-obituary-vancouver-connection",
+      "published_date": "2026-10-29T22:42:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Parts of Hwy. 401 in Scarborough closed due to police investigation",
+      "title": "Manatee rescued after being stranded in Florida ditch due to king tides",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hwy-401-scarborough-closed-police-investigation",
-      "published_date": "2026-10-29T13:14:05Z",
+      "url": "https://torontosun.com/news/world/manatee-rescued-stranded-florida-ditch-king-tides",
+      "published_date": "2026-10-29T22:31:52Z",
       "category": "Local Events"
     },
     {
-      "title": "&#039;Disappointed&#039; Brenda Locke reflects on her time as Surrey&#039;s mayor",
+      "title": "Emily Carr, Lawren Harris artwork up for auction next month in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/emily-carr-lawren-harris-among-painters-whose-work-is-up-for-auction-toronto-nov-18",
+      "published_date": "2026-10-29T22:22:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. NDP name Jennifer Whiteside as interim leader to replace David Eby after resignation",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/brenda-locke-blames-eby-voter-confusion-loss-surrey",
-      "published_date": "2026-10-29T13:00:55Z",
+      "url": "https://vancouversun.com/news/bc-ndp-name-jennifer-whiteside-interim-leader",
+      "published_date": "2026-10-29T22:22:31Z",
       "category": "Local Events"
     },
     {
-      "title": "B.C. whale advocacy group calls for stricter rules to protect whales",
+      "title": "$840K byelection looms in B.C. city where Conservative was twice elected in October",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/840k-byelection-looms-in-b-c-city-where-conservative-was-twice-elected-in-october/",
+      "published_date": "2026-10-29T22:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From the archives: Patrick Stewart conquers Grouse Grind while filming X-2 in Vancouver",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-whale-advocacy-group-calls-for-stricter-rules-to-protect-whales",
-      "published_date": "2026-10-29T13:00:48Z",
+      "url": "https://vancouversun.com/entertainment/patrick-stewart-conquers-north-shore-grouse-grind-filming-vancouver-hollywood-north",
+      "published_date": "2026-10-29T22:01:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Opinion: Children aren&#039;t getting the protection they deserve against the harms of AI",
+      "title": "Youth sexually assaulted on North York LRT; Toronto man accused of hate crimes",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/youth-sexually-assaulted-north-york-lrt",
+      "published_date": "2026-10-29T21:54:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four men face charges after gunshots ring out in North York",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/four-men-charged-gunshot-north-york",
+      "published_date": "2026-10-29T21:41:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UPDATE: No injuries in large blaze at UBC Okanagan building, fire started due to roof work",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/update-no-injuries-in-large-blaze-at-ubc-okanagan-building-fire-started-due-to-roof-work/",
+      "published_date": "2026-10-29T21:38:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Westminster-Coquitlam MLA named interim leader of B.C. NDP",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/new-westminster-coquitlam-mla-named-interim-leader-of-b-c-ndp/",
+      "published_date": "2026-10-29T21:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. crime news: Vancouver taxi driver assaulted after refusing ride &#124; Horror stabbing deemed terrorism related &#124; Police seek witnesses after car torched, bus vandalized in Surrey",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-children-arent-getting-the-protection-they-deserve-against-the-harms-of-ai",
-      "published_date": "2026-10-29T13:00:43Z",
+      "url": "https://vancouversun.com/news/bc-crime-news-vancouver-taxi-driver-assaulted-after-refusing-ride-police-seek-witnesses-after-car-torched-bus-vandalized-in-surrey",
+      "published_date": "2026-10-29T21:06:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Abbotsford wildlife centre fielding 60 calls a day as sick birds fall from the sky",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/abbotsford-wildlife-centre-fielding-60-calls-a-day-as-sick-birds-fall-from-the-sky",
-      "published_date": "2026-10-29T13:00:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "EDITORIAL: Low voter turnout reimagined",
+      "title": "Man arrested in Quebec after fatal hit-and-run in the South Okanagan",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/editorial-low-voter-turnout-reimagined/",
-      "published_date": "2026-10-29T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/man-arrested-in-quebec-after-fatal-hit-and-run-in-the-south-okanagan/",
+      "published_date": "2026-10-29T20:45:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Does your dog actually feel guilty?",
+      "title": "Shuswap’s Quaaout Lodge begins ‘building back better’ with groundbreaking ceremony",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/does-your-dog-actually-feel-guilty/",
-      "published_date": "2026-10-29T12:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/shuswaps-quaaout-lodge-begins-building-back-better-with-groundbreaking-ceremony/",
+      "published_date": "2026-10-29T19:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "2 youths charged in Whitby movie theatre machete attack",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/2-youths-charged-in-whitby-movie-theatre-machete-attack",
-      "published_date": "2026-10-29T00:35:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senior sought in Scarborough sex assault; Halton cop charged in chase that injured driver",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/senior-sought-in-scarborough-sex-assault",
-      "published_date": "2026-10-28T23:36:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World’s best in figure skating to compete in Kelowna",
+      "title": "Sparwood’s Hadden Kelloway is first known transgender mayor in B.C",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/worlds-best-in-figure-skating-to-compete-in-kelowna/",
-      "published_date": "2026-10-28T23:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Appeals court upholds sentence for Armstrong supervisor who sexually exploited teen",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/appeals-court-upholds-sentence-for-armstrong-supervisor-who-sexually-exploited-teen/",
-      "published_date": "2026-10-28T22:47:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: When Poilievre quoted the government, Robertson cried foul",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/when-poilievre-quoted-the-government-robertson-cried-foul",
-      "published_date": "2026-10-28T22:16:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Richard’s story: When home suddenly becomes scary",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/richards-story-when-home-suddenly-becomes-scary/",
-      "published_date": "2026-10-28T21:36:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teachers in U.S., Australia face time behind bars for sex offences involving students",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/us-australia-teachers-jail-sex-offences-students",
-      "published_date": "2026-10-28T21:15:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bryan Adams likens Donald Trump to 'a baby' in new single Lake Ontario",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bryan-adams-liken-trump-to-a-baby-in-new-single-lake-ontario",
-      "published_date": "2026-10-28T20:58:58Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/sparwoods-hadden-kelloway-is-first-known-transgender-mayor-in-b-c/",
+      "published_date": "2026-10-29T19:28:00Z",
       "category": "Local Events"
     }
   ]
