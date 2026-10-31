@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T02:06:42Z",
+  "generated_at": "2026-10-31T15:53:48Z",
   "country": "Canada",
-  "total_stories": 65,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,20 @@
       "url": "https://torontosun.com/news/national/canada-developing-further-economic-polities-ties-turkiye",
       "published_date": "2026-10-24T17:21:28Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "KINSELLA: Terrorism has evolved since 9/11 – and it's getting harder to fight",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/terrorism-evolved-since-9-11-harder-to-fight",
+      "published_date": "2026-10-31T15:00:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Royal Canadian Legion celebrates 100th anniversary",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/31/royal-canadian-legion-celebrates-100th-anniversary/",
+      "published_date": "2026-10-31T12:30:00Z",
+      "category": "Military"
     },
     {
       "title": "Okanagan College partners with the Royal Canadian Air Force",
@@ -184,6 +198,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-north-coast-lng-project-draws-nearer-to-final-investment-decision/",
       "published_date": "2026-10-26T23:17:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Brian Minter: How and when to prune so you don&#039;t lose next year&#039;s flowers",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/brian-minter-gardening-fall-pruning-tips",
+      "published_date": "2026-10-31T15:00:38Z",
+      "category": "Economy"
     },
     {
       "title": "Feds list Port of Vancouver&#039;s $5.9 billion Roberts Bank Terminal 2 as project of national interest",
@@ -319,11 +340,74 @@
       "category": "Economy"
     },
     {
-      "title": "Restaurant owners facing 'significant pressure' as sales increase, but profits slide",
+      "title": "CHAUDHRI: Spin Master’s Anton Rabie on Canadian business",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-restaurant-owners-facing-significant-cost-pressures",
-      "published_date": "2026-10-27T22:01:26Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/opinion/columnists/chaudhri-spin-masters-anton-rabie-on-canadian-business",
+      "published_date": "2026-10-31T15:30:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: How to host an Italian dinner party, from the food to the wine",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/anthony-gismondi-how-to-host-an-italian-dinner-party-from-the-food-to-the-wine",
+      "published_date": "2026-10-31T15:00:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1964: An escaped convict surrenders to The Vancouver Sun",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1964-an-escaped-convict-surrenders-to-the-vancouver-sun",
+      "published_date": "2026-10-31T15:00:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bookless Club: What costumes have impressed you over the years?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/the-bookless-club-what-costumes-have-impressed-you-over-the-years",
+      "published_date": "2026-10-31T15:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Mafia honey trapped ex-NFL QB using stripper",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/mafia-honey-trapped-ex-nfl-qb-using-stripper",
+      "published_date": "2026-10-31T14:30:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letters to the Vancouver Sun: Poetry in Transit offers &#039;quiet reflection and humanity&#039; for commuters",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/letters/letters-vancouver-sun-poetry-in-transit-offers-quiet-reflection-for-commuters",
+      "published_date": "2026-10-31T14:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aggravation? &#039;Absolutely&#039;: How B.C.&#039;s time change affects businesses on both sides of the border",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/how-bc-time-change-affects-businesses-us-border",
+      "published_date": "2026-10-31T14:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FOREVER FRIEND: Finnigan the 'friendly, gentle and easy-going' dog",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/forever-friend-finnigan-friendly-gentle-easy-going-dog",
+      "published_date": "2026-10-31T13:30:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside the B.C. election: How the Conservatives won, why the NDP failed",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/inside-bc-election-how-conservatives-won-why-ndp-failed",
+      "published_date": "2026-10-31T13:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "QUIZ: A celebration of Halloween horrors",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/31/quiz-a-celebration-of-halloween-horrors/",
+      "published_date": "2026-10-31T11:50:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Vancouver fashion designer &#039;thrilled&#039; after Elle Fanning wears design for Hunger Games press tour",
@@ -393,76 +477,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/30/5-9b-b-c-container-port-expansion-of-national-interest-canadian-government/",
       "published_date": "2026-10-30T19:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Obama-backed doc film focused on Ghana produced by woman with B.C. roots",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/30/obama-backed-doc-film-focused-on-ghana-produced-by-woman-with-b-c-roots/",
-      "published_date": "2026-10-30T19:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victoria owl attacks spark safety warning",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/30/victoria-owl-attacks-spark-safety-warning/",
-      "published_date": "2026-10-30T19:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor-elect Doug McCallum slams Todd Matsumoto&#039;s appointment as Surrey police chief",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/todd-matsumoto-named-permanent-surrey-police-chief",
-      "published_date": "2026-10-30T19:30:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Residents given time to leave Penticton unhoused encampment",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/30/province-clears-residents-of-penticton-encampment-off-highway-97/",
-      "published_date": "2026-10-30T19:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Cops release descriptions of suspects in violent Bridle Path home invasion",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/suspect-descriptions-released-violent-bridle-path-home-invasion",
-      "published_date": "2026-10-30T19:03:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mortley unseats Ridge as Hassan wins 90 per cent in Kingston council races",
-      "source": "YGK News",
-      "url": "https://ygknews.ca/2026/10/30/mortley-unseats-ridge-as-hassan-wins-90-per-cent-in-kingston-council-races/",
-      "published_date": "2026-10-30T18:58:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eye in the sky: Saanich police may use drones over UVic this Halloween",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/30/eye-in-the-sky-saanich-police-may-use-drones-over-uvic-this-halloween/",
-      "published_date": "2026-10-30T18:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.: 15 bestselling books for the week of Oct. 24",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/b-c-15-bestselling-books-for-the-week-of-oct-24-2",
-      "published_date": "2026-10-30T18:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International: 30 bestselling books of the week for Oct. 24",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/international-30-bestselling-books-of-the-week-for-oct-24",
-      "published_date": "2026-10-30T18:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bloor St. W. bike lane removal now complete: Transportation minister",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bloor-street-west-bike-lane-removal-now-complete-minister",
-      "published_date": "2026-10-30T17:10:36Z",
       "category": "Local Events"
     }
   ]
