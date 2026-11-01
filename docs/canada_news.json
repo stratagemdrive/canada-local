@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T15:53:48Z",
+  "generated_at": "2026-11-01T01:58:35Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 68,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "GOLDSTEIN: Mark Carney sucks up to tyrants for trade",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/goldstein-mark-carney-sucks-up-to-tyrants-for-trade",
+      "published_date": "2026-10-31T16:00:33Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "LILLEY: Canada-EU pact remains long on promises, short on answers",
       "source": "Toronto Sun",
@@ -67,11 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Canada developing further economic and political ties with Turkiye",
+      "title": "SMOL: Canadian Forces members wounded in Wainwright fire must not be forgotten",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canada-developing-further-economic-polities-ties-turkiye",
-      "published_date": "2026-10-24T17:21:28Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/opinion/columnists/canadian-forces-members-wounded-wainwright-fire-must-not-be-forgotten",
+      "published_date": "2026-10-31T19:45:27Z",
+      "category": "Military"
     },
     {
       "title": "KINSELLA: Terrorism has evolved since 9/11 – and it's getting harder to fight",
@@ -198,6 +205,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/10/26/b-c-north-coast-lng-project-draws-nearer-to-final-investment-decision/",
       "published_date": "2026-10-26T23:17:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Trump thumped? Midterms look like disaster movie for U.S. President",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/midterms-look-like-disaster-movie-for-trump",
+      "published_date": "2026-10-31T17:00:07Z",
+      "category": "Economy"
     },
     {
       "title": "Brian Minter: How and when to prune so you don&#039;t lose next year&#039;s flowers",
@@ -333,11 +347,60 @@
       "category": "Economy"
     },
     {
-      "title": "Bank of Canada hikes key rate for first time in three years",
+      "title": "No Halloween treats for Canucks, who fall 4-2 to visiting Toronto Maple Leafs",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/31/no-halloween-treats-for-canucks-who-fall-4-2-to-visiting-toronto-maple-leafs/",
+      "published_date": "2026-11-01T01:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. Lions advance to CFL Western Final after 33-26 win over Roughriders",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/31/b-c-lions-advance-to-cfl-western-final-after-33-26-win-over-roughriders/",
+      "published_date": "2026-10-31T23:39:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman stabbed in North York; SIU called after Orillia man injured during wellness check",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/bank-of-canada-hikes-key-rate-first-in-three-years",
-      "published_date": "2026-10-28T14:40:40Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/woman-stabbed-in-north-york-siu-called-after-orillia-man-injured-during-wellness-check",
+      "published_date": "2026-10-31T22:37:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Whitecaps are best in west heading into MLS playoffs, Game 1 at home Nov. 22",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/10/31/whitecaps-are-best-in-west-heading-into-mls-playoffs-game-1-at-home-nov-22/",
+      "published_date": "2026-10-31T22:00:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "There's always next year – Argos lose 25-22 to Winnipeg Blue Bombers",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/theres-always-next-year-argos-lose-25-22-to-winnipeg-blue-bombers",
+      "published_date": "2026-10-31T21:54:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Mark Carney weighs in on U.S. midterms",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/mark-carney-weighs-in-u-s-midterms",
+      "published_date": "2026-10-31T20:36:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four killed, two injured in crash in Puslinch, Ont.: OPP",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/four-killed-two-injured-in-crash-in-puslinch-ont-opp",
+      "published_date": "2026-10-31T20:10:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hunt on for Bridle Path home invasion suspect allegedly shot by accomplice",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/bridle-path-home-invasion-suspect-allegedly-shot-by-accomplice",
+      "published_date": "2026-10-31T17:10:57Z",
+      "category": "Local Events"
     },
     {
       "title": "CHAUDHRI: Spin Master’s Anton Rabie on Canadian business",
@@ -421,62 +484,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/two-caught-pair-sought-unprovoked-scarborough-attack-north-york-sex-assault-arrest",
       "published_date": "2026-10-31T00:56:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Lorne Doerkson bent on getting rid of NDP&#039;s controversial housing bill",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/vaughn-palmer-doerkson-bent-on-getting-rid-of-bill-44",
-      "published_date": "2026-10-30T23:27:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: B.C.&#039;s winter of dark discontentment — aka Pacific time — is about to begin",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-s-winter-of-dark-discontentment-aka-pacific-time-is-about-to-begin",
-      "published_date": "2026-10-30T23:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian researchers still learning about dementia and brain health",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-researchers-dementia-brain-health",
-      "published_date": "2026-10-30T22:18:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drought codes reach record levels nearest B.C.’s worst wildfires in 2026",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/30/drought-codes-reach-record-levels-nearest-b-c-s-worst-wildfires-in-2026/",
-      "published_date": "2026-10-30T21:51:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fake church retreat being used in sinful scam allegedly circulating in Shuswap",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/30/fake-church-retreat-being-used-in-sinful-scam-allegedly-circulating-in-shuswap/",
-      "published_date": "2026-10-30T20:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrest in random Hamilton stabbings; illegal cannabis dispensaries shut down in Steeltown",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/arrest-random-hamilton-stabbings-illegal-cannabis-dispensaries-shut-down",
-      "published_date": "2026-10-30T20:54:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. boy makes NHL debut with Dallas Stars",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/30/b-c-boy-makes-nhl-debut-with-dallas-stars/",
-      "published_date": "2026-10-30T20:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$5.9B B.C. container port expansion of ‘national interest’: Canadian government",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/30/5-9b-b-c-container-port-expansion-of-national-interest-canadian-government/",
-      "published_date": "2026-10-30T19:58:00Z",
       "category": "Local Events"
     }
   ]
