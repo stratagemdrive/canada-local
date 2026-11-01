@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01T01:58:35Z",
+  "generated_at": "2026-11-01T16:55:49Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -72,6 +72,13 @@
       "url": "https://torontosun.com/news/national/air-canada-cutting-more-routes-to-u-s-2027",
       "published_date": "2026-10-26T14:36:32Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "VICTOR DAVIS HANSON: The Ukrainian Gordian Knot",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/the-ukrainian-gordian-knot",
+      "published_date": "2026-11-01T16:06:21Z",
+      "category": "Military"
     },
     {
       "title": "SMOL: Canadian Forces members wounded in Wainwright fire must not be forgotten",
@@ -347,6 +354,76 @@
       "category": "Economy"
     },
     {
+      "title": "Mark Carney calls 6 byelections to be held in December",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/mark-carney-calls-6-byelections-to-be-held-in-december",
+      "published_date": "2026-11-01T16:44:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHARLEBOIS: A price freeze that doesn’t freeze your grocery bill",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/price-freeze-doesnt-freeze-grocery-bill",
+      "published_date": "2026-11-01T16:32:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly half of Toronto drivers say commutes have gotten worse: Study",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/nearly-half-of-toronto-drivers-say-commutes-have-gotten-worse-study",
+      "published_date": "2026-11-01T15:44:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sicko Siblings: Wealthy rapist Alexander brothers' evil perversions",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/sicko-siblings-wealthy-rapist-alexander-brothers-evil-perversions",
+      "published_date": "2026-11-01T15:39:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: It’s time to put the enforcement back into law enforcement",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/time-to-put-the-enforcement-back-into-law-enforcement",
+      "published_date": "2026-11-01T15:24:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "It&#039;s a prime time for classical music in Vancouver. Here&#039;s what to see in November",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/vancouver-classical-music-concerts-november-2026",
+      "published_date": "2026-11-01T15:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "It&#039;s a crazy good month for Vancouver theatre. Here are 6 plays to see in November",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/theatre-six-must-see-plays-in-november",
+      "published_date": "2026-11-01T15:00:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Get the look: The secret to finding (and using) a flawless concealer",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/get-the-look-the-secret-to-finding-and-using-a-flawless-concealer",
+      "published_date": "2026-11-01T15:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 10 must-see concerts in Vancouver this November",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/the-10-must-see-concerts-in-vancouver-this-november",
+      "published_date": "2026-11-01T13:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Majority of Metro Vancouver homes selling at below assessed value",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/real-estate/metro-vancouver-homes-selling-below-assessed-value",
+      "published_date": "2026-11-01T13:00:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "No Halloween treats for Canucks, who fall 4-2 to visiting Toronto Maple Leafs",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/31/no-halloween-treats-for-canucks-who-fall-4-2-to-visiting-toronto-maple-leafs/",
@@ -414,76 +491,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/life/anthony-gismondi-how-to-host-an-italian-dinner-party-from-the-food-to-the-wine",
       "published_date": "2026-10-31T15:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1964: An escaped convict surrenders to The Vancouver Sun",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1964-an-escaped-convict-surrenders-to-the-vancouver-sun",
-      "published_date": "2026-10-31T15:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bookless Club: What costumes have impressed you over the years?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/the-bookless-club-what-costumes-have-impressed-you-over-the-years",
-      "published_date": "2026-10-31T15:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Mafia honey trapped ex-NFL QB using stripper",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/mafia-honey-trapped-ex-nfl-qb-using-stripper",
-      "published_date": "2026-10-31T14:30:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to the Vancouver Sun: Poetry in Transit offers &#039;quiet reflection and humanity&#039; for commuters",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters/letters-vancouver-sun-poetry-in-transit-offers-quiet-reflection-for-commuters",
-      "published_date": "2026-10-31T14:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aggravation? &#039;Absolutely&#039;: How B.C.&#039;s time change affects businesses on both sides of the border",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/how-bc-time-change-affects-businesses-us-border",
-      "published_date": "2026-10-31T14:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FOREVER FRIEND: Finnigan the 'friendly, gentle and easy-going' dog",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/forever-friend-finnigan-friendly-gentle-easy-going-dog",
-      "published_date": "2026-10-31T13:30:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside the B.C. election: How the Conservatives won, why the NDP failed",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/inside-bc-election-how-conservatives-won-why-ndp-failed",
-      "published_date": "2026-10-31T13:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "QUIZ: A celebration of Halloween horrors",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/31/quiz-a-celebration-of-halloween-horrors/",
-      "published_date": "2026-10-31T11:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver fashion designer &#039;thrilled&#039; after Elle Fanning wears design for Hunger Games press tour",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/vancouver-fashion-designer-thrilled-after-elle-fanning-wears-design-for-hunger-games-press-tour",
-      "published_date": "2026-10-31T01:33:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two caught, pair sought for 'unprovoked' Scarborough attack; North York sex assault arrest",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/two-caught-pair-sought-unprovoked-scarborough-attack-north-york-sex-assault-arrest",
-      "published_date": "2026-10-31T00:56:56Z",
       "category": "Local Events"
     }
   ]
