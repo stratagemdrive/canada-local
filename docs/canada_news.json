@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T03:51:47Z",
+  "generated_at": "2026-11-03T18:06:12Z",
   "country": "Canada",
-  "total_stories": 72,
+  "total_stories": 70,
   "categories": [
     "Diplomacy",
     "Military",
@@ -214,25 +214,32 @@
       "category": "Military"
     },
     {
-      "title": "Jet-setting serial rapists the Alexander brothers to be sentenced in New York City",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/jet-setting-serial-rapists-the-alexander-brothers-to-learn-jail-sentences-in-new-york-city",
-      "published_date": "2026-10-27T17:32:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Vancouver Island dog rescuer killed helping animals in war-torn Ukraine",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/27/vancouver-island-dog-rescuer-killed-helping-animals-in-war-torn-ukraine/",
-      "published_date": "2026-10-27T15:07:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Telkwa coal project nears end of environmental assessment phase",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/28/telkwa-coal-project-nears-end-of-environmental-assessment-phase/",
       "published_date": "2026-10-28T18:59:49Z",
       "category": "Energy"
+    },
+    {
+      "title": "Feds ‘all in’ on new Fraser River crossing, whether bridge or tunnel",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/feds-all-in-on-new-fraser-river-crossing-whether-bridge-or-tunnel/",
+      "published_date": "2026-11-03T17:14:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Waymo car spotted in Toronto, sparking concerns",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/waymo-car-spotted-in-toronto-sparking-concerns",
+      "published_date": "2026-11-03T17:05:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "‘A labour of love’: Foundation plans memorial for B.C. hockey player",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/a-labour-of-love-foundation-plans-memorial-for-b-c-hockey-player/",
+      "published_date": "2026-11-03T16:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "U.S. midterms could have big impact on Canada",
@@ -354,25 +361,102 @@
       "category": "Economy"
     },
     {
-      "title": "Opinion: A historic election, a new government and an opportunity to rebuild B.C.&#039;s main streets",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-a-historic-election-a-new-government-and-an-opportunity-to-rebuild-b-c-s-main-streets",
-      "published_date": "2026-10-29T13:00:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Could I get a visual over-serving, please",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/could-i-get-a-visual-over-serving-please/",
-      "published_date": "2026-10-29T12:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bill Gates says AI could make human labour unnecessary, and some may opt to live 'like the Amish'",
+      "title": "McDonald's facing possible class action lawsuit over 'lower-grade' McRib ingredients",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/bill-gates-says-ai-could-make-human-labour-unnecessary-and-some-may-opt-to-live-like-the-amish",
-      "published_date": "2026-10-28T18:20:30Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/world/mcdonalds-class-action-lawsuit-lower-grade-mcrib-ingredients",
+      "published_date": "2026-11-03T17:26:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teen injured after e-scooter, e-bike riders race through Kerrisdale on Halloween",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/teen-injured-e-scooter-e-bike-riders-kerrisdale",
+      "published_date": "2026-11-03T17:25:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lenny Kravitz shuts down rumour he died in Florida Learjet crash",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/celebrity/lenny-kravitz-denies-rumour-died-learjet-crash",
+      "published_date": "2026-11-03T16:59:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Answers few in tragic 2015 cold case murder of Barrie mother of three",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/answers-few-2015-cold-case-murder-barrie-mother",
+      "published_date": "2026-11-03T16:48:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops warn high-risk offender Kevin Koehler, who killed four, back on streets",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/high-risk-offender-kevin-koehler-killed-four-on-streets",
+      "published_date": "2026-11-03T16:36:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man critically injured in shooting in central Surrey",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-injured-shooting-central-surrey",
+      "published_date": "2026-11-03T16:20:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 24, in 'perfect health' dies just three kilometres from finish line of NYC Marathon",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/woman-perfect-health-dies-two-miles-from-finish-line-nyc-marathon",
+      "published_date": "2026-11-03T16:00:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "York Region 'temporarily suspending' Crime Stoppers anonymous tips service",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/york-region-temporarily-suspending-crime-stoppers",
+      "published_date": "2026-11-03T15:54:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man handed 7.5 year sentence for 2017 Oak Bay machete attack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/man-handed-7-5-year-sentence-for-2017-oak-bay-machete-attack/",
+      "published_date": "2026-11-03T15:11:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Author digs into scandalous royal connection kept secret by Shuswap grandmother",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/author-digs-into-scandalous-royal-connection-kept-secret-by-shuswap-grandmother/",
+      "published_date": "2026-11-03T14:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilot, passengers of doomed Florida Learjet identified: ‘THEY LOVED THEIR PEOPLE FIERCELY’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/pilot-passengers-of-doomed-florida-learjet-identified",
+      "published_date": "2026-11-03T14:34:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saanich kid’s book idea balloons to raise funds for groundbreaking cancer research",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/saanich-kids-book-idea-balloons-to-raise-funds-for-groundbreaking-cancer-research/",
+      "published_date": "2026-11-03T13:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Teen found dead at University of Toronto Mississauga campus: SIU",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/teen-found-dead-u-of-t-mississauga-campus-siu",
+      "published_date": "2026-11-03T13:27:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. seizes Vancouver Island couple&#039;s bank accounts, alleges insider trading",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-seizes-vancouver-island-bank-accounts-alleges-insider-trading",
+      "published_date": "2026-11-03T13:00:51Z",
+      "category": "Local Events"
     },
     {
       "title": "Shelter in place issued at University of Toronto's Mississauga campus",
@@ -386,6 +470,13 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-cops-cuff-two-men-sex-assaults",
       "published_date": "2026-11-03T01:46:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops name accused woman in brutal Hamilton poppy drive attack",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/canadian-armed-forces-member-attacked-hamilton",
+      "published_date": "2026-11-03T01:38:17Z",
       "category": "Local Events"
     },
     {
@@ -403,115 +494,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Toronto man facing several charges tied to East York shooting; alleged drunk driver charged in Whitby crash",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-facing-several-charges-tied-to-east-york-shooting-alleged-drunk-driver-charged-in-whitby-crash",
-      "published_date": "2026-11-02T23:51:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "COLUMN: Bubbles, for an intimate evening",
+      "title": "2 charged in homicide of 11-year-old Burnaby boy reported missing in 2025",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/02/bubbles-for-an-intimate-evening-with-popcorn-or-sunday-brunch/",
-      "published_date": "2026-11-02T23:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: B.C. Conservatives signal intent to fast track changes",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-bc-conservatives-signal-intent-fast-track-changes",
-      "published_date": "2026-11-02T23:16:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamilton Police latest force to warn public about tampered Halloween candy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hamilton-police-warn-public-tampered-halloween-candy",
-      "published_date": "2026-11-02T23:04:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 39, charged in child sex offences case worked for Nanaimo hockey team",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/02/man-39-charged-in-child-sex-offences-case-worked-for-nanaimo-hockey-team/",
-      "published_date": "2026-11-02T23:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Beyond the numbers: How should we judge Canada’s next &#039;immigration levels plan&#039;?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-beyond-the-numbers-how-should-we-judge-canadas-next-immigration-levels-plan",
-      "published_date": "2026-11-02T23:00:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bruce Springsteen divides fans after endorsing Abdul El-Sayed for Senate",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/bruce-springsteen-divides-fans-after-endorsing-abdul-el-sayed-for-senate",
-      "published_date": "2026-11-02T23:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: How permanent daylight saving time could affect schools",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-how-permanent-daylight-saving-time-could-affect-schools",
-      "published_date": "2026-11-02T23:00:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of OSAP applications came from same IP address: Ministry",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/thousands-of-osap-applications-came-from-same-ip-address-ministry",
-      "published_date": "2026-11-02T22:51:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Life expectancy in B.C. lower in Interior and North than Metro Vancouver, StatCan finds",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/health/life-expectancy-bc-lower-interior-north-than-metro-vancouver-statcan",
-      "published_date": "2026-11-02T22:15:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It’s a great pumpkin! Vancouver Island man grows 805 lb giant",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/02/its-a-great-pumpkin-vancouver-island-man-grows-805-lb-giant/",
-      "published_date": "2026-11-02T21:04:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Permanent daylight time: How does it affect B.C. air travellers?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/permanent-daylight-time-how-does-it-affect-bc-flights-air-travellers",
-      "published_date": "2026-11-02T20:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homicide charges laid in death of missing Burnaby boy, 11",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/homicide-charges-death-missing-burnaby-boy-kai-pavllovic",
-      "published_date": "2026-11-02T20:34:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "15-year sentence for man guilty of 2021 Naramata manslaughter",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/02/15-year-sentence-for-man-guilty-of-2021-naramata-manslaughter/",
-      "published_date": "2026-11-02T20:31:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This caucus is unified’: Doerkson meets with new caucus in Victoria",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/02/this-caucus-is-unified-doerkson-meets-with-new-caucus-in-victoria/",
-      "published_date": "2026-11-02T20:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meghan Markle's father moved to dementia care home amid child pornography probe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/meghan-markles-father-moved-to-dementia-care-home-amid-child-pornography-probe",
-      "published_date": "2026-11-02T20:09:34Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/02/2-charged-in-homicide-of-11-year-old-burnaby-boy-reported-missing-in-2025/",
+      "published_date": "2026-11-02T23:53:00Z",
       "category": "Local Events"
     }
   ]
