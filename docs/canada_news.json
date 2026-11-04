@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T02:56:36Z",
+  "generated_at": "2026-11-04T18:15:35Z",
   "country": "Canada",
-  "total_stories": 70,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "CHARLEBOIS: Hackers turned up the heat on Europe’s grocers. Is Canada ready?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/hackers-turned-up-heat-europes-grocers-canada-ready",
+      "published_date": "2026-11-04T12:27:01Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Vernon, B.C. woman leads Team Canada to gold",
       "source": "Burns Lake District News",
@@ -81,11 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ksi Lisims LNG inches closer to green light by turning German utility agreement into firm contract",
+      "title": "CFB Wainwright: Remains of Pte. Aidan Goulding to be returned to B.C.",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/business/ksi-lisims-lng-bc-north-coast-inches-closer-to-green-light-turning-german-utility-agreement-to-firm-contract",
-      "published_date": "2026-10-28T13:00:59Z",
-      "category": "Diplomacy"
+      "url": "https://vancouversun.com/news/cfb-wainwright-private-aidan-goulding-returned-bc",
+      "published_date": "2026-11-04T17:44:16Z",
+      "category": "Military"
     },
     {
       "title": "Canada Post unveils stamp honouring little-known Chinese Canadian unit from Second World War",
@@ -200,25 +207,18 @@
       "category": "Military"
     },
     {
-      "title": "U.S. woman guilty of receiving military training from ISIS in Syria",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/us-woman-guilty-receiving-military-training-isis-syria",
-      "published_date": "2026-10-28T16:35:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Remembering Jesse: South Island crusader killed during Ukraine animal rescue",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/28/remembering-jesse-south-island-crusader-killed-during-ukraine-animal-rescue/",
-      "published_date": "2026-10-28T13:00:19Z",
-      "category": "Military"
-    },
-    {
       "title": "Telkwa coal project nears end of environmental assessment phase",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/10/28/telkwa-coal-project-nears-end-of-environmental-assessment-phase/",
       "published_date": "2026-10-28T18:59:49Z",
       "category": "Energy"
+    },
+    {
+      "title": "LILLEY: Forget Trump and Washington, here’s the plan to get Canada winning",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/forget-trump-washington-plan-to-get-canada-winning",
+      "published_date": "2026-11-04T18:02:09Z",
+      "category": "Economy"
     },
     {
       "title": "Canadian companies at heart of giant weed merger",
@@ -354,150 +354,143 @@
       "category": "Economy"
     },
     {
-      "title": "Sold (Bought): Custom-built Lynn Valley home has bonus mortgage-helper suite",
+      "title": "The Band&#039;s epic The Last Waltz is set to be recreated in Vancouver",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/sold-bought-custom-built-lynn-valley-home-has-bonus-mortgage-helper-suite",
-      "published_date": "2026-10-29T16:30:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Toronto man charged in human trafficking probe; Hamilton homeowner thwarts intruders",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-man-charged-human-trafficking-durham-region",
-      "published_date": "2026-11-04T01:25:53Z",
+      "url": "https://vancouversun.com/entertainment/the-bands-epic-the-last-waltz-is-set-to-be-recreated-in-vancouver",
+      "published_date": "2026-11-04T18:00:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Prosecutor, accused of emotional affair with former NBA star Tony Parker, reportedly dead by self-inflicted gunshot wound",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/basketball/prosecutor-dead-by-self-inflicted-gunshot-wound",
-      "published_date": "2026-11-04T00:33:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Judge won't give Toronto carjacker 'artificial' sentence to avoid automatic deportation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/judge-wont-give-carjacker-artificial-sentence-to-avoid-automatic-deportation",
-      "published_date": "2026-11-04T00:24:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video shows vehicle almost hit Ohio state troopers during traffic stop",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/video-shows-vehicle-almost-hitting-state-troopers",
-      "published_date": "2026-11-04T00:11:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mark Carney says Russians will 'absolutely' be denied visas for 2027 world juniors",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/russian-visas-will-be-denied-world-juniors-carney",
-      "published_date": "2026-11-03T23:58:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bill Belichick rips reporter after questions about Jordon Hudson split",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/sports/football/do-you-work-for-a-tabloid-now-bill-belichick-reporter-asking-about-jordon-hudson-split",
-      "published_date": "2026-11-03T23:53:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Union of B.C. Municipalities appoints new president after incumbent loses mayoral race",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/union-of-b-c-municipalities-appoints-new-president-after-incumbent-loses-mayoral-race/",
-      "published_date": "2026-11-03T23:05:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. Conservative Party raised nearly $2.5M in the 10 days after Findlay quit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/b-c-conservative-party-raised-nearly-2-5m-in-the-10-days-after-findlay-quit/",
-      "published_date": "2026-11-03T23:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Time to go big’ for B.C. dance music festival, now 3 days and 80,000 projected attendance",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/time-to-go-big-for-b-c-dance-music-festival-now-3-days-in-surrey-next-summer/",
-      "published_date": "2026-11-03T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victoria runner ‘Crazy Legs’ conquers all six Marathon Majors at 76",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/victoria-runner-crazy-legs-conquers-all-six-marathon-majors-at-76/",
-      "published_date": "2026-11-03T21:37:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother and daughter dead after suspected grizzly attack in Bella Coola",
+      "title": "Returning play from Kim&#039;s Convenience creator ushers in a new era for Pacific Theatre",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/grizzly-bear-suspected-after-one-person-found-dead-on-bella-coola-hiking-trail",
-      "published_date": "2026-11-03T21:16:08Z",
+      "url": "https://vancouversun.com/entertainment/pacific-theatre-vancouver-son-of-a-preacherman-2026",
+      "published_date": "2026-11-04T18:00:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Accused in fatal Vancouver Lapu Lapu car-ramming  pleads not guilty to 42 charges",
+      "title": "Highway 39 south of Mackenzie closed due to bus crash, injuries reported",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/accused-in-fatal-vancouver-lapu-lapu-car-ramming-pleads-not-guilty-to-42-charges/",
-      "published_date": "2026-11-03T21:12:47Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/04/highway-39-south-of-mackenzie-closed-due-to-bus-crash-injuries-reported/",
+      "published_date": "2026-11-04T17:37:33Z",
       "category": "Local Events"
     },
     {
-      "title": "1 dead, 1 missing after suspected bear attack near Bella Coola",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/1-dead-1-missing-after-suspected-bear-attack-near-bella-coola/",
-      "published_date": "2026-11-03T21:10:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 sought by RCMP in West Kelowna kidnapping investigation",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/3-sought-by-rcmp-in-west-kelowna-kidnapping-investigation/",
-      "published_date": "2026-11-03T21:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Social media site X can&#039;t be fined for refusing to delete intimate image, B.C. civil tribunal rules",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/x-cant-fined-refusing-delete-intimate-image-bc-civil-tribunal",
-      "published_date": "2026-11-03T19:58:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Milton men, Toronto woman cuffed in vehicle-financing fraud probe",
+      "title": "Petition to make public nudity in Canada legal sponsored by Green Party leader - again",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/two-milton-men-toronto-woman-cuffed-in-a-vehicle-financing-fraud-probe",
-      "published_date": "2026-11-03T19:39:08Z",
+      "url": "https://torontosun.com/news/national/petition-make-public-nudity-legal-sponsored-green-party-leader-again",
+      "published_date": "2026-11-04T17:37:04Z",
       "category": "Local Events"
     },
     {
-      "title": "FVDED in the Park in Surrey: What to know about the extended 2027 EDM festival",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/fvded-in-the-park-2027-surrey-what-you-need-to-know-about-extended-edm-festival",
-      "published_date": "2026-11-03T19:22:38Z",
+      "title": "U.S. voters reject Republicans decisively in midterm elections",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/us-voters-reject-republicans-midterm-elections",
+      "published_date": "2026-11-04T17:31:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Water level low in Okanagan Lake",
+      "title": "No more 'snap, crackle and pop'. Rice Krispies recipe change met with public scorn in the U.K.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/life/food/rice-krispies-recipe-change-public-scorn-uk",
+      "published_date": "2026-11-04T17:27:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In remembrance of Jessie Adams: How to be a superhero",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/water-level-low-in-okanagan-lake/",
-      "published_date": "2026-11-03T19:18:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/04/in-remembrance-of-jessie-adams-how-to-be-a-superhero/",
+      "published_date": "2026-11-04T17:22:30Z",
       "category": "Local Events"
     },
     {
-      "title": "‘Heated Rivalry’ star faces questions from B.C. interviewers in The Assembly’s 2nd season",
+      "title": "B.C.’s shellfish producers sue the Village of Cumberland over Baynes Sound pollution",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/heated-rivalry-star-faces-questions-from-b-c-interviewers-in-the-assemblys-2nd-season/",
-      "published_date": "2026-11-03T18:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/04/b-c-s-shellfish-producers-sue-the-village-of-cumberland-over-baynes-sound-pollution/",
+      "published_date": "2026-11-04T17:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "These are the 3 best beauty products we tried this week from Chanel, Watier and RoC",
+      "title": "More than 20 kilos of illicit drugs seized in raids near Rogers Centre",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/illicit-drugs-seized-raids-near-rogers-centre-toronto",
+      "published_date": "2026-11-04T16:58:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian hockey players won’t be granted visas for World Juniors in Alberta: Carney",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/04/russian-hockey-players-wont-be-granted-visas-for-world-juniors-in-alberta-carney/",
+      "published_date": "2026-11-04T16:44:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HUNTER: Ontario's suspected serial killer Snow heading to trial for cold case murder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/suspected-serial-killer-snow-heading-to-trial",
+      "published_date": "2026-11-04T16:13:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transit alert: Fire near Gilmore Station forces closure on SkyTrain Millennium line",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/these-are-the-3-best-beauty-products-we-tried-this-week-from-chanel-watier-and-roc",
-      "published_date": "2026-11-03T18:00:23Z",
+      "url": "https://vancouversun.com/news/transit-alert-fire-near-gilmore-station-closure-skytrain-millennium-line",
+      "published_date": "2026-11-04T16:10:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Citizens helping Hamilton cops crack down on criminal activity",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/citizens-helping-hamilton-cops-crack-down-criminal-activity-drug-trafficking",
+      "published_date": "2026-11-04T15:53:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Burns Lake council officially sworn in",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/04/new-burns-lake-council-officially-sworn-in/",
+      "published_date": "2026-11-04T15:38:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stranger allegedly tried to force his way into woman's Scarborough home",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/stranger-allegedly-tried-to-force-his-way-into-womans-scarborough-home",
+      "published_date": "2026-11-04T14:48:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cheslatta Carrier Nation’s Forestry Operations – FOM ID: Map #GF6037, #GF6041",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/04/cheslatta-carrier-nations-forestry-operations-fom-id-map-gf6037-gf6041/",
+      "published_date": "2026-11-04T14:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Despite lull in Surrey extortion shootings, police not slowing down",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-extortion-shootings-update",
+      "published_date": "2026-11-04T13:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Port of Vancouver CEO vows expansion plans will come with increased reliability",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/business/port-of-vancouver-ceo-vows-expansion-plans-will-come-with-increased-reliability",
+      "published_date": "2026-11-04T13:00:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Smashing Pumpkins in Vancouver: What to know about the show",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/the-smashing-pumpkins-in-vancouver-what-to-know-about-the-show",
+      "published_date": "2026-11-04T13:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Vancouver&#039;s monuments to sacrifice should be maintained and explained",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-vancouvers-monuments-to-sacrifice-should-be-maintained-and-explained",
+      "published_date": "2026-11-04T13:00:13Z",
       "category": "Local Events"
     }
   ]
