@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T18:20:55Z",
+  "generated_at": "2026-11-06T03:17:10Z",
   "country": "Canada",
   "total_stories": 66,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Opinion: Are natural gas royalties capturing a fair public return for B.C.?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-are-natural-gas-royalties-capturing-a-fair-public-return-for-b-c",
+      "published_date": "2026-11-05T23:00:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Doug Ford says Niagara Falls' status quo 'unacceptable;' new mayor wants consultation",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/ford-says-niagara-falls-status-quo-unacceptable-new-mayor-wants-consultation",
+      "published_date": "2026-11-05T21:31:46Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "CHARLEBOIS: Hackers turned up the heat on Europe’s grocers. Is Canada ready?",
       "source": "Toronto Sun",
@@ -193,6 +207,20 @@
       "category": "Energy"
     },
     {
+      "title": "LILLEY: Carney government offers big spending, little reform in Budget 2026",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-government-budget-2026-offers-big-spending-little-reform",
+      "published_date": "2026-11-06T00:15:09Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Federal budget is geared toward boosting business, but continues high deficits",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/federal-budget-is-geared-toward-boosting-business-but-continues-high-deficits/",
+      "published_date": "2026-11-05T22:51:34Z",
+      "category": "Economy"
+    },
+    {
       "title": "Independent Vancouver shoe stores kick back at challenging retail economy to keep marching on",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/life/fashion-beauty/independent-vancouver-shoe-stores-kick-back-at-challenging-retail-economy",
@@ -305,32 +333,109 @@
       "category": "Economy"
     },
     {
-      "title": "&#039;Give it a pause&#039;: Increasing calls for Metro Vancouver to delay Friday&#039;s budget vote",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/increasing-calls-for-metro-vancouver-to-delay-friday-budget-vote",
-      "published_date": "2026-10-29T23:36:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "LILLEY: Doug Ford boosts spending again as tariffs drag down Ontario's economy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/ford-boosts-spending-again-ontario-economy",
-      "published_date": "2026-10-29T23:05:33Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Feds offer $5,000 bonus for trades workers with new certification",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/feds-offer-5000-bonus-trades-workers-new-certification",
-      "published_date": "2026-10-29T21:33:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "CPKC moves 130 small-town rail workers to Kamloops after housing, cost-of-living issues",
+      "title": "Nature Nut: Yet another kind of cuckoo",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/29/cpkc-moves-130-small-town-rail-workers-to-kamloops-after-housing-cost-of-living-issues/",
-      "published_date": "2026-10-29T19:30:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/nature-nut-yet-another-kind-of-cuckoo/",
+      "published_date": "2026-11-06T01:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "North York stabbing victim identified; man accused of assaulting teen at TTC station",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/north-york-stabbing-victim-identified",
+      "published_date": "2026-11-06T01:10:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vernon, B.C., coach leads Canada’s U15 women’s softball team",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/vernon-b-c-coach-leads-canadas-u15-womens-softball-team/",
+      "published_date": "2026-11-06T00:18:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mark Carney to appear in video played at Canadian citizenship ceremonies",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/mark-carney-appear-video-played-canadian-citizenship-ceremonies",
+      "published_date": "2026-11-05T23:42:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Packers' Josh Jacobs says he'll 'roll with the punches' after domestic abuse accusations",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/sports/football/nfl/packers-josh-jacobs-roll-with-punches-abuse-accusations",
+      "published_date": "2026-11-05T23:33:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor Doug McCallum looks to stiffen fines for illegal waste dumping in Surrey",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/mccallum-looks-to-stiffen-fines-for-illegal-waste-dumping-in-surrey",
+      "published_date": "2026-11-05T23:33:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Expect NDP to take its time choosing a new leader",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-expect-ndp-to-take-its-time-choosing-a-new-leader",
+      "published_date": "2026-11-05T23:10:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada to ramp up deportations of illegal immigrants",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canada-ramp-up-deportation-illegal-immigrants",
+      "published_date": "2026-11-05T22:49:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magic in the works for Toronto's annual Santa Claus parade",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/magic-work-shop-toronto-annual-santa-claus-parade",
+      "published_date": "2026-11-05T22:20:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexican judge accused of aiding release of Ryan Wedding's right-hand man",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/mexican-judge-arrest-release-ryan-wedding-right-hand-man",
+      "published_date": "2026-11-05T20:45:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Toronto,' 'Quebec,' 'charcuterie' among Canada’s most mispronounced words",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/toronto-quebec-charcuterie-among-canadas-most-mispronounced-words",
+      "published_date": "2026-11-05T20:38:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UVic sociologist weighs in on rise of white nationalists in B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/uvic-sociologist-weighs-in-on-rise-of-white-nationalists-in-b-c/",
+      "published_date": "2026-11-05T19:40:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "National pizzeria chain with Abbotsford roots celebrates 40th birthday",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/national-pizzeria-chain-with-abbotsford-roots-celebrates-40th-birthday/",
+      "published_date": "2026-11-05T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "25 Canadian Armed Forces members remain in hospital after Wainwright fire",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/25-canadian-armed-forces-members-remain-in-hospital-after-wainwright-fire/",
+      "published_date": "2026-11-05T18:55:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Youth guilty of manslaughter in Queen St. shooting of rapper Smoke Dawg",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/youth-guilty-manslaughter-shooting-smoke-dawg",
+      "published_date": "2026-11-05T18:37:39Z",
+      "category": "Local Events"
     },
     {
       "title": "Canadian passport ranks in Top 5 among Commonwealth nations",
@@ -365,111 +470,6 @@
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/11/05/rcmp-issues-warning-after-needle-found-in-halloween-candy-in-north-cowichan-on-vancouver-island/",
       "published_date": "2026-11-05T17:56:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto's Rush to 'make some new madness' at five Sphere shows in Las Vegas",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/torontos-rush-five-sphere-shows-las-vegas",
-      "published_date": "2026-11-05T17:54:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two arrested, woman sought for Mississauga apartment arsons",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/two-arrested-woman-sought-mississauga-apartment-arsons",
-      "published_date": "2026-11-05T17:29:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bring on the reality TV stars! Hayu FanFest is making its Toronto debut on March 20",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hayu-fanfest-toronto-debut-march-20",
-      "published_date": "2026-11-05T17:24:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roughly 150K ballots still to be counted in B.C. election",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/roughly-150k-ballots-still-to-be-counted-in-b-c-election/",
-      "published_date": "2026-11-05T16:59:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smithers teacher profiled in new Mansbridge book",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/smithers-teacher-profiled-in-new-mansbridge-book/",
-      "published_date": "2026-11-05T16:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Property Watch: New Westminster’s Historic Rostrevor House offers a rare opportunity to own a piece of the past",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/property-watch-new-westminsters-historic-rostrevor-house-offers-a-rare-opportunity-to-own-a-piece-of-the-past",
-      "published_date": "2026-11-05T16:30:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sherritt to temporarily lay off half of its Canadian workers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/business/money-news/sherritt-temporarily-lay-off-half-canadian-workers",
-      "published_date": "2026-11-05T16:16:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bon Jovi's Forever Tour adds second date at Toronto's Rogers Stadium on Aug. 7",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bon-jovis-forever-tour-adds-second-date",
-      "published_date": "2026-11-05T16:14:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HUNTER: Hamilton cadet leader left 'immobile' in 'devastating' attack by woman and boy",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/hamilton-cadet-leader-immobile-attack-by-woman-boy",
-      "published_date": "2026-11-05T15:56:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burns Lake Fire Rescue battles live fire in 22-hour intensive training event",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/burns-lake-fire-rescue-battles-live-fire-in-22-hour-intensive-training-event/",
-      "published_date": "2026-11-05T14:27:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Film shot in Penticton to debut on Netflix",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/film-shot-in-penticton-to-debut-on-netflix/",
-      "published_date": "2026-11-05T14:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Referendum done, discontent not",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/referendum-done-discontent-not/",
-      "published_date": "2026-11-05T13:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Truth or consequences: A moral dilemma",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/truth-or-consequences-a-moral-dilemma/",
-      "published_date": "2026-11-05T13:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chronic illness clinic in B.C. ‘a shadow of what it used to be’ after fee changes",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/05/chronic-illness-clinic-in-b-c-a-shadow-of-what-it-used-to-be-after-fee-changes/",
-      "published_date": "2026-11-05T13:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Being prepared means staying safe on the mountains: North Shore Rescue",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/be-prepared-stay-safe-north-shore-rescue",
-      "published_date": "2026-11-05T13:00:55Z",
       "category": "Local Events"
     }
   ]
