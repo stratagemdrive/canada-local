@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T02:37:11Z",
+  "generated_at": "2026-11-07T16:39:54Z",
   "country": "Canada",
-  "total_stories": 65,
+  "total_stories": 63,
   "categories": [
     "Diplomacy",
     "Military",
@@ -57,13 +57,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/bc-first-nations-file-court-challenge-against-proposed-pacific-link-pipeline",
       "published_date": "2026-11-02T23:01:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GOLDSTEIN: Mark Carney sucks up to tyrants for trade",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/goldstein-mark-carney-sucks-up-to-tyrants-for-trade",
-      "published_date": "2026-10-31T16:00:33Z",
       "category": "Diplomacy"
     },
     {
@@ -179,25 +172,25 @@
       "category": "Military"
     },
     {
-      "title": "KINSELLA: Terrorism has evolved since 9/11 – and it's getting harder to fight",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/terrorism-evolved-since-9-11-harder-to-fight",
-      "published_date": "2026-10-31T15:00:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Royal Canadian Legion celebrates 100th anniversary",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/10/31/royal-canadian-legion-celebrates-100th-anniversary/",
-      "published_date": "2026-10-31T12:30:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Kitimat presses BCUC to ease burden of natural gas infrastructure costs",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/11/04/kitimat-presses-bcuc-to-ease-burden-of-natural-gas-infrastructure-costs/",
       "published_date": "2026-11-04T21:45:22Z",
       "category": "Energy"
+    },
+    {
+      "title": "OPINION: Mark Carney goes over budget again and taxpayers pay the price",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-goes-over-budget-again-taxpayers-pay-price",
+      "published_date": "2026-11-07T15:51:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Federal budget&#039;s $6.5 billion commitment to forestry comes at &#039;critical time&#039;",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/federal-budgets-6-5-billion-commitment-to-forestry-comes-at-critical-time",
+      "published_date": "2026-11-07T15:00:22Z",
+      "category": "Economy"
     },
     {
       "title": "Vaughn Palmer: Bridge promise could cost even more than wildly over-budget tunnel",
@@ -319,11 +312,95 @@
       "category": "Economy"
     },
     {
-      "title": "Brian Minter: How and when to prune so you don&#039;t lose next year&#039;s flowers",
+      "title": "It&#039;s not over, B.C. Hydro warns of storm systems",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/brian-minter-gardening-fall-pruning-tips",
-      "published_date": "2026-10-31T15:00:38Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/news/its-not-over-b-c-hydro-warns-of-storm-systems",
+      "published_date": "2026-11-07T16:34:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KINSELLA: World better off once Donald Trump becomes a private citizen again",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/world-better-off-once-donald-trump-private-citizen",
+      "published_date": "2026-11-07T16:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Before Jeffrey Epstein, boys were raped at Michigan's Pedo Island",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-before-jeffrey-epstein-boys-were-raped-at-michigans-pedo-island",
+      "published_date": "2026-11-07T15:30:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Allison Russell returns home to Canada ready to sing In The Hour of Chaos",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/allison-russell-returns-home-to-canada-ready-to-sing-in-the-hour-of-chaos",
+      "published_date": "2026-11-07T15:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Charges in death of &#039;smiling, bright&#039; 11-year-old boy leave his B.C. community stunned",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/charges-in-death-of-smiling-bright-11-year-old-boy-leaves-his-bc-community-stunned",
+      "published_date": "2026-11-07T15:00:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man whose Mission home was forfeited to government owes $300,000 for storage",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/man-whose-mission-home-was-forfeited-to-government-owes-300000-for-storage-of-belongings",
+      "published_date": "2026-11-07T15:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letters to the Vancouver Sun: Preserving monuments in honour of those who served is our duty",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/letters-to-the-vancouver-sun-preserving-monuments-in-honour-of-those-who-served-is-our-duty",
+      "published_date": "2026-11-07T15:00:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: B.C.’s dirty money problem hasn’t gone away. It&#039;s time to act",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-dirty-money-problem-hasnt-gone-away-its-time-to-act",
+      "published_date": "2026-11-07T15:00:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Electrified Lego: How B.C. investors battled a few bombs to turn the block world on its head",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/west-vancouver-inventors-reimagine-genius-lego-sparkblocks",
+      "published_date": "2026-11-07T15:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1917: A future Seaforth Highlander is sent to the &#039;suicide squad&#039; on the Western front",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1917-future-seaforth-highlander-sent-to-suicide-squad-western-front",
+      "published_date": "2026-11-07T15:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto guitar teacher stages third cancer research-treatment fundraiser at Massey Hall",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-guitar-teacher-stages-third-cancer-research-treatment-fundraiser-massey-hall",
+      "published_date": "2026-11-07T14:11:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: These B.C. picks capture the quiet revolution of Chardonnay",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/anthony-gismondi-these-bc-picks-capture-quiet-revolution-of-chardonnay",
+      "published_date": "2026-11-07T14:00:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: OPP not laying murder charges against home invasion victim a wake-up call for criminal world",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/opp-not-laying-murder-charges-against-home-invasion-victim-wake-up-call-criminal-world",
+      "published_date": "2026-11-07T14:00:19Z",
+      "category": "Local Events"
     },
     {
       "title": "Funds being raised for Okanagan flagger hit by car in work zone",
@@ -372,97 +449,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/toronto-fire-chief-calls-provinces-efforts-to-prevent-lithium-ion-battery-fires-good-first-step",
       "published_date": "2026-11-06T21:57:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump names Stephen Miller new Chief of Staff",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/donald-trump-stephen-miller-chief-of-staff",
-      "published_date": "2026-11-06T21:43:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Time between wildfire, storm season getting shorter: BC Hydro report",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/06/time-between-wildfire-storm-season-getting-shorter-bc-hydro-report/",
-      "published_date": "2026-11-06T21:24:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dad of Florida Learjet co-pilot breaks silence after deadly crash: ‘SHE MADE ME SO PROUD’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/dad-of-florida-learjet-co-pilot-breaks-silence-after-deadly-crash-she-made-me-so-proud",
-      "published_date": "2026-11-06T20:41:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "For cyclists, vandalism of city’s bike counter feels like ‘another attack’",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/bicycle-counter-martin-goodman-trail-vandalism",
-      "published_date": "2026-11-06T20:12:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vernon junior football team named Interior Conference Champions",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/06/vernon-junior-football-team-named-interior-conference-champions/",
-      "published_date": "2026-11-06T20:09:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: Tolko sues FortisBC over expropriation of old mill site in Kelowna’s North End",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/06/tolko-sues-fortisbc-over-expropriation-of-old-mill-site-in-kelownas-north-end/",
-      "published_date": "2026-11-06T19:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nick Cave announces Vancouver show: Here&#039;s what you need to know",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/nick-cave-vancouver-what-to-know-about-the-show",
-      "published_date": "2026-11-06T18:55:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parole denied – again – for man convicted of 2 historic B.C. killings",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/06/parole-denied-again-for-man-convicted-of-2-historic-b-c-killings/",
-      "published_date": "2026-11-06T18:19:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letterkenny’s Dylan Playfair enters bear country in I Kill the Bear",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/letterkenny-dylan-playfair-i-kill-the-bear-crave",
-      "published_date": "2026-11-06T18:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A &#039;dirtbag&#039; at heart: Paul Bride brings a life of adventure into focus in new photography book",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/a-dirtbag-at-heart-paul-bride-brings-a-life-of-adventure-into-focus-in-new-photography-book",
-      "published_date": "2026-11-06T18:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "These are our favourite Canadian-designed black boots for winter",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/canadian-designed-winter-boots-black",
-      "published_date": "2026-11-06T18:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Canada! Y'all are crazy!' says Garth Brooks after 4th show added in Hamilton on Dec. 3",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/garth-brooks-4th-show-added-hamilton",
-      "published_date": "2026-11-06T17:20:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storm prompts B.C. Ferries cancellations, wind warnings across B.C. South Coast",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/storm-prompts-bc-ferries-cancellations-wind-warnings-bc-south-coast",
-      "published_date": "2026-11-06T17:07:55Z",
       "category": "Local Events"
     }
   ]
