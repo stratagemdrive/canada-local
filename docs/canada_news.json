@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T02:07:18Z",
+  "generated_at": "2026-11-08T16:48:01Z",
   "country": "Canada",
-  "total_stories": 64,
+  "total_stories": 65,
   "categories": [
     "Diplomacy",
     "Military",
@@ -165,11 +165,18 @@
       "category": "Military"
     },
     {
-      "title": "VICTOR DAVIS HANSON: The Ukrainian Gordian Knot",
+      "title": "B.C. storm: B.C. Hydro continues work to restore power to thousands in Metro Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/wind-storm-bc-hydro-power-outages-metro-vancouver-november-2026",
+      "published_date": "2026-11-08T15:50:05Z",
+      "category": "Energy"
+    },
+    {
+      "title": "What's happening to Toronto's November weather?",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/the-ukrainian-gordian-knot",
-      "published_date": "2026-11-01T16:06:21Z",
-      "category": "Military"
+      "url": "https://torontosun.com/news/whats-happening-to-torontos-november-weather",
+      "published_date": "2026-11-08T15:46:38Z",
+      "category": "Energy"
     },
     {
       "title": "Kitimat presses BCUC to ease burden of natural gas infrastructure costs",
@@ -319,6 +326,83 @@
       "category": "Economy"
     },
     {
+      "title": "VICTOR DAVIS HANSON: Why do they despise Musk?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/victor-davis-hanson-why-do-they-despise-musk",
+      "published_date": "2026-11-08T16:11:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "JONAH GOLDBERG: The unfortunate decline of Congress as a deliberative body",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/unfortunate-decline-congress-deliberative-body",
+      "published_date": "2026-11-08T16:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leaves piling up? What Vancouver residents need to know about leaf collection",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-what-homeowners-should-know-leaf-collection-removal",
+      "published_date": "2026-11-08T15:55:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NUTTY BUDDIES! Meet America's wacky radical Democratic Socialists",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/nutty-buddies-meet-americas-wacky-radical-democratic-socialists",
+      "published_date": "2026-11-08T15:31:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A good hair day starts with prep. Here are 5 stylist-approved products",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/heat-protection-spray",
+      "published_date": "2026-11-08T15:00:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "There&#039;s a FreshCo new addition to Vancouver&#039;s Bow Mac sign",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/theres-a-freshco-new-addition-to-vancouvers-bow-mac-sign",
+      "published_date": "2026-11-08T15:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of millions of dollars will go to waste with switch to Massey bridge: Experts",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/hundreds-of-millions-of-dollars-will-go-to-waste-with-switch-to-bridge-experts",
+      "published_date": "2026-11-08T15:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salt Spring chef brings taste of Transylvania to any kitchen",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/08/salt-spring-chef-brings-taste-of-transylvania-to-any-kitchen/",
+      "published_date": "2026-11-08T13:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The storm that cancelled Halloween: Lakes District marks 20 years since the ‘Big Snow’",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/08/the-storm-that-cancelled-halloween-lakes-district-marks-20-years-since-the-big-snow/",
+      "published_date": "2026-11-08T13:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Draisaitl nets 2 as Edmonton Oilers dump Vancouver Canucks 4-2",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/draisaitl-nets-2-as-edmonton-oilers-dump-vancouver-canucks-4-2/",
+      "published_date": "2026-11-08T05:51:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Edmonton Elks beat B.C. Lions 28-16, will meet Montreal in Grey Cup",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/edmonton-elks-beat-b-c-lions-28-16-will-meet-montreal-in-grey-cup/",
+      "published_date": "2026-11-08T02:44:12Z",
+      "category": "Local Events"
+    },
+    {
       "title": "CBC broadcaster who honed culinary teaching skills in Victoria cooks up kitchen manual",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/11/07/cbc-broadcaster-who-honed-culinary-teaching-skills-in-victoria-cooks-up-kitchen-manual/",
@@ -379,83 +463,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/homes/vancouver-designers-rethink-christmas-at-homes-for-the-holidays",
       "published_date": "2026-11-07T16:46:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It&#039;s not over, B.C. Hydro warns of storm systems",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/its-not-over-b-c-hydro-warns-of-storm-systems",
-      "published_date": "2026-11-07T16:34:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.’s first detection of avian influenza this season is in Chilliwack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/b-c-s-first-detection-of-avian-influenza-this-season-is-in-chilliwack/",
-      "published_date": "2026-11-07T16:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "KINSELLA: World better off once Donald Trump becomes a private citizen again",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/world-better-off-once-donald-trump-private-citizen",
-      "published_date": "2026-11-07T16:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CRIME HUNTER: Before Jeffrey Epstein, boys were raped at Michigan's Pedo Island",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/crime-hunter-before-jeffrey-epstein-boys-were-raped-at-michigans-pedo-island",
-      "published_date": "2026-11-07T15:30:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Allison Russell returns home to Canada ready to sing In The Hour of Chaos",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/allison-russell-returns-home-to-canada-ready-to-sing-in-the-hour-of-chaos",
-      "published_date": "2026-11-07T15:00:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charges in death of &#039;smiling, bright&#039; 11-year-old boy leave his B.C. community stunned",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/charges-in-death-of-smiling-bright-11-year-old-boy-leaves-his-bc-community-stunned",
-      "published_date": "2026-11-07T15:00:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man whose Mission home was forfeited to government owes $300,000 for storage",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/man-whose-mission-home-was-forfeited-to-government-owes-300000-for-storage-of-belongings",
-      "published_date": "2026-11-07T15:00:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters to the Vancouver Sun: Preserving monuments in honour of those who served is our duty",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/letters-to-the-vancouver-sun-preserving-monuments-in-honour-of-those-who-served-is-our-duty",
-      "published_date": "2026-11-07T15:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: B.C.’s dirty money problem hasn’t gone away. It&#039;s time to act",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-bc-dirty-money-problem-hasnt-gone-away-its-time-to-act",
-      "published_date": "2026-11-07T15:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electrified Lego: How B.C. investors battled a few bombs to turn the block world on its head",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/west-vancouver-inventors-reimagine-genius-lego-sparkblocks",
-      "published_date": "2026-11-07T15:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Day in History, 1917: A future Seaforth Highlander is sent to the &#039;suicide squad&#039; on the Western front",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/this-day-in-history-1917-future-seaforth-highlander-sent-to-suicide-squad-western-front",
-      "published_date": "2026-11-07T15:00:05Z",
       "category": "Local Events"
     }
   ]
