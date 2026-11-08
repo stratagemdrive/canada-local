@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T16:39:54Z",
+  "generated_at": "2026-11-08T02:07:18Z",
   "country": "Canada",
-  "total_stories": 63,
+  "total_stories": 64,
   "categories": [
     "Diplomacy",
     "Military",
@@ -58,6 +58,13 @@
       "url": "https://vancouversun.com/news/bc-first-nations-file-court-challenge-against-proposed-pacific-link-pipeline",
       "published_date": "2026-11-02T23:01:35Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Lakes District residents asked to help identify fallen WWII soldier",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/lakes-district-residents-asked-to-help-identify-fallen-wwii-soldier/",
+      "published_date": "2026-11-08T01:30:00Z",
+      "category": "Military"
     },
     {
       "title": "Woman stabbed to death in North York, suspect arrested; Peel cops seek more human trafficking victims",
@@ -165,18 +172,25 @@
       "category": "Military"
     },
     {
-      "title": "SMOL: Canadian Forces members wounded in Wainwright fire must not be forgotten",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/canadian-forces-members-wounded-wainwright-fire-must-not-be-forgotten",
-      "published_date": "2026-10-31T19:45:27Z",
-      "category": "Military"
-    },
-    {
       "title": "Kitimat presses BCUC to ease burden of natural gas infrastructure costs",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/11/04/kitimat-presses-bcuc-to-ease-burden-of-natural-gas-infrastructure-costs/",
       "published_date": "2026-11-04T21:45:22Z",
       "category": "Energy"
+    },
+    {
+      "title": "EDITORIAL: Are Liberals repeating immigration blunders?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/carney-liberals-repeating-immigration-blunders",
+      "published_date": "2026-11-07T22:27:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "GOLDSTEIN: Mark Carney budget an exercise in premature self-congratulation",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/mark-carney-budget-masters-of-our-destiny-premature-self-congratulation",
+      "published_date": "2026-11-07T20:09:35Z",
+      "category": "Economy"
     },
     {
       "title": "OPINION: Mark Carney goes over budget again and taxpayers pay the price",
@@ -305,17 +319,80 @@
       "category": "Economy"
     },
     {
-      "title": "Trump thumped? Midterms look like disaster movie for U.S. President",
+      "title": "CBC broadcaster who honed culinary teaching skills in Victoria cooks up kitchen manual",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/cbc-broadcaster-who-honed-culinary-teaching-skills-in-victoria-cooks-up-kitchen-manual/",
+      "published_date": "2026-11-08T01:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Male shot in Etobicoke dies in hospital: Cops",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/midterms-look-like-disaster-movie-for-trump",
-      "published_date": "2026-10-31T17:00:07Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/male-hospital-etobicoke-shooting",
+      "published_date": "2026-11-07T23:44:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman hit by bus, killed while riding e-scooter in Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/woman-hit-by-bus-killed-while-riding-e-scooter-in-vancouver",
+      "published_date": "2026-11-07T22:03:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Male enhancement industry booming but Ontario doctor warns of risks",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/male-enhancement-industry-booming-but-ontario-doctor-warns-of-risks",
+      "published_date": "2026-11-07T20:50:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One grizzly bear captured by conservation officers after Bella Coola attack",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/one-grizzly-bear-captured-bella-coola-attack",
+      "published_date": "2026-11-07T20:04:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family hopes new book gives spark to investigation of missing Indigenous woman from Vancouver Island",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/family-hopes-new-book-gives-spark-to-investigation-of-missing-indigenous-woman-from-vancouver-island/",
+      "published_date": "2026-11-07T19:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "1 grizzly bear captured in Bella Coola following fatal attacks",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/1-grizzly-bear-captured-in-bella-coola-following-fatal-attacks/",
+      "published_date": "2026-11-07T17:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SMOL: Legion’s Poppy Fund should assist Capt. Kenneth Kunkel",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/smol-legions-poppy-fund-should-assist-capt-kenneth-kunkel",
+      "published_date": "2026-11-07T17:19:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver designers rethink festive decor at Homes for the Holidays",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/vancouver-designers-rethink-christmas-at-homes-for-the-holidays",
+      "published_date": "2026-11-07T16:46:38Z",
+      "category": "Local Events"
     },
     {
       "title": "It&#039;s not over, B.C. Hydro warns of storm systems",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/its-not-over-b-c-hydro-warns-of-storm-systems",
       "published_date": "2026-11-07T16:34:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C.’s first detection of avian influenza this season is in Chilliwack",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/b-c-s-first-detection-of-avian-influenza-this-season-is-in-chilliwack/",
+      "published_date": "2026-11-07T16:31:00Z",
       "category": "Local Events"
     },
     {
@@ -379,76 +456,6 @@
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/news/this-day-in-history-1917-future-seaforth-highlander-sent-to-suicide-squad-western-front",
       "published_date": "2026-11-07T15:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto guitar teacher stages third cancer research-treatment fundraiser at Massey Hall",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-guitar-teacher-stages-third-cancer-research-treatment-fundraiser-massey-hall",
-      "published_date": "2026-11-07T14:11:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthony Gismondi: These B.C. picks capture the quiet revolution of Chardonnay",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/anthony-gismondi-these-bc-picks-capture-quiet-revolution-of-chardonnay",
-      "published_date": "2026-11-07T14:00:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: OPP not laying murder charges against home invasion victim a wake-up call for criminal world",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/opp-not-laying-murder-charges-against-home-invasion-victim-wake-up-call-criminal-world",
-      "published_date": "2026-11-07T14:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funds being raised for Okanagan flagger hit by car in work zone",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/06/funds-being-raised-for-okanagan-flagger-hit-by-car-in-work-zone/",
-      "published_date": "2026-11-07T00:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Community generosity surges behind Ice Demons fundraiser for injured Kitimat soldier",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/06/community-generosity-surges-behind-ice-demons-fundraiser-for-injured-kitimat-soldier/",
-      "published_date": "2026-11-06T23:30:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edmonton Police tip helps Toronto cops avert nearly $3M scam",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/edmonton-police-tip-toronto-cops-avert-3m-scam",
-      "published_date": "2026-11-06T23:26:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: PM Mark Carney calls immigration sustainable but numbers say otherwise",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-calls-immigration-sustainable-numbers-say-otherwise",
-      "published_date": "2026-11-06T23:16:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Ottawa has a salmon farm deadline. Now it needs a funded plan.",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/06/opinion-ottawa-has-a-salmon-farm-deadline-now-it-needs-a-funded-plan/",
-      "published_date": "2026-11-06T22:46:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men charged in 2025 Surrey extortion shootings",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/two-men-charged-in-2025-surrey-extortion-shootings",
-      "published_date": "2026-11-06T22:44:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto Fire Chief calls province's efforts to prevent lithium-ion battery fires 'a good first step'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-fire-chief-calls-provinces-efforts-to-prevent-lithium-ion-battery-fires-good-first-step",
-      "published_date": "2026-11-06T21:57:13Z",
       "category": "Local Events"
     }
   ]
