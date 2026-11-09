@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T16:48:01Z",
+  "generated_at": "2026-11-09T02:28:39Z",
   "country": "Canada",
-  "total_stories": 65,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -58,6 +58,20 @@
       "url": "https://vancouversun.com/news/bc-first-nations-file-court-challenge-against-proposed-pacific-link-pipeline",
       "published_date": "2026-11-02T23:01:35Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "B.C. soldier killed in CFB Wainwright fire found ‘purpose, family’ in military, mother says at Vancouver funeral",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/funeral-held-pte-aidan-goulding-vancouver-cfb-wainwright-fire",
+      "published_date": "2026-11-08T23:12:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "Polish prosecutors open terrorism probe into Krakow mass shooting",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/polish-prosecutors-open-terrorism-probe-into-krakow-mass-shooting",
+      "published_date": "2026-11-08T17:06:36Z",
+      "category": "Military"
     },
     {
       "title": "Lakes District residents asked to help identify fallen WWII soldier",
@@ -184,6 +198,13 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/11/04/kitimat-presses-bcuc-to-ease-burden-of-natural-gas-infrastructure-costs/",
       "published_date": "2026-11-04T21:45:22Z",
       "category": "Energy"
+    },
+    {
+      "title": "Federal budget commits $261.8 million to replace the LaSalle Causeway",
+      "source": "YGK News",
+      "url": "https://ygknews.ca/2026/11/08/federal-budget-commits-261-8-million-to-replace-the-lasalle-causeway/",
+      "published_date": "2026-11-08T19:25:32Z",
+      "category": "Economy"
     },
     {
       "title": "EDITORIAL: Are Liberals repeating immigration blunders?",
@@ -319,11 +340,53 @@
       "category": "Economy"
     },
     {
-      "title": "U.S. midterms could have big impact on Canada",
+      "title": "Kelowna firefighters shave heads to support cancer-stricken colleague",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/08/kelowna-firefighters-shave-heads-to-support-cancer-stricken-colleague/",
+      "published_date": "2026-11-09T01:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brampton man latest person charged amid Peel Region's street racing crackdown",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/u-s-midterms-big-impact-canada",
-      "published_date": "2026-11-02T18:01:44Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/brampton-man-charged-peel-region-street-racing",
+      "published_date": "2026-11-08T23:13:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surrey Mayor Doug McCallum calls for immediate action on all campaign promises",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-mayor-doug-mccallum-calls-for-immediate-action-on-all-campaign-promises",
+      "published_date": "2026-11-08T21:44:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cambridge teacher's 43-km walk in support of McMaster Children's Hospital",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/cambridge-teach-walk-supports-mcmaster-childrens-hospital",
+      "published_date": "2026-11-08T20:01:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Corporate titans got white glove World Cup service: City emails",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/google-bmo-city-hall-world-cup",
+      "published_date": "2026-11-08T19:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two allegedly armed men spotted at Mimico GO Station; man stabbed at Toronto nightclub",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-stabbed-at-toronto-nightclub-fire-breaks-out-at-unoccupied-home-in-vaughan",
+      "published_date": "2026-11-08T18:20:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver dies in Surrey after storm brings down tree on Highway 10",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/driver-dies-surrey-after-storm-brings-down-tree-highway-10",
+      "published_date": "2026-11-08T17:49:18Z",
+      "category": "Local Events"
     },
     {
       "title": "VICTOR DAVIS HANSON: Why do they despise Musk?",
@@ -414,55 +477,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/male-hospital-etobicoke-shooting",
       "published_date": "2026-11-07T23:44:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman hit by bus, killed while riding e-scooter in Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/woman-hit-by-bus-killed-while-riding-e-scooter-in-vancouver",
-      "published_date": "2026-11-07T22:03:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Male enhancement industry booming but Ontario doctor warns of risks",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/male-enhancement-industry-booming-but-ontario-doctor-warns-of-risks",
-      "published_date": "2026-11-07T20:50:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One grizzly bear captured by conservation officers after Bella Coola attack",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/one-grizzly-bear-captured-bella-coola-attack",
-      "published_date": "2026-11-07T20:04:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family hopes new book gives spark to investigation of missing Indigenous woman from Vancouver Island",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/family-hopes-new-book-gives-spark-to-investigation-of-missing-indigenous-woman-from-vancouver-island/",
-      "published_date": "2026-11-07T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 grizzly bear captured in Bella Coola following fatal attacks",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/1-grizzly-bear-captured-in-bella-coola-following-fatal-attacks/",
-      "published_date": "2026-11-07T17:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SMOL: Legion’s Poppy Fund should assist Capt. Kenneth Kunkel",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/smol-legions-poppy-fund-should-assist-capt-kenneth-kunkel",
-      "published_date": "2026-11-07T17:19:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver designers rethink festive decor at Homes for the Holidays",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/vancouver-designers-rethink-christmas-at-homes-for-the-holidays",
-      "published_date": "2026-11-07T16:46:38Z",
       "category": "Local Events"
     }
   ]
