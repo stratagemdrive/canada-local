@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T02:28:39Z",
+  "generated_at": "2026-11-09T21:08:50Z",
   "country": "Canada",
-  "total_stories": 67,
+  "total_stories": 66,
   "categories": [
     "Diplomacy",
     "Military",
@@ -165,18 +165,11 @@
       "category": "Military"
     },
     {
-      "title": "HUNTER: Crown, defence paint two portraits of Pearson gold-heist suspect",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/crown-defence-paint-two-portraits-of-pearson-gold-heist-suspect",
-      "published_date": "2026-11-02T19:44:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nanaimo’s closed Diefenbunker is a relic of a time at the edge of nuclear catastrophe",
+      "title": "Power restored to 99% of customers impacted by weekend storms, BC Hydro says",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/02/nanaimos-closed-diefenbunker-is-a-relic-of-a-time-at-the-edge-of-nuclear-catastrophe/",
-      "published_date": "2026-11-02T19:41:55Z",
-      "category": "Military"
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/power-restored-to-99-of-customers-impacted-by-weekend-storms-bc-hydro-says/",
+      "published_date": "2026-11-09T17:01:20Z",
+      "category": "Energy"
     },
     {
       "title": "B.C. storm: B.C. Hydro continues work to restore power to thousands in Metro Vancouver",
@@ -198,6 +191,20 @@
       "url": "https://burnslakelakesdistrictnews.com/2026/11/04/kitimat-presses-bcuc-to-ease-burden-of-natural-gas-infrastructure-costs/",
       "published_date": "2026-11-04T21:45:22Z",
       "category": "Energy"
+    },
+    {
+      "title": "GTA has highest living wage requirements in province: Report",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/gta-highest-living-wage-requirements-province-report",
+      "published_date": "2026-11-09T20:44:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dana White says he’s ‘meeting’ with Trump about press secretary role: 'MORE TO TALK ABOUT'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/dana-white-says-hes-meeting-with-trump-about-press-secretary-role-more-to-talk-about",
+      "published_date": "2026-11-09T18:32:50Z",
+      "category": "Economy"
     },
     {
       "title": "Federal budget commits $261.8 million to replace the LaSalle Causeway",
@@ -326,157 +333,143 @@
       "category": "Economy"
     },
     {
-      "title": "Waymo car spotted in Toronto, sparking concerns",
+      "title": "LILLEY: Carney’s sovereign wealth fund pick is more global than Canadian",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/waymo-car-spotted-in-toronto-sparking-concerns",
-      "published_date": "2026-11-03T17:05:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "‘A labour of love’: Foundation plans memorial for B.C. hockey player",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/a-labour-of-love-foundation-plans-memorial-for-b-c-hockey-player/",
-      "published_date": "2026-11-03T16:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kelowna firefighters shave heads to support cancer-stricken colleague",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/08/kelowna-firefighters-shave-heads-to-support-cancer-stricken-colleague/",
-      "published_date": "2026-11-09T01:14:00Z",
+      "url": "https://torontosun.com/opinion/columnists/carneys-sovereign-wealth-fund-pick-is-more-global-than-canadian",
+      "published_date": "2026-11-09T21:01:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Brampton man latest person charged amid Peel Region's street racing crackdown",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/brampton-man-charged-peel-region-street-racing",
-      "published_date": "2026-11-08T23:13:31Z",
+      "title": "Smithers Chamber manager named Canadian executive of the year",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/smithers-chamber-manager-named-canadian-executive-of-the-year/",
+      "published_date": "2026-11-09T21:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Surrey Mayor Doug McCallum calls for immediate action on all campaign promises",
+      "title": "Poppy sales money stolen from northwestern BC communities",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/poppy-sales-money-stolen-from-northwestern-bc-communities/",
+      "published_date": "2026-11-09T20:35:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meghan Markle’s mother helped FBI identity Thomas Markle in ‘sexually explicit’ photos",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/meghan-markles-mom-doris-ragland-helped-fbi-id-ex-thomas-markle-in-sexually-explicit-photos",
+      "published_date": "2026-11-09T20:30:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Munich to Kyiv: delivering ambulances an extraordinary, sobering journey for Duck Paterson",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/from-munich-to-kyiv-delivering-ambulances-an-extraordinary-sobering-journey-for-duck-paterson/",
+      "published_date": "2026-11-09T20:05:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Milton teens charged after suspicious fire at abandoned building",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/three-milton-teens-charged-after-suspicious-fire-at-abandoned-building",
+      "published_date": "2026-11-09T19:58:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vancouver queens set to chase ultimate crown in Canada&#039;s Drag Race Season 7",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/surrey-mayor-doug-mccallum-calls-for-immediate-action-on-all-campaign-promises",
-      "published_date": "2026-11-08T21:44:20Z",
+      "url": "https://vancouversun.com/entertainment/vancouver-queens-set-to-chase-ultimate-crown-in-canadas-drag-race-season-7",
+      "published_date": "2026-11-09T19:54:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Cambridge teacher's 43-km walk in support of McMaster Children's Hospital",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/cambridge-teach-walk-supports-mcmaster-childrens-hospital",
-      "published_date": "2026-11-08T20:01:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Corporate titans got white glove World Cup service: City emails",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/google-bmo-city-hall-world-cup",
-      "published_date": "2026-11-08T19:00:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two allegedly armed men spotted at Mimico GO Station; man stabbed at Toronto nightclub",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/man-stabbed-at-toronto-nightclub-fire-breaks-out-at-unoccupied-home-in-vaughan",
-      "published_date": "2026-11-08T18:20:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver dies in Surrey after storm brings down tree on Highway 10",
+      "title": "Alan Ritchson teams up with B.C. rapper for new &#039;banger&#039; song, video",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/driver-dies-surrey-after-storm-brings-down-tree-highway-10",
-      "published_date": "2026-11-08T17:49:18Z",
+      "url": "https://vancouversun.com/entertainment/alan-ritchson-sonreal-banger-song-video",
+      "published_date": "2026-11-09T19:47:48Z",
       "category": "Local Events"
     },
     {
-      "title": "VICTOR DAVIS HANSON: Why do they despise Musk?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/victor-davis-hanson-why-do-they-despise-musk",
-      "published_date": "2026-11-08T16:11:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "JONAH GOLDBERG: The unfortunate decline of Congress as a deliberative body",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/unfortunate-decline-congress-deliberative-body",
-      "published_date": "2026-11-08T16:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leaves piling up? What Vancouver residents need to know about leaf collection",
+      "title": "Vandalism prompts all-day closure of Langley elementary school",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/vancouver-what-homeowners-should-know-leaf-collection-removal",
-      "published_date": "2026-11-08T15:55:09Z",
+      "url": "https://vancouversun.com/news/langley-police-investigating-after-vandalism-prompts-all-day-school-closure",
+      "published_date": "2026-11-09T19:38:30Z",
       "category": "Local Events"
     },
     {
-      "title": "NUTTY BUDDIES! Meet America's wacky radical Democratic Socialists",
+      "title": "Dust off your Club Z card: Zellers announces Ontario expansion",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/nutty-buddies-meet-americas-wacky-radical-democratic-socialists",
-      "published_date": "2026-11-08T15:31:53Z",
+      "url": "https://torontosun.com/news/local-news/dust-off-your-club-z-card-zellers-announces-ontario-expansion",
+      "published_date": "2026-11-09T19:29:39Z",
       "category": "Local Events"
     },
     {
-      "title": "A good hair day starts with prep. Here are 5 stylist-approved products",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/heat-protection-spray",
-      "published_date": "2026-11-08T15:00:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "There&#039;s a FreshCo new addition to Vancouver&#039;s Bow Mac sign",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/theres-a-freshco-new-addition-to-vancouvers-bow-mac-sign",
-      "published_date": "2026-11-08T15:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of millions of dollars will go to waste with switch to Massey bridge: Experts",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/hundreds-of-millions-of-dollars-will-go-to-waste-with-switch-to-bridge-experts",
-      "published_date": "2026-11-08T15:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salt Spring chef brings taste of Transylvania to any kitchen",
+      "title": "B.C. Conservative Party flips another seat as mail-in ballots counted",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/08/salt-spring-chef-brings-taste-of-transylvania-to-any-kitchen/",
-      "published_date": "2026-11-08T13:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/b-c-conservative-party-flips-another-seat-as-mail-in-ballots-counted/",
+      "published_date": "2026-11-09T19:15:36Z",
       "category": "Local Events"
     },
     {
-      "title": "The storm that cancelled Halloween: Lakes District marks 20 years since the ‘Big Snow’",
+      "title": "Kitimat RCMP urge vigilance as investigation into reports of man chasing child continues",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/08/the-storm-that-cancelled-halloween-lakes-district-marks-20-years-since-the-big-snow/",
-      "published_date": "2026-11-08T13:30:00Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/kitimat-rcmp-urge-vigilance-as-investigation-into-reports-of-man-chasing-child-continues/",
+      "published_date": "2026-11-09T19:13:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Draisaitl nets 2 as Edmonton Oilers dump Vancouver Canucks 4-2",
+      "title": "Doerkson appoints more staffers, including ex-B.C. Conservative lead Isidorou",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/draisaitl-nets-2-as-edmonton-oilers-dump-vancouver-canucks-4-2/",
-      "published_date": "2026-11-08T05:51:48Z",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/doerkson-appoints-more-staffers-including-ex-b-c-conservative-lead-isidorou/",
+      "published_date": "2026-11-09T19:07:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Edmonton Elks beat B.C. Lions 28-16, will meet Montreal in Grey Cup",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/edmonton-elks-beat-b-c-lions-28-16-will-meet-montreal-in-grey-cup/",
-      "published_date": "2026-11-08T02:44:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CBC broadcaster who honed culinary teaching skills in Victoria cooks up kitchen manual",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/07/cbc-broadcaster-who-honed-culinary-teaching-skills-in-victoria-cooks-up-kitchen-manual/",
-      "published_date": "2026-11-08T01:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Male shot in Etobicoke dies in hospital: Cops",
+      "title": "Is it okay for Torontonians to wear New York or L.A. baseball hats in the city?",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/male-hospital-etobicoke-shooting",
-      "published_date": "2026-11-07T23:44:20Z",
+      "url": "https://torontosun.com/news/local-news/is-it-okay-torontonians-wear-new-york-l-a-baseball-hats",
+      "published_date": "2026-11-09T18:26:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sacred bones of Santa saint stolen, destroyed",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/sacred-bones-of-santa-saint-stolen-destroyed",
+      "published_date": "2026-11-09T18:09:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "K-pop phenomenon Stray Kids are coming to Vancouver in 2027: What to know about the concert",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/k-pop-phenomenon-stray-kids-vancouver-concert-2027",
+      "published_date": "2026-11-09T18:07:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not suspicious: Missing hunter found deceased near Merritt",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/not-suspicious-missing-hunter-found-deceased-near-merritt/",
+      "published_date": "2026-11-09T17:21:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trio arrested after shots fired inside Surrey Central highrise condo",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-crime-news-november-9-2026-trio-arrested-after-shots-fired-inside-surrey-central-condo-complex",
+      "published_date": "2026-11-09T16:51:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Rankin Family reunion tour kicks off with 5 concerts in B.C. next March",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/the-rankin-family-reunion-tour-kicks-off-with-5-concerts-in-b-c-next-march/",
+      "published_date": "2026-11-09T16:41:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bridge Lake woman has baby on the side of Highway 5",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/bridge-lake-women-has-baby-on-the-side-of-highway-5/",
+      "published_date": "2026-11-09T16:37:00Z",
       "category": "Local Events"
     }
   ]
