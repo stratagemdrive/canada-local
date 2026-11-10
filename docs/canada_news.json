@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T04:30:35Z",
+  "generated_at": "2026-11-10T18:19:52Z",
   "country": "Canada",
-  "total_stories": 61,
+  "total_stories": 62,
   "categories": [
     "Diplomacy",
     "Military",
@@ -30,6 +30,13 @@
       "url": "https://torontosun.com/opinion/columnists/hackers-turned-up-heat-europes-grocers-canada-ready",
       "published_date": "2026-11-04T12:27:01Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Doug Ford weighs in on Hamilton cadet attack: 'Whooping in the woodshed'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/doug-ford-hamilton-cadet-attack-whooping-in-woodshed",
+      "published_date": "2026-11-10T17:30:52Z",
+      "category": "Military"
     },
     {
       "title": "B.C. soldier killed in CFB Wainwright fire found ‘purpose, family’ in military, mother says at Vancouver funeral",
@@ -158,6 +165,20 @@
       "category": "Energy"
     },
     {
+      "title": "Canadian support for better ties with China, India, Japan and South Korea is up: Poll",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/canadian-support-china-india-japan-south-korea-up-poll",
+      "published_date": "2026-11-10T16:58:33Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Surrey&#039;s mayor wants to withdraw his city from Metro Vancouver. How much will taxpayers really save?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/surrey-mayor-doug-mccallum-withdraw-his-city-from-metro-vancouver-how-much-will-taxpayers-really-save",
+      "published_date": "2026-11-10T13:00:33Z",
+      "category": "Economy"
+    },
+    {
       "title": "Kelowna MP Stephen Fuhr speaks on federal budget to ‘end homelessness’",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/11/09/kelowna-mp-stephen-fuhr-speaks-on-federal-budget-to-end-homelessness/",
@@ -284,157 +305,143 @@
       "category": "Economy"
     },
     {
-      "title": "Canadian companies at heart of giant weed merger",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadian-companies-at-heart-of-giant-weed-merger",
-      "published_date": "2026-11-03T22:26:45Z",
-      "category": "Economy"
+      "title": "9-year-old Vernon, B.C., DJ ready to spin",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/9-year-old-vernon-b-c-dj-ready-to-spin/",
+      "published_date": "2026-11-10T18:04:25Z",
+      "category": "Local Events"
     },
     {
-      "title": "Mercer International files for bankruptcy, says B.C. operations will continue as usual",
+      "title": "These are the 3 best lip products we tried this week from L&#039;Oréal, Watier and Kiima",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/fashion-beauty/these-are-the-3-best-lip-products-we-tried-this-week-from-loreal-watier-and-kiima",
+      "published_date": "2026-11-10T18:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rain, flood warnings remain in effect for parts of southern B.C.",
       "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/03/mercer-international-files-for-bankruptcy-says-b-c-operations-will-continue-as-usual/",
-      "published_date": "2026-11-03T21:02:00Z",
-      "category": "Economy"
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/heavy-rain-flood-warnings-remain-in-effect-for-parts-of-southern-b-c/",
+      "published_date": "2026-11-10T17:57:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fall Out Boy and Stray Kids announce summer stops at Rogers Stadium in Toronto",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/fall-out-boy-stray-kids-announce-summer-stops-rogers-stadium-toronto",
+      "published_date": "2026-11-10T17:54:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian 'King of Instagram' nabbed tried to sneak into U.S. from Canada",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/crime/iranian-king-of-instagram-nabbed",
+      "published_date": "2026-11-10T17:29:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kitsilano high tea salon set to close after 13 years",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/neverland-tea-salon-closing-vancouver-high-tea",
+      "published_date": "2026-11-10T17:26:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meghan Markle makes first public appearance since dad's arrest",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/meghan-markle-makes-first-public-appearance-since-dads-arrest",
+      "published_date": "2026-11-10T17:05:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hope Search and Rescue volunteer awarded for 40 years of service",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/hope-search-and-rescue-volunteer-awarded-for-service/",
+      "published_date": "2026-11-10T16:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: Disney releases holiday short filmed in Agassiz",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/video-disney-releases-holiday-short-filmed-in-agassiz/",
+      "published_date": "2026-11-10T16:47:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ottawa makes rural immigration program permanent",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/ottawa-makes-rural-immigration-program-permanent",
+      "published_date": "2026-11-10T16:42:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops investigating shooting death in Rexdale",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/cops-investigating-shooting-death-rexdale",
+      "published_date": "2026-11-10T16:10:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. nurse allegedly offered sex to patient claiming it was the drug to good health",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/bc-nurse-allegedly-offered-sex-to-patient",
+      "published_date": "2026-11-10T16:04:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sunfest Country Music Festival announces 2027 lineup: What to know about the four-day event",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/sunfest-country-music-festival-announces-2027-lineup-what-to-know-about-the-concert",
+      "published_date": "2026-11-10T16:00:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Markham Lotto Max winner buying a new car — for his 'suspicious' wife",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/markham-lotto-max-winner-buying-a-new-car-suspicious-wife",
+      "published_date": "2026-11-10T14:41:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamilton woman wins $250K lottery prize year after son’s death: ‘RIGHT THERE WITH ME’",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/hamilton-woman-wins-250k-lottery-prize",
+      "published_date": "2026-11-10T14:10:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "You&#039;re only as good as your last meal at Vancouver&#039;s Sushi Hil restaurant",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/youre-only-as-good-as-your-last-meal-at-sushi-hil-restaurant",
+      "published_date": "2026-11-10T13:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Canada’s science strategy needs to start in the classroom",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-canadas-science-strategy-needs-to-start-in-the-classroom",
+      "published_date": "2026-11-10T13:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Remembrance Day 2026: A guide to Metro Vancouver ceremonies",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/remembrance-day-2026-events-ceremonies-metro-vancouver-lower-mainland",
+      "published_date": "2026-11-10T13:00:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Philadelphia Flyers dump Canucks 3-1 in coach Tocchet’s return to Vancouver",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/philadelphia-flyers-dump-canucks-3-1-in-coach-tocchets-return-to-vancouver/",
+      "published_date": "2026-11-10T05:20:15Z",
+      "category": "Local Events"
     },
     {
       "title": "Mother testifies at inquest into police shooting death of B.C. teen",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/11/09/mother-testifies-at-inquest-into-police-shooting-death-of-b-c-teen/",
       "published_date": "2026-11-10T01:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI probing Nvidia boss' alleged affair with Chinese spy, Donald Trump says",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/fbi-probing-nvidia-boss-affair-chinese-spying",
-      "published_date": "2026-11-10T00:59:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ajax swim instructor accused of sex assault; Toronto charity worker charged with fraud",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ajax-swim-instructor-accused-sex-assault",
-      "published_date": "2026-11-10T00:25:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: No reliable explanation for Brampton Diwali-night house fire",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/no-reliable-explanation-brampton-diwali-house-fre",
-      "published_date": "2026-11-10T00:24:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Recount flips squeaker election night win for NDP in Burnaby South-Metrotown to Conservatives",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/elections-bc-recount-flips-squeaker-election-night-win-for-ndp-in-burnaby-south-metrotown-to-conservatives",
-      "published_date": "2026-11-09T23:47:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Millar Western to indefinitely curtail operations at Quesnel River Pulp mill",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/millar-western-to-indefinitely-curtail-operations-at-quesnel-river-pulp-mill/",
-      "published_date": "2026-11-09T23:41:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbotsford ball spinning record holder featured in 2027 Guinness World Records book",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/abbotsford-ball-spinning-record-holder-featured-in-2027-guinness-world-records-book/",
-      "published_date": "2026-11-09T23:34:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vaughn Palmer: Conservatives flip another seat in final Elections B.C. tally",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-conservatives-flip-another-seat-final-elections-bc-tally",
-      "published_date": "2026-11-09T23:26:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of dollars worth of Lego products among stolen goods seized in Hamilton",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/lego-products-among-stolen-goods-seized-hamilton",
-      "published_date": "2026-11-09T23:02:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Accused cross examined in Kelowna sexual assault re-trial",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/accused-cross-examined-in-kelowna-sexual-assault-re-trial/",
-      "published_date": "2026-11-09T22:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AGAR: OSAP pause leaves private institutions on edge",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/osap",
-      "published_date": "2026-11-09T22:49:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Okanagan Nation blasts former Indigenous healer’s appeal in assault case",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/okanagan-nation-blasts-former-indigenous-healers-appeal-in-assault-case/",
-      "published_date": "2026-11-09T22:20:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More accountability needed after truck in ditch on Highway 5: Clearwater RCMP",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/more-accountability-needed-after-truck-in-ditch-on-highway-5-clearwater-rcmp/",
-      "published_date": "2026-11-09T22:11:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘He was a pioneer’: B.C. DIY expert and radio host Shell Busey dead at age 83",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/shell-busey-obituary",
-      "published_date": "2026-11-09T22:06:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto comedy duo allege they're being evicted 'because we fart too much'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/toronto-comedy-duo-allege-farts-caused-eviction",
-      "published_date": "2026-11-09T22:00:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "L.A.-based Toronto comedian has GTA traffic 'crashout' on social media",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/la-toronto-comedia-gta-traffic-rant",
-      "published_date": "2026-11-09T21:43:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Carney’s sovereign wealth fund pick is more global than Canadian",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carneys-sovereign-wealth-fund-pick-is-more-global-than-canadian",
-      "published_date": "2026-11-09T21:01:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smithers Chamber manager named Canadian executive of the year",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/smithers-chamber-manager-named-canadian-executive-of-the-year/",
-      "published_date": "2026-11-09T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poppy sales money stolen from northwestern BC communities",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/09/poppy-sales-money-stolen-from-northwestern-bc-communities/",
-      "published_date": "2026-11-09T20:35:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meghan Markle’s mother helped FBI identity Thomas Markle in ‘sexually explicit’ photos",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/meghan-markles-mom-doris-ragland-helped-fbi-id-ex-thomas-markle-in-sexually-explicit-photos",
-      "published_date": "2026-11-09T20:30:35Z",
       "category": "Local Events"
     }
   ]
