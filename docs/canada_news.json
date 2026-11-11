@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T02:36:39Z",
+  "generated_at": "2026-11-11T18:09:40Z",
   "country": "Canada",
-  "total_stories": 64,
+  "total_stories": 67,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Carney jets off on eight-day summit world tour after Remembrance Day",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/carney-eight-day-summit-world-tour-after-remembrance-day",
+      "published_date": "2026-11-11T15:18:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Condo Smarts: Don&#039;t overlook heat pump maintenance obligations",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/dont-overlook-heat-pump-maintenance-obligations",
+      "published_date": "2026-11-11T13:14:10Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Alberta First Nation sues B.C. over Site C dam impacts",
       "source": "Burns Lake District News",
@@ -32,11 +46,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "CHARLEBOIS: Hackers turned up the heat on Europe’s grocers. Is Canada ready?",
+      "title": "Three men accused of terrorist attacks, attempted assaults in U.S. and Europe",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/hackers-turned-up-heat-europes-grocers-canada-ready",
-      "published_date": "2026-11-04T12:27:01Z",
-      "category": "Diplomacy"
+      "url": "https://torontosun.com/news/world/three-men-accused-terrorist-attacks-attempted-assaults-us-europe",
+      "published_date": "2026-11-11T16:40:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Chilliwack veteran, 95, recalls dangerous journey to Korean War",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/11/chilliwack-veteran-95-recalls-dangerous-journey-to-korean-war/",
+      "published_date": "2026-11-11T12:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "QUIZ: Considering the effects of war",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/11/quiz-considering-the-effects-of-war/",
+      "published_date": "2026-11-11T11:30:00Z",
+      "category": "Military"
     },
     {
       "title": "LILLEY: Remembering our veterans shouldn't be reserved for one day a year",
@@ -134,13 +162,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/1-in-3-canadians-report-skipping-meals-due-to-grocery-costs-survey",
       "published_date": "2026-11-04T21:45:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "CFB Wainwright: Remains of Pte. Aidan Goulding to be returned to B.C.",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/cfb-wainwright-private-aidan-goulding-returned-bc",
-      "published_date": "2026-11-04T17:44:16Z",
       "category": "Military"
     },
     {
@@ -319,6 +340,111 @@
       "category": "Economy"
     },
     {
+      "title": "Recipe: Cauliflower and sausage pasta bake",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/recipe-cauliflower-and-sausage-pasta-bake",
+      "published_date": "2026-11-11T18:00:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Documentary follows Vancouver athlete’s record-breaking Antarctic triathlon",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/documentary-follows-vancouver-athletes-record-breaking-antarctic-triathlon",
+      "published_date": "2026-11-11T18:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "East Van Panto: Hercules takes on Hades in the No-Fun-Derworld in a Hera-raising tale",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/entertainment/east-van-panto-hercules-takes-on-hades-in-the-no-fun-derworld-in-a-hera-raising-tale",
+      "published_date": "2026-11-11T18:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "L.A. gangster accused of helping Ryan Wedding evade U.S. authorities",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/la-gangster-ryan-wedding-evade-us-authorities",
+      "published_date": "2026-11-11T17:57:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coachella 2027 headliners are Dua Lipa, Tame Impala and SZA: Madonna also on the bill",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/entertainment/music/coachella-2027-headliners-dua-lipa-tame-impala-sza-madonna",
+      "published_date": "2026-11-11T17:25:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "HUNTER: Killers giving lectures? Classmate a sex killer? Welcome to Canada!",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/killers-giving-lectures-welcome-to-canada",
+      "published_date": "2026-11-11T17:18:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Time running out to claim share of $11M CIBC mutual fund settlement",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/time-running-out-11m-cibc-mutual-fund-settlement",
+      "published_date": "2026-11-11T16:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baby found alive buried in a dog crate in South Carolina: 'PURE EVIL'",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/baby-found-alive-buried-dog-crate-south-carolina",
+      "published_date": "2026-11-11T15:58:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Body discovered on Toronto church grounds cold case mystery solved",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/body-church-grounds-cold-case-mystery-solved",
+      "published_date": "2026-11-11T15:05:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The variety of Chinese food in Vancouver is staggering. Here&#039;s a quick guide",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/vancouver-chinese-restaurants-guide",
+      "published_date": "2026-11-11T13:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "One last glow: Lights of Hope display to shine for final time at old St. Paul’s Hospital",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/one-last-glow-lights-of-hope-display-to-shine-for-final-time-at-old-st-pauls-hospital",
+      "published_date": "2026-11-11T13:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What&#039;s open and closed on Remembrance Day 2026 in Metro Vancouver",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/remembrance-day-2026-whats-open-closed-metro-vancouver",
+      "published_date": "2026-11-11T13:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "&#039;Is this the best we can do?&#039;: B.C. mom of boy with muscular dystrophy calls for rare disease strategy",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/bc-mom-of-boy-with-muscular-dystrophy-calls-for-rare-disease-strategy",
+      "published_date": "2026-11-11T13:00:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: Will B.C. still have local newspapers to cover the next election?",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/11/opinion-will-b-c-still-have-local-newspapers-to-cover-the-next-election/",
+      "published_date": "2026-11-11T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LILLEY: Carney says immigration is down — his own numbers tell different story",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/carney-says-immigration-is-down-his-own-numbers-tell-a-different-story",
+      "published_date": "2026-11-11T10:00:19Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Mississauga men cuffed as Peel cops grind coffee machine caper to a halt",
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/mississauga-men-charged-coffee-maker-heist",
@@ -351,111 +477,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/local-news/frantic-crypto-king-called-landlord-for-3-million-to-pay-alleged-kidnappers",
       "published_date": "2026-11-10T23:28:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video captures Danish tourist being sucker-punched on Los Angeles boardwalk",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/video-captures-violent-beating-danish-tourist",
-      "published_date": "2026-11-10T23:18:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body found on Surrey roadside identified as missing teenager",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/body-found-on-sullivan-heights-surrey-roadside-identified-as-missing-teenager",
-      "published_date": "2026-11-10T23:09:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. businesswoman receives US$5K NEXUS fine in crackdown",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/b-c-businesswoman-receives-us5k-nexus-fine-in-crackdown/",
-      "published_date": "2026-11-10T23:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doctors flagged for working too much could have chilling effect: OMA",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/doctors-flagged-working-too-much-chilling-effect",
-      "published_date": "2026-11-10T22:25:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada's most stolen vehicles named in report",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/canadas-most-stolen-vehicles-named-in-report",
-      "published_date": "2026-11-10T20:57:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tickets down in 2026 for B.C. Highway Patrol driving for the conditions campaign",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/tickets-down-in-2026-for-b-c-highway-patrol-driving-for-the-conditions-campaign/",
-      "published_date": "2026-11-10T20:54:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "THE MOJ: B.C. Lions search for answers after another CFL playoff exit",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/the-moj-b-c-lions-search-for-answers-after-another-cfl-playoff-exit/",
-      "published_date": "2026-11-10T20:40:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four grizzlies destroyed in Bella Coola following fatal attack",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/four-grizzlies-destroyed-in-bella-coola-following-fatal-attack/",
-      "published_date": "2026-11-10T19:57:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Predatory&#039; grizzly behaviour blamed in fatal Bella Coola attack",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/predatory-grizzly-behaviour-blamed-fatal-bella-coola-bc-bear-attack",
-      "published_date": "2026-11-10T19:39:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cabot opens 2027 bookings at B.C. Interior golf course for hotel guests only",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/cabot-opens-2027-bookings-at-b-c-interior-golf-course-for-hotel-guests-only/",
-      "published_date": "2026-11-10T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "133 people died in B.C. in September from drug overdoses",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/133-people-died-in-b-c-in-september-from-drug-overdoses/",
-      "published_date": "2026-11-10T19:22:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kelowna BMX rider pedals his way into Canadian Hall of Fame",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/kelowna-bmx-rider-pedals-his-way-into-canadian-hall-of-fame/",
-      "published_date": "2026-11-10T18:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Building blocks of electronics: UVic engineering student plugs the science of building for all ages",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/building-blocks-of-electronics-uvic-engineering-student-plugs-the-science-of-building-for-all-ages/",
-      "published_date": "2026-11-10T18:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver news editor crashes Josh Johnson comedy skit",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/josh-johnson-vancouver-news-editor-comedy-skit-instagram",
-      "published_date": "2026-11-10T18:24:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "9-year-old Vernon, B.C., DJ ready to spin",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/10/9-year-old-vernon-b-c-dj-ready-to-spin/",
-      "published_date": "2026-11-10T18:04:25Z",
       "category": "Local Events"
     }
   ]
