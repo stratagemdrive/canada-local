@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T18:09:40Z",
+  "generated_at": "2026-11-12T03:40:05Z",
   "country": "Canada",
   "total_stories": 67,
   "categories": [
@@ -44,6 +44,20 @@
       "url": "https://torontosun.com/news/local-news/ford-says-niagara-falls-status-quo-unacceptable-new-mayor-wants-consultation",
       "published_date": "2026-11-05T21:31:46Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "WARMINGTON: Toronto's Remembrance Day service puts focus where it should be this time around",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/toronto-remembrance-day-service-excellent",
+      "published_date": "2026-11-12T01:08:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands fill Vancouver&#039;s Victory Square for Remembrance Day service",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/vancouver-victory-square-2026-remembrance-day-service-thousands-attend",
+      "published_date": "2026-11-11T23:17:49Z",
+      "category": "Military"
     },
     {
       "title": "Three men accused of terrorist attacks, attempted assaults in U.S. and Europe",
@@ -151,18 +165,11 @@
       "category": "Military"
     },
     {
-      "title": "Canada's most decorated serviceman honoured once more",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/canada-most-decorated-serviceman-honoured-once-more",
-      "published_date": "2026-11-04T23:29:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "1 in 3 Canadians report skipping meals due to grocery costs: Survey",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/1-in-3-canadians-report-skipping-meals-due-to-grocery-costs-survey",
-      "published_date": "2026-11-04T21:45:53Z",
-      "category": "Military"
+      "title": "Nearly 2,000 Lakes District Hydro customers lose power due to severe windstorms",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/11/nearly-2000-lakes-district-hydro-customers-lose-power-due-to-severe-windstorms/",
+      "published_date": "2026-11-11T22:02:33Z",
+      "category": "Energy"
     },
     {
       "title": "Brewing super El Niño adding fuel to North Okanagan’s water concerns",
@@ -190,13 +197,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/whats-happening-to-torontos-november-weather",
       "published_date": "2026-11-08T15:46:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Kitimat presses BCUC to ease burden of natural gas infrastructure costs",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/04/kitimat-presses-bcuc-to-ease-burden-of-natural-gas-infrastructure-costs/",
-      "published_date": "2026-11-04T21:45:22Z",
       "category": "Energy"
     },
     {
@@ -340,6 +340,97 @@
       "category": "Economy"
     },
     {
+      "title": "Missing teen held captive for nearly 2 years freed after chatting with fellow gamer",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/missing-teen-freed-after-chatting-with-gamer",
+      "published_date": "2026-11-12T01:18:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Connecticut cop honoured after rescuing woman from burning building",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/connecticut-cop-honoured-burning-building-rescue",
+      "published_date": "2026-11-12T00:20:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man sentenced for killing Cash App founder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/man-sentenced-for-killing-cash-app-founder",
+      "published_date": "2026-11-12T00:15:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: House arrest for Ontario impaired drivers who injured others — is that the right message?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/mandel-house-arrest-for-ontario-impaired-drivers-who-injured-others-is-that-the-right-message",
+      "published_date": "2026-11-11T23:33:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michigan firefighters rescue deer stuck in backyard pool",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/weird/michigan-firefighters-rescue-deer-trapped-pool",
+      "published_date": "2026-11-11T22:35:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 alleged Cornwall-area home invaders now charged with murder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/provincial/2-alleged-cornwall-area-home-invaders-now-charged-with-murder",
+      "published_date": "2026-11-11T22:33:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 19, identified as suspected killer in Rexdale murder",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/joseph-kunene-identified-rexdale-murder-suspect",
+      "published_date": "2026-11-11T22:16:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Homicide investigators called in after two people found dead in Vancouver home",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/homicide-investigators-called-in-after-two-people-found-dead-in-vancouver-home",
+      "published_date": "2026-11-11T22:12:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman seriously injured in westside Vancouver hit and run",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/local-news/woman-seriously-injured-in-westside-vancouver-hit-and-run",
+      "published_date": "2026-11-11T21:54:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Booze bandits walk out of Etobicoke LCBO loaded up with top-shelf liquor",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/booze-bandits-filmed-raiding-etobicoke-lcbo",
+      "published_date": "2026-11-11T21:49:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy wind and rainfall warnings in place around B.C.",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/11/heavy-wind-and-rainfall-warnings-in-place-around-b-c/",
+      "published_date": "2026-11-11T21:41:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "B.C. design studios make health care spaces more welcoming and comfortable",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/homes/b-c-design-studios-make-health-care-spaces-more-welcoming-and-comfortable",
+      "published_date": "2026-11-11T20:42:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilot dies in crash during Remembrance Day event near Quebec City",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/national/pilot-dies-in-crash-during-remembrance-day-event-near-quebec-city",
+      "published_date": "2026-11-11T19:28:37Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Recipe: Cauliflower and sausage pasta bake",
       "source": "Vancouver Sun",
       "url": "https://vancouversun.com/life/food/recipe-cauliflower-and-sausage-pasta-bake",
@@ -386,97 +477,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/national/time-running-out-11m-cibc-mutual-fund-settlement",
       "published_date": "2026-11-11T16:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baby found alive buried in a dog crate in South Carolina: 'PURE EVIL'",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/baby-found-alive-buried-dog-crate-south-carolina",
-      "published_date": "2026-11-11T15:58:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body discovered on Toronto church grounds cold case mystery solved",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/body-church-grounds-cold-case-mystery-solved",
-      "published_date": "2026-11-11T15:05:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The variety of Chinese food in Vancouver is staggering. Here&#039;s a quick guide",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/food/vancouver-chinese-restaurants-guide",
-      "published_date": "2026-11-11T13:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One last glow: Lights of Hope display to shine for final time at old St. Paul’s Hospital",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/one-last-glow-lights-of-hope-display-to-shine-for-final-time-at-old-st-pauls-hospital",
-      "published_date": "2026-11-11T13:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What&#039;s open and closed on Remembrance Day 2026 in Metro Vancouver",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/remembrance-day-2026-whats-open-closed-metro-vancouver",
-      "published_date": "2026-11-11T13:00:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "&#039;Is this the best we can do?&#039;: B.C. mom of boy with muscular dystrophy calls for rare disease strategy",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-mom-of-boy-with-muscular-dystrophy-calls-for-rare-disease-strategy",
-      "published_date": "2026-11-11T13:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Will B.C. still have local newspapers to cover the next election?",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/11/opinion-will-b-c-still-have-local-newspapers-to-cover-the-next-election/",
-      "published_date": "2026-11-11T11:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LILLEY: Carney says immigration is down — his own numbers tell different story",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/carney-says-immigration-is-down-his-own-numbers-tell-a-different-story",
-      "published_date": "2026-11-11T10:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga men cuffed as Peel cops grind coffee machine caper to a halt",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mississauga-men-charged-coffee-maker-heist",
-      "published_date": "2026-11-11T02:18:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. coroner&#039;s inquest into police shooting death of autistic teen hears 911 call recording",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/bc-coroners-inquest-into-police-shooting-death-of-autistic-teen-hears-911-call-recording",
-      "published_date": "2026-11-11T01:15:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamilton man charged after $50,000 worth of equipment stolen; elopee on the lam in Toronto",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/crime/hamilton-man-charged-after-50000-worth-of-equipment-stolen",
-      "published_date": "2026-11-11T00:58:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'IT'S A BIG GUY:' Florida deputies wrangle massive alligator taking up parking spot",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/florida-deputies-wrangle-massive-alligator-driveway",
-      "published_date": "2026-11-10T23:31:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MANDEL: Frantic Ontario 'Crypto King' called landlord for $3 million to pay alleged kidnappers",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/frantic-crypto-king-called-landlord-for-3-million-to-pay-alleged-kidnappers",
-      "published_date": "2026-11-10T23:28:56Z",
       "category": "Local Events"
     }
   ]
