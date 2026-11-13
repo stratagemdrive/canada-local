@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T18:37:48Z",
+  "generated_at": "2026-11-13T03:16:26Z",
   "country": "Canada",
-  "total_stories": 68,
+  "total_stories": 69,
   "categories": [
     "Diplomacy",
     "Military",
@@ -32,18 +32,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Opinion: Are natural gas royalties capturing a fair public return for B.C.?",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-are-natural-gas-royalties-capturing-a-fair-public-return-for-b-c",
-      "published_date": "2026-11-05T23:00:57Z",
-      "category": "Diplomacy"
+      "title": "Veteran overcomes PTSD for great uncles at Vernon Remembrance Day",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/veteran-overcomes-ptsd-for-great-uncles-at-vernon-remembrance-day/",
+      "published_date": "2026-11-12T22:09:09Z",
+      "category": "Military"
     },
     {
-      "title": "Doug Ford says Niagara Falls' status quo 'unacceptable;' new mayor wants consultation",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/ford-says-niagara-falls-status-quo-unacceptable-new-mayor-wants-consultation",
-      "published_date": "2026-11-05T21:31:46Z",
-      "category": "Diplomacy"
+      "title": "Kitimat raises $47,749 for injured soldier Trevor Flegel",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/kitimat-raises-47749-for-injured-soldier-trevor-flegel/",
+      "published_date": "2026-11-12T22:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Burns Lake honours service and sacrifice at annual Remembrance Day ceremony",
@@ -172,6 +172,13 @@
       "category": "Military"
     },
     {
+      "title": "Coal exporter disputes use of replacement workers as Prince Rupert longshore strike enters 6th week",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/coal-exporter-disputes-use-of-replacement-workers-as-prince-rupert-longshore-strike-enters-6th-week/",
+      "published_date": "2026-11-12T19:35:12Z",
+      "category": "Energy"
+    },
+    {
       "title": "Nearly 2,000 Lakes District Hydro customers lose power due to severe windstorms",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/11/11/nearly-2000-lakes-district-hydro-customers-lose-power-due-to-severe-windstorms/",
@@ -205,6 +212,13 @@
       "url": "https://torontosun.com/news/whats-happening-to-torontos-november-weather",
       "published_date": "2026-11-08T15:46:38Z",
       "category": "Energy"
+    },
+    {
+      "title": "LILLEY: Stellantis Brampton plant the cost of Mark Carney’s trade war politics",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/stellantis-brampton-plant-the-cost-of-carneys-trade-war-politics",
+      "published_date": "2026-11-12T22:44:48Z",
+      "category": "Economy"
     },
     {
       "title": "WARMINGTON: Nvidia CEO Jensen Huang's honey trap scandal may cause stock market shockwaves",
@@ -340,150 +354,143 @@
       "category": "Economy"
     },
     {
-      "title": "Carney government’s budget acknowledges ‘people who menstruate, including women’",
+      "title": "Youth, 17, receives two-year custodial sentence for March synagogue shootings",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/national/carney-governments-budget-acknowledges-menstruate-women",
-      "published_date": "2026-11-06T14:49:27Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/youth-sentenced-toronto-area-synagogue-shootings",
+      "published_date": "2026-11-13T01:44:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nature Nut: Red-tailed hawks in decline",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/nature-nut-red-tailed-hawks-in-decline/",
+      "published_date": "2026-11-13T01:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MANDEL: Did 'Crypto King' stage his own kidnapping?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/did-crypto-king-stage-his-own-kidnapping",
+      "published_date": "2026-11-13T00:53:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Florida motorcyclist nabbed after high-speed chase",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/florida-motorcyclist-nabbed-after-high-speed-chase",
+      "published_date": "2026-11-13T00:09:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WARMINGTON: Time to freeze colleges minister's pay like OSAP students face",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/time-to-freeze-colleges-ministers-pay-like-osap-students-face",
+      "published_date": "2026-11-13T00:06:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilot airlifted to safety after making emergency landing in Florida",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/pilot-airlifted-after-emergency-landing-florida",
+      "published_date": "2026-11-12T23:32:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vaughn Palmer: Expect B.C.&#039;s new premier to axe, combine several ministries",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/columnists/vaughn-palmer-expect-bc-new-premier-to-axe-combine-several-ministries",
+      "published_date": "2026-11-12T23:19:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thorold man accused of firearm offence in Pickering; teen charged with Hamilton robbery",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/thorold-man-accused-pickering-firearm-offence",
+      "published_date": "2026-11-12T23:14:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Will B.C. still have local newspapers to cover the next election?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-will-b-c-still-have-local-newspapers-to-cover-the-next-election",
+      "published_date": "2026-11-12T23:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Beware Carney’s borrowing bomb",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/editorials/beware-mark-carneys-borrowing-bomb",
+      "published_date": "2026-11-12T22:57:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doerkson asks NDP to halt some work on Massey Tunnel replacement as Conservatives seek pivot back to bridge",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/doerkson-asks-ndp-to-halt-some-work-on-massey-tunnel-replacement-as-conservatives-seek-pivot-back-to-bridge",
+      "published_date": "2026-11-12T22:54:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watermain break leads to 'large spill of discoloured water' into Highland Creek",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/watermain-break-large-spill-discoloured-water-highland-creek",
+      "published_date": "2026-11-12T22:26:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doerkson says he wants most of B.C.’s government workers back in the office",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/doerkson-says-he-wants-most-of-b-c-s-government-workers-back-in-the-office/",
+      "published_date": "2026-11-12T22:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kelowna sex assault re-trial closes, decision still to come",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/kelowna-sex-assault-re-trial-closes-decision-still-to-come/",
+      "published_date": "2026-11-12T22:14:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Floaters win 2026 Burns Cup in Burns Lake",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/floaters-win-2026-burns-cup-in-burns-lake/",
+      "published_date": "2026-11-12T21:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Bring Jesus home’: B.C. Catholic school seeks $100K after sculpture stolen",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/bring-jesus-home-b-c-catholic-school-seeks-100k-after-sculpture-stolen/",
+      "published_date": "2026-11-12T20:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sunfest announces headliners including Nanaimo-born star",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/sunfest-announces-headliners-including-nanaimo-born-star/",
+      "published_date": "2026-11-12T20:39:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Historic UBC firehall moved to giant new student housing project",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/historic-ubc-firehall-moved-student-housing-project",
+      "published_date": "2026-11-12T20:19:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Microsoft 365 hit by massive outage across the Americas",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/microsoft-365-hit-by-massive-outage-across-the-americas",
+      "published_date": "2026-11-12T20:05:27Z",
+      "category": "Local Events"
     },
     {
       "title": "Esquimalt teen takes his ‘acts of love’ petition to Parliament",
       "source": "Burns Lake District News",
       "url": "https://burnslakelakesdistrictnews.com/2026/11/12/esquimalt-teen-takes-his-acts-of-love-petition-to-parliament/",
       "published_date": "2026-11-12T18:32:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metrolinx to remove 53 trees to make way for Yonge subway extension",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/metrolinx-remove-53-trees-take-way-yonge-north-subway-extension",
-      "published_date": "2026-11-12T18:07:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vancouver cousins launch hair-care line for men",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/fashion-beauty/vancouver-cousins-launch-hair-care-line-for-men",
-      "published_date": "2026-11-12T18:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malcolm Gladwell wants to change the conversation about America’s gun violence",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/malcolm-gladwell-wants-to-change-the-conversation-about-americas-gun-violence",
-      "published_date": "2026-11-12T18:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doerkson asks outgoing B.C. NDP government to stop Massey tunnel work",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/doerkson-asks-outgoing-b-c-ndp-government-to-stop-massey-tunnel-work/",
-      "published_date": "2026-11-12T17:42:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mississauga man faces attempted murder charges; Toronto man charged in child luring probe",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/mississauga-man-faces-attempted-murder-charges",
-      "published_date": "2026-11-12T17:41:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Retired Salmon Arm lawyer admits to sexually harassing client, banned for 10 years",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/retired-salmon-arm-lawyer-admits-to-sexually-harassing-client-banned-for-10-years/",
-      "published_date": "2026-11-12T17:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘More than the sights’: Blind B.C. author to share travel tips, tricks in book talk",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/more-than-the-sights-blind-b-c-author-to-share-travel-tips-tricks-in-book-talk/",
-      "published_date": "2026-11-12T17:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alberta man charged with sexual exploitation after meeting B.C. girl on Roblox",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/alberta-man-charged-sexual-exploitation-kelowna-bc-roblox-snapchat",
-      "published_date": "2026-11-12T16:47:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. actor returns to play about dementia 40 years later with new perspective",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/b-c-actor-returns-to-play-about-dementia-40-years-later-with-new-perspective/",
-      "published_date": "2026-11-12T16:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alberta man charged after allegedly luring B.C. girl through Roblox, Kelowna RCMP say",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/alberta-man-charged-after-allegedly-luring-b-c-girl-through-roblox-kelowna-rcmp-say/",
-      "published_date": "2026-11-12T16:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tyra Banks grabs ice cream from favourite Toronto landmark shop",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/entertainment/celebrity/tyra-banks-ice-cream-favourite-toronto-landmark-shop",
-      "published_date": "2026-11-12T16:40:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sold (Bought): Hastings-Sunrise duplex offers Craftsman charm and modern finishes",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/sold-bought-hastings-sunrise-duplex-offers-craftsman-charm-and-modern-finishes",
-      "published_date": "2026-11-12T16:30:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ontario to propose changes to private career colleges after alleging OSAP abuses",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/provincial/ontario-changes-private-career-colleges-osap",
-      "published_date": "2026-11-12T16:25:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Move-in ready Lexford offers a new chapter in a familiar neighbourhood",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/move-in-ready-lexford-offers-a-new-chapter-in-a-familiar-neighbourhood",
-      "published_date": "2026-11-12T16:10:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Embattled Nvidia CEO Jensen Huang steps down after affair scandal",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/nvidia-ceo-jensen-huang-steps-down-after-affair-scandal",
-      "published_date": "2026-11-12T15:33:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holiday markets begin in Lakes District",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/holiday-markets-begin-in-lakes-district/",
-      "published_date": "2026-11-12T15:18:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From festive mansions to Christmas markets: Five Metro Vancouver holiday events worth exploring",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/homes/from-festive-mansions-to-christmas-markets-five-metro-vancouver-holiday-events-worth-exploring",
-      "published_date": "2026-11-12T15:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swinger ex-reality TV star caged 15 years for child sex abuse, sex with dogs",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/world/swinger-ex-reality-tv-star-caged-child-sex-abuse-dogs",
-      "published_date": "2026-11-12T13:59:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The unspoken bond: The people behind happy pets",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/12/the-unspoken-bond-the-people-behind-happy-pets/",
-      "published_date": "2026-11-12T13:30:00Z",
       "category": "Local Events"
     }
   ]
