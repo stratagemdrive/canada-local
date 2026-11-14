@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T02:56:50Z",
+  "generated_at": "2026-11-14T16:45:29Z",
   "country": "Canada",
-  "total_stories": 65,
+  "total_stories": 64,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,13 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "GOLDSTEIN: UN’s climate treaty a farce – why are we still part of it?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/united-nations-climate-treaty-farce-why-canada-still-part-of-it",
+      "published_date": "2026-11-14T16:17:14Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "B.C. among Canada&#039;s flu hot spots as outbreaks hit long-term care homes",
       "source": "Vancouver Sun",
@@ -312,18 +319,74 @@
       "category": "Economy"
     },
     {
-      "title": "OPINION: Mark Carney goes over budget again and taxpayers pay the price",
+      "title": "WARMINGTON: Journey drummer leaving Final Frontier tour latest drama in legendary band's long goodbye",
       "source": "Toronto Sun",
-      "url": "https://torontosun.com/opinion/columnists/mark-carney-goes-over-budget-again-taxpayers-pay-price",
-      "published_date": "2026-11-07T15:51:08Z",
-      "category": "Economy"
+      "url": "https://torontosun.com/news/local-news/journey-drummer-leaving-final-frontier-tour-latest-drama-in-legendary-bands-long-goodbye",
+      "published_date": "2026-11-14T15:41:30Z",
+      "category": "Local Events"
     },
     {
-      "title": "Federal budget&#039;s $6.5 billion commitment to forestry comes at &#039;critical time&#039;",
+      "title": "CHAUDHRI: CEOs aren't superheroes – so why do we expect them to be?",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/opinion/columnists/ceos-arent-superheroes-so-why-do-we-expect-them-to-be",
+      "published_date": "2026-11-14T15:30:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man stabbed to death in Mississauga",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/local-news/man-stabbed-to-death-in-mississauga",
+      "published_date": "2026-11-14T15:02:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brian Minter: Here&#039;s how to create the most colourful and lasting winter displays",
       "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/local-news/federal-budgets-6-5-billion-commitment-to-forestry-comes-at-critical-time",
-      "published_date": "2026-11-07T15:00:22Z",
-      "category": "Economy"
+      "url": "https://vancouversun.com/homes/gardening/brian-minter-how-create-colourful-winter-displays",
+      "published_date": "2026-11-14T15:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This Day in History, 1930: B.C.&#039;s chief justice doles out the lash to criminals",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/this-day-in-history-1930-bc-chief-justice-doles-out-the-lash-to-criminals",
+      "published_date": "2026-11-14T15:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthony Gismondi: Take note of this selection of B.C.&#039;s most impressive wines",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/life/food/anthony-gismondi-bc-most-impressive-wines",
+      "published_date": "2026-11-14T15:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CRIME HUNTER: Serial killer Richard Biegenwald returns from depths of hell",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/crime-hunter-serial-killer-richard-biegenwald-returns-from-depths-of-hell",
+      "published_date": "2026-11-14T15:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Why is the federal government delaying a crucial infrastructure project that won’t cost a cent?",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/opinion/op-ed/opinion-why-is-the-federal-government-delaying-a-crucial-infrastructure-project-that-wont-cost-a-cent",
+      "published_date": "2026-11-14T15:00:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of flights cancelled, delayed following grounding of all U.S. planes",
+      "source": "Burns Lake District News",
+      "url": "https://burnslakelakesdistrictnews.com/2026/11/14/thousands-of-flights-cancelled-delayed-following-grounding-of-all-u-s-planes/",
+      "published_date": "2026-11-14T14:40:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Adopt-A-School: Meet the ever-growing plight of B.C. schoolchildren",
+      "source": "Vancouver Sun",
+      "url": "https://vancouversun.com/news/adopt-a-school-meet-the-ever-growing-plight-of-b-c-schoolchildren",
+      "published_date": "2026-11-14T13:00:53Z",
+      "category": "Local Events"
     },
     {
       "title": "Man wanted for Annex assault and theft; woman accused of hate-motivated assault",
@@ -393,76 +456,6 @@
       "source": "Toronto Sun",
       "url": "https://torontosun.com/news/world/us-flight-departures-grounded-communications-problems",
       "published_date": "2026-11-13T22:26:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Update: Flights resume, but chaos at U.S., Canadian airports continues after FAA ground stop",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/news/us-flights-grounded-yvr-vancouver-airport-updates",
-      "published_date": "2026-11-13T21:49:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former CentreBC Leader Elenore Sturko steps down, leaves partisan politics",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/13/former-centrebc-leader-elenore-sturko-steps-down-leave-partisan-politics/",
-      "published_date": "2026-11-13T20:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tahltan leaders press Ottawa for action on policing, infrastructure and decision-making rights",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/13/tahltan-leaders-press-ottawa-for-action-on-policing-infrastructure-and-decision-making-rights/",
-      "published_date": "2026-11-13T20:15:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. track star Matti Erickson signs pro contract with Nike",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/13/b-c-track-star-matti-erickson-signs-pro-contract-with-nike/",
-      "published_date": "2026-11-13T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Highways, properties, key infrastructure at risk after Pear Lake fire: report",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/13/highways-properties-key-infrastructure-at-risk-after-pear-lake-fire-report/",
-      "published_date": "2026-11-13T19:58:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C. police help in crackdown of international cybercrime network",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/13/b-c-police-help-in-crackdown-of-international-cybercrime-network/",
-      "published_date": "2026-11-13T19:55:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victoria named among North America’s top 10 fairytale cities",
-      "source": "Burns Lake District News",
-      "url": "https://burnslakelakesdistrictnews.com/2026/11/13/victoria-named-among-north-americas-top-10-fairytale-cities/",
-      "published_date": "2026-11-13T19:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WARMINGTON: Will Friday the 13th finally be the day cops catch Daijohn and fugitive pals?",
-      "source": "Toronto Sun",
-      "url": "https://torontosun.com/news/local-news/friday-the-13th-finally-cops-catch-daijohn-fugitive-pals",
-      "published_date": "2026-11-13T18:35:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Get the look: Tame and smooth frizzy hair with a mirror gloss treatment",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/life/get-the-look-tame-and-smooth-frizzy-hair-with-a-mirror-gloss-treatment",
-      "published_date": "2026-11-13T18:00:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "B.C.: 15 bestselling books for the week of Nov. 7",
-      "source": "Vancouver Sun",
-      "url": "https://vancouversun.com/entertainment/books/b-c-15-bestselling-books-for-the-week-of-nov-7-2",
-      "published_date": "2026-11-13T18:00:32Z",
       "category": "Local Events"
     }
   ]
